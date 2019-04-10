@@ -1,0 +1,80 @@
+{
+  "id": 1276562821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88153,43.99949,20.88153,43.99949",
+    "geom:latitude":43.99949,
+    "geom:longitude":20.88153,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Stanovo",
+    "gn:country_code":"RS",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785574,
+    "gn:latitude":43.99949,
+    "gn:longitude":20.88153,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Stanovo"
+    ],
+    "name:srp_x_preferred":[
+        "Stanovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785574,
+        "wk:page":"Stanovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e02b8d092231f3ad666d903ee42672c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1276562821,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1276562821,
+    "wof:lastmodified":1537683712,
+    "wof:name":"Stanovo",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88153,
+    43.99949,
+    20.88153,
+    43.99949
+],
+  "geometry": {"coordinates":[20.88153,43.99949],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1360103281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90414,44.76503,20.90414,44.76503",
+    "geom:latitude":44.76503,
+    "geom:longitude":20.90414,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Skorenovac",
+    "gn:country_code":"RS",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785839,
+    "gn:latitude":44.76503,
+    "gn:longitude":20.90414,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Skorenovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u044e\u0440\u0433\u0435\u0432\u043e"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9kelykeve"
+    ],
+    "name:hun_x_variant":[
+        "Gyurgyev\u00f3"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "Skorenovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043a\u043e\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:und_x_variant":[
+        "\u00d0ur\u0111evo",
+        "Skorenowatz",
+        "Gjurgjevo",
+        "Sekel",
+        "Sz\u00e9kelykeve",
+        "Gyurgyev\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809929,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785839,
+        "wk:page":"Skorenovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b425b3006a12b9501c399fd19825182d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809929,
+            "locality_id":1360103281,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1360103281,
+    "wof:lastmodified":1537683716,
+    "wof:name":"Skorenovac",
+    "wof:parent_id":1108809929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90414,
+    44.76503,
+    20.90414,
+    44.76503
+],
+  "geometry": {"coordinates":[20.90414,44.76503],"type":"Point"}
+}

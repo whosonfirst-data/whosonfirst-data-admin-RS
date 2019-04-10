@@ -1,0 +1,73 @@
+{
+  "id": 1243282261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.877,44.32477,19.877,44.32477",
+    "geom:latitude":44.32477,
+    "geom:longitude":19.877,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Jazavnik",
+    "gn:country_code":"RS",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216407,
+    "gn:latitude":44.32477,
+    "gn:longitude":19.877,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jazavnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jazavnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810127,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216407
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"969bf295a253a1198e6bdbe590931356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810127,
+            "locality_id":1243282261,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1243282261,
+    "wof:lastmodified":1537683958,
+    "wof:name":"Jazavnik",
+    "wof:parent_id":1108810127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.877,
+    44.32477,
+    19.877,
+    44.32477
+],
+  "geometry": {"coordinates":[19.877,44.32477],"type":"Point"}
+}

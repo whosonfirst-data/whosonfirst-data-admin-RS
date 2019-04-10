@@ -1,0 +1,73 @@
+{
+  "id": 1327449857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38837,43.17334,20.38837,43.17334",
+    "geom:latitude":43.17334,
+    "geom:longitude":20.38837,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Kukavice",
+    "gn:country_code":"RS",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836056,
+    "gn:latitude":43.17334,
+    "gn:longitude":20.38837,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kukavice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kukavice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836056
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9dde02b9f60d407b4399e2057cb09411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1327449857,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1327449857,
+    "wof:lastmodified":1537683888,
+    "wof:name":"Kukavice",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38837,
+    43.17334,
+    20.38837,
+    43.17334
+],
+  "geometry": {"coordinates":[20.38837,43.17334],"type":"Point"}
+}

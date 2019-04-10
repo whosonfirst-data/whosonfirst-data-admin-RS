@@ -1,0 +1,101 @@
+{
+  "id": 890476931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71418,45.3446,20.71418,45.3446",
+    "geom:latitude":45.3446,
+    "geom:longitude":20.71418,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1657,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Neuzina"
+    ],
+    "name:eng_x_preferred":[
+        "Neuzina"
+    ],
+    "name:epo_x_preferred":[
+        "Neuzina"
+    ],
+    "name:fre_x_preferred":[
+        "Neuzina"
+    ],
+    "name:hun_x_preferred":[
+        "Nezs\u00e9ny"
+    ],
+    "name:may_x_preferred":[
+        "Neuzina"
+    ],
+    "name:rum_x_preferred":[
+        "Neuzina"
+    ],
+    "name:slv_x_preferred":[
+        "Neuzina"
+    ],
+    "name:srp_x_preferred":[
+        "Neuzina"
+    ],
+    "name:unk_x_variant":[
+        "Hrvatska Neuzina"
+    ],
+    "qs:name":"Neuzina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810065,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787682,
+        "gp:id":537024,
+        "qs:id":275749,
+        "wd:id":"Q751360",
+        "wk:page":"Neuzina"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054095,
+    "wof:geomhash":"9a6668cefef5e6227fcdf060b2252603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810065,
+            "locality_id":890476931,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476931,
+    "wof:lastmodified":1527727146,
+    "wof:name":"Neuzina",
+    "wof:parent_id":1108810065,
+    "wof:placetype":"locality",
+    "wof:population":1657,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71418,
+    45.3446,
+    20.71418,
+    45.3446
+],
+  "geometry": {"coordinates":[20.71418,45.3446],"type":"Point"}
+}

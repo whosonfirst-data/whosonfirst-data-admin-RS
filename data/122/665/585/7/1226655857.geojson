@@ -1,0 +1,70 @@
+{
+  "id": 1226655857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46632,42.42336,22.46632,42.42336",
+    "geom:latitude":42.42336,
+    "geom:longitude":22.46632,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Gumniska Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861619,
+    "gn:latitude":42.42336,
+    "gn:longitude":22.46632,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gumni\u0161ka Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861619
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ca1dc1dbd8217a5437fa2e114048638f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1226655857,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1226655857,
+    "wof:lastmodified":1536843703,
+    "wof:name":"Gumniska Mahala",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46632,
+    42.42336,
+    22.46632,
+    42.42336
+],
+  "geometry": {"coordinates":[22.46632,42.42336],"type":"Point"}
+}

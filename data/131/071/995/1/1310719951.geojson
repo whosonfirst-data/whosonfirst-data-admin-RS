@@ -1,0 +1,74 @@
+{
+  "id": 1310719951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92311,44.44086,19.92311,44.44086",
+    "geom:latitude":44.44086,
+    "geom:longitude":19.92311,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Pambukovica",
+    "gn:country_code":"RS",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193660,
+    "gn:latitude":44.44086,
+    "gn:longitude":19.92311,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pambukovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pambukovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810121,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193660,
+        "wk:page":"Pambukovica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"afff1c9dbea662cef0f0c9eaa204dd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810121,
+            "locality_id":1310719951,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1310719951,
+    "wof:lastmodified":1537683929,
+    "wof:name":"Pambukovica",
+    "wof:parent_id":1108810121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92311,
+    44.44086,
+    19.92311,
+    44.44086
+],
+  "geometry": {"coordinates":[19.92311,44.44086],"type":"Point"}
+}

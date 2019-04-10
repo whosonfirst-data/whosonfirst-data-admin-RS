@@ -1,0 +1,73 @@
+{
+  "id": 1243378139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71352,43.31368,20.71352,43.31368",
+    "geom:latitude":43.31368,
+    "geom:longitude":20.71352,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Laksinovici",
+    "gn:country_code":"RS",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835938,
+    "gn:latitude":43.31368,
+    "gn:longitude":20.71352,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lak\u0161inovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lak\u0161inovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835938
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dc7f6b2d4a88536a8a7f1f4ecbf1f4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":1243378139,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1243378139,
+    "wof:lastmodified":1537683886,
+    "wof:name":"Laksinovici",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71352000000001,
+    43.31368,
+    20.71352000000001,
+    43.31368
+],
+  "geometry": {"coordinates":[20.71352000000001,43.31368],"type":"Point"}
+}

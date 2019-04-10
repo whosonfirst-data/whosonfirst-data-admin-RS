@@ -1,0 +1,74 @@
+{
+  "id": 1276558019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80024,42.77843,21.80024,42.77843",
+    "geom:latitude":42.77843,
+    "geom:longitude":21.80024,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Gagince",
+    "gn:country_code":"RS",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790793,
+    "gn:latitude":42.77843,
+    "gn:longitude":21.80024,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gagince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gagince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790793,
+        "wk:page":"Gagince"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cc171b8f6e6bdc3a7ae13e2a1d10572d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1276558019,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1276558019,
+    "wof:lastmodified":1537683802,
+    "wof:name":"Gagince",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80024,
+    42.77843,
+    21.80024,
+    42.77843
+],
+  "geometry": {"coordinates":[21.80024,42.77843],"type":"Point"}
+}

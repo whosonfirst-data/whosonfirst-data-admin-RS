@@ -1,0 +1,77 @@
+{
+  "id": 1326448723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89077,43.33862,19.89077,43.33862",
+    "geom:latitude":43.33862,
+    "geom:longitude":19.89077,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Donje Goracice",
+    "gn:country_code":"RS",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201569,
+    "gn:latitude":43.33862,
+    "gn:longitude":19.89077,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donje Gora\u010di\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donje Gora\u010di\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Donji Gora\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810073,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201569,
+        "wk:page":"Donje_Gora%C4%8Di%C4%87e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c431485c795089406054403284eb8c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810073,
+            "locality_id":1326448723,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1326448723,
+    "wof:lastmodified":1537683944,
+    "wof:name":"Donje Goracice",
+    "wof:parent_id":1108810073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89077,
+    43.33862,
+    19.89077,
+    43.33862
+],
+  "geometry": {"coordinates":[19.89077,43.33862],"type":"Point"}
+}

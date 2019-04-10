@@ -1,0 +1,72 @@
+{
+  "id": 890477653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90747,45.864193,18.90747,45.864193",
+    "geom:latitude":45.864193,
+    "geom:longitude":18.90747,
+    "gp:adm0":23424843,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Dra\u017e",
+    "qs:name_adm0":"Hrvatska",
+    "qs:name_adm1":"Osje\u010dko-baranjska",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        102191581,
+        85633755,
+        85688249,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15022293,
+        "qs:id":112618,
+        "wd:id":"Q902360",
+        "wk:page":"Dra\u017e"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054125,
+    "wof:geomhash":"0701587bee386b2880629921680f7e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "county_id":890477653,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477653,
+    "wof:lastmodified":1527727186,
+    "wof:name":"Dra\u017e",
+    "wof:parent_id":85688249,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90747,
+    45.864193,
+    18.90747,
+    45.864193
+],
+  "geometry": {"coordinates":[18.90747,45.864193],"type":"Point"}
+}

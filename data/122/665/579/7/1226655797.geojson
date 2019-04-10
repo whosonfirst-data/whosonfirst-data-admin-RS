@@ -1,0 +1,73 @@
+{
+  "id": 1226655797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78549,43.4937,21.78549,43.4937",
+    "geom:latitude":43.4937,
+    "geom:longitude":21.78549,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Katun",
+    "gn:country_code":"RS",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789543,
+    "gn:latitude":43.4937,
+    "gn:longitude":21.78549,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Katun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Katun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809811,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789543
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"62d38cc47d1b7e0a568737f6ab51caeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809811,
+            "locality_id":1226655797,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1226655797,
+    "wof:lastmodified":1537683781,
+    "wof:name":"Katun",
+    "wof:parent_id":1108809811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78549,
+    43.4937,
+    21.78549,
+    43.4937
+],
+  "geometry": {"coordinates":[21.78549,43.4937],"type":"Point"}
+}

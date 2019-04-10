@@ -1,0 +1,76 @@
+{
+  "id": 1293603809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23649,45.7039,19.23649,45.7039",
+    "geom:latitude":45.7039,
+    "geom:longitude":19.23649,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Matarici",
+    "gn:country_code":"RS",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215373,
+    "gn:latitude":45.7039,
+    "gn:longitude":19.23649,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Matari\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Matari\u0107i"
+    ],
+    "name:und_x_variant":[
+        "Matati\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215373
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c50a5b7ceafe97073d35821d653de2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":1293603809,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1293603809,
+    "wof:lastmodified":1537683954,
+    "wof:name":"Matarici",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23649,
+    45.7039,
+    19.23649,
+    45.7039
+],
+  "geometry": {"coordinates":[19.23649,45.7039],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 890477341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.49543,44.9219,19.49543,44.9219",
+    "geom:latitude":44.9219,
+    "geom:longitude":19.49543,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1040,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:epo_x_preferred":[
+        "Radenkovicj"
+    ],
+    "name:fre_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:may_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Radenkovi\u0107"
+    ],
+    "qs:name":"Radenkovi\u0107",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810087,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192138,
+        "gp:id":536342,
+        "qs:id":1043961,
+        "wd:id":"Q1040965",
+        "wk:page":"Radenkovi\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054111,
+    "wof:geomhash":"d73c72e0c57714ed82f2a824e2a7000e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810087,
+            "locality_id":890477341,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890477341,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Radenkovi\u0107",
+    "wof:parent_id":1108810087,
+    "wof:placetype":"locality",
+    "wof:population":1040,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.49543,
+    44.9219,
+    19.49543,
+    44.9219
+],
+  "geometry": {"coordinates":[19.49543,44.9219],"type":"Point"}
+}

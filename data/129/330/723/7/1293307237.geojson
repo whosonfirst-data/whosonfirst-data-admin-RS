@@ -1,0 +1,82 @@
+{
+  "id": 1293307237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87507,45.36995,19.87507,45.36995",
+    "geom:latitude":45.36995,
+    "geom:longitude":19.87507,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Backi Jarak",
+    "gn:country_code":"RS",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204667,
+    "gn:latitude":45.36995,
+    "gn:longitude":19.87507,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ba\u010dki Jarak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ba\u010dki Jarak"
+    ],
+    "name:und_x_variant":[
+        "Tiszaistv\u00e1nfalva",
+        "Jarak",
+        "Sch\u00f6nhausen",
+        "B\u00e1cs\u00e1roksz\u00e1ll\u00e1s",
+        "J\u00e1rmos",
+        "J\u00e1rek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810109,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204667,
+        "wk:page":"Ba%C4%8Dki_Jarak"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e2364a2e9657f56cc6adf0079a8cb9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810109,
+            "locality_id":1293307237,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1293307237,
+    "wof:lastmodified":1537683951,
+    "wof:name":"Backi Jarak",
+    "wof:parent_id":1108810109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87507,
+    45.36995,
+    19.87507,
+    45.36995
+],
+  "geometry": {"coordinates":[19.87507,45.36995],"type":"Point"}
+}

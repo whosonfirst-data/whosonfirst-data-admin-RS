@@ -1,0 +1,74 @@
+{
+  "id": 1309813661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56477,44.05134,21.56477,44.05134",
+    "geom:latitude":44.05134,
+    "geom:longitude":21.56477,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Zidilje",
+    "gn:country_code":"RS",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783903,
+    "gn:latitude":44.05134,
+    "gn:longitude":21.56477,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u017didilje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u017didilje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809885,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783903,
+        "wk:page":"%C5%BDidilje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eda15d7a402821fb097bb2d572fb41bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809885,
+            "locality_id":1309813661,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1309813661,
+    "wof:lastmodified":1537683684,
+    "wof:name":"Zidilje",
+    "wof:parent_id":1108809885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56477000000001,
+    44.05134,
+    21.56477000000001,
+    44.05134
+],
+  "geometry": {"coordinates":[21.56477000000001,44.05134],"type":"Point"}
+}

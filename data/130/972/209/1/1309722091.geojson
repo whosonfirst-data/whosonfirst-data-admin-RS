@@ -1,0 +1,74 @@
+{
+  "id": 1309722091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48981,43.1795,22.48981,43.1795",
+    "geom:latitude":43.1795,
+    "geom:longitude":22.48981,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Mali Suvodol",
+    "gn:country_code":"RS",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788233,
+    "gn:latitude":43.1795,
+    "gn:longitude":22.48981,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mali Suvodol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mali Suvodol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108810029,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788233,
+        "wk:page":"Mali_Suvodol"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3e30a9b06e6226d501db02f991ff451b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810029,
+            "locality_id":1309722091,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1309722091,
+    "wof:lastmodified":1537683760,
+    "wof:name":"Mali Suvodol",
+    "wof:parent_id":1108810029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48981,
+    43.1795,
+    22.48981,
+    43.1795
+],
+  "geometry": {"coordinates":[22.48981,43.1795],"type":"Point"}
+}

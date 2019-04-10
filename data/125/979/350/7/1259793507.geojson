@@ -1,0 +1,74 @@
+{
+  "id": 1259793507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43889,42.62772,22.43889,42.62772",
+    "geom:latitude":42.62772,
+    "geom:longitude":22.43889,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Garina Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862288,
+    "gn:latitude":42.62772,
+    "gn:longitude":22.43889,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Garina Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorina Mahala",
+        "Garina Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862288
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6c7dbd7fcd5e1750cc1acde7a2e1f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1259793507,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1259793507,
+    "wof:lastmodified":1537683913,
+    "wof:name":"Garina Mahala",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43889,
+    42.62772,
+    22.43889,
+    42.62772
+],
+  "geometry": {"coordinates":[22.43889,42.62772],"type":"Point"}
+}

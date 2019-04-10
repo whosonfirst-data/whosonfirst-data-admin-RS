@@ -1,0 +1,101 @@
+{
+  "id": 890477317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96016,45.2501,20.96016,45.2501",
+    "geom:latitude":45.2501,
+    "geom:longitude":20.96016,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1519,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:eng_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:epo_x_preferred":[
+        "Hajdu\u0109ica"
+    ],
+    "name:fre_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:hun_x_preferred":[
+        "Istv\u00e1nv\u00f6lgy"
+    ],
+    "name:may_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:rum_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:slv_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:srp_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:unk_x_variant":[
+        "Ajdu\u010dica"
+    ],
+    "qs:name":"Hajdu\u010dica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810031,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790063,
+        "gp:id":534270,
+        "qs:id":1029091,
+        "wd:id":"Q948339",
+        "wk:page":"Hajdu\u010dica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054111,
+    "wof:geomhash":"5e5f18804619e83a049b57e1083e019e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810031,
+            "locality_id":890477317,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477317,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Hajdu\u010dica",
+    "wof:parent_id":1108810031,
+    "wof:placetype":"locality",
+    "wof:population":1519,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96016,
+    45.2501,
+    20.96016,
+    45.2501
+],
+  "geometry": {"coordinates":[20.96016,45.2501],"type":"Point"}
+}

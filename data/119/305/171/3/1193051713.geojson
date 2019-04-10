@@ -1,0 +1,79 @@
+{
+  "id": 1193051713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69974,45.66431,19.69974,45.66431",
+    "geom:latitude":45.66431,
+    "geom:longitude":19.69974,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"80241.0",
+    "gn:asciiname":"Feketic",
+    "gn:country_code":"RS",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200859,
+    "gn:latitude":45.66431,
+    "gn:longitude":19.69974,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Feketi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Feketi\u0107"
+    ],
+    "name:und_x_variant":[
+        "B\u00e1cs-Feketehegy",
+        "Feketisch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108809969,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200859,
+        "wk:page":"Feketi%C4%87"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"09db56913a886de036487a8ed9b104e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809969,
+            "locality_id":1193051713,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1193051713,
+    "wof:lastmodified":1537683942,
+    "wof:name":"Feketic",
+    "wof:parent_id":1108809969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69974,
+    45.66431,
+    19.69974,
+    45.66431
+],
+  "geometry": {"coordinates":[19.69974,45.66431],"type":"Point"}
+}

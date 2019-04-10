@@ -1,0 +1,74 @@
+{
+  "id": 1225962301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38444,44.025,21.38444,44.025",
+    "geom:latitude":44.025,
+    "geom:longitude":21.38444,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Isakovo",
+    "gn:country_code":"RS",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790006,
+    "gn:latitude":44.025,
+    "gn:longitude":21.38444,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Isakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Isakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809883,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790006,
+        "wk:page":"Isakovo%2C_Serbia"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8e4fec6c72da232107c58ad3928f4010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809883,
+            "locality_id":1225962301,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1225962301,
+    "wof:lastmodified":1537683789,
+    "wof:name":"Isakovo",
+    "wof:parent_id":1108809883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38444,
+    44.025,
+    21.38444,
+    44.025
+],
+  "geometry": {"coordinates":[21.38444,44.025],"type":"Point"}
+}

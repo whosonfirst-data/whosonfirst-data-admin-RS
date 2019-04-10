@@ -1,0 +1,74 @@
+{
+  "id": 1276773061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76505,44.49154,21.76505,44.49154",
+    "geom:latitude":44.49154,
+    "geom:longitude":21.76505,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Voluja",
+    "gn:country_code":"RS",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784259,
+    "gn:latitude":44.49154,
+    "gn:longitude":21.76505,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Voluja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Voluja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809939,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784259,
+        "wk:page":"Voluja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"368b184be0cd7d1b2bc12a9f41cb6e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809939,
+            "locality_id":1276773061,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1276773061,
+    "wof:lastmodified":1537683691,
+    "wof:name":"Voluja",
+    "wof:parent_id":1108809939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76505,
+    44.49154,
+    21.76505,
+    44.49154
+],
+  "geometry": {"coordinates":[21.76505,44.49154],"type":"Point"}
+}

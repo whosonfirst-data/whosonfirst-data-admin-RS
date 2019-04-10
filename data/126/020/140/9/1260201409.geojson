@@ -1,0 +1,75 @@
+{
+  "id": 1260201409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64627,43.79536,20.64627,43.79536",
+    "geom:latitude":43.79536,
+    "geom:longitude":20.64627,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Milocaji",
+    "gn:country_code":"RS",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862670,
+    "gn:latitude":43.79536,
+    "gn:longitude":20.64627,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Milo\u010daji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milo\u010daj",
+        "Milo\u010daji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862670,
+        "wk:page":"Milo%C4%8Daj"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"325e4011b3ebe502075799802987ddff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":1260201409,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1260201409,
+    "wof:lastmodified":1537683913,
+    "wof:name":"Milocaji",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64627,
+    43.79536,
+    20.64627,
+    43.79536
+],
+  "geometry": {"coordinates":[20.64627,43.79536],"type":"Point"}
+}

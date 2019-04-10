@@ -1,0 +1,73 @@
+{
+  "id": 1360202995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80639,44.42083,19.80639,44.42083",
+    "geom:latitude":44.42083,
+    "geom:longitude":19.80639,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Koren",
+    "gn:country_code":"RS",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3216576,
+    "gn:latitude":44.42083,
+    "gn:longitude":19.80639,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Koren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Koren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809921,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216576
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"45080c291a75ccf22d74865ad6941af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809921,
+            "locality_id":1360202995,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1360202995,
+    "wof:lastmodified":1537683960,
+    "wof:name":"Koren",
+    "wof:parent_id":1108809921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80639,
+    44.42083,
+    19.80639,
+    44.42083
+],
+  "geometry": {"coordinates":[19.80639,44.42083],"type":"Point"}
+}

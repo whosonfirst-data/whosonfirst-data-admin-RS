@@ -1,0 +1,73 @@
+{
+  "id": 1293898143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19203,44.15803,20.19203,44.15803",
+    "geom:latitude":44.15803,
+    "geom:longitude":20.19203,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Ba",
+    "gn:country_code":"RS",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793068,
+    "gn:latitude":44.15803,
+    "gn:longitude":20.19203,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809957,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793068
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"87475f3584792fc5dc66b03b3317bb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809957,
+            "locality_id":1293898143,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1293898143,
+    "wof:lastmodified":1537683842,
+    "wof:name":"Ba",
+    "wof:parent_id":1108809957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19203,
+    44.15803,
+    20.19203,
+    44.15803
+],
+  "geometry": {"coordinates":[20.19203,44.15803],"type":"Point"}
+}

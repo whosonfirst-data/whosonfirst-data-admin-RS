@@ -1,0 +1,73 @@
+{
+  "id": 1259989501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37436,43.48259,21.37436,43.48259",
+    "geom:latitude":43.48259,
+    "geom:longitude":21.37436,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Slatina",
+    "gn:country_code":"RS",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785810,
+    "gn:latitude":43.48259,
+    "gn:longitude":21.37436,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Slatina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785810
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2ab53b03c31b19e85c2e60a2d865b24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1259989501,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1259989501,
+    "wof:lastmodified":1537683715,
+    "wof:name":"Slatina",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37436,
+    43.48259,
+    21.37436,
+    43.48259
+],
+  "geometry": {"coordinates":[21.37436,43.48259],"type":"Point"}
+}

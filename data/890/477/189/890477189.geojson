@@ -1,0 +1,116 @@
+{
+  "id": 890477189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48049,45.42254,20.48049,45.42254",
+    "geom:latitude":45.42254,
+    "geom:longitude":20.48049,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2344,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Klek"
+    ],
+    "name:eng_x_preferred":[
+        "Klek"
+    ],
+    "name:epo_x_preferred":[
+        "Klek"
+    ],
+    "name:fre_x_preferred":[
+        "Klek"
+    ],
+    "name:ger_x_preferred":[
+        "Klek"
+    ],
+    "name:hrv_x_preferred":[
+        "Klek"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9gaf\u0151"
+    ],
+    "name:may_x_preferred":[
+        "Klek"
+    ],
+    "name:rum_x_preferred":[
+        "Clec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Klek"
+    ],
+    "name:srp_x_preferred":[
+        "Klek"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e9gaf\u0151"
+    ],
+    "qs:name":"Klek",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srednji Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810171,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789471,
+        "gp:id":534572,
+        "qs:id":1270556,
+        "wd:id":"Q853942",
+        "wk:page":"Klek"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054105,
+    "wof:geomhash":"8caf03f28d67fc2bf64880fcc9df687a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810171,
+            "locality_id":890477189,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477189,
+    "wof:lastmodified":1553816410,
+    "wof:name":"Klek",
+    "wof:parent_id":1108810171,
+    "wof:placetype":"locality",
+    "wof:population":2344,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48049,
+    45.42254,
+    20.48049,
+    45.42254
+],
+  "geometry": {"coordinates":[20.48049,45.42254],"type":"Point"}
+}

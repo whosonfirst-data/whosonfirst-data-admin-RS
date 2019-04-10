@@ -1,0 +1,104 @@
+{
+  "id": 890476881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78917,45.74617,20.78917,45.74617",
+    "geom:latitude":45.74617,
+    "geom:longitude":20.78917,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1872,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Radojevo"
+    ],
+    "name:eng_x_preferred":[
+        "Radojevo"
+    ],
+    "name:epo_x_preferred":[
+        "Radojevo"
+    ],
+    "name:fre_x_preferred":[
+        "Radojevo"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrvatska Klarija"
+    ],
+    "name:hun_x_preferred":[
+        "Kl\u00e1ri"
+    ],
+    "name:may_x_preferred":[
+        "Radojevo"
+    ],
+    "name:rum_x_preferred":[
+        "Radojevo"
+    ],
+    "name:slv_x_preferred":[
+        "Radojevo"
+    ],
+    "name:srp_x_preferred":[
+        "Radojevo"
+    ],
+    "name:unk_x_variant":[
+        "Klary"
+    ],
+    "qs:name":"Radojevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":269,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108809991,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786583,
+        "gp:id":869199,
+        "qs:id":275735,
+        "wd:id":"Q1046240",
+        "wk:page":"Radojevo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054092,
+    "wof:geomhash":"48f74c03318dddc5f83365d87553cc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809991,
+            "locality_id":890476881,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476881,
+    "wof:lastmodified":1527727148,
+    "wof:name":"Radojevo",
+    "wof:parent_id":1108809991,
+    "wof:placetype":"locality",
+    "wof:population":1872,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78917,
+    45.74617,
+    20.78917,
+    45.74617
+],
+  "geometry": {"coordinates":[20.78917,45.74617],"type":"Point"}
+}

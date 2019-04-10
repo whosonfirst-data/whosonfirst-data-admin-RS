@@ -1,0 +1,73 @@
+{
+  "id": 1360303499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29237,43.98944,21.29237,43.98944",
+    "geom:latitude":43.98944,
+    "geom:longitude":21.29237,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Rakitovo",
+    "gn:country_code":"RS",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786517,
+    "gn:latitude":43.98944,
+    "gn:longitude":21.29237,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rakitovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rakitovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809907,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786517
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6f9b385f9f21ebb6cfa3cb85b47b49f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809907,
+            "locality_id":1360303499,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1360303499,
+    "wof:lastmodified":1537683730,
+    "wof:name":"Rakitovo",
+    "wof:parent_id":1108809907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29237,
+    43.98944,
+    21.29237,
+    43.98944
+],
+  "geometry": {"coordinates":[21.29237,43.98944],"type":"Point"}
+}

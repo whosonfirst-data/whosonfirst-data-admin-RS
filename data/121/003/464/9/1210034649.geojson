@@ -1,0 +1,74 @@
+{
+  "id": 1210034649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40037,43.58703,21.40037,43.58703",
+    "geom:latitude":43.58703,
+    "geom:longitude":21.40037,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Dobromir",
+    "gn:country_code":"RS",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791430,
+    "gn:latitude":43.58703,
+    "gn:longitude":21.40037,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobromir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobromir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791430,
+        "wk:page":"Dobromir_%28Kru%C5%A1evac%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"758f36aa0d40361ea16b20d8ccd91232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1210034649,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1210034649,
+    "wof:lastmodified":1537683815,
+    "wof:name":"Dobromir",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40037,
+    43.58703,
+    21.40037,
+    43.58703
+],
+  "geometry": {"coordinates":[21.40037,43.58703],"type":"Point"}
+}

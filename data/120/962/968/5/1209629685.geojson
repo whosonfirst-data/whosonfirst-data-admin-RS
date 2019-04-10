@@ -1,0 +1,65 @@
+{
+  "id": 1209629685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59083,43.68833,19.59083,43.68833",
+    "geom:latitude":43.68833,
+    "geom:longitude":19.59083,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Vucjak",
+    "gn:country_code":"RS",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302882,
+    "gn:latitude":43.68833,
+    "gn:longitude":19.59083,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vu\u010djak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vu\u010djak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302882
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2231b5135ced9040e9a378525c5bdd64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209629685
+        }
+    ],
+    "wof:id":1209629685,
+    "wof:lastmodified":1537684000,
+    "wof:name":"Vucjak",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59083,
+    43.68833,
+    19.59083,
+    43.68833
+],
+  "geometry": {"coordinates":[19.59083,43.68833],"type":"Point"}
+}

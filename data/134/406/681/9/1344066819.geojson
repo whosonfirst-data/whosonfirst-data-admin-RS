@@ -1,0 +1,77 @@
+{
+  "id": 1344066819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04078,44.85872,20.04078,44.85872",
+    "geom:latitude":44.85872,
+    "geom:longitude":20.04078,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Sremski Mihaljevci",
+    "gn:country_code":"RS",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785614,
+    "gn:latitude":44.85872,
+    "gn:longitude":20.04078,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sremski Mihaljevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
+    "name:und_x_variant":[
+        "Mihaljevci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810025,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785614,
+        "wk:page":"Sremski_Mihaljevci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"adad9f43d53e8663313125a4a9f7af54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810025,
+            "locality_id":1344066819,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1344066819,
+    "wof:lastmodified":1537683713,
+    "wof:name":"Sremski Mihaljevci",
+    "wof:parent_id":1108810025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04078,
+    44.85872,
+    20.04078,
+    44.85872
+],
+  "geometry": {"coordinates":[20.04078,44.85872],"type":"Point"}
+}

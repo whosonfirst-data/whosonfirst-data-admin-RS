@@ -1,0 +1,72 @@
+{
+  "id": 1310420449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4466,44.142,19.4466,44.142",
+    "geom:latitude":44.142,
+    "geom:longitude":19.4466,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kamenjace",
+    "gn:country_code":"RS",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3239881,
+    "gn:latitude":44.142,
+    "gn:longitude":19.4466,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Kamenja\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kamenja\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809959,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3239881
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"14576e78f2bd78e97207104b80cc50b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809959,
+            "locality_id":1310420449,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1310420449,
+    "wof:lastmodified":1537683973,
+    "wof:name":"Kamenjace",
+    "wof:parent_id":1108809959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4466,
+    44.142,
+    19.4466,
+    44.142
+],
+  "geometry": {"coordinates":[19.4466,44.142],"type":"Point"}
+}

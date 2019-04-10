@@ -1,0 +1,98 @@
+{
+  "id": 890476643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32872,44.60237,20.32872,44.60237",
+    "geom:latitude":44.60237,
+    "geom:longitude":20.32872,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3044,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0438\u0447"
+    ],
+    "name:dut_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:may_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0438\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Vrani\u0107"
+    ],
+    "qs:name":"Vrani\u0107",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809835,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784236,
+        "gp:id":537543,
+        "qs:id":275706,
+        "wd:id":"Q2453146",
+        "wk:page":"Vrani\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054083,
+    "wof:geomhash":"f8bd088699bf927f734c71d9cb7d7b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809835,
+            "locality_id":890476643,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890476643,
+    "wof:lastmodified":1527727148,
+    "wof:name":"Vrani\u0107",
+    "wof:parent_id":1108809835,
+    "wof:placetype":"locality",
+    "wof:population":3044,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32872,
+    44.60237,
+    20.32872,
+    44.60237
+],
+  "geometry": {"coordinates":[20.32872,44.60237],"type":"Point"}
+}

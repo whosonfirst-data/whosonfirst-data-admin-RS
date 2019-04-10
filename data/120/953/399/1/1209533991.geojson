@@ -1,0 +1,65 @@
+{
+  "id": 1209533991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20241,44.49257,20.20241,44.49257",
+    "geom:latitude":44.49257,
+    "geom:longitude":20.20241,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Kalenic",
+    "gn:country_code":"RS",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789678,
+    "gn:latitude":44.49257,
+    "gn:longitude":20.20241,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kaleni\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kaleni\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789678
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9232c61b328d7051641d1a53a9c1d798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209533991
+        }
+    ],
+    "wof:id":1209533991,
+    "wof:lastmodified":1537683784,
+    "wof:name":"Kalenic",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20241,
+    44.49257,
+    20.20241,
+    44.49257
+],
+  "geometry": {"coordinates":[20.20241,44.49257],"type":"Point"}
+}

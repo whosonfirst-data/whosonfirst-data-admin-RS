@@ -1,0 +1,74 @@
+{
+  "id": 1310416023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91041,42.70393,21.91041,42.70393",
+    "geom:latitude":42.70393,
+    "geom:longitude":21.91041,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Stresak",
+    "gn:country_code":"RS",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":785422,
+    "gn:latitude":42.70393,
+    "gn:longitude":21.91041,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stre\u0161ak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stre\u0161ak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785422,
+        "wk:page":"Stre%C5%A1ak"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d98a525e0b454ce2c01c04ca0f4cac7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1310416023,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1310416023,
+    "wof:lastmodified":1537683710,
+    "wof:name":"Stresak",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91041,
+    42.70393,
+    21.91041,
+    42.70393
+],
+  "geometry": {"coordinates":[21.91041,42.70393],"type":"Point"}
+}

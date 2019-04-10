@@ -1,0 +1,74 @@
+{
+  "id": 1326639757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89672,45.11665,19.89672,45.11665",
+    "geom:latitude":45.11665,
+    "geom:longitude":19.89672,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Neradin",
+    "gn:country_code":"RS",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220584,
+    "gn:latitude":45.11665,
+    "gn:longitude":19.89672,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Neradin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Neradin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809903,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220584,
+        "wk:page":"Neradin"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ce8fbf5fe19d5c21f0f765bac0afd148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809903,
+            "locality_id":1326639757,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1326639757,
+    "wof:lastmodified":1537683965,
+    "wof:name":"Neradin",
+    "wof:parent_id":1108809903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89672,
+    45.11665,
+    19.89672,
+    45.11665
+],
+  "geometry": {"coordinates":[19.89672,45.11665],"type":"Point"}
+}

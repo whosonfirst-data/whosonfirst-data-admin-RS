@@ -1,0 +1,73 @@
+{
+  "id": 1225862965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44858,44.5024,19.44858,44.5024",
+    "geom:latitude":44.5024,
+    "geom:longitude":19.44858,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Filipovici",
+    "gn:country_code":"RS",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216958,
+    "gn:latitude":44.5024,
+    "gn:longitude":19.44858,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Filipovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Filipovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216958
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7057df9c8aceb5fdcfbd1144cb587420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":1225862965,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1225862965,
+    "wof:lastmodified":1537683964,
+    "wof:name":"Filipovici",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44858,
+    44.5024,
+    19.44858,
+    44.5024
+],
+  "geometry": {"coordinates":[19.44858,44.5024],"type":"Point"}
+}

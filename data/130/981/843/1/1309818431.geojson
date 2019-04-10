@@ -1,0 +1,76 @@
+{
+  "id": 1309818431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1429,43.00283,20.1429,43.00283",
+    "geom:latitude":43.00283,
+    "geom:longitude":20.1429,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Derekare",
+    "gn:country_code":"RS",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791535,
+    "gn:latitude":43.00283,
+    "gn:longitude":20.1429,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u00d0erekare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u00d0erekare"
+    ],
+    "name:und_x_variant":[
+        "Donje \u00d0erekare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791535
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d4d5cf339f0b7ec8776c17ec315c2401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1309818431,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1309818431,
+    "wof:lastmodified":1537683816,
+    "wof:name":"Derekare",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1429,
+    43.00283,
+    20.1429,
+    43.00283
+],
+  "geometry": {"coordinates":[20.1429,43.00283],"type":"Point"}
+}

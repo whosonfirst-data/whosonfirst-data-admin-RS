@@ -1,0 +1,76 @@
+{
+  "id": 1276999967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18024,43.21733,21.18024,43.21733",
+    "geom:latitude":43.21733,
+    "geom:longitude":21.18024,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Nevada",
+    "gn:country_code":"RS",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787681,
+    "gn:latitude":43.21733,
+    "gn:longitude":21.18024,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Nevada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Nevada"
+    ],
+    "name:und_x_variant":[
+        "Nevade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787681
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b8ac2d8d726e4c9e870dee584d2f80a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1276999967,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1276999967,
+    "wof:lastmodified":1537683750,
+    "wof:name":"Nevada",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18024,
+    43.21733,
+    21.18024,
+    43.21733
+],
+  "geometry": {"coordinates":[21.18024,43.21733],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226157657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24648,44.36241,20.24648,44.36241",
+    "geom:latitude":44.36241,
+    "geom:longitude":20.24648,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Susnjar",
+    "gn:country_code":"RS",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785254,
+    "gn:latitude":44.36241,
+    "gn:longitude":20.24648,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160u\u0161njar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160u\u0161njar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809951,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785254,
+        "wk:page":"%C5%A0u%C5%A1njar"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f0b5f26c51410725a6de6587bb6c15c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809951,
+            "locality_id":1226157657,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1226157657,
+    "wof:lastmodified":1537683706,
+    "wof:name":"Susnjar",
+    "wof:parent_id":1108809951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24648,
+    44.36241,
+    20.24648,
+    44.36241
+],
+  "geometry": {"coordinates":[20.24648,44.36241],"type":"Point"}
+}

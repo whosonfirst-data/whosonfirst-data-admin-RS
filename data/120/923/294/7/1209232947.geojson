@@ -1,0 +1,65 @@
+{
+  "id": 1209232947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83583,43.44139,20.83583,43.44139",
+    "geom:latitude":43.44139,
+    "geom:longitude":20.83583,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Stefanovici",
+    "gn:country_code":"RS",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835987,
+    "gn:latitude":43.44139,
+    "gn:longitude":20.83583,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stefanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stefanovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835987
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"12a35aead18f27d6f9d66ed188dd18e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209232947
+        }
+    ],
+    "wof:id":1209232947,
+    "wof:lastmodified":1537683887,
+    "wof:name":"Stefanovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83583,
+    43.44139000000001,
+    20.83583,
+    43.44139000000001
+],
+  "geometry": {"coordinates":[20.83583,43.44139000000001],"type":"Point"}
+}

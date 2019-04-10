@@ -1,0 +1,104 @@
+{
+  "id": 890476939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02737,45.02604,20.02737,45.02604",
+    "geom:latitude":45.02604,
+    "geom:longitude":20.02737,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1191,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:eng_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:epo_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:fre_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:hun_x_preferred":[
+        "Lyuk\u00f3"
+    ],
+    "name:may_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u043a\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:srp_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:unk_x_variant":[
+        "Pustara Ljukovo"
+    ],
+    "qs:name":"Ljukovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809901,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788539,
+        "gp:id":534294,
+        "qs:id":275759,
+        "wd:id":"Q521694",
+        "wk:page":"Ljukovo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054095,
+    "wof:geomhash":"4362161fb70c28b22b3fbc81ea2a0421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809901,
+            "locality_id":890476939,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890476939,
+    "wof:lastmodified":1527727147,
+    "wof:name":"Ljukovo",
+    "wof:parent_id":1108809901,
+    "wof:placetype":"locality",
+    "wof:population":1191,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02737,
+    45.02604,
+    20.02737,
+    45.02604
+],
+  "geometry": {"coordinates":[20.02737,45.02604],"type":"Point"}
+}

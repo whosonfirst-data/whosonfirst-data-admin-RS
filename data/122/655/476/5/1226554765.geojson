@@ -1,0 +1,74 @@
+{
+  "id": 1226554765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19821,43.11279,22.19821,43.11279",
+    "geom:latitude":43.11279,
+    "geom:longitude":22.19821,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Mali Krcimir",
+    "gn:country_code":"RS",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788260,
+    "gn:latitude":43.11279,
+    "gn:longitude":22.19821,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mali Kr\u010dimir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mali Kr\u010dimir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809893,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788260,
+        "wk:page":"Mali_Kr%C4%8Dimir"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"65f3f6a9775ac1a4f6a712f74d94d25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809893,
+            "locality_id":1226554765,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1226554765,
+    "wof:lastmodified":1537683761,
+    "wof:name":"Mali Krcimir",
+    "wof:parent_id":1108809893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19821,
+    43.11279,
+    22.19821,
+    43.11279
+],
+  "geometry": {"coordinates":[22.19821,43.11279],"type":"Point"}
+}

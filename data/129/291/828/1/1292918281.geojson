@@ -1,0 +1,74 @@
+{
+  "id": 1292918281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14765,43.36227,21.14765,43.36227",
+    "geom:latitude":43.36227,
+    "geom:longitude":21.14765,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Kovioci",
+    "gn:country_code":"RS",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789166,
+    "gn:latitude":43.36227,
+    "gn:longitude":21.14765,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kovioci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kovioci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809863,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789166,
+        "wk:page":"Kovioci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3c639a0a42ee7d77ce08d15cdac7113c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809863,
+            "locality_id":1292918281,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1292918281,
+    "wof:lastmodified":1537683776,
+    "wof:name":"Kovioci",
+    "wof:parent_id":1108809863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14765,
+    43.36227,
+    21.14765,
+    43.36227
+],
+  "geometry": {"coordinates":[21.14765,43.36227],"type":"Point"}
+}

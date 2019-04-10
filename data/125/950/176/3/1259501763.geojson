@@ -1,0 +1,74 @@
+{
+  "id": 1259501763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23756,43.96086,22.23756,43.96086",
+    "geom:latitude":43.96086,
+    "geom:longitude":22.23756,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Nikolicevo",
+    "gn:country_code":"RS",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787666,
+    "gn:latitude":43.96086,
+    "gn:longitude":22.23756,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Nikoli\u0107evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Nikoli\u0107evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810163,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787666,
+        "wk:page":"Nikoli%C4%8Devo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f6a8bdaf183bc96fc75fd31bb8e052cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810163,
+            "locality_id":1259501763,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1259501763,
+    "wof:lastmodified":1537683750,
+    "wof:name":"Nikolicevo",
+    "wof:parent_id":1108810163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23756,
+    43.96086,
+    22.23756,
+    43.96086
+],
+  "geometry": {"coordinates":[22.23756,43.96086],"type":"Point"}
+}

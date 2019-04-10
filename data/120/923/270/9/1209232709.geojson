@@ -1,0 +1,66 @@
+{
+  "id": 1209232709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03053,43.93988,22.03053,43.93988",
+    "geom:latitude":43.93988,
+    "geom:longitude":22.03053,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Sumrakovac",
+    "gn:country_code":"RS",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785299,
+    "gn:latitude":43.93988,
+    "gn:longitude":22.03053,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sumrakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sumrakovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785299,
+        "wk:page":"Sumrakovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0a3dcf0b58eef9f8382c31a5869f5832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209232709
+        }
+    ],
+    "wof:id":1209232709,
+    "wof:lastmodified":1537683707,
+    "wof:name":"Sumrakovac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03053,
+    43.93988,
+    22.03053,
+    43.93988
+],
+  "geometry": {"coordinates":[22.03053,43.93988],"type":"Point"}
+}

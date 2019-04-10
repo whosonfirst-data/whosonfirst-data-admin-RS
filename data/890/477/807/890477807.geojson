@@ -1,0 +1,125 @@
+{
+  "id": 890477807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85546,45.44725,20.85546,45.44725",
+    "geom:latitude":45.44725,
+    "geom:longitude":20.85546,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3625,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0434\u043e\u0448"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u6c99\u6258\u7c73\u5947"
+    ],
+    "name:dut_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:epo_x_preferred":[
+        "Ja\u015da Tomicj"
+    ],
+    "name:fre_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:ger_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Modo\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00f3dos"
+    ],
+    "name:may_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:rum_x_preferred":[
+        "Modo\u0219"
+    ],
+    "name:slv_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Ja\u0161a Tomi\u0107"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e9met-M\u00f3dos"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0634\u0627 \u0679\u0648\u0645\u06cc\u0633\u060c \u0633\u06d2 \u0686\u0627\u0646\u062c"
+    ],
+    "qs:name":"Ja\u0161a Tomi\u0107",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srednji Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":52.0,
+    "wd:latitude":"45.441388888",
+    "wd:longitude":"20.853055555",
+    "wd:wordcount":1264,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810065,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789875,
+        "gp:id":534377,
+        "qs:id":261035,
+        "wd:id":"Q785546",
+        "wk:page":"Ja\u0161a Tomi\u0107, Se\u010danj"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054131,
+    "wof:geomhash":"62598d13a6a7bcb148694e6f46cea7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810065,
+            "locality_id":890477807,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477807,
+    "wof:lastmodified":1527727185,
+    "wof:name":"Ja\u0161a Tomi\u0107",
+    "wof:parent_id":1108810065,
+    "wof:placetype":"locality",
+    "wof:population":3625,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85546,
+    45.44725,
+    20.85546,
+    45.44725
+],
+  "geometry": {"coordinates":[20.85546,45.44725],"type":"Point"}
+}

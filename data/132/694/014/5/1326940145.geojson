@@ -1,0 +1,74 @@
+{
+  "id": 1326940145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11392,44.83526,20.11392,44.83526",
+    "geom:latitude":44.83526,
+    "geom:longitude":20.11392,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Dec",
+    "gn:country_code":"RS",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791581,
+    "gn:latitude":44.83526,
+    "gn:longitude":20.11392,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"De\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "De\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810025,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791581,
+        "wk:page":"De%C4%8D"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d502841e9519fcbabdfa622c2f0cc504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810025,
+            "locality_id":1326940145,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1326940145,
+    "wof:lastmodified":1537683817,
+    "wof:name":"Dec",
+    "wof:parent_id":1108810025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11392,
+    44.83526,
+    20.11392,
+    44.83526
+],
+  "geometry": {"coordinates":[20.11392,44.83526],"type":"Point"}
+}

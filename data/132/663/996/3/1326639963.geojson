@@ -1,0 +1,74 @@
+{
+  "id": 1326639963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93174,44.46863,20.93174,44.46863",
+    "geom:latitude":44.46863,
+    "geom:longitude":20.93174,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Vlaski Do",
+    "gn:country_code":"RS",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784325,
+    "gn:latitude":44.46863,
+    "gn:longitude":20.93174,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vla\u0161ki Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vla\u0161ki Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810077,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784325,
+        "wk:page":"Vla%C5%A1ki_Do_%28Smederevska_Palanka%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0b34764d683e6d980e21f3cc34100e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810077,
+            "locality_id":1326639963,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1326639963,
+    "wof:lastmodified":1537683692,
+    "wof:name":"Vlaski Do",
+    "wof:parent_id":1108810077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93174,
+    44.46863,
+    20.93174,
+    44.46863
+],
+  "geometry": {"coordinates":[20.93174,44.46863],"type":"Point"}
+}

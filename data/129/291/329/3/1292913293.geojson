@@ -1,0 +1,73 @@
+{
+  "id": 1292913293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37273,44.21407,19.37273,44.21407",
+    "geom:latitude":44.21407,
+    "geom:longitude":19.37273,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Citluk",
+    "gn:country_code":"RS",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3202560,
+    "gn:latitude":44.21407,
+    "gn:longitude":19.37273,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u010citluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010citluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809959,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202560
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7426c9a6b8460707de92dd479fa057ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809959,
+            "locality_id":1292913293,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1292913293,
+    "wof:lastmodified":1537683946,
+    "wof:name":"Citluk",
+    "wof:parent_id":1108809959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37273,
+    44.21407,
+    19.37273,
+    44.21407
+],
+  "geometry": {"coordinates":[19.37273,44.21407],"type":"Point"}
+}

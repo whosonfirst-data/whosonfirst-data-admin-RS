@@ -1,0 +1,75 @@
+{
+  "id": 1243468897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4744,42.95646,20.4744,42.95646",
+    "geom:latitude":42.95646,
+    "geom:longitude":20.4744,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Klece",
+    "gn:country_code":"RS",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832312,
+    "gn:latitude":42.95646,
+    "gn:longitude":20.4744,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Kle\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kle\u010de"
+    ],
+    "name:und_x_variant":[
+        "Preslo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832312
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"940186beaab7f5b2b9ded15cc8d0f617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1243468897,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1243468897,
+    "wof:lastmodified":1537683849,
+    "wof:name":"Klece",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4744,
+    42.95646,
+    20.4744,
+    42.95646
+],
+  "geometry": {"coordinates":[20.4744,42.95646],"type":"Point"}
+}

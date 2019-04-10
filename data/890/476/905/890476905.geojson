@@ -1,0 +1,92 @@
+{
+  "id": 890476905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4707,44.75711,19.4707,44.75711",
+    "geom:latitude":44.75711,
+    "geom:longitude":19.4707,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1536,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Zminjak"
+    ],
+    "name:eng_x_preferred":[
+        "Zminjak"
+    ],
+    "name:fre_x_preferred":[
+        "Zminjak"
+    ],
+    "name:may_x_preferred":[
+        "Zminjak"
+    ],
+    "name:por_x_preferred":[
+        "Zminjak"
+    ],
+    "name:slv_x_preferred":[
+        "Zminjak"
+    ],
+    "name:srp_x_preferred":[
+        "Zminjak"
+    ],
+    "qs:name":"Zminjak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186366,
+        "gp:id":535922,
+        "qs:id":147066,
+        "wd:id":"Q2736242",
+        "wk:page":"Zminjak"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054093,
+    "wof:geomhash":"4cd8ca5c5164932f55a14e58f50420f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890476905,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890476905,
+    "wof:lastmodified":1527727151,
+    "wof:name":"Zminjak",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":1536,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4707,
+    44.75711,
+    19.4707,
+    44.75711
+],
+  "geometry": {"coordinates":[19.4707,44.75711],"type":"Point"}
+}

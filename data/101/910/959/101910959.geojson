@@ -1,0 +1,140 @@
+{
+  "id": 101910959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":1686905.934843,
+    "geom:bbox":"21.85737584,43.6394052691,21.8854222076,43.6499011574",
+    "geom:latitude":43.644497,
+    "geom:longitude":21.871326,
+    "iso:country":"RS",
+    "lbl:latitude":43.644653,
+    "lbl:longitude":21.867386,
+    "mps:latitude":43.644653,
+    "mps:longitude":21.867386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u043e \u0431\u0430\u043d\u044f"
+    ],
+    "name:ces_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:deu_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:fra_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:hbs_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:hrv_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:hun_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:ita_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:msa_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:nld_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0628\u0627\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:por_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0431\u0430\u043d\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0431\u0430\u045a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Soko Banja"
+    ],
+    "name:swe_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:unk_x_variant":[
+        "Banja Aleksinacka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u79d1\u7926\u6cc9\u6751"
+    ],
+    "qs:a0":"Republika Srbija",
+    "qs:a1":"*Zajecarski upravni okrug",
+    "qs:a1r":"5Serbia",
+    "qs:a2":"Sokobanja",
+    "qs:adm0":"Republika Srbija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Soko Banja",
+    "qs:pop":0,
+    "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":43.639444,
+    "wd:longitude":21.869444,
+    "wd:wordcount":361,
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810079,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785704,
+        "gp:id":536775,
+        "qs:id":470594,
+        "wd:id":"Q772805"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a9945ac869303958eacbbbb5df1b160c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810079,
+            "locality_id":101910959,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":101910959,
+    "wof:lastmodified":1527715931,
+    "wof:name":"Soko Banja",
+    "wof:parent_id":1108810079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85737584001515,
+    43.63940526905373,
+    21.88542220763725,
+    43.64990115742637
+],
+  "geometry": {"coordinates":[[[21.8714612452589,43.64918938779931],[21.87109343121301,43.64741046727892],[21.87476775254362,43.64698324592052],[21.87495171024688,43.64787269914308],[21.87617649144693,43.64773026035925],[21.8763604747873,43.64861970991774],[21.87758526876871,43.64847725403433],[21.87776927774746,43.64936669992852],[21.88266847262423,43.64879672060329],[21.88248439107832,43.64790728485156],[21.88370915824942,43.64776475614417],[21.883340981375,43.64598588632367],[21.88456570690272,43.64584334812412],[21.88419752374836,43.64406447885585],[21.88542220763725,43.64392193116521],[21.88523810917172,43.64303249737213],[21.8840134434198,43.64317504252648],[21.88382937058958,43.64228560506695],[21.88138005927169,43.6425706466145],[21.88101200864759,43.64079175816266],[21.87366416368559,43.64164650287159],[21.87348025843244,43.64075704174411],[21.87103097018769,43.64104183507527],[21.87084710869863,43.64015236775163],[21.86962247467886,43.64029474003928],[21.86943863881532,43.63940526905373],[21.85841685494506,43.64068594150712],[21.85860052756652,43.64157543527784],[21.85737584001515,43.64171766193016],[21.85774317142472,43.64349665114833],[21.85896789525765,43.64335441943479],[21.85915159032783,43.64424390982106],[21.86037632695013,43.64410166101203],[21.86074377582679,43.64588063333832],[21.86196854338118,43.6457383649016],[21.86233605848577,43.64751732765188],[21.86356085697292,43.64737503958685],[21.86392843831322,43.64915399275986],[21.86515326773423,43.64901168506464],[21.86533708778194,43.64990115742637],[21.8714612452589,43.64918938779931]]],"type":"Polygon"}
+}

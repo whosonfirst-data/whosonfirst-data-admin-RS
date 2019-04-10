@@ -1,0 +1,72 @@
+{
+  "id": 1209429589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22876,44.98223,21.22876,44.98223",
+    "geom:latitude":44.98223,
+    "geom:longitude":21.22876,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Zagajica",
+    "gn:country_code":"RS",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784046,
+    "gn:latitude":44.98223,
+    "gn:longitude":21.22876,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zagajica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zagajica"
+    ],
+    "name:und_x_variant":[
+        "F\u00fcrjes",
+        "Sagaitza",
+        "Zagaicze",
+        "Zagajcza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784046,
+        "wk:page":"Zagajica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"411a0a0bb87db2e7a2cab76c237b331c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209429589
+        }
+    ],
+    "wof:id":1209429589,
+    "wof:lastmodified":1537683687,
+    "wof:name":"Zagajica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22876,
+    44.98223,
+    21.22876,
+    44.98223
+],
+  "geometry": {"coordinates":[21.22876,44.98223],"type":"Point"}
+}

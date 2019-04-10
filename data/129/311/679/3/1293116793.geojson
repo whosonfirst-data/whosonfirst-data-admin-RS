@@ -1,0 +1,73 @@
+{
+  "id": 1293116793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22874,43.65122,20.22874,43.65122",
+    "geom:latitude":43.65122,
+    "geom:longitude":20.22874,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Soldatovici",
+    "gn:country_code":"RS",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793743,
+    "gn:latitude":43.65122,
+    "gn:longitude":20.22874,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Soldatovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Soldatovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793743
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"efd90281a33cc38389b3104efee466c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1293116793,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1293116793,
+    "wof:lastmodified":1537683844,
+    "wof:name":"Soldatovici",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22874,
+    43.65122,
+    20.22874,
+    43.65122
+],
+  "geometry": {"coordinates":[20.22874,43.65122],"type":"Point"}
+}

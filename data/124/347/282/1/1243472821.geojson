@@ -1,0 +1,76 @@
+{
+  "id": 1243472821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16964,45.71156,19.16964,45.71156",
+    "geom:latitude":45.71156,
+    "geom:longitude":19.16964,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Sigani",
+    "gn:country_code":"RS",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215393,
+    "gn:latitude":45.71156,
+    "gn:longitude":19.16964,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160i\u0111ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160i\u0111ani"
+    ],
+    "name:und_x_variant":[
+        "Sr\u0111ani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215393
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3ab0ceccd3d81f8581dc9b72977dc77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":1243472821,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1243472821,
+    "wof:lastmodified":1537683954,
+    "wof:name":"Sigani",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16964,
+    45.71156,
+    19.16964,
+    45.71156
+],
+  "geometry": {"coordinates":[19.16964,45.71156],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 890477711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58582,42.9983,21.58582,42.9983",
+    "geom:latitude":42.9983,
+    "geom:longitude":21.58582,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ivanje"
+    ],
+    "name:eng_x_preferred":[
+        "Ivanje"
+    ],
+    "name:fre_x_preferred":[
+        "Ivanje"
+    ],
+    "name:may_x_preferred":[
+        "Ivanje"
+    ],
+    "name:por_x_preferred":[
+        "Ivanje"
+    ],
+    "name:slv_x_preferred":[
+        "Ivanje"
+    ],
+    "name:srp_x_preferred":[
+        "Ivanje"
+    ],
+    "qs:name":"Vranje",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Pchinja",
+    "qs:photos":167,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":167,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":2359,
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809853,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789990,
+        "gp:id":537548,
+        "qs:id":232937,
+        "wd:id":"Q3101259",
+        "wk:page":"Vranje"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054127,
+    "wof:geomhash":"cd28e4c12034738bfe2141ac2abefba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809853,
+            "locality_id":890477711,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":890477711,
+    "wof:lastmodified":1527727188,
+    "wof:name":"Vranje",
+    "wof:parent_id":1108809853,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58582,
+    42.9983,
+    21.58582,
+    42.9983
+],
+  "geometry": {"coordinates":[21.58582,42.9983],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293302863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46989,42.94945,20.46989,42.94945",
+    "geom:latitude":42.94945,
+    "geom:longitude":20.46989,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Izbeg",
+    "gn:country_code":"RS",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832311,
+    "gn:latitude":42.94945,
+    "gn:longitude":20.46989,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Izbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Izbeg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832311
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2d8c7c9735ca5033b03e1833f93e635c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1293302863,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1293302863,
+    "wof:lastmodified":1537683849,
+    "wof:name":"Izbeg",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46989,
+    42.94945,
+    20.46989,
+    42.94945
+],
+  "geometry": {"coordinates":[20.46989,42.94945],"type":"Point"}
+}

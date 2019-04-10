@@ -1,0 +1,74 @@
+{
+  "id": 1276667909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36004,43.8427,21.36004,43.8427",
+    "geom:latitude":43.8427,
+    "geom:longitude":21.36004,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Savac",
+    "gn:country_code":"RS",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786057,
+    "gn:latitude":43.8427,
+    "gn:longitude":21.36004,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160avac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160avac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108810023,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786057,
+        "wk:page":"%C5%A0avac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cf69d27f40a2b71f11a206f4d1638e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810023,
+            "locality_id":1276667909,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1276667909,
+    "wof:lastmodified":1537683720,
+    "wof:name":"Savac",
+    "wof:parent_id":1108810023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36004,
+    43.8427,
+    21.36004,
+    43.8427
+],
+  "geometry": {"coordinates":[21.36004,43.8427],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 890477247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70706,43.2454,20.70706,43.2454",
+    "geom:latitude":43.2454,
+    "geom:longitude":20.70706,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Novo Selo"
+    ],
+    "qs:name":"Novo Selo",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Rashka",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":872,
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787549,
+        "gp:id":535685,
+        "qs:id":502256,
+        "wd:id":"Q644996",
+        "wk:page":"Novo Selo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054107,
+    "wof:geomhash":"5f11ac867c9c1f94da6c9efe0d8ec081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":890477247,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890477247,
+    "wof:lastmodified":1527727184,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70706,
+    43.2454,
+    20.70706,
+    43.2454
+],
+  "geometry": {"coordinates":[20.70706,43.2454],"type":"Point"}
+}

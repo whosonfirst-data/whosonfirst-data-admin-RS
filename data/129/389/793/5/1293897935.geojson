@@ -1,0 +1,68 @@
+{
+  "id": 1293897935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44013,43.34203,19.44013,43.34203",
+    "geom:latitude":43.34203,
+    "geom:longitude":19.44013,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Mijajlovica",
+    "gn:country_code":"RS",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342789,
+    "gn:latitude":43.34203,
+    "gn:longitude":19.44013,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mijajlovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mihajlovica",
+        "Mijajlovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342789
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d1a13c3c70dfb1299fd5fd4d85c51f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1293897935,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293897935,
+    "wof:lastmodified":1537684031,
+    "wof:name":"Mijajlovica",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44013,
+    43.34203,
+    19.44013,
+    43.34203
+],
+  "geometry": {"coordinates":[19.44013,43.34203],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344067063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52056,44.08444,19.52056,44.08444",
+    "geom:latitude":44.08444,
+    "geom:longitude":19.52056,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mitrovici",
+    "gn:country_code":"RS",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277738,
+    "gn:latitude":44.08444,
+    "gn:longitude":19.52056,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Mitrovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809833,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277738
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e815b2bd002239a60e68e528dfdc7603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809833,
+            "locality_id":1344067063,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1344067063,
+    "wof:lastmodified":1536864622,
+    "wof:name":"Mitrovici",
+    "wof:parent_id":1108809833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52056,
+    44.08444,
+    19.52056,
+    44.08444
+],
+  "geometry": {"coordinates":[19.52056,44.08444],"type":"Point"}
+}

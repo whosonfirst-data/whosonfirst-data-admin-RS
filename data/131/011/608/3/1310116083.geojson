@@ -1,0 +1,74 @@
+{
+  "id": 1310116083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97243,43.17034,20.97243,43.17034",
+    "geom:latitude":43.17034,
+    "geom:longitude":20.97243,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Stava",
+    "gn:country_code":"RS",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":785505,
+    "gn:latitude":43.17034,
+    "gn:longitude":20.97243,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160tava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160tava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785505,
+        "wk:page":"%C5%A0tava"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e2e3d9b02f5a656bf19364b1e3851f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1310116083,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1310116083,
+    "wof:lastmodified":1537683711,
+    "wof:name":"Stava",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97243,
+    43.17034,
+    20.97243,
+    43.17034
+],
+  "geometry": {"coordinates":[20.97243,43.17034],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 890477587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38762,44.76713,21.38762,44.76713",
+    "geom:latitude":44.76713,
+    "geom:longitude":21.38762,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Zatonje"
+    ],
+    "name:eng_x_preferred":[
+        "Zatonje"
+    ],
+    "name:fre_x_preferred":[
+        "Zatonje"
+    ],
+    "name:may_x_preferred":[
+        "Zatonje"
+    ],
+    "name:por_x_preferred":[
+        "Zatonje"
+    ],
+    "name:slv_x_preferred":[
+        "Zatonje"
+    ],
+    "name:srp_x_preferred":[
+        "Zatonje"
+    ],
+    "qs:name":"\u00c5 Etonje",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Branichevo",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810133,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783984,
+        "gp:id":536621,
+        "qs:id":1165763,
+        "wd:id":"Q3105076"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054122,
+    "wof:geomhash":"ce6fdc35e30dff2f9be8d60a9458c8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810133,
+            "locality_id":890477587,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":890477587,
+    "wof:lastmodified":1514500386,
+    "wof:name":"\u00c5 Etonje",
+    "wof:parent_id":1108810133,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38762,
+    44.76713,
+    21.38762,
+    44.76713
+],
+  "geometry": {"coordinates":[21.38762,44.76713],"type":"Point"}
+}

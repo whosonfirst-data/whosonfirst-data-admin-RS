@@ -1,0 +1,104 @@
+{
+  "id": 890477747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2281,45.06454,21.2281,45.06454",
+    "geom:latitude":45.06454,
+    "geom:longitude":21.2281,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":954,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Riti\u0161evo"
+    ],
+    "name:eng_x_preferred":[
+        "Riti\u0161evo"
+    ],
+    "name:epo_x_preferred":[
+        "Riti\u015devo"
+    ],
+    "name:fre_x_preferred":[
+        "Riti\u0161evo"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e9thely"
+    ],
+    "name:may_x_preferred":[
+        "Riti\u0161evo"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00e2ti\u0219or"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0442\u0438\u0448\u0435\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Riti\u0161evo"
+    ],
+    "name:srp_x_preferred":[
+        "Riti\u0161evo"
+    ],
+    "name:unk_x_variant":[
+        "Rettisora"
+    ],
+    "qs:name":"Riti\u0161evo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786284,
+        "gp:id":537478,
+        "qs:id":553693,
+        "wd:id":"Q1091378",
+        "wk:page":"Riti\u0161evo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054129,
+    "wof:geomhash":"464d6486e2b25dfe9a212e633cf555ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890477747,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477747,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Riti\u0161evo",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":954,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2281,
+    45.06454,
+    21.2281,
+    45.06454
+],
+  "geometry": {"coordinates":[21.2281,45.06454],"type":"Point"}
+}

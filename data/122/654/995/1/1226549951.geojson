@@ -1,0 +1,78 @@
+{
+  "id": 1226549951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66322,43.22853,21.66322,43.22853",
+    "geom:latitude":43.22853,
+    "geom:longitude":21.66322,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Stara Bozurna",
+    "gn:country_code":"RS",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785570,
+    "gn:latitude":43.22853,
+    "gn:longitude":21.66322,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stara Bo\u017eurna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stara Bo\u017eurna"
+    ],
+    "name:und_x_variant":[
+        "Stara Bor\u017eurna",
+        "Stara Bo\u017eurnja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810169,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785570,
+        "wk:page":"Stara_Bo%C5%BEurna"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"421b517ec510ec4bb4a974679745e564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810169,
+            "locality_id":1226549951,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1226549951,
+    "wof:lastmodified":1537683711,
+    "wof:name":"Stara Bozurna",
+    "wof:parent_id":1108810169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66322000000001,
+    43.22853,
+    21.66322000000001,
+    43.22853
+],
+  "geometry": {"coordinates":[21.66322000000001,43.22853],"type":"Point"}
+}

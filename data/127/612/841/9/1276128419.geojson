@@ -1,0 +1,78 @@
+{
+  "id": 1276128419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90611,43.3211,20.90611,43.3211",
+    "geom:latitude":43.3211,
+    "geom:longitude":20.90611,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Livage",
+    "gn:country_code":"RS",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788595,
+    "gn:latitude":43.3211,
+    "gn:longitude":20.90611,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Liva\u0111e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Liva\u0111e"
+    ],
+    "name:und_x_variant":[
+        "Livagje",
+        "Livadje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809863,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788595,
+        "wk:page":"Liva%C4%91e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4f99071d9fed2288bb52221dc8c21c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809863,
+            "locality_id":1276128419,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1276128419,
+    "wof:lastmodified":1537683768,
+    "wof:name":"Livage",
+    "wof:parent_id":1108809863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90611,
+    43.3211,
+    20.90611,
+    43.3211
+],
+  "geometry": {"coordinates":[20.90611,43.3211],"type":"Point"}
+}

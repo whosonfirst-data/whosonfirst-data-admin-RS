@@ -1,0 +1,73 @@
+{
+  "id": 1293497615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29825,43.92507,20.29825,43.92507",
+    "geom:latitude":43.92507,
+    "geom:longitude":20.29825,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Prijevor",
+    "gn:country_code":"RS",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786738,
+    "gn:latitude":43.92507,
+    "gn:longitude":20.29825,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Prijevor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Prijevor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809867,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786738
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c439f0a489028fc491053a2dcaad156e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809867,
+            "locality_id":1293497615,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1293497615,
+    "wof:lastmodified":1537683733,
+    "wof:name":"Prijevor",
+    "wof:parent_id":1108809867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29825,
+    43.92507,
+    20.29825,
+    43.92507
+],
+  "geometry": {"coordinates":[20.29825,43.92507],"type":"Point"}
+}

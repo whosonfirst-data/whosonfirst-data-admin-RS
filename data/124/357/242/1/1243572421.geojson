@@ -1,0 +1,74 @@
+{
+  "id": 1243572421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28667,44.16056,20.28667,44.16056",
+    "geom:latitude":44.16056,
+    "geom:longitude":20.28667,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Lalinci",
+    "gn:country_code":"RS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788801,
+    "gn:latitude":44.16056,
+    "gn:longitude":20.28667,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lalinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lalinci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809957,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788801,
+        "wk:page":"Lalinci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a1959e328f9803df11c7d9340fff53c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809957,
+            "locality_id":1243572421,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1243572421,
+    "wof:lastmodified":1537683771,
+    "wof:name":"Lalinci",
+    "wof:parent_id":1108809957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28667,
+    44.16056,
+    20.28667,
+    44.16056
+],
+  "geometry": {"coordinates":[20.28667,44.16056],"type":"Point"}
+}

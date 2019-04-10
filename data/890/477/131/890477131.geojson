@@ -1,0 +1,110 @@
+{
+  "id": 890477131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86381,45.18264,20.86381,45.18264",
+    "geom:latitude":45.18264,
+    "geom:longitude":20.86381,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1170,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:eng_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:epo_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:fre_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:hrv_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:hun_x_preferred":[
+        "Ferdin\u00e1ndfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:may_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:rum_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438-\u041a\u043e\u0437\u044f\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Novi Kozjak"
+    ],
+    "name:srp_x_preferred":[
+        "Kozjak"
+    ],
+    "name:unk_x_variant":[
+        "Novi Kozjak"
+    ],
+    "qs:name":"Kozjak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":234,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809813,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787597,
+        "gp:id":533392,
+        "qs:id":1029024,
+        "wd:id":"Q1000445",
+        "wk:page":"Kozjak"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054103,
+    "wof:geomhash":"1701127a17de28c49917fe3e7d067b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809813,
+            "locality_id":890477131,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477131,
+    "wof:lastmodified":1527727182,
+    "wof:name":"Kozjak",
+    "wof:parent_id":1108809813,
+    "wof:placetype":"locality",
+    "wof:population":1170,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86381,
+    45.18264,
+    20.86381,
+    45.18264
+],
+  "geometry": {"coordinates":[20.86381,45.18264],"type":"Point"}
+}

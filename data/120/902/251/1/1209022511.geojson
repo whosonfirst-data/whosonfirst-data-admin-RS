@@ -1,0 +1,68 @@
+{
+  "id": 1209022511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74056,42.38028,21.74056,42.38028",
+    "geom:latitude":42.38028,
+    "geom:longitude":21.74056,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Maala Simsir",
+    "gn:country_code":"RS",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859266,
+    "gn:latitude":42.38028,
+    "gn:longitude":21.74056,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Maala \u0160im\u0161ir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mahalla Shimshirve"
+    ],
+    "name:und_x_variant":[
+        "Maala \u0160im\u0161ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859266
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f1576963af4ff76653637cd78deef502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209022511
+        }
+    ],
+    "wof:id":1209022511,
+    "wof:lastmodified":1537683903,
+    "wof:name":"Maala Simsir",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74056,
+    42.38028,
+    21.74056,
+    42.38028
+],
+  "geometry": {"coordinates":[21.74056,42.38028],"type":"Point"}
+}

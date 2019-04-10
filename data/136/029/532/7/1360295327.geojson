@@ -1,0 +1,73 @@
+{
+  "id": 1360295327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41113,44.28145,19.41113,44.28145",
+    "geom:latitude":44.28145,
+    "geom:longitude":19.41113,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Gorice",
+    "gn:country_code":"RS",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216456,
+    "gn:latitude":44.28145,
+    "gn:longitude":19.41113,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gorice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gorice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809935,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216456
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"befc2c4d6468e487156da303ffcd9603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809935,
+            "locality_id":1360295327,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1360295327,
+    "wof:lastmodified":1537683958,
+    "wof:name":"Gorice",
+    "wof:parent_id":1108809935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41113,
+    44.28145,
+    19.41113,
+    44.28145
+],
+  "geometry": {"coordinates":[19.41113,44.28145],"type":"Point"}
+}

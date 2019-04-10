@@ -1,0 +1,116 @@
+{
+  "id": 890477497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92008,45.16897,20.92008,45.16897",
+    "geom:latitude":45.16897,
+    "geom:longitude":20.92008,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2426,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:eng_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:epo_x_preferred":[
+        "Ilan\u011da"
+    ],
+    "name:fre_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:hrv_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:hun_x_preferred":[
+        "Ilonc"
+    ],
+    "name:ita_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:may_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:rum_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0430\u043d\u0434\u0436\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:srp_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:unk_x_variant":[
+        "Il\u00e1ncsa"
+    ],
+    "qs:name":"Iland\u017ea",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhni Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809813,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790028,
+        "gp:id":534289,
+        "qs:id":963687,
+        "wd:id":"Q962644",
+        "wk:page":"Iland\u017ea"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054117,
+    "wof:geomhash":"3331f5fa1a8e0391ae5645f25dedc88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809813,
+            "locality_id":890477497,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477497,
+    "wof:lastmodified":1527727180,
+    "wof:name":"Iland\u017ea",
+    "wof:parent_id":1108809813,
+    "wof:placetype":"locality",
+    "wof:population":2426,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92008,
+    45.16897,
+    20.92008,
+    45.16897
+],
+  "geometry": {"coordinates":[20.92008,45.16897],"type":"Point"}
+}

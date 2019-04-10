@@ -1,0 +1,67 @@
+{
+  "id": 1209324489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48264,43.67753,21.48264,43.67753",
+    "geom:latitude":43.67753,
+    "geom:longitude":21.48264,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Macja",
+    "gn:country_code":"RS",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788391,
+    "gn:latitude":43.67753,
+    "gn:longitude":21.48264,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ma\u0107ja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u0107ija",
+        "Ma\u0107ja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788391,
+        "wk:page":"Ma%C4%87ija"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9159f82fd2ee3796aa7c3425a40b08f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209324489
+        }
+    ],
+    "wof:id":1209324489,
+    "wof:lastmodified":1537683764,
+    "wof:name":"Macja",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48264,
+    43.67753,
+    21.48264,
+    43.67753
+],
+  "geometry": {"coordinates":[21.48264,43.67753],"type":"Point"}
+}

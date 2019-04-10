@@ -1,0 +1,110 @@
+{
+  "id": 890477319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44264,45.16816,21.44264,45.16816",
+    "geom:latitude":45.16816,
+    "geom:longitude":21.44264,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1448,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gudurica"
+    ],
+    "name:eng_x_preferred":[
+        "Gudurica"
+    ],
+    "name:epo_x_preferred":[
+        "Gudurica"
+    ],
+    "name:fre_x_preferred":[
+        "Gudurica"
+    ],
+    "name:ger_x_preferred":[
+        "Gudurica"
+    ],
+    "name:hrv_x_preferred":[
+        "Gudurica"
+    ],
+    "name:hun_x_preferred":[
+        "Temeskutas"
+    ],
+    "name:may_x_preferred":[
+        "Gudurica"
+    ],
+    "name:rum_x_preferred":[
+        "Gudurica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0443\u0440\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Gudurica"
+    ],
+    "name:srp_x_preferred":[
+        "Gudurica"
+    ],
+    "name:unk_x_variant":[
+        "Temiski Kutas"
+    ],
+    "qs:name":"Gudurica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790104,
+        "gp:id":535322,
+        "qs:id":1029093,
+        "wd:id":"Q264698",
+        "wk:page":"Gudurica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054111,
+    "wof:geomhash":"265176b81998f3c7ca642f373c7e3097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890477319,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477319,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Gudurica",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":1448,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44264,
+    45.16816,
+    21.44264,
+    45.16816
+],
+  "geometry": {"coordinates":[21.44264,45.16816],"type":"Point"}
+}

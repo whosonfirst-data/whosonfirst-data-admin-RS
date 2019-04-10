@@ -1,0 +1,73 @@
+{
+  "id": 1226052669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54386,42.35913,21.54386,42.35913",
+    "geom:latitude":42.35913,
+    "geom:longitude":21.54386,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Dervis",
+    "gn:country_code":"RS",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830137,
+    "gn:latitude":42.35913,
+    "gn:longitude":21.54386,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dervi\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dervi\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810039,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830137
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"23391a1112b125d16e3654ea0312c3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810039,
+            "locality_id":1226052669,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1226052669,
+    "wof:lastmodified":1537683847,
+    "wof:name":"Dervis",
+    "wof:parent_id":1108810039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54386,
+    42.35913,
+    21.54386,
+    42.35913
+],
+  "geometry": {"coordinates":[21.54386,42.35913],"type":"Point"}
+}

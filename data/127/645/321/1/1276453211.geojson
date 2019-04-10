@@ -1,0 +1,74 @@
+{
+  "id": 1276453211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33034,44.09441,20.33034,44.09441",
+    "geom:latitude":44.09441,
+    "geom:longitude":20.33034,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Ozrem",
+    "gn:country_code":"RS",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787281,
+    "gn:latitude":44.09441,
+    "gn:longitude":20.33034,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ozrem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ozrem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809897,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787281,
+        "wk:page":"Ozrem"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"949e0402238daf6f7dbcc937476af006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809897,
+            "locality_id":1276453211,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1276453211,
+    "wof:lastmodified":1537683744,
+    "wof:name":"Ozrem",
+    "wof:parent_id":1108809897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33034,
+    44.09441,
+    20.33034,
+    44.09441
+],
+  "geometry": {"coordinates":[20.33034,44.09441],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226578025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82715,42.94635,21.82715,42.94635",
+    "geom:latitude":42.94635,
+    "geom:longitude":21.82715,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"70718.0",
+    "gn:asciiname":"Bosnjace",
+    "gn:country_code":"RS",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792415,
+    "gn:latitude":42.94635,
+    "gn:longitude":21.82715,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Bo\u0161njace",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bo\u0161njace"
+    ],
+    "name:und_x_variant":[
+        "Bo\u0161njaci",
+        "Bo\u0161njak",
+        "Boshnjaci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809953,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792415,
+        "wk:page":"Bo%C5%A1njace"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3da539c0130e3f0b5ce4d0d0988fcd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809953,
+            "locality_id":1226578025,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1226578025,
+    "wof:lastmodified":1537683830,
+    "wof:name":"Bosnjace",
+    "wof:parent_id":1108809953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82715,
+    42.94635,
+    21.82715,
+    42.94635
+],
+  "geometry": {"coordinates":[21.82715,42.94635],"type":"Point"}
+}

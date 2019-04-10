@@ -1,0 +1,70 @@
+{
+  "id": 1243085855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32889,43.24944,21.32889,43.24944",
+    "geom:latitude":43.24944,
+    "geom:longitude":21.32889,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Srbijanci",
+    "gn:country_code":"RS",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863332,
+    "gn:latitude":43.24944,
+    "gn:longitude":21.32889,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Srbijanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809849,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863332
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cec0ab950cb4abb06a9e97181ad29f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809849,
+            "locality_id":1243085855,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1243085855,
+    "wof:lastmodified":1536827366,
+    "wof:name":"Srbijanci",
+    "wof:parent_id":1108809849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32889,
+    43.24944,
+    21.32889,
+    43.24944
+],
+  "geometry": {"coordinates":[21.32889,43.24944],"type":"Point"}
+}

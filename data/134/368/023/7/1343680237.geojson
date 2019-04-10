@@ -1,0 +1,70 @@
+{
+  "id": 1343680237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69139,45.19556,19.69139,45.19556",
+    "geom:latitude":45.19556,
+    "geom:longitude":19.69139,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Sakotinac",
+    "gn:country_code":"RS",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214588,
+    "gn:latitude":45.19556,
+    "gn:longitude":19.69139,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160akotinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809847,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214588
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9c2e961b86642e8c5a5c4abe89b5822f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809847,
+            "locality_id":1343680237,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1343680237,
+    "wof:lastmodified":1536927227,
+    "wof:name":"Sakotinac",
+    "wof:parent_id":1108809847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69139,
+    45.19556,
+    19.69139,
+    45.19556
+],
+  "geometry": {"coordinates":[19.69139,45.19556],"type":"Point"}
+}

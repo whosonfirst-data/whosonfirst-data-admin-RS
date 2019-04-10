@@ -1,0 +1,74 @@
+{
+  "id": 1327343555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73294,43.22615,21.73294,43.22615",
+    "geom:latitude":43.22615,
+    "geom:longitude":21.73294,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Pejkovac",
+    "gn:country_code":"RS",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787146,
+    "gn:latitude":43.22615,
+    "gn:longitude":21.73294,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pejkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pejkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810169,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787146,
+        "wk:page":"Pejkovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"02c600ad11e4755c29df4bf0eada35ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810169,
+            "locality_id":1327343555,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1327343555,
+    "wof:lastmodified":1537683741,
+    "wof:name":"Pejkovac",
+    "wof:parent_id":1108810169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73294,
+    43.22615,
+    21.73294,
+    43.22615
+],
+  "geometry": {"coordinates":[21.73294,43.22615],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343968067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50027,45.73462,19.50027,45.73462",
+    "geom:latitude":45.73462,
+    "geom:longitude":19.50027,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Duboka",
+    "gn:country_code":"RS",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318831,
+    "gn:latitude":45.73462,
+    "gn:longitude":19.50027,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Duboka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Duboka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108809829,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318831
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"df8ddba08a84342c2f626d8938adba1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809829,
+            "locality_id":1343968067,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1343968067,
+    "wof:lastmodified":1537684027,
+    "wof:name":"Duboka",
+    "wof:parent_id":1108809829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50027,
+    45.73462,
+    19.50027,
+    45.73462
+],
+  "geometry": {"coordinates":[19.50027,45.73462],"type":"Point"}
+}

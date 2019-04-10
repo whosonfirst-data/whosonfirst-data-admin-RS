@@ -1,0 +1,73 @@
+{
+  "id": 1326845083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36781,43.91225,20.36781,43.91225",
+    "geom:latitude":43.91225,
+    "geom:longitude":20.36781,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Ljubic",
+    "gn:country_code":"RS",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788569,
+    "gn:latitude":43.91225,
+    "gn:longitude":20.36781,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ljubi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ljubi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809867,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788569
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c19d44d3aaad859f4371a6d57592ea4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809867,
+            "locality_id":1326845083,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1326845083,
+    "wof:lastmodified":1537683767,
+    "wof:name":"Ljubic",
+    "wof:parent_id":1108809867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36781,
+    43.91225,
+    20.36781,
+    43.91225
+],
+  "geometry": {"coordinates":[20.36781,43.91225],"type":"Point"}
+}

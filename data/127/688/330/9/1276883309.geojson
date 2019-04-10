@@ -1,0 +1,70 @@
+{
+  "id": 1276883309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48746,43.58851,21.48746,43.58851",
+    "geom:latitude":43.58851,
+    "geom:longitude":21.48746,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Panjkonac",
+    "gn:country_code":"RS",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838475,
+    "gn:latitude":43.58851,
+    "gn:longitude":21.48746,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Panjkonac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838475
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"63f33a03e547c50d02133c3f4ac069db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1276883309,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1276883309,
+    "wof:lastmodified":1537034909,
+    "wof:name":"Panjkonac",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48746,
+    43.58851,
+    21.48746,
+    43.58851
+],
+  "geometry": {"coordinates":[21.48746,43.58851],"type":"Point"}
+}

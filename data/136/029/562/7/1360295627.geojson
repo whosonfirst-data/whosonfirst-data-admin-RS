@@ -1,0 +1,74 @@
+{
+  "id": 1360295627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27711,42.55663,22.27711,42.55663",
+    "geom:latitude":42.55663,
+    "geom:longitude":22.27711,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Surleva Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862183,
+    "gn:latitude":42.55663,
+    "gn:longitude":22.27711,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Surleva Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surleva Mala",
+        "Surleva Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862183
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"18f164bd9c5269b19472f479aeaab655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1360295627,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1360295627,
+    "wof:lastmodified":1537683911,
+    "wof:name":"Surleva Mahala",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27711,
+    42.55663,
+    22.27711,
+    42.55663
+],
+  "geometry": {"coordinates":[22.27711,42.55663],"type":"Point"}
+}

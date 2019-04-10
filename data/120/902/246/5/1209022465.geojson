@@ -1,0 +1,68 @@
+{
+  "id": 1209022465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2234,44.54065,21.2234,44.54065",
+    "geom:latitude":44.54065,
+    "geom:longitude":21.2234,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Sljivovac",
+    "gn:country_code":"RS",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785771,
+    "gn:latitude":44.54065,
+    "gn:longitude":21.2234,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160ljivovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160ljivovac"
+    ],
+    "name:und_x_variant":[
+        "\u0160livovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785771
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9d4bcb8022fbb786349a245908669a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209022465
+        }
+    ],
+    "wof:id":1209022465,
+    "wof:lastmodified":1537683714,
+    "wof:name":"Sljivovac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2234,
+    44.54065,
+    21.2234,
+    44.54065
+],
+  "geometry": {"coordinates":[21.2234,44.54065],"type":"Point"}
+}

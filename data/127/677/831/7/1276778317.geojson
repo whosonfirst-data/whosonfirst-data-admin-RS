@@ -1,0 +1,74 @@
+{
+  "id": 1276778317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00744,44.58617,21.00744,44.58617",
+    "geom:latitude":44.58617,
+    "geom:longitude":21.00744,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Mala Krsna",
+    "gn:country_code":"RS",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788319,
+    "gn:latitude":44.58617,
+    "gn:longitude":21.00744,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mala Krsna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mala Krsna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810075,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788319,
+        "wk:page":"Mala_Krsna"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3169de687397f536d15c2c549f0c128d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810075,
+            "locality_id":1276778317,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1276778317,
+    "wof:lastmodified":1537683762,
+    "wof:name":"Mala Krsna",
+    "wof:parent_id":1108810075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00744,
+    44.58617,
+    21.00744,
+    44.58617
+],
+  "geometry": {"coordinates":[21.00744,44.58617],"type":"Point"}
+}

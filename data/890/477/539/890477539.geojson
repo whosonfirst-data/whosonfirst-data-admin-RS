@@ -1,0 +1,115 @@
+{
+  "id": 890477539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23914,45.12554,20.23914,45.12554",
+    "geom:latitude":45.12554,
+    "geom:longitude":20.23914,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3210,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:eng_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:epo_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:fre_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:ger_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:hrv_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajszal\u00e1nkam\u00e9n"
+    ],
+    "name:may_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438-\u0421\u043b\u0430\u043d\u043a\u0430\u043c\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:srp_x_preferred":[
+        "Novi Slankamen"
+    ],
+    "name:unk_x_variant":[
+        "Slankament"
+    ],
+    "qs:name":"Novi Slankamen",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srem",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"45.125277777",
+    "wd:longitude":"20.239444444",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809901,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787592,
+        "gp:id":535660,
+        "qs:id":1029022,
+        "wd:id":"Q1041171",
+        "wk:page":"Novi Slankamen"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054120,
+    "wof:geomhash":"7520e44967a50daad88fde319e044624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809901,
+            "locality_id":890477539,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890477539,
+    "wof:lastmodified":1527727182,
+    "wof:name":"Novi Slankamen",
+    "wof:parent_id":1108809901,
+    "wof:placetype":"locality",
+    "wof:population":3210,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23914,
+    45.12554,
+    20.23914,
+    45.12554
+],
+  "geometry": {"coordinates":[20.23914,45.12554],"type":"Point"}
+}

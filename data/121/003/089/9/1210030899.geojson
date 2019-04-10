@@ -1,0 +1,70 @@
+{
+  "id": 1210030899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07464,43.46583,20.07464,43.46583",
+    "geom:latitude":43.46583,
+    "geom:longitude":20.07464,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Zaskok",
+    "gn:country_code":"RS",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793717,
+    "gn:latitude":43.46583,
+    "gn:longitude":20.07464,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zaskok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793717
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bae9787082e32fbf2c96b6db9796e0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1210030899,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1210030899,
+    "wof:lastmodified":1536388615,
+    "wof:name":"Zaskok",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07464,
+    43.46583,
+    20.07464,
+    43.46583
+],
+  "geometry": {"coordinates":[20.07464,43.46583],"type":"Point"}
+}

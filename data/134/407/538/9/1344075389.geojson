@@ -1,0 +1,73 @@
+{
+  "id": 1344075389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47833,43.08783,20.47833,43.08783",
+    "geom:latitude":43.08783,
+    "geom:longitude":20.47833,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Mekinje",
+    "gn:country_code":"RS",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":835384,
+    "gn:latitude":43.08783,
+    "gn:longitude":20.47833,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mekinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mekinje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835384
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f8722cd89cab27c72832de468f654019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1344075389,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1344075389,
+    "wof:lastmodified":1537683876,
+    "wof:name":"Mekinje",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47833,
+    43.08783,
+    20.47833,
+    43.08783
+],
+  "geometry": {"coordinates":[20.47833,43.08783],"type":"Point"}
+}

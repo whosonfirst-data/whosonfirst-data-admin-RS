@@ -1,0 +1,73 @@
+{
+  "id": 1309721839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74361,43.23833,19.74361,43.23833",
+    "geom:latitude":43.23833,
+    "geom:longitude":19.74361,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Bjecani",
+    "gn:country_code":"RS",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339534,
+    "gn:latitude":43.23833,
+    "gn:longitude":19.74361,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bje\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bje\u010dani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810043,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339534
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e66552ad683b87359368562b3515d7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810043,
+            "locality_id":1309721839,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1309721839,
+    "wof:lastmodified":1537684030,
+    "wof:name":"Bjecani",
+    "wof:parent_id":1108810043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74361,
+    43.23833,
+    19.74361,
+    43.23833
+],
+  "geometry": {"coordinates":[19.74361,43.23833],"type":"Point"}
+}

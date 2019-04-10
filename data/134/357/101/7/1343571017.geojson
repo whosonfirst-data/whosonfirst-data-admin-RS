@@ -1,0 +1,70 @@
+{
+  "id": 1343571017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79276,43.9113,19.79276,43.9113",
+    "geom:latitude":43.9113,
+    "geom:longitude":19.79276,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Jokovici",
+    "gn:country_code":"RS",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318952,
+    "gn:latitude":43.9113,
+    "gn:longitude":19.79276,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jokovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810123,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318952
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b74e5c9362e11a72bc5b99ef1b7aa3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810123,
+            "locality_id":1343571017,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1343571017,
+    "wof:lastmodified":1537081009,
+    "wof:name":"Jokovici",
+    "wof:parent_id":1108810123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79276,
+    43.9113,
+    19.79276,
+    43.9113
+],
+  "geometry": {"coordinates":[19.79276,43.9113],"type":"Point"}
+}

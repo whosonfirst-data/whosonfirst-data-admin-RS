@@ -1,0 +1,103 @@
+{
+  "id": 890476689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33729,45.20979,21.33729,45.20979",
+    "geom:latitude":45.20979,
+    "geom:longitude":21.33729,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":565,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mali Zjam"
+    ],
+    "name:eng_x_preferred":[
+        "Mali \u017dam"
+    ],
+    "name:epo_x_preferred":[
+        "Mali \u0134am"
+    ],
+    "name:fre_x_preferred":[
+        "Mali \u017dam"
+    ],
+    "name:hun_x_preferred":[
+        "Kiszs\u00e1m"
+    ],
+    "name:may_x_preferred":[
+        "Mali \u017dam"
+    ],
+    "name:rum_x_preferred":[
+        "Jamu Mic"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u0416\u0430\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Mali \u017dam"
+    ],
+    "name:srp_x_preferred":[
+        "Mali \u017dam"
+    ],
+    "name:unk_x_variant":[
+        "Zsam-Mik"
+    ],
+    "qs:name":"Mali \u017dam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788224,
+        "qs:id":83665,
+        "wd:id":"Q1091309",
+        "wk:page":"Mali \u017dam"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054085,
+    "wof:geomhash":"03e97f5129ef56b2b5f47991d17ba83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890476689,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890476689,
+    "wof:lastmodified":1527727148,
+    "wof:name":"Mali \u017dam",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33729,
+    45.20979,
+    21.33729,
+    45.20979
+],
+  "geometry": {"coordinates":[21.33729,45.20979],"type":"Point"}
+}

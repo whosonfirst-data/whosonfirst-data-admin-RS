@@ -1,0 +1,85 @@
+{
+  "id": 1360218759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92168,46.06736,19.92168,46.06736",
+    "geom:latitude":46.06736,
+    "geom:longitude":19.92168,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"80195.0",
+    "gn:asciiname":"Male Pijace",
+    "gn:country_code":"RS",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195757,
+    "gn:latitude":46.06736,
+    "gn:longitude":19.92168,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Male Pijace",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Kispiac"
+    ],
+    "name:srp_x_preferred":[
+        "Male Pijace"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0435 \u041f\u0438\u0458\u0430\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mala Pijaca",
+        "Kispiac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108809911,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195757,
+        "wk:page":"Male_Pijace"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6338a65d2d2867fc89a5e72032906561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809911,
+            "locality_id":1360218759,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1360218759,
+    "wof:lastmodified":1537683933,
+    "wof:name":"Male Pijace",
+    "wof:parent_id":1108809911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92168,
+    46.06736,
+    19.92168,
+    46.06736
+],
+  "geometry": {"coordinates":[19.92168,46.06736],"type":"Point"}
+}

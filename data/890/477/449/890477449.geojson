@@ -1,0 +1,78 @@
+{
+  "id": 890477449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05144,43.28971,22.05144,43.28971",
+    "geom:latitude":43.28971,
+    "geom:longitude":22.05144,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jela\u0161nica"
+    ],
+    "qs:name":"Jela\u00b5nica",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Nishava",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":62,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809989,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789814,
+        "gp:id":534408,
+        "qs:id":475646
+    },
+    "wof:country":"RS",
+    "wof:created":1469054116,
+    "wof:geomhash":"9119aad79b8c80bb70c2b52eb2873363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809989,
+            "locality_id":890477449,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":890477449,
+    "wof:lastmodified":1505343726,
+    "wof:name":"Jela\u00b5nica",
+    "wof:parent_id":1108809989,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05144,
+    43.28971,
+    22.05144,
+    43.28971
+],
+  "geometry": {"coordinates":[22.05144,43.28971],"type":"Point"}
+}

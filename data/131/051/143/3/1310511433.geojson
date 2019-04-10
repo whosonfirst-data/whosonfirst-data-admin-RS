@@ -1,0 +1,74 @@
+{
+  "id": 1310511433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3807,42.61589,22.3807,42.61589",
+    "geom:latitude":42.61589,
+    "geom:longitude":22.3807,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Mariceva Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862083,
+    "gn:latitude":42.61589,
+    "gn:longitude":22.3807,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mari\u0107eva Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u010deva Mahala",
+        "Mari\u0107eva Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862083
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e14f48e4914226e5e2d10e9d982fb9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1310511433,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1310511433,
+    "wof:lastmodified":1537683910,
+    "wof:name":"Mariceva Mahala",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3807,
+    42.61589,
+    22.3807,
+    42.61589
+],
+  "geometry": {"coordinates":[22.3807,42.61589],"type":"Point"}
+}

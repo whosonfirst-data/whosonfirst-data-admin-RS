@@ -1,0 +1,76 @@
+{
+  "id": 1309923987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66304,44.32651,19.66304,44.32651",
+    "geom:latitude":44.32651,
+    "geom:longitude":19.66304,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Dumani",
+    "gn:country_code":"RS",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216424,
+    "gn:latitude":44.32651,
+    "gn:longitude":19.66304,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dumani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dumani"
+    ],
+    "name:und_x_variant":[
+        "Duman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810013,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216424
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1beb6323eafe70c4299c8435a0e76538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810013,
+            "locality_id":1309923987,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1309923987,
+    "wof:lastmodified":1537683958,
+    "wof:name":"Dumani",
+    "wof:parent_id":1108810013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66304,
+    44.32651,
+    19.66304,
+    44.32651
+],
+  "geometry": {"coordinates":[19.66304,44.32651],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259701807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.34368,43.55992,21.34368,43.55992",
+    "geom:latitude":43.55992,
+    "geom:longitude":21.34368,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Malo Golovode",
+    "gn:country_code":"RS",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788214,
+    "gn:latitude":43.55992,
+    "gn:longitude":21.34368,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Malo Golovode",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Malo Golovode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788214,
+        "wk:page":"Malo_Golovode"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5a55865f6a1ad9b006a0439b82cf66ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1259701807,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1259701807,
+    "wof:lastmodified":1537683760,
+    "wof:name":"Malo Golovode",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.34368,
+    43.55992,
+    21.34368,
+    43.55992
+],
+  "geometry": {"coordinates":[21.34368,43.55992],"type":"Point"}
+}

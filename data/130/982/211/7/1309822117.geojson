@@ -1,0 +1,73 @@
+{
+  "id": 1309822117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13058,43.71191,20.13058,43.71191",
+    "geom:latitude":43.71191,
+    "geom:longitude":20.13058,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Mirosaljici",
+    "gn:country_code":"RS",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":836275,
+    "gn:latitude":43.71191,
+    "gn:longitude":20.13058,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mirosaljici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mirosaljici"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809821,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836275
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d52c5d1520008b2b153b5a2551336704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809821,
+            "locality_id":1309822117,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1309822117,
+    "wof:lastmodified":1537683891,
+    "wof:name":"Mirosaljici",
+    "wof:parent_id":1108809821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13058,
+    43.71191,
+    20.13058,
+    43.71191
+],
+  "geometry": {"coordinates":[20.13058,43.71191],"type":"Point"}
+}

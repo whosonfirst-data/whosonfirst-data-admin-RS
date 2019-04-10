@@ -1,0 +1,74 @@
+{
+  "id": 1360194639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54409,44.43689,21.54409,44.43689",
+    "geom:latitude":44.43689,
+    "geom:longitude":21.54409,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Kladurovo",
+    "gn:country_code":"RS",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789483,
+    "gn:latitude":44.43689,
+    "gn:longitude":21.54409,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kladurovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kladurovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810027,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789483,
+        "wk:page":"Kladurovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eba6fe389004f07eea624c39bb27728b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810027,
+            "locality_id":1360194639,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1360194639,
+    "wof:lastmodified":1537683780,
+    "wof:name":"Kladurovo",
+    "wof:parent_id":1108810027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54409,
+    44.43689000000001,
+    21.54409,
+    44.43689000000001
+],
+  "geometry": {"coordinates":[21.54409,44.43689000000001],"type":"Point"}
+}

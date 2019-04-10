@@ -1,0 +1,73 @@
+{
+  "id": 1293802367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63931,44.21305,20.63931,44.21305",
+    "geom:latitude":44.21305,
+    "geom:longitude":20.63931,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Vinca",
+    "gn:country_code":"RS",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784428,
+    "gn:latitude":44.21305,
+    "gn:longitude":20.63931,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vin\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vin\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810113,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784428
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"acbcc4818722ed53e1b80449eb11792e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810113,
+            "locality_id":1293802367,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1293802367,
+    "wof:lastmodified":1537683694,
+    "wof:name":"Vinca",
+    "wof:parent_id":1108810113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63931,
+    44.21305,
+    20.63931,
+    44.21305
+],
+  "geometry": {"coordinates":[20.63931,44.21305],"type":"Point"}
+}

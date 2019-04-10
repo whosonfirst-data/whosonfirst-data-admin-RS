@@ -1,0 +1,74 @@
+{
+  "id": 1310615941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64695,43.04989,22.64695,43.04989",
+    "geom:latitude":43.04989,
+    "geom:longitude":22.64695,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Sukovo",
+    "gn:country_code":"RS",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785318,
+    "gn:latitude":43.04989,
+    "gn:longitude":22.64695,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sukovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sukovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108810029,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785318,
+        "wk:page":"Sukovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8304b2c2ec21bc7eda96736a4508d0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810029,
+            "locality_id":1310615941,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1310615941,
+    "wof:lastmodified":1537683707,
+    "wof:name":"Sukovo",
+    "wof:parent_id":1108810029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64695,
+    43.04989000000001,
+    22.64695,
+    43.04989000000001
+],
+  "geometry": {"coordinates":[22.64695,43.04989000000001],"type":"Point"}
+}

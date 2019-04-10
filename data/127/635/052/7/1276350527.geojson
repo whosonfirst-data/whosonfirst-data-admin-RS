@@ -1,0 +1,73 @@
+{
+  "id": 1276350527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55148,44.27159,19.55148,44.27159",
+    "geom:latitude":44.27159,
+    "geom:longitude":19.55148,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Skadar",
+    "gn:country_code":"RS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190762,
+    "gn:latitude":44.27159,
+    "gn:longitude":19.55148,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Skadar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Skadar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810013,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190762
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9bbccb89ad55a017c6859f17514d586a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810013,
+            "locality_id":1276350527,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1276350527,
+    "wof:lastmodified":1537683924,
+    "wof:name":"Skadar",
+    "wof:parent_id":1108810013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55148,
+    44.27159,
+    19.55148,
+    44.27159
+],
+  "geometry": {"coordinates":[19.55148,44.27159],"type":"Point"}
+}

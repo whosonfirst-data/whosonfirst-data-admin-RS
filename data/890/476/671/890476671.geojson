@@ -1,0 +1,95 @@
+{
+  "id": 890476671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51222,43.22028,21.51222,43.22028",
+    "geom:latitude":43.22028,
+    "geom:longitude":21.51222,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":324,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Gubetini"
+    ],
+    "name:dut_x_preferred":[
+        "Gubetin"
+    ],
+    "name:eng_x_preferred":[
+        "Gubetin"
+    ],
+    "name:fre_x_preferred":[
+        "Gubetin"
+    ],
+    "name:may_x_preferred":[
+        "Gubetin"
+    ],
+    "name:por_x_preferred":[
+        "Gubetin"
+    ],
+    "name:slv_x_preferred":[
+        "Gubetin"
+    ],
+    "name:srp_x_preferred":[
+        "Gubetin"
+    ],
+    "qs:name":"Gubetin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790107,
+        "gp:id":535227,
+        "qs:id":83720,
+        "wd:id":"Q3106694",
+        "wk:page":"Gubetin"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054084,
+    "wof:geomhash":"5beb09c2e42f526aaf871592b05d877c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890476671,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476671,
+    "wof:lastmodified":1527727151,
+    "wof:name":"Gubetin",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51222,
+    43.22028,
+    21.51222,
+    43.22028
+],
+  "geometry": {"coordinates":[21.51222,43.22028],"type":"Point"}
+}

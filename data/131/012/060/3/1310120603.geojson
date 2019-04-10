@@ -1,0 +1,74 @@
+{
+  "id": 1310120603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41893,43.77886,21.41893,43.77886",
+    "geom:latitude":43.77886,
+    "geom:longitude":21.41893,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Sikirica",
+    "gn:country_code":"RS",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785922,
+    "gn:latitude":43.77886,
+    "gn:longitude":21.41893,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sikirica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sikirica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108810023,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785922,
+        "wk:page":"Sikirica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cfe61aa1768329584031da75a7c3abd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810023,
+            "locality_id":1310120603,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1310120603,
+    "wof:lastmodified":1537683717,
+    "wof:name":"Sikirica",
+    "wof:parent_id":1108810023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41893,
+    43.77886,
+    21.41893,
+    43.77886
+],
+  "geometry": {"coordinates":[21.41893,43.77886],"type":"Point"}
+}

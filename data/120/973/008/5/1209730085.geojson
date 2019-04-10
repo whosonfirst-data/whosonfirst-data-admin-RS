@@ -1,0 +1,70 @@
+{
+  "id": 1209730085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58965,43.20108,21.58965,43.20108",
+    "geom:latitude":43.20108,
+    "geom:longitude":21.58965,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Simonovac",
+    "gn:country_code":"RS",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863395,
+    "gn:latitude":43.20108,
+    "gn:longitude":21.58965,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Simonovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863395
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0282428bdf131a71758cfff0c22f9194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1209730085,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1209730085,
+    "wof:lastmodified":1536379586,
+    "wof:name":"Simonovac",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58965,
+    43.20108,
+    21.58965,
+    43.20108
+],
+  "geometry": {"coordinates":[21.58965,43.20108],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276453227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50831,43.24151,20.50831,43.24151",
+    "geom:latitude":43.24151,
+    "geom:longitude":20.50831,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Srednja Tusimlja",
+    "gn:country_code":"RS",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785627,
+    "gn:latitude":43.24151,
+    "gn:longitude":20.50831,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Srednja Tu\u0161imlja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Srednja Tu\u0161imlja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785627,
+        "wk:page":"Srednja_Tu%C5%A1imlja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"493754f1b137000621cabc4b7760fdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1276453227,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1276453227,
+    "wof:lastmodified":1537683713,
+    "wof:name":"Srednja Tusimlja",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50831,
+    43.24151,
+    20.50831,
+    43.24151
+],
+  "geometry": {"coordinates":[20.50831,43.24151],"type":"Point"}
+}

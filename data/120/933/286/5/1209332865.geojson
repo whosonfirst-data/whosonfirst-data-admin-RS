@@ -1,0 +1,69 @@
+{
+  "id": 1209332865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26879,43.19889,21.26879,43.19889",
+    "geom:latitude":43.19889,
+    "geom:longitude":21.26879,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Spance",
+    "gn:country_code":"RS",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785654,
+    "gn:latitude":43.19889,
+    "gn:longitude":21.26879,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Spance",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Spance"
+    ],
+    "name:und_x_variant":[
+        "Spanci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785654,
+        "wk:page":"Spance"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ff19bcffb300d8b0f75fbb3d591385ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209332865
+        }
+    ],
+    "wof:id":1209332865,
+    "wof:lastmodified":1537683713,
+    "wof:name":"Spance",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26879,
+    43.19889000000001,
+    21.26879,
+    43.19889000000001
+],
+  "geometry": {"coordinates":[21.26879,43.19889000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293010579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04891,43.14785,21.04891,43.14785",
+    "geom:latitude":43.14785,
+    "geom:longitude":21.04891,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Trebinje",
+    "gn:country_code":"RS",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784969,
+    "gn:latitude":43.14785,
+    "gn:longitude":21.04891,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trebinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Trebinje"
+    ],
+    "name:und_x_variant":[
+        "Trebinja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784969
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7c5981b97cd5883fc6cb895206b19a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1293010579,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1293010579,
+    "wof:lastmodified":1537683703,
+    "wof:name":"Trebinje",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04891,
+    43.14785,
+    21.04891,
+    43.14785
+],
+  "geometry": {"coordinates":[21.04891,43.14785],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209229231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14552,42.33597,22.14552,42.33597",
+    "geom:latitude":42.33597,
+    "geom:longitude":22.14552,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Ornice",
+    "gn:country_code":"RS",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861223,
+    "gn:latitude":42.33597,
+    "gn:longitude":22.14552,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Orni\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861223
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"425876a9f391ba0ba6aafbf6b9034c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229231
+        }
+    ],
+    "wof:id":1209229231,
+    "wof:lastmodified":1536293692,
+    "wof:name":"Ornice",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14552,
+    42.33597,
+    22.14552,
+    42.33597
+],
+  "geometry": {"coordinates":[22.14552,42.33597],"type":"Point"}
+}

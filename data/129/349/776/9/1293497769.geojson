@@ -1,0 +1,70 @@
+{
+  "id": 1293497769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98936,42.38336,21.98936,42.38336",
+    "geom:latitude":42.38336,
+    "geom:longitude":21.98936,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Donja Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860799,
+    "gn:latitude":42.38336,
+    "gn:longitude":21.98936,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860799
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ea0859da7f4f29ce6121bb3988e4952c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1293497769,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1293497769,
+    "wof:lastmodified":1536772755,
+    "wof:name":"Donja Mahala",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98936,
+    42.38336,
+    21.98936,
+    42.38336
+],
+  "geometry": {"coordinates":[21.98936,42.38336],"type":"Point"}
+}

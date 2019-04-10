@@ -1,0 +1,71 @@
+{
+  "id": 1259593271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51315,43.35341,19.51315,43.35341",
+    "geom:latitude":43.35341,
+    "geom:longitude":19.51315,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Jabuka",
+    "gn:country_code":"RS",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342196,
+    "gn:latitude":43.35341,
+    "gn:longitude":19.51315,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jabuka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810043,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342196,
+        "wk:page":"Jabuka_%28Prijepolje%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"583803ee33f0f2323d422f95f9fb5666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810043,
+            "locality_id":1259593271,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1259593271,
+    "wof:lastmodified":1537572123,
+    "wof:name":"Jabuka",
+    "wof:parent_id":1108810043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51315,
+    43.35341,
+    19.51315,
+    43.35341
+],
+  "geometry": {"coordinates":[19.51315,43.35341],"type":"Point"}
+}

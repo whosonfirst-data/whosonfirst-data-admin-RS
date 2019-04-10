@@ -1,0 +1,77 @@
+{
+  "id": 1327441575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20251,43.39604,20.20251,43.39604",
+    "geom:latitude":43.39604,
+    "geom:longitude":20.20251,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Babici",
+    "gn:country_code":"RS",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834814,
+    "gn:latitude":43.39604,
+    "gn:longitude":20.20251,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Babi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Babi\u0107i"
+    ],
+    "name:und_x_variant":[
+        "Drami\u010dane",
+        "Drami\u010dani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834814
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"91c8cfbe76e0f44bee72a3088b7a7038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1327441575,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1327441575,
+    "wof:lastmodified":1537683860,
+    "wof:name":"Babici",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20251,
+    43.39604,
+    20.20251,
+    43.39604
+],
+  "geometry": {"coordinates":[20.20251,43.39604],"type":"Point"}
+}

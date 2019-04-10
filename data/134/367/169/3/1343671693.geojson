@@ -1,0 +1,70 @@
+{
+  "id": 1343671693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05104,42.55314,22.05104,42.55314",
+    "geom:latitude":42.55314,
+    "geom:longitude":22.05104,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Paestorci",
+    "gn:country_code":"RS",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860896,
+    "gn:latitude":42.55314,
+    "gn:longitude":22.05104,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Paestorci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860896
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7e1779b93668e0f50ee7c0e814bf1168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1343671693,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1343671693,
+    "wof:lastmodified":1536939488,
+    "wof:name":"Paestorci",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05104,
+    42.55314,
+    22.05104,
+    42.55314
+],
+  "geometry": {"coordinates":[22.05104,42.55314],"type":"Point"}
+}

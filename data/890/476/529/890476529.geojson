@@ -1,0 +1,107 @@
+{
+  "id": 890476529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31898,45.07474,20.31898,45.07474",
+    "geom:latitude":45.07474,
+    "geom:longitude":20.31898,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1332,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Surduk"
+    ],
+    "name:dut_x_preferred":[
+        "Surduk"
+    ],
+    "name:eng_x_preferred":[
+        "Surduk"
+    ],
+    "name:epo_x_preferred":[
+        "Surduk"
+    ],
+    "name:fre_x_preferred":[
+        "Surduk"
+    ],
+    "name:ger_x_preferred":[
+        "Surduk"
+    ],
+    "name:hrv_x_preferred":[
+        "Surduk"
+    ],
+    "name:hun_x_preferred":[
+        "Surduk"
+    ],
+    "name:may_x_preferred":[
+        "Surduk"
+    ],
+    "name:slv_x_preferred":[
+        "Surduk"
+    ],
+    "name:srp_x_preferred":[
+        "Surduk"
+    ],
+    "name:unk_x_variant":[
+        "Rittium"
+    ],
+    "qs:name":"Surduk",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810093,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785287,
+        "gp:id":533122,
+        "qs:id":129421,
+        "wd:id":"Q288536",
+        "wk:page":"Surduk"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054078,
+    "wof:geomhash":"d47368f19b3b9d794d6f1c1b5e3f2d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810093,
+            "locality_id":890476529,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890476529,
+    "wof:lastmodified":1527727149,
+    "wof:name":"Surduk",
+    "wof:parent_id":1108810093,
+    "wof:placetype":"locality",
+    "wof:population":1332,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31898,
+    45.07474,
+    20.31898,
+    45.07474
+],
+  "geometry": {"coordinates":[20.31898,45.07474],"type":"Point"}
+}

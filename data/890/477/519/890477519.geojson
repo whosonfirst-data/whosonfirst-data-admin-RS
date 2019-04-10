@@ -1,0 +1,112 @@
+{
+  "id": 890477519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10635,45.99088,19.10635,45.99088",
+    "geom:latitude":45.99088,
+    "geom:longitude":19.10635,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3186,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:eng_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:epo_x_preferred":[
+        "Ridjica"
+    ],
+    "name:fre_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:ger_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:hun_x_preferred":[
+        "Reg\u0151ce"
+    ],
+    "name:may_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:slv_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:srp_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:unk_x_variant":[
+        "Deutsch-Baja"
+    ],
+    "qs:name":"Ri\u00f0ica",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Zapadna Bachka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"45.986388888",
+    "wd:longitude":"19.105",
+    "wd:wordcount":262,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191660,
+        "gp:id":536408,
+        "qs:id":1067491,
+        "wd:id":"Q1048343",
+        "wk:page":"Ri\u0111ica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054118,
+    "wof:geomhash":"ed6d136bf5964948381612a991c16e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":890477519,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477519,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Ri\u00f0ica",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:population":3186,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10635,
+    45.99088,
+    19.10635,
+    45.99088
+],
+  "geometry": {"coordinates":[19.10635,45.99088],"type":"Point"}
+}

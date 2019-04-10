@@ -1,0 +1,77 @@
+{
+  "id": 1276996157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59776,44.12487,22.59776,44.12487",
+    "geom:latitude":44.12487,
+    "geom:longitude":22.59776,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Veljkovo",
+    "gn:country_code":"RS",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784506,
+    "gn:latitude":44.12487,
+    "gn:longitude":22.59776,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Veljkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Veljkovo"
+    ],
+    "name:und_x_variant":[
+        "Bljuvanovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809987,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784506,
+        "wk:page":"Veljkovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ee8efabadafb6ba1ef74eedbb7287532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809987,
+            "locality_id":1276996157,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1276996157,
+    "wof:lastmodified":1537683695,
+    "wof:name":"Veljkovo",
+    "wof:parent_id":1108809987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59776,
+    44.12487,
+    22.59776,
+    44.12487
+],
+  "geometry": {"coordinates":[22.59776,44.12487],"type":"Point"}
+}

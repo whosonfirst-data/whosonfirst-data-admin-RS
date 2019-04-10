@@ -1,0 +1,74 @@
+{
+  "id": 1243281957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92295,44.36412,19.92295,44.36412",
+    "geom:latitude":44.36412,
+    "geom:longitude":19.92295,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Blizonje",
+    "gn:country_code":"RS",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203903,
+    "gn:latitude":44.36412,
+    "gn:longitude":19.92295,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Blizonje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Blizonje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810127,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203903,
+        "wk:page":"Blizonje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1d80a1c4d53597c21d2329702a3d3072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810127,
+            "locality_id":1243281957,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1243281957,
+    "wof:lastmodified":1537683949,
+    "wof:name":"Blizonje",
+    "wof:parent_id":1108810127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92295,
+    44.36412,
+    19.92295,
+    44.36412
+],
+  "geometry": {"coordinates":[19.92295,44.36412],"type":"Point"}
+}

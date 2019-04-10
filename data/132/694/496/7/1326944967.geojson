@@ -1,0 +1,73 @@
+{
+  "id": 1326944967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05946,43.54007,20.05946,43.54007",
+    "geom:latitude":43.54007,
+    "geom:longitude":20.05946,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Brezova",
+    "gn:country_code":"RS",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792280,
+    "gn:latitude":43.54007,
+    "gn:longitude":20.05946,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Brezova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Brezova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792280
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ec0ec66e0c65a291487d47cb0c7e0585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1326944967,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1326944967,
+    "wof:lastmodified":1537683827,
+    "wof:name":"Brezova",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05946,
+    43.54007,
+    20.05946,
+    43.54007
+],
+  "geometry": {"coordinates":[20.05946,43.54007],"type":"Point"}
+}

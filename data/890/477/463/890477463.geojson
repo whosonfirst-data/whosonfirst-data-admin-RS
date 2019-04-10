@@ -1,0 +1,97 @@
+{
+  "id": 890477463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59858,44.21894,21.59858,44.21894",
+    "geom:latitude":44.21894,
+    "geom:longitude":21.59858,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sige"
+    ],
+    "name:eng_x_preferred":[
+        "Sige"
+    ],
+    "name:fre_x_preferred":[
+        "Sige"
+    ],
+    "name:may_x_preferred":[
+        "Sige"
+    ],
+    "name:por_x_preferred":[
+        "Sige"
+    ],
+    "name:slv_x_preferred":[
+        "Sige"
+    ],
+    "name:srp_x_preferred":[
+        "Sige"
+    ],
+    "qs:name":"Sige",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Branichevo",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810159,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785925,
+        "gp:id":536641,
+        "qs:id":496518,
+        "wd:id":"Q3105999"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054116,
+    "wof:geomhash":"71591ae06bc1ee773bbf44f864a74178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810159,
+            "locality_id":890477463,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":890477463,
+    "wof:lastmodified":1514500345,
+    "wof:name":"Sige",
+    "wof:parent_id":1108810159,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59858,
+    44.21894,
+    21.59858,
+    44.21894
+],
+  "geometry": {"coordinates":[21.59858,44.21894],"type":"Point"}
+}

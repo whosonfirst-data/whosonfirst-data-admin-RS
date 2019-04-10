@@ -1,0 +1,65 @@
+{
+  "id": 1209533693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22583,44.01583,21.22583,44.01583",
+    "geom:latitude":44.01583,
+    "geom:longitude":21.22583,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Ribnik",
+    "gn:country_code":"RS",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786297,
+    "gn:latitude":44.01583,
+    "gn:longitude":21.22583,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ribnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ribnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786297
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eda14057f497b16931a0afdea2314f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209533693
+        }
+    ],
+    "wof:id":1209533693,
+    "wof:lastmodified":1537683725,
+    "wof:name":"Ribnik",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22583,
+    44.01583,
+    21.22583,
+    44.01583
+],
+  "geometry": {"coordinates":[21.22583,44.01583],"type":"Point"}
+}

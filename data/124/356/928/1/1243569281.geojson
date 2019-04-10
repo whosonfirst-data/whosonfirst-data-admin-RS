@@ -1,0 +1,80 @@
+{
+  "id": 1243569281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73458,42.31029,21.73458,42.31029",
+    "geom:latitude":42.31029,
+    "geom:longitude":21.73458,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Reljan",
+    "gn:country_code":"RS",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786356,
+    "gn:latitude":42.31029,
+    "gn:longitude":21.73458,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Reljan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Reljak"
+    ],
+    "name:srp_x_preferred":[
+        "Reljan"
+    ],
+    "name:und_x_variant":[
+        "Reljak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810039,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786356,
+        "wk:page":"Reljan"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"77c52b7c72a26514250fab6e5aefc4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810039,
+            "locality_id":1243569281,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1243569281,
+    "wof:lastmodified":1537683726,
+    "wof:name":"Reljan",
+    "wof:parent_id":1108810039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73458,
+    42.31029,
+    21.73458,
+    42.31029
+],
+  "geometry": {"coordinates":[21.73458,42.31029],"type":"Point"}
+}

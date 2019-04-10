@@ -1,0 +1,62 @@
+{
+  "id": 1209432981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00147,42.45148,22.00147,42.45148",
+    "geom:latitude":42.45148,
+    "geom:longitude":22.00147,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Trnjivornica",
+    "gn:country_code":"RS",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861082,
+    "gn:latitude":42.45148,
+    "gn:longitude":22.00147,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trnjivornica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861082
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"21d627b25839a213f448564f227e46b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209432981
+        }
+    ],
+    "wof:id":1209432981,
+    "wof:lastmodified":1536287184,
+    "wof:name":"Trnjivornica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00147,
+    42.45148,
+    22.00147,
+    42.45148
+],
+  "geometry": {"coordinates":[22.00147,42.45148],"type":"Point"}
+}

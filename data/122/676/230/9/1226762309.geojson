@@ -1,0 +1,73 @@
+{
+  "id": 1226762309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32666,43.45766,20.32666,43.45766",
+    "geom:latitude":43.45766,
+    "geom:longitude":20.32666,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Ilincici",
+    "gn:country_code":"RS",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834973,
+    "gn:latitude":43.45766,
+    "gn:longitude":20.32666,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ilin\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ilin\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834973
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d4e903ce9a9be7097a5b7cb79c2d04db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1226762309,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1226762309,
+    "wof:lastmodified":1537683864,
+    "wof:name":"Ilincici",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32666,
+    43.45766,
+    20.32666,
+    43.45766
+],
+  "geometry": {"coordinates":[20.32666,43.45766],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260094719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10435,43.16356,22.10435,43.16356",
+    "geom:latitude":43.16356,
+    "geom:longitude":22.10435,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Donji Dusnik",
+    "gn:country_code":"RS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791194,
+    "gn:latitude":43.16356,
+    "gn:longitude":22.10435,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donji Du\u0161nik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Du\u0161nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809893,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791194,
+        "wk:page":"Donji_Du%C5%A1nik"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5c01e7c6cf0bfdb5b62e6a05148c241d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809893,
+            "locality_id":1260094719,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1260094719,
+    "wof:lastmodified":1537683809,
+    "wof:name":"Donji Dusnik",
+    "wof:parent_id":1108809893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10435,
+    43.16356,
+    22.10435,
+    43.16356
+],
+  "geometry": {"coordinates":[22.10435,43.16356],"type":"Point"}
+}

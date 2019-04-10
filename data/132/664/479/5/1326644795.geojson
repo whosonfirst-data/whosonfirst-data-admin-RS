@@ -1,0 +1,73 @@
+{
+  "id": 1326644795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84895,44.09561,20.84895,44.09561",
+    "geom:latitude":44.09561,
+    "geom:longitude":20.84895,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Cerovac",
+    "gn:country_code":"RS",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791971,
+    "gn:latitude":44.09561,
+    "gn:longitude":20.84895,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Cerovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Cerovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791971
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1ee60b3710df3d32f10f08cca805645e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1326644795,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1326644795,
+    "wof:lastmodified":1537683822,
+    "wof:name":"Cerovac",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84895,
+    44.09561,
+    20.84895,
+    44.09561
+],
+  "geometry": {"coordinates":[20.84895,44.09561],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344175283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22284,43.7401,20.22284,43.7401",
+    "geom:latitude":43.7401,
+    "geom:longitude":20.22284,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Klik",
+    "gn:country_code":"RS",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793746,
+    "gn:latitude":43.7401,
+    "gn:longitude":20.22284,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Klik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793746
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c8a289fe808f6c75d8b0c0a81e26a055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":1344175283,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1344175283,
+    "wof:lastmodified":1536710195,
+    "wof:name":"Klik",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22284,
+    43.7401,
+    20.22284,
+    43.7401
+],
+  "geometry": {"coordinates":[20.22284,43.7401],"type":"Point"}
+}

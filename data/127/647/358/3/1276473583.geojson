@@ -1,0 +1,81 @@
+{
+  "id": 1276473583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97754,44.22712,20.97754,44.22712",
+    "geom:latitude":44.22712,
+    "geom:longitude":20.97754,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"71013.0",
+    "gn:asciiname":"Raca",
+    "gn:country_code":"RS",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":786624,
+    "gn:latitude":44.22712,
+    "gn:longitude":20.97754,
+    "gn:modification_date":"2012-04-16",
+    "gn:name":"Ra\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pnb_x_preferred":[
+        "\u0631\u0627\u0686\u0627"
+    ],
+    "name:srp_x_preferred":[
+        "Ra\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810047,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786624,
+        "wk:page":"Ra%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d610dd5e1601bcfb98424b07c3e73bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810047,
+            "locality_id":1276473583,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1276473583,
+    "wof:lastmodified":1537683732,
+    "wof:name":"Raca",
+    "wof:parent_id":1108810047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97754,
+    44.22712,
+    20.97754,
+    44.22712
+],
+  "geometry": {"coordinates":[20.97754,44.22712],"type":"Point"}
+}

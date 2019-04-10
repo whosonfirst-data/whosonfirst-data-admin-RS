@@ -1,0 +1,128 @@
+{
+  "id": 890476927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.605,45.66833,20.605,45.66833",
+    "geom:latitude":45.66833,
+    "geom:longitude":20.605,
+    "gn:country":"RS",
+    "gn:fcode":"PPLA3",
+    "gn:pop":2739,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:dut_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:eng_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:fre_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:ger_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:hbs_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0426\u0440\u045a\u0430"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarcsernye"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30f4\u30a1\u30fb\u30c4\u30eb\u30cb\u30e3"
+    ],
+    "name:may_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u0686\u0631\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:rum_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:slv_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:srp_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u0430 \u0426\u0440\u045a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0432\u0430-\u0421\u0440\u043d\u04d9"
+    ],
+    "qs:name":"Nova Crnja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108809991,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787621,
+        "gp:id":535635,
+        "qs:id":129509,
+        "wd:id":"Q266760",
+        "wk:page":"Nova Crnja"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054095,
+    "wof:geomhash":"37bb6e680b435ebe6d3ccc0b51c2bf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809991,
+            "locality_id":890476927,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476927,
+    "wof:lastmodified":1527727153,
+    "wof:name":"Nova Crnja",
+    "wof:parent_id":1108809991,
+    "wof:placetype":"locality",
+    "wof:population":2739,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.605,
+    45.66833,
+    20.605,
+    45.66833
+],
+  "geometry": {"coordinates":[20.605,45.66833],"type":"Point"}
+}

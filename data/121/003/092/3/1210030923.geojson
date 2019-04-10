@@ -1,0 +1,70 @@
+{
+  "id": 1210030923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17333,42.41556,22.17333,42.41556",
+    "geom:latitude":42.41556,
+    "geom:longitude":22.17333,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Ivanovci",
+    "gn:country_code":"RS",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861149,
+    "gn:latitude":42.41556,
+    "gn:longitude":22.17333,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ivanovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861149
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9131860da762fcbb83af99dddc54238a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1210030923,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1210030923,
+    "wof:lastmodified":1536388604,
+    "wof:name":"Ivanovci",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17333,
+    42.41556,
+    22.17333,
+    42.41556
+],
+  "geometry": {"coordinates":[22.17333,42.41556],"type":"Point"}
+}

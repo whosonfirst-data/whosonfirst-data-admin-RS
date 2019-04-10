@@ -1,0 +1,87 @@
+{
+  "id": 890477035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43923,44.66627,19.43923,44.66627",
+    "geom:latitude":44.66627,
+    "geom:longitude":19.43923,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1227,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Petkovica"
+    ],
+    "name:fre_x_preferred":[
+        "Petkovica"
+    ],
+    "name:may_x_preferred":[
+        "Petkovica"
+    ],
+    "name:por_x_preferred":[
+        "Petkovica"
+    ],
+    "name:slv_x_preferred":[
+        "Petkovica"
+    ],
+    "name:srp_x_preferred":[
+        "Petkovica"
+    ],
+    "qs:name":"Petkovica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193437,
+        "gp:id":536160,
+        "qs:id":147149,
+        "wd:id":"Q3377537"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054099,
+    "wof:geomhash":"5d46b59c98cbe7c5c71bbafc770562c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890477035,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477035,
+    "wof:lastmodified":1514500329,
+    "wof:name":"Petkovica",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":1227,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43923,
+    44.66627,
+    19.43923,
+    44.66627
+],
+  "geometry": {"coordinates":[19.43923,44.66627],"type":"Point"}
+}

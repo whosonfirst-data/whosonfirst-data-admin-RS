@@ -1,0 +1,73 @@
+{
+  "id": 1243274163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4866,43.36186,20.4866,43.36186",
+    "geom:latitude":43.36186,
+    "geom:longitude":20.4866,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Binice",
+    "gn:country_code":"RS",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":835719,
+    "gn:latitude":43.36186,
+    "gn:longitude":20.4866,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bini\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bini\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835719
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3605828a41135c67a9bb8e4c72388a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":1243274163,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1243274163,
+    "wof:lastmodified":1537683881,
+    "wof:name":"Binice",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4866,
+    43.36186,
+    20.4866,
+    43.36186
+],
+  "geometry": {"coordinates":[20.4866,43.36186],"type":"Point"}
+}

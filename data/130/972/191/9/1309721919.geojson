@@ -1,0 +1,73 @@
+{
+  "id": 1309721919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19125,43.28262,20.19125,43.28262",
+    "geom:latitude":43.28262,
+    "geom:longitude":20.19125,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Brnjica",
+    "gn:country_code":"RS",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792262,
+    "gn:latitude":43.28262,
+    "gn:longitude":20.19125,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Brnjica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Brnjica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810073,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792262
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5988cea46ea7d150e068abcf919f1e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810073,
+            "locality_id":1309721919,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1309721919,
+    "wof:lastmodified":1537683827,
+    "wof:name":"Brnjica",
+    "wof:parent_id":1108810073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19125,
+    43.28262,
+    20.19125,
+    43.28262
+],
+  "geometry": {"coordinates":[20.19125,43.28262],"type":"Point"}
+}

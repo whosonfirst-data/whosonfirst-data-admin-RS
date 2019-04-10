@@ -1,0 +1,81 @@
+{
+  "id": 890477583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49863,43.80762,21.49863,43.80762",
+    "geom:latitude":43.80762,
+    "geom:longitude":21.49863,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Golubovac"
+    ],
+    "qs:name":"Golubac",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Branichevo",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":489,
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108810023,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790552,
+        "gp:id":533929,
+        "qs:id":1165755,
+        "wd:id":"Q845997",
+        "wk:page":"Golubac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054122,
+    "wof:geomhash":"16a9e313b87a3cf28ea837f309773931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810023,
+            "locality_id":890477583,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":890477583,
+    "wof:lastmodified":1527727188,
+    "wof:name":"Golubac",
+    "wof:parent_id":1108810023,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49863,
+    43.80762,
+    21.49863,
+    43.80762
+],
+  "geometry": {"coordinates":[21.49863,43.80762],"type":"Point"}
+}

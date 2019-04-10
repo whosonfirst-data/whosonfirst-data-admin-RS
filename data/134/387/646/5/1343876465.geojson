@@ -1,0 +1,74 @@
+{
+  "id": 1343876465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00414,44.4547,21.00414,44.4547",
+    "geom:latitude":44.4547,
+    "geom:longitude":21.00414,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Golobok",
+    "gn:country_code":"RS",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790576,
+    "gn:latitude":44.4547,
+    "gn:longitude":21.00414,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Golobok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Golobok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810077,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790576,
+        "wk:page":"Golobok"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0a801fa04fb1e69753c06f66c5c6f68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810077,
+            "locality_id":1343876465,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1343876465,
+    "wof:lastmodified":1537683799,
+    "wof:name":"Golobok",
+    "wof:parent_id":1108810077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00414,
+    44.4547,
+    21.00414,
+    44.4547
+],
+  "geometry": {"coordinates":[21.00414,44.4547],"type":"Point"}
+}

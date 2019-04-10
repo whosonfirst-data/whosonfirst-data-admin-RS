@@ -1,0 +1,73 @@
+{
+  "id": 1293502207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1493,43.41752,22.1493,43.41752",
+    "geom:latitude":43.41752,
+    "geom:longitude":22.1493,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Zeljevo",
+    "gn:country_code":"RS",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783925,
+    "gn:latitude":43.41752,
+    "gn:longitude":22.1493,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u017deljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u017deljevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108810105,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783925
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"46217932b67d79286fdf5ce45b381afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810105,
+            "locality_id":1293502207,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1293502207,
+    "wof:lastmodified":1537683685,
+    "wof:name":"Zeljevo",
+    "wof:parent_id":1108810105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1493,
+    43.41752,
+    22.1493,
+    43.41752
+],
+  "geometry": {"coordinates":[22.1493,43.41752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890476517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72971,42.38853,21.72971,42.38853",
+    "geom:latitude":42.38853,
+    "geom:longitude":21.72971,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1200,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lagja e Poshtme",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809865,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394219,
+        "gp:id":532735,
+        "qs:id":768686,
+        "wd:id":"Q7930773",
+        "wk:page":"Villages of Albania"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054078,
+    "wof:geomhash":"8ae3362837f64a794dae2c212e75060f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809865,
+            "locality_id":890476517,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":890476517,
+    "wof:lastmodified":1527727149,
+    "wof:name":"Lagja e Poshtme",
+    "wof:parent_id":1108809865,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72971,
+    42.38853,
+    21.72971,
+    42.38853
+],
+  "geometry": {"coordinates":[21.72971,42.38853],"type":"Point"}
+}

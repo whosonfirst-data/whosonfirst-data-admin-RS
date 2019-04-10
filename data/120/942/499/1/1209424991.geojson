@@ -1,0 +1,65 @@
+{
+  "id": 1209424991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48859,43.5788,21.48859,43.5788",
+    "geom:latitude":43.5788,
+    "geom:longitude":21.48859,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Josje",
+    "gn:country_code":"RS",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789755,
+    "gn:latitude":43.5788,
+    "gn:longitude":21.48859,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jo\u0161je",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jo\u0161je"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789755
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1d06249d6d7fb6a2cf8127488a48caba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209424991
+        }
+    ],
+    "wof:id":1209424991,
+    "wof:lastmodified":1537683785,
+    "wof:name":"Josje",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48859,
+    43.5788,
+    21.48859,
+    43.5788
+],
+  "geometry": {"coordinates":[21.48859,43.5788],"type":"Point"}
+}

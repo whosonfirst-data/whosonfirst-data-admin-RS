@@ -1,0 +1,116 @@
+{
+  "id": 890477411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08809,45.67636,19.08809,45.67636",
+    "geom:latitude":45.67636,
+    "geom:longitude":19.08809,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5026,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:eng_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:epo_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:fre_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:ger_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:hrv_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1csszentiv\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:may_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:slv_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:srp_x_preferred":[
+        "Prigrevica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0433\u0440\u0435\u0432\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Batsch-Sentiwan"
+    ],
+    "qs:name":"Prigrevica",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Zapadna Bachka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":395,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108809815,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192420,
+        "gp:id":536144,
+        "qs:id":56186,
+        "wd:id":"Q852668",
+        "wk:page":"Prigrevica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054114,
+    "wof:geomhash":"b923ac7e66a27e29a0680bed8fb7bd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809815,
+            "locality_id":890477411,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477411,
+    "wof:lastmodified":1527727184,
+    "wof:name":"Prigrevica",
+    "wof:parent_id":1108809815,
+    "wof:placetype":"locality",
+    "wof:population":5026,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08809,
+    45.67636,
+    19.08809,
+    45.67636
+],
+  "geometry": {"coordinates":[19.08809,45.67636],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309813507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25321,44.64226,21.25321,44.64226",
+    "geom:latitude":44.64226,
+    "geom:longitude":21.25321,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Bratinac",
+    "gn:country_code":"RS",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792352,
+    "gn:latitude":44.64226,
+    "gn:longitude":21.25321,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bratinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bratinac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810033,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792352,
+        "wk:page":"Bratinac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"876c5cf71d6b94e9cff369df79f1b922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810033,
+            "locality_id":1309813507,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1309813507,
+    "wof:lastmodified":1537683828,
+    "wof:name":"Bratinac",
+    "wof:parent_id":1108810033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25321,
+    44.64226,
+    21.25321,
+    44.64226
+],
+  "geometry": {"coordinates":[21.25321,44.64226],"type":"Point"}
+}

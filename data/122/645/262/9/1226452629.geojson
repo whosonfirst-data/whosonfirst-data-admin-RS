@@ -1,0 +1,74 @@
+{
+  "id": 1226452629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66228,43.31315,20.66228,43.31315",
+    "geom:latitude":43.31315,
+    "geom:longitude":20.66228,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Pocesje",
+    "gn:country_code":"RS",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786971,
+    "gn:latitude":43.31315,
+    "gn:longitude":20.66228,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pocesje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pocesje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786971,
+        "wk:page":"Pocesje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2376da57be2f04d69728fc0dce09d72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":1226452629,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1226452629,
+    "wof:lastmodified":1537683738,
+    "wof:name":"Pocesje",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66228,
+    43.31315,
+    20.66228,
+    43.31315
+],
+  "geometry": {"coordinates":[20.66228,43.31315],"type":"Point"}
+}

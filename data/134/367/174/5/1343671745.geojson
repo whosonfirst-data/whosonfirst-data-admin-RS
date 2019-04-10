@@ -1,0 +1,73 @@
+{
+  "id": 1343671745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60218,43.40477,20.60218,43.40477",
+    "geom:latitude":43.40477,
+    "geom:longitude":20.60218,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Lukovik",
+    "gn:country_code":"RS",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835770,
+    "gn:latitude":43.40477,
+    "gn:longitude":20.60218,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lukovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lukovik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835770
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8f7476ca9f07f849372011c2ac0bd838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":1343671745,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1343671745,
+    "wof:lastmodified":1537683882,
+    "wof:name":"Lukovik",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60218,
+    43.40477,
+    20.60218,
+    43.40477
+],
+  "geometry": {"coordinates":[20.60218,43.40477],"type":"Point"}
+}

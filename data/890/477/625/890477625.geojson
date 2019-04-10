@@ -1,0 +1,108 @@
+{
+  "id": 890477625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17057,45.28849,21.17057,45.28849",
+    "geom:latitude":45.28849,
+    "geom:longitude":21.17057,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1039,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:eng_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:epo_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:fre_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyg\u00e1j"
+    ],
+    "name:may_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u06af\u0627\u062c"
+    ],
+    "name:rum_x_preferred":[
+        "Gaiu Mare"
+    ],
+    "name:slv_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:srp_x_preferred":[
+        "Veliki Gaj"
+    ],
+    "name:unk_x_variant":[
+        "G\u00e1ju Mare"
+    ],
+    "qs:name":"Veliki Gaj",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhni Banat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":357,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810031,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784588,
+        "gp:id":537364,
+        "qs:id":1218755,
+        "wd:id":"Q921166",
+        "wk:page":"Veliki Gaj"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054123,
+    "wof:geomhash":"e97e27806475b01716237acec59567e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810031,
+            "locality_id":890477625,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477625,
+    "wof:lastmodified":1527727184,
+    "wof:name":"Veliki Gaj",
+    "wof:parent_id":1108810031,
+    "wof:placetype":"locality",
+    "wof:population":1039,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17057,
+    45.28849,
+    21.17057,
+    45.28849
+],
+  "geometry": {"coordinates":[21.17057,45.28849],"type":"Point"}
+}

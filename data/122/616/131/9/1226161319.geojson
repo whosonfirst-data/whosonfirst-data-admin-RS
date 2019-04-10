@@ -1,0 +1,77 @@
+{
+  "id": 1226161319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54442,43.00916,20.54442,43.00916",
+    "geom:latitude":43.00916,
+    "geom:longitude":20.54442,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Grubetice",
+    "gn:country_code":"RS",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790125,
+    "gn:latitude":43.00916,
+    "gn:longitude":20.54442,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Grubeti\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Grubeti\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Grube\u0161i\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790125,
+        "wk:page":"Grubeti%C4%87e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"54b1176926d2c0da91c6f8e3bd158103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1226161319,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1226161319,
+    "wof:lastmodified":1537683790,
+    "wof:name":"Grubetice",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54442,
+    43.00916,
+    20.54442,
+    43.00916
+],
+  "geometry": {"coordinates":[20.54442,43.00916],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209929003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04433,44.22739,20.04433,44.22739",
+    "geom:latitude":44.22739,
+    "geom:longitude":20.04433,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Kljuc",
+    "gn:country_code":"RS",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789434,
+    "gn:latitude":44.22739,
+    "gn:longitude":20.04433,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Klju\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Klju\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809983,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789434
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a43163b43bb3e05a44d4ae3d99eca0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809983,
+            "locality_id":1209929003,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1209929003,
+    "wof:lastmodified":1537683779,
+    "wof:name":"Kljuc",
+    "wof:parent_id":1108809983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04433,
+    44.22739,
+    20.04433,
+    44.22739
+],
+  "geometry": {"coordinates":[20.04433,44.22739],"type":"Point"}
+}

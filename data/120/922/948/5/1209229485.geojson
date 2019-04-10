@@ -1,0 +1,65 @@
+{
+  "id": 1209229485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25104,43.95995,21.25104,43.95995",
+    "geom:latitude":43.95995,
+    "geom:longitude":21.25104,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Trnava",
+    "gn:country_code":"RS",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784922,
+    "gn:latitude":43.95995,
+    "gn:longitude":21.25104,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Trnava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784922
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c4f290ae7c2df7a6992c0264ca8032cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229485
+        }
+    ],
+    "wof:id":1209229485,
+    "wof:lastmodified":1537683701,
+    "wof:name":"Trnava",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25104,
+    43.95995,
+    21.25104,
+    43.95995
+],
+  "geometry": {"coordinates":[21.25104,43.95995],"type":"Point"}
+}

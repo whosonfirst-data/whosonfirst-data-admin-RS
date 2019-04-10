@@ -1,0 +1,76 @@
+{
+  "id": 1259997845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72006,42.4594,21.72006,42.4594",
+    "geom:latitude":42.4594,
+    "geom:longitude":21.72006,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Turija",
+    "gn:country_code":"RS",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784821,
+    "gn:latitude":42.4594,
+    "gn:longitude":21.72006,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Turija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Turi"
+    ],
+    "name:srp_x_preferred":[
+        "Turija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809865,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784821
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2bc7e1625d1400ee655ec25a666c69e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809865,
+            "locality_id":1259997845,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1259997845,
+    "wof:lastmodified":1537683700,
+    "wof:name":"Turija",
+    "wof:parent_id":1108809865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72006,
+    42.4594,
+    21.72006,
+    42.4594
+],
+  "geometry": {"coordinates":[21.72006,42.4594],"type":"Point"}
+}

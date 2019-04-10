@@ -1,0 +1,71 @@
+{
+  "id": 1260220317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28691,43.79769,20.28691,43.79769",
+    "geom:latitude":43.79769,
+    "geom:longitude":20.28691,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:admin3_code":"70742.0",
+    "gn:asciiname":"Luzani",
+    "gn:country_code":"RS",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837103,
+    "gn:latitude":43.79769,
+    "gn:longitude":20.28691,
+    "gn:modification_date":"2016-10-21",
+    "gn:name":"Lu\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837103
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"91bd548fb8f0c2da5d19755b6b38ef66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":1260220317,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1260220317,
+    "wof:lastmodified":1536797832,
+    "wof:name":"Luzani",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28691,
+    43.79769,
+    20.28691,
+    43.79769
+],
+  "geometry": {"coordinates":[20.28691,43.79769],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276247211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37536,43.464,19.37536,43.464",
+    "geom:latitude":43.464,
+    "geom:longitude":19.37536,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Lisine",
+    "gn:country_code":"RS",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305175,
+    "gn:latitude":43.464,
+    "gn:longitude":19.37536,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lisine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lisina",
+        "Lisine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810041,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305175
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"05e205376cc7630b9716736348b37791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810041,
+            "locality_id":1276247211,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1276247211,
+    "wof:lastmodified":1537684015,
+    "wof:name":"Lisine",
+    "wof:parent_id":1108810041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37536,
+    43.464,
+    19.37536,
+    43.464
+],
+  "geometry": {"coordinates":[19.37536,43.464],"type":"Point"}
+}

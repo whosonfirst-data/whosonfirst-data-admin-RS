@@ -1,0 +1,73 @@
+{
+  "id": 1344075173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02453,43.02088,22.02453,43.02088",
+    "geom:latitude":43.02088,
+    "geom:longitude":22.02453,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Donja Slatina",
+    "gn:country_code":"RS",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791266,
+    "gn:latitude":43.02088,
+    "gn:longitude":22.02453,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Slatina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791266
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5ab0810829aa090a78e538917a522c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1344075173,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1344075173,
+    "wof:lastmodified":1537683812,
+    "wof:name":"Donja Slatina",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02453,
+    43.02088,
+    22.02453,
+    43.02088
+],
+  "geometry": {"coordinates":[22.02453,43.02088],"type":"Point"}
+}

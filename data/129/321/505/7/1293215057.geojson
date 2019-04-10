@@ -1,0 +1,70 @@
+{
+  "id": 1293215057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56806,45.85583,19.56806,45.85583",
+    "geom:latitude":45.85583,
+    "geom:longitude":19.56806,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"1",
+    "gn:asciiname":"Jagodnjak",
+    "gn:country_code":"RS",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215896,
+    "gn:latitude":45.85583,
+    "gn:longitude":19.56806,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jagodnjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108809829,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215896
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dcbdff311a4ea1f5d91648db00e4dc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809829,
+            "locality_id":1293215057,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1293215057,
+    "wof:lastmodified":1536682647,
+    "wof:name":"Jagodnjak",
+    "wof:parent_id":1108809829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56806,
+    45.85583,
+    19.56806,
+    45.85583
+],
+  "geometry": {"coordinates":[19.56806,45.85583],"type":"Point"}
+}

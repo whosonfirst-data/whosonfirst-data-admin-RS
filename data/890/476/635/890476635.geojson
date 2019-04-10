@@ -1,0 +1,92 @@
+{
+  "id": 890476635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54562,44.66595,19.54562,44.66595",
+    "geom:latitude":44.66595,
+    "geom:longitude":19.54562,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":840,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "name:may_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Culjkovi\u0107"
+    ],
+    "qs:name":"Culjkovi\u0107",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202281,
+        "gp:id":537305,
+        "qs:id":581770,
+        "wd:id":"Q2736692",
+        "wk:page":"Culjkovi\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054082,
+    "wof:geomhash":"a0f181e85666245742d6ed171f3eb7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890476635,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890476635,
+    "wof:lastmodified":1527727149,
+    "wof:name":"Culjkovi\u0107",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":840,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54562,
+    44.66595,
+    19.54562,
+    44.66595
+],
+  "geometry": {"coordinates":[19.54562,44.66595],"type":"Point"}
+}

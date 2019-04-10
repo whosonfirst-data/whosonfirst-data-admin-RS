@@ -1,0 +1,77 @@
+{
+  "id": 1343776893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98877,43.2994,19.98877,43.2994",
+    "geom:latitude":43.2994,
+    "geom:longitude":19.98877,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Strajinice",
+    "gn:country_code":"RS",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306274,
+    "gn:latitude":43.2994,
+    "gn:longitude":19.98877,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Strajini\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Strajini\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Strahini\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810073,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306274,
+        "wk:page":"Strajini%C4%87e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"16d976ba1ef6c3e335edec39b88a2177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810073,
+            "locality_id":1343776893,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1343776893,
+    "wof:lastmodified":1537684019,
+    "wof:name":"Strajinice",
+    "wof:parent_id":1108810073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98877,
+    43.2994,
+    19.98877,
+    43.2994
+],
+  "geometry": {"coordinates":[19.98877,43.2994],"type":"Point"}
+}

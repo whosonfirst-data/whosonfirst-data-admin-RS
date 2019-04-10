@@ -1,0 +1,73 @@
+{
+  "id": 1225954239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28955,43.3306,21.28955,43.3306",
+    "geom:latitude":43.3306,
+    "geom:longitude":21.28955,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Vrbovac",
+    "gn:country_code":"RS",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784178,
+    "gn:latitude":43.3306,
+    "gn:longitude":21.28955,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrbovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vrbovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809849,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784178
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c0fb57cf3ebc70bf6e97eb015ea7cb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809849,
+            "locality_id":1225954239,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1225954239,
+    "wof:lastmodified":1537683690,
+    "wof:name":"Vrbovac",
+    "wof:parent_id":1108809849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28955,
+    43.3306,
+    21.28955,
+    43.3306
+],
+  "geometry": {"coordinates":[21.28955,43.3306],"type":"Point"}
+}

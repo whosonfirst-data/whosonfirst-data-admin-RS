@@ -1,0 +1,74 @@
+{
+  "id": 1293218683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58722,44.16694,22.58722,44.16694",
+    "geom:latitude":44.16694,
+    "geom:longitude":22.58722,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Balej Pivnica",
+    "gn:country_code":"RS",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862863,
+    "gn:latitude":44.16694,
+    "gn:longitude":22.58722,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Balej Pivnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balejske Pivnice",
+        "Balej Pivnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809987,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862863
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fbcfb6075a26a2c0ca333c13fbb12d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809987,
+            "locality_id":1293218683,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1293218683,
+    "wof:lastmodified":1537683915,
+    "wof:name":"Balej Pivnica",
+    "wof:parent_id":1108809987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58722,
+    44.16694,
+    22.58722,
+    44.16694
+],
+  "geometry": {"coordinates":[22.58722,44.16694],"type":"Point"}
+}

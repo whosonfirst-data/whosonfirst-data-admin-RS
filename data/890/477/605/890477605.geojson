@@ -1,0 +1,95 @@
+{
+  "id": 890477605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59201,43.13852,21.59201,43.13852",
+    "geom:latitude":43.13852,
+    "geom:longitude":21.59201,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":39,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:eng_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:fre_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:may_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:por_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:slv_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:srp_x_preferred":[
+        "Jovine Livade"
+    ],
+    "name:unk_x_variant":[
+        "Jovina Livada"
+    ],
+    "qs:name":"Jovine Livade",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789746,
+        "gp:id":537761,
+        "qs:id":83702,
+        "wd:id":"Q2735160",
+        "wk:page":"Jovine Livade"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054122,
+    "wof:geomhash":"e93d7acb25dcea47015e43aa62d702df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477605,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477605,
+    "wof:lastmodified":1527727179,
+    "wof:name":"Jovine Livade",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59201,
+    43.13852,
+    21.59201,
+    43.13852
+],
+  "geometry": {"coordinates":[21.59201,43.13852],"type":"Point"}
+}

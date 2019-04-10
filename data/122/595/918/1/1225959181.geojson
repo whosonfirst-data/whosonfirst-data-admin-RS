@@ -1,0 +1,70 @@
+{
+  "id": 1225959181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65861,43.375,19.65861,43.375",
+    "geom:latitude":43.375,
+    "geom:longitude":19.65861,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Puskici",
+    "gn:country_code":"RS",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342127,
+    "gn:latitude":43.375,
+    "gn:longitude":19.65861,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pu\u0161ki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810043,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342127
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f1d823210e67f6da1b316842b5d201c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810043,
+            "locality_id":1225959181,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1225959181,
+    "wof:lastmodified":1536848745,
+    "wof:name":"Puskici",
+    "wof:parent_id":1108810043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65861,
+    43.375,
+    19.65861,
+    43.375
+],
+  "geometry": {"coordinates":[19.65861,43.375],"type":"Point"}
+}

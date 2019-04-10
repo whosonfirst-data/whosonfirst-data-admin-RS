@@ -1,0 +1,65 @@
+{
+  "id": 1209630037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39094,43.43748,20.39094,43.43748",
+    "geom:latitude":43.43748,
+    "geom:longitude":20.39094,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Marinkovici",
+    "gn:country_code":"RS",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834981,
+    "gn:latitude":43.43748,
+    "gn:longitude":20.39094,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Marinkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Marinkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834981
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"beade29ddc8452b329e7dfc9d0da01e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209630037
+        }
+    ],
+    "wof:id":1209630037,
+    "wof:lastmodified":1537683864,
+    "wof:name":"Marinkovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39094,
+    43.43748,
+    20.39094,
+    43.43748
+],
+  "geometry": {"coordinates":[20.39094,43.43748],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309722013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95151,43.47086,21.95151,43.47086",
+    "geom:latitude":43.47086,
+    "geom:longitude":21.95151,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Popsica",
+    "gn:country_code":"RS",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786859,
+    "gn:latitude":43.47086,
+    "gn:longitude":21.95151,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pop\u0161ica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pop\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108810105,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786859,
+        "wk:page":"Pop%C5%A1ica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"18a739c30bba909814d1dba3d169139e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810105,
+            "locality_id":1309722013,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1309722013,
+    "wof:lastmodified":1537683736,
+    "wof:name":"Popsica",
+    "wof:parent_id":1108810105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95151,
+    43.47086,
+    21.95151,
+    43.47086
+],
+  "geometry": {"coordinates":[21.95151,43.47086],"type":"Point"}
+}

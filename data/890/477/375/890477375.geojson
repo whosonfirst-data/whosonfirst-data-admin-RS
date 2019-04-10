@@ -1,0 +1,92 @@
+{
+  "id": 890477375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59533,44.71799,19.59533,44.71799",
+    "geom:latitude":44.71799,
+    "geom:longitude":19.59533,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1191,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bogosavac"
+    ],
+    "name:eng_x_preferred":[
+        "Bogosavac"
+    ],
+    "name:fre_x_preferred":[
+        "Bogosavac"
+    ],
+    "name:may_x_preferred":[
+        "Bogosavac"
+    ],
+    "name:por_x_preferred":[
+        "Bogosavac"
+    ],
+    "name:slv_x_preferred":[
+        "Bogosavac"
+    ],
+    "name:srp_x_preferred":[
+        "Bogosavac"
+    ],
+    "qs:name":"Bogosavac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203817,
+        "gp:id":537305,
+        "qs:id":1044072,
+        "wd:id":"Q2736639",
+        "wk:page":"Bogosavac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"cf8e8a3b8456f4dc457201caa1f0362f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890477375,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477375,
+    "wof:lastmodified":1527727188,
+    "wof:name":"Bogosavac",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":1191,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59533,
+    44.71799,
+    19.59533,
+    44.71799
+],
+  "geometry": {"coordinates":[19.59533,44.71799],"type":"Point"}
+}

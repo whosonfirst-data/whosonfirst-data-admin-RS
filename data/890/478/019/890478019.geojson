@@ -1,0 +1,101 @@
+{
+  "id": 890478019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17194,45.16056,21.17194,45.16056",
+    "geom:latitude":45.16056,
+    "geom:longitude":21.17194,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":224,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vr\u0161a\u010dki Ritovi"
+    ],
+    "name:eng_x_preferred":[
+        "Vr\u0161a\u010dki Ritovi"
+    ],
+    "name:epo_x_preferred":[
+        "Vr\u015da\u0109ki Ritovi"
+    ],
+    "name:fre_x_preferred":[
+        "Vr\u0161a\u010dki Ritovi"
+    ],
+    "name:hun_x_preferred":[
+        "Verseci R\u00e9tek"
+    ],
+    "name:may_x_preferred":[
+        "Vr\u0161a\u010dki Ritovi"
+    ],
+    "name:rum_x_preferred":[
+        "Vr\u0161acki Ritovi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0448\u0430\u0447\u043a\u0438-\u0420\u0438\u0442\u043e\u0432\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Vr\u0161a\u010dki Ritovi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0448\u0430\u0447\u043a\u0438 \u0420\u0438\u0442\u043e\u0432\u0438"
+    ],
+    "qs:name":"Vr\u0161a\u010dki Ritovi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":376,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864058,
+        "gp:id":535314,
+        "qs:id":554603,
+        "wd:id":"Q369386",
+        "wk:page":"Vr\u0161a\u010dki Ritovi"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054141,
+    "wof:geomhash":"479fb956d7c7c3515eadc6897cafd140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890478019,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890478019,
+    "wof:lastmodified":1527727121,
+    "wof:name":"Vr\u0161a\u010dki Ritovi",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17194,
+    45.16056,
+    21.17194,
+    45.16056
+],
+  "geometry": {"coordinates":[21.17194,45.16056],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 890477141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.58611,44.94722,19.58611,44.94722",
+    "geom:latitude":44.94722,
+    "geom:longitude":19.58611,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1876,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:eng_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:epo_x_preferred":[
+        "Sala\u015d Nocjajski"
+    ],
+    "name:fre_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:hrv_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:hun_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:may_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:slv_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:srp_x_preferred":[
+        "Sala\u0161 No\u0107ajski"
+    ],
+    "name:unk_x_variant":[
+        "No\u0107ajski Sala\u0161"
+    ],
+    "qs:name":"Sala\u0161 No\u0107ajski",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810087,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191339,
+        "gp:id":536820,
+        "qs:id":1043942,
+        "wd:id":"Q1040487",
+        "wk:page":"Sala\u0161 No\u0107ajski"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054103,
+    "wof:geomhash":"7e6941f1b5440c0ee90b776f8cf7d28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810087,
+            "locality_id":890477141,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890477141,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Sala\u0161 No\u0107ajski",
+    "wof:parent_id":1108810087,
+    "wof:placetype":"locality",
+    "wof:population":1876,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.58611,
+    44.94722,
+    19.58611,
+    44.94722
+],
+  "geometry": {"coordinates":[19.58611,44.94722],"type":"Point"}
+}

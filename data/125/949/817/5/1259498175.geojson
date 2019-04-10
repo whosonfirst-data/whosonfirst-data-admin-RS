@@ -1,0 +1,70 @@
+{
+  "id": 1259498175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4175,43.10111,21.4175,43.10111",
+    "geom:latitude":43.10111,
+    "geom:longitude":21.4175,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Staro Selo Dedinac",
+    "gn:country_code":"RS",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834696,
+    "gn:latitude":43.10111,
+    "gn:longitude":21.4175,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Staro Selo Dedinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834696
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fe05b70fe91ef1b2aa10e0685e2ab73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1259498175,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1259498175,
+    "wof:lastmodified":1536836574,
+    "wof:name":"Staro Selo Dedinac",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4175,
+    43.10111,
+    21.4175,
+    43.10111
+],
+  "geometry": {"coordinates":[21.4175,43.10111],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276566881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42851,44.44611,21.42851,44.44611",
+    "geom:latitude":44.44611,
+    "geom:longitude":21.42851,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Jokonji",
+    "gn:country_code":"RS",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837084,
+    "gn:latitude":44.44611,
+    "gn:longitude":21.42851,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jokonji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810027,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837084
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"13544015a7cd5c6cffd643aec9a0df3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810027,
+            "locality_id":1276566881,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1276566881,
+    "wof:lastmodified":1536963112,
+    "wof:name":"Jokonji",
+    "wof:parent_id":1108810027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42851,
+    44.44611,
+    21.42851,
+    44.44611
+],
+  "geometry": {"coordinates":[21.42851,44.44611],"type":"Point"}
+}

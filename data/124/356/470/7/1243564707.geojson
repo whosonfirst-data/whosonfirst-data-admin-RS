@@ -1,0 +1,70 @@
+{
+  "id": 1243564707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12611,42.47667,22.12611,42.47667",
+    "geom:latitude":42.47667,
+    "geom:longitude":22.12611,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Reka",
+    "gn:country_code":"RS",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860950,
+    "gn:latitude":42.47667,
+    "gn:longitude":22.12611,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Reka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860950
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"875df85426968821ce984a8da0ce8da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1243564707,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1243564707,
+    "wof:lastmodified":1536633651,
+    "wof:name":"Reka",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12611,
+    42.47667,
+    22.12611,
+    42.47667
+],
+  "geometry": {"coordinates":[22.12611,42.47667],"type":"Point"}
+}

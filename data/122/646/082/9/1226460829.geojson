@@ -1,0 +1,71 @@
+{
+  "id": 1226460829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98945,44.17412,20.98945,44.17412",
+    "geom:latitude":44.17412,
+    "geom:longitude":20.98945,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Trska",
+    "gn:country_code":"RS",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":839056,
+    "gn:latitude":44.17412,
+    "gn:longitude":20.98945,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810047,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":839056,
+        "wk:page":"Trska"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b1a250f5539148daf54ea85a2394dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810047,
+            "locality_id":1226460829,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226460829,
+    "wof:lastmodified":1537572091,
+    "wof:name":"Trska",
+    "wof:parent_id":1108810047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98945,
+    44.17412,
+    20.98945,
+    44.17412
+],
+  "geometry": {"coordinates":[20.98945,44.17412],"type":"Point"}
+}

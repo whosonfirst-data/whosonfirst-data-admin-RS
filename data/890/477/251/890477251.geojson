@@ -1,0 +1,95 @@
+{
+  "id": 890477251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58135,43.1112,21.58135,43.1112",
+    "geom:latitude":43.1112,
+    "geom:longitude":21.58135,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":382,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Gllasoviku"
+    ],
+    "name:dut_x_preferred":[
+        "Glasovik"
+    ],
+    "name:eng_x_preferred":[
+        "Glasovik"
+    ],
+    "name:fre_x_preferred":[
+        "Glasovik"
+    ],
+    "name:may_x_preferred":[
+        "Glasovik"
+    ],
+    "name:por_x_preferred":[
+        "Glasovik"
+    ],
+    "name:slv_x_preferred":[
+        "Glasovik"
+    ],
+    "name:srp_x_preferred":[
+        "Glasovik"
+    ],
+    "qs:name":"Glasovik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790735,
+        "gp:id":537761,
+        "qs:id":553963,
+        "wd:id":"Q507264",
+        "wk:page":"Glasovik"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054108,
+    "wof:geomhash":"3d53a632740436dfbd9d7b9385038a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477251,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477251,
+    "wof:lastmodified":1527727180,
+    "wof:name":"Glasovik",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58135,
+    43.1112,
+    21.58135,
+    43.1112
+],
+  "geometry": {"coordinates":[21.58135,43.1112],"type":"Point"}
+}

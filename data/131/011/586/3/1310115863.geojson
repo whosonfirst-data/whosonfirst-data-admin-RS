@@ -1,0 +1,73 @@
+{
+  "id": 1310115863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37382,43.22622,20.37382,43.22622",
+    "geom:latitude":43.22622,
+    "geom:longitude":20.37382,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Buce",
+    "gn:country_code":"RS",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835889,
+    "gn:latitude":43.22622,
+    "gn:longitude":20.37382,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bu\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bu\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835889
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"01f21e9b1cad6d5c2104d08c7db5bb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1310115863,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1310115863,
+    "wof:lastmodified":1537683884,
+    "wof:name":"Buce",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37382,
+    43.22622,
+    20.37382,
+    43.22622
+],
+  "geometry": {"coordinates":[20.37382,43.22622],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209229257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11101,44.15461,20.11101,44.15461",
+    "geom:latitude":44.15461,
+    "geom:longitude":20.11101,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Planinica",
+    "gn:country_code":"RS",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787023,
+    "gn:latitude":44.15461,
+    "gn:longitude":20.11101,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Planinica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Planinica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787023
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9761531a31d41bba990754421339392f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229257
+        }
+    ],
+    "wof:id":1209229257,
+    "wof:lastmodified":1537683739,
+    "wof:name":"Planinica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11101,
+    44.15461,
+    20.11101,
+    44.15461
+],
+  "geometry": {"coordinates":[20.11101,44.15461],"type":"Point"}
+}

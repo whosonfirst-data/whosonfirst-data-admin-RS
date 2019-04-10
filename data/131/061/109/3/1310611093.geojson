@@ -1,0 +1,78 @@
+{
+  "id": 1310611093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56971,43.99583,21.56971,43.99583",
+    "geom:latitude":43.99583,
+    "geom:longitude":21.56971,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Senjski Rudnik",
+    "gn:country_code":"RS",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785970,
+    "gn:latitude":43.99583,
+    "gn:longitude":21.56971,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Senjski Rudnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Senjski Rudnik"
+    ],
+    "name:und_x_variant":[
+        "Senjski Majdan",
+        "Senjski Rudnici"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809885,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785970,
+        "wk:page":"Senjski_Rudnik"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"25feb14564d48a06cf3276614703928e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809885,
+            "locality_id":1310611093,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1310611093,
+    "wof:lastmodified":1537683718,
+    "wof:name":"Senjski Rudnik",
+    "wof:parent_id":1108809885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56971,
+    43.99583,
+    21.56971,
+    43.99583
+],
+  "geometry": {"coordinates":[21.56971,43.99583],"type":"Point"}
+}

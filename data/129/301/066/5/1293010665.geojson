@@ -1,0 +1,74 @@
+{
+  "id": 1293010665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7952,43.15906,19.7952,43.15906",
+    "geom:latitude":43.15906,
+    "geom:longitude":19.7952,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Vrbnica",
+    "gn:country_code":"RS",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3306704,
+    "gn:latitude":43.15906,
+    "gn:longitude":19.7952,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrbnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vrbnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810073,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306704,
+        "wk:page":"Vrbnica_%28Sjenica%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"05bcba53fd043bf72ffd42ed05283354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810073,
+            "locality_id":1293010665,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1293010665,
+    "wof:lastmodified":1537684021,
+    "wof:name":"Vrbnica",
+    "wof:parent_id":1108810073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7952,
+    43.15906,
+    19.7952,
+    43.15906
+],
+  "geometry": {"coordinates":[19.7952,43.15906],"type":"Point"}
+}

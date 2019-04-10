@@ -1,0 +1,77 @@
+{
+  "id": 1210026643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63379,43.0853,21.63379,43.0853",
+    "geom:latitude":43.0853,
+    "geom:longitude":21.63379,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Donja Macina",
+    "gn:country_code":"RS",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788390,
+    "gn:latitude":43.0853,
+    "gn:longitude":21.63379,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Ma\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Ma\u010dina"
+    ],
+    "name:und_x_variant":[
+        "Ma\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788390,
+        "wk:page":"Ma%C4%8Dina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3ab643e310fc22e7f97fa8d07ebbb3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1210026643,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1210026643,
+    "wof:lastmodified":1537683764,
+    "wof:name":"Donja Macina",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63379,
+    43.0853,
+    21.63379,
+    43.0853
+],
+  "geometry": {"coordinates":[21.63379,43.0853],"type":"Point"}
+}

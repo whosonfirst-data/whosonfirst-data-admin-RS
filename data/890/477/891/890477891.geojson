@@ -1,0 +1,98 @@
+{
+  "id": 890477891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45302,43.19725,21.45302,43.19725",
+    "geom:latitude":43.19725,
+    "geom:longitude":21.45302,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":59,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bajishtica e Poshtme"
+    ],
+    "name:dut_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:eng_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:fre_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:may_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:por_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:srp_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:unk_x_variant":[
+        "Donja Beja\u0161ica"
+    ],
+    "qs:name":"Donja Beja\u0161nica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791314,
+        "gp:id":535227,
+        "qs:id":553988,
+        "wd:id":"Q2734647",
+        "wk:page":"Donja Beja\u0161nica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054136,
+    "wof:geomhash":"13c88b88b37d2e5526a2458060b8968a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477891,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477891,
+    "wof:lastmodified":1527727185,
+    "wof:name":"Donja Beja\u0161nica",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45302,
+    43.19725,
+    21.45302,
+    43.19725
+],
+  "geometry": {"coordinates":[21.45302,43.19725],"type":"Point"}
+}

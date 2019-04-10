@@ -1,0 +1,107 @@
+{
+  "id": 890477377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13205,45.53106,19.13205,45.53106",
+    "geom:latitude":45.53106,
+    "geom:longitude":19.13205,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2312,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:dut_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:eng_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:epo_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:fre_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:hun_x_preferred":[
+        "Gombos"
+    ],
+    "name:may_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:rum_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:slv_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:srp_x_preferred":[
+        "Bogojevo"
+    ],
+    "name:unk_x_variant":[
+        "Gombosh"
+    ],
+    "qs:name":"Bogojevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810009,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203822,
+        "gp:id":847654,
+        "qs:id":1044073,
+        "wd:id":"Q1011756",
+        "wk:page":"Bogojevo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054113,
+    "wof:geomhash":"b872e15a38e0756ee8e0ac5a81500875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810009,
+            "locality_id":890477377,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477377,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Bogojevo",
+    "wof:parent_id":1108810009,
+    "wof:placetype":"locality",
+    "wof:population":2312,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13205,
+    45.53106,
+    19.13205,
+    45.53106
+],
+  "geometry": {"coordinates":[19.13205,45.53106],"type":"Point"}
+}

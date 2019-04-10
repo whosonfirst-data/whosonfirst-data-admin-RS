@@ -1,0 +1,62 @@
+{
+  "id": 1209329331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96417,43.5075,19.96417,43.5075",
+    "geom:latitude":43.5075,
+    "geom:longitude":19.96417,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Dokovici",
+    "gn:country_code":"RS",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319040,
+    "gn:latitude":43.5075,
+    "gn:longitude":19.96417,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u00d0okovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319040
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e538b4b1c5ceb99714721d5a091b4318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209329331
+        }
+    ],
+    "wof:id":1209329331,
+    "wof:lastmodified":1536290423,
+    "wof:name":"Dokovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.964170000000006,
+    43.5075,
+    19.964170000000006,
+    43.5075
+],
+  "geometry": {"coordinates":[19.96417000000001,43.5075],"type":"Point"}
+}

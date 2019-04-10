@@ -1,0 +1,73 @@
+{
+  "id": 1226757541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08837,44.52981,20.08837,44.52981",
+    "geom:latitude":44.52981,
+    "geom:longitude":20.08837,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Joseva",
+    "gn:country_code":"RS",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789758,
+    "gn:latitude":44.52981,
+    "gn:longitude":20.08837,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jo\u0161eva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jo\u0161eva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810121,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789758
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4e8853d9058bcfeeeaa2e7b56888870c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810121,
+            "locality_id":1226757541,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1226757541,
+    "wof:lastmodified":1537683785,
+    "wof:name":"Joseva",
+    "wof:parent_id":1108810121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08837,
+    44.52981,
+    20.08837,
+    44.52981
+],
+  "geometry": {"coordinates":[20.08837,44.52981],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293018879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05656,43.17461,22.05656,43.17461",
+    "geom:latitude":43.17461,
+    "geom:longitude":22.05656,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Krastavce",
+    "gn:country_code":"RS",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789094,
+    "gn:latitude":43.17461,
+    "gn:longitude":22.05656,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Krastav\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Krastav\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809893,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789094,
+        "wk:page":"Krastav%C4%8De"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"97765371f20a439532e7dfafff890fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809893,
+            "locality_id":1293018879,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1293018879,
+    "wof:lastmodified":1537683776,
+    "wof:name":"Krastavce",
+    "wof:parent_id":1108809893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05656,
+    43.17461,
+    22.05656,
+    43.17461
+],
+  "geometry": {"coordinates":[22.05656,43.17461],"type":"Point"}
+}

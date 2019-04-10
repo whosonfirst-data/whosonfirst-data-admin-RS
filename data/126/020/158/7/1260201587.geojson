@@ -1,0 +1,70 @@
+{
+  "id": 1260201587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36272,42.67316,22.36272,42.67316",
+    "geom:latitude":42.67316,
+    "geom:longitude":22.36272,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Vucina Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861763,
+    "gn:latitude":42.67316,
+    "gn:longitude":22.36272,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vu\u010dina Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861763
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4d3142d5986fc395f6856cd481056b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1260201587,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1260201587,
+    "wof:lastmodified":1536822240,
+    "wof:name":"Vucina Mahala",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36272,
+    42.67316,
+    22.36272,
+    42.67316
+],
+  "geometry": {"coordinates":[22.36272,42.67316],"type":"Point"}
+}

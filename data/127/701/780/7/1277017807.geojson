@@ -1,0 +1,71 @@
+{
+  "id": 1277017807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09877,43.59576,21.09877,43.59576",
+    "geom:latitude":43.59576,
+    "geom:longitude":21.09877,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"71170.0",
+    "gn:asciiname":"Donja Pocekovina",
+    "gn:country_code":"RS",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838347,
+    "gn:latitude":43.59576,
+    "gn:longitude":21.09877,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Donja Po\u010dekovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108810117,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838347
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"118ee7b1ac2d438e765e976ee29f356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810117,
+            "locality_id":1277017807,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1277017807,
+    "wof:lastmodified":1536855044,
+    "wof:name":"Donja Pocekovina",
+    "wof:parent_id":1108810117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09877,
+    43.59576,
+    21.09877,
+    43.59576
+],
+  "geometry": {"coordinates":[21.09877,43.59576],"type":"Point"}
+}

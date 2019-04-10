@@ -1,0 +1,75 @@
+{
+  "id": 1259702105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21374,44.24405,20.21374,44.24405",
+    "geom:latitude":44.24405,
+    "geom:longitude":20.21374,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Milavac",
+    "gn:country_code":"RS",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837133,
+    "gn:latitude":44.24405,
+    "gn:longitude":20.21374,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Milavac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milovac",
+        "Milavac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809957,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837133,
+        "wk:page":"Milavac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3cfd9b9d113cfc8fddec60fc075984a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809957,
+            "locality_id":1259702105,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1259702105,
+    "wof:lastmodified":1537683898,
+    "wof:name":"Milavac",
+    "wof:parent_id":1108809957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21374,
+    44.24405,
+    20.21374,
+    44.24405
+],
+  "geometry": {"coordinates":[20.21374,44.24405],"type":"Point"}
+}

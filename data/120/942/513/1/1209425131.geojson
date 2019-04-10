@@ -1,0 +1,62 @@
+{
+  "id": 1209425131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14583,44.58444,20.14583,44.58444",
+    "geom:latitude":44.58444,
+    "geom:longitude":20.14583,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Perica Kraj",
+    "gn:country_code":"RS",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":846965,
+    "gn:latitude":44.58444,
+    "gn:longitude":20.14583,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Peri\u0107a Kraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":846965
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1c6125407ddb257bef7e7c16492c56f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209425131
+        }
+    ],
+    "wof:id":1209425131,
+    "wof:lastmodified":1536287404,
+    "wof:name":"Perica Kraj",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14583,
+    44.58444,
+    20.14583,
+    44.58444
+],
+  "geometry": {"coordinates":[20.14583,44.58444],"type":"Point"}
+}

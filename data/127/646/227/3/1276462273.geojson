@@ -1,0 +1,76 @@
+{
+  "id": 1276462273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37048,42.9027,20.37048,42.9027",
+    "geom:latitude":42.9027,
+    "geom:longitude":20.37048,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Draga",
+    "gn:country_code":"RS",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791128,
+    "gn:latitude":42.9027,
+    "gn:longitude":20.37048,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Draga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Draga"
+    ],
+    "name:und_x_variant":[
+        "Dra\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791128
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c8eab48b845ad76c23661dc93b16adfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1276462273,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1276462273,
+    "wof:lastmodified":1537683808,
+    "wof:name":"Draga",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37048,
+    42.9027,
+    20.37048,
+    42.9027
+],
+  "geometry": {"coordinates":[20.37048,42.9027],"type":"Point"}
+}

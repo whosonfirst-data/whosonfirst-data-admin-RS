@@ -1,0 +1,66 @@
+{
+  "id": 1209120899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2176,43.19039,21.2176,43.19039",
+    "geom:latitude":43.19039,
+    "geom:longitude":21.2176,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Perunika",
+    "gn:country_code":"RS",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787119,
+    "gn:latitude":43.19039,
+    "gn:longitude":21.2176,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Perunika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Perunika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787119,
+        "wk:page":"Perunika"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"793cab74b2163007135e91ef4348a06a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120899
+        }
+    ],
+    "wof:id":1209120899,
+    "wof:lastmodified":1537683741,
+    "wof:name":"Perunika",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2176,
+    43.19039,
+    21.2176,
+    43.19039
+],
+  "geometry": {"coordinates":[21.2176,43.19039],"type":"Point"}
+}

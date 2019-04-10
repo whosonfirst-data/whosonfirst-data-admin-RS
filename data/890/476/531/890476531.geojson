@@ -1,0 +1,101 @@
+{
+  "id": 890476531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25941,44.6507,20.25941,44.6507",
+    "geom:latitude":44.6507,
+    "geom:longitude":20.25941,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5033,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u064a\u0643\u060c \u0628\u064a\u0648\u063a\u0631\u0627\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:may_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:pol_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "Bari\u010d"
+    ],
+    "qs:name":"Bari\u010d",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810007,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792866,
+        "gp:id":535701,
+        "qs:id":129670,
+        "wd:id":"Q2884580",
+        "wk:page":"Bari\u010d"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054078,
+    "wof:geomhash":"057a5d707500e845014d73180e85b869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810007,
+            "locality_id":890476531,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890476531,
+    "wof:lastmodified":1553816409,
+    "wof:name":"Bari\u010d",
+    "wof:parent_id":1108810007,
+    "wof:placetype":"locality",
+    "wof:population":5033,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25941,
+    44.6507,
+    20.25941,
+    44.6507
+],
+  "geometry": {"coordinates":[20.25941,44.6507],"type":"Point"}
+}

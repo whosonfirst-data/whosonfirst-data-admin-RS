@@ -1,0 +1,95 @@
+{
+  "id": 890477357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26572,44.58058,19.26572,44.58058",
+    "geom:latitude":44.58058,
+    "geom:longitude":19.26572,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":2240,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:eng_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:fre_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:may_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:por_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:slv_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:srp_x_preferred":[
+        "Lipni\u010dki \u0160or"
+    ],
+    "name:unk_x_variant":[
+        "\u0160or"
+    ],
+    "qs:name":"Lipni\u010dki \u0160or",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196517,
+        "gp:id":536792,
+        "qs:id":1044034,
+        "wd:id":"Q2142425",
+        "wk:page":"Lipni\u010dki \u0160or"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"bb3c7a3379ce3e05ae4a9ec55cbcce31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":890477357,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477357,
+    "wof:lastmodified":1527727182,
+    "wof:name":"Lipni\u010dki \u0160or",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:population":2240,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26572,
+    44.58058,
+    19.26572,
+    44.58058
+],
+  "geometry": {"coordinates":[19.26572,44.58058],"type":"Point"}
+}

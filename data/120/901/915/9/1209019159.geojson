@@ -1,0 +1,70 @@
+{
+  "id": 1209019159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56987,44.99703,19.56987,44.99703",
+    "geom:latitude":44.99703,
+    "geom:longitude":19.56987,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Lacarak",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196827,
+    "gn:latitude":44.99703,
+    "gn:longitude":19.56987,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"La\u0107arak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "La\u0107arak"
+    ],
+    "name:und_x_variant":[
+        "Pa\u0107arak",
+        "Ladjarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196827,
+        "wk:page":"La%C4%87arak"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"46a735f13f3aebe88c9090b39e1c9296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209019159
+        }
+    ],
+    "wof:id":1209019159,
+    "wof:lastmodified":1537683935,
+    "wof:name":"Lacarak",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56987,
+    44.99703,
+    19.56987,
+    44.99703
+],
+  "geometry": {"coordinates":[19.56987,44.99703],"type":"Point"}
+}

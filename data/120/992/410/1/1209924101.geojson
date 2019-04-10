@@ -1,0 +1,70 @@
+{
+  "id": 1209924101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04102,44.01152,21.04102,44.01152",
+    "geom:latitude":44.01152,
+    "geom:longitude":21.04102,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Drenak",
+    "gn:country_code":"RS",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838764,
+    "gn:latitude":44.01152,
+    "gn:longitude":21.04102,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Drenak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838764
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"24b79bc0258bd4a0e997d3498e519d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1209924101,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1209924101,
+    "wof:lastmodified":1536395682,
+    "wof:name":"Drenak",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04102,
+    44.01152,
+    21.04102,
+    44.01152
+],
+  "geometry": {"coordinates":[21.04102,44.01152],"type":"Point"}
+}

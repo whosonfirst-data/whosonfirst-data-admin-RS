@@ -1,0 +1,62 @@
+{
+  "id": 1209429593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19806,42.47,22.19806,42.47",
+    "geom:latitude":42.47,
+    "geom:longitude":22.19806,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Barica",
+    "gn:country_code":"RS",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860925,
+    "gn:latitude":42.47,
+    "gn:longitude":22.19806,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Barica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860925
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"96d7eaaa3da9dd1dcfe7e16bfb05d33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209429593
+        }
+    ],
+    "wof:id":1209429593,
+    "wof:lastmodified":1536287275,
+    "wof:name":"Barica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19806,
+    42.47,
+    22.19806,
+    42.47
+],
+  "geometry": {"coordinates":[22.19806,42.47],"type":"Point"}
+}

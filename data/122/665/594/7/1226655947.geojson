@@ -1,0 +1,74 @@
+{
+  "id": 1226655947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9196,43.62135,20.9196,43.62135",
+    "geom:latitude":43.62135,
+    "geom:longitude":20.9196,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Ruginci",
+    "gn:country_code":"RS",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786212,
+    "gn:latitude":43.62135,
+    "gn:longitude":20.9196,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ru\u0111inci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ru\u0111inci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810151,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786212,
+        "wk:page":"Ru%C4%91inci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f1f93db52dfe1446727356dc4ccc2269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810151,
+            "locality_id":1226655947,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1226655947,
+    "wof:lastmodified":1537683723,
+    "wof:name":"Ruginci",
+    "wof:parent_id":1108810151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9196,
+    43.62135,
+    20.9196,
+    43.62135
+],
+  "geometry": {"coordinates":[20.9196,43.62135],"type":"Point"}
+}

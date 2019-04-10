@@ -1,0 +1,70 @@
+{
+  "id": 1193155271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82509,43.83753,19.82509,43.83753",
+    "geom:latitude":43.83753,
+    "geom:longitude":19.82509,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Zabucje",
+    "gn:country_code":"RS",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319076,
+    "gn:latitude":43.83753,
+    "gn:longitude":19.82509,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zabu\u010dje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810123,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319076
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f0d361e78ed6d2dc72e1dc0b420bbd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810123,
+            "locality_id":1193155271,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1193155271,
+    "wof:lastmodified":1536373911,
+    "wof:name":"Zabucje",
+    "wof:parent_id":1108810123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82509,
+    43.83753,
+    19.82509,
+    43.83753
+],
+  "geometry": {"coordinates":[19.82509,43.83753],"type":"Point"}
+}

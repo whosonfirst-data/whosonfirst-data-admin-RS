@@ -1,0 +1,73 @@
+{
+  "id": 1226765963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25337,43.45333,21.25337,43.45333",
+    "geom:latitude":43.45333,
+    "geom:longitude":21.25337,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Kocinci",
+    "gn:country_code":"RS",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835476,
+    "gn:latitude":43.45333,
+    "gn:longitude":21.25337,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ko\u010dinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ko\u010dinci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835476
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7556f1ce09b9e8cd47c930b50e066335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1226765963,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1226765963,
+    "wof:lastmodified":1537683878,
+    "wof:name":"Kocinci",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25337,
+    43.45333,
+    21.25337,
+    43.45333
+],
+  "geometry": {"coordinates":[21.25337,43.45333],"type":"Point"}
+}

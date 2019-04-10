@@ -1,0 +1,73 @@
+{
+  "id": 1344167229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61961,43.01003,20.61961,43.01003",
+    "geom:latitude":43.01003,
+    "geom:longitude":20.61961,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zlatare",
+    "gn:country_code":"RS",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783860,
+    "gn:latitude":43.01003,
+    "gn:longitude":20.61961,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Zlatare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zlatare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783860,
+        "wk:page":"Zlatare"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cca834052193c1df97dcade36bffd3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1344167229,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1344167229,
+    "wof:lastmodified":1537683684,
+    "wof:name":"Zlatare",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61961,
+    43.01003,
+    20.61961,
+    43.01003
+],
+  "geometry": {"coordinates":[20.61961,43.01003],"type":"Point"}
+}

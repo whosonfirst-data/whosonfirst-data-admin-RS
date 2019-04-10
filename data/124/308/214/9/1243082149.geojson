@@ -1,0 +1,76 @@
+{
+  "id": 1243082149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30415,42.71253,22.30415,42.71253",
+    "geom:latitude":42.71253,
+    "geom:longitude":22.30415,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Mandzina Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835369,
+    "gn:latitude":42.71253,
+    "gn:longitude":22.30415,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mand\u017eina Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mand\u017eina Mahala"
+    ],
+    "name:und_x_variant":[
+        "Mancina Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835369
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8b31407c0e85a14d2c6e599f41cacbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1243082149,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1243082149,
+    "wof:lastmodified":1537683875,
+    "wof:name":"Mandzina Mahala",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30415,
+    42.71253,
+    22.30415,
+    42.71253
+],
+  "geometry": {"coordinates":[22.30415,42.71253],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293696829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31947,44.24224,21.31947,44.24224",
+    "geom:latitude":44.24224,
+    "geom:longitude":21.31947,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Prostinac",
+    "gn:country_code":"RS",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786678,
+    "gn:latitude":44.24224,
+    "gn:longitude":21.31947,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pro\u0161tinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pro\u0161tinac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108810103,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786678,
+        "wk:page":"Pro%C5%A1tinac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9d5280dcadd0be5b80768375bd8d33ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810103,
+            "locality_id":1293696829,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1293696829,
+    "wof:lastmodified":1537683733,
+    "wof:name":"Prostinac",
+    "wof:parent_id":1108810103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31947000000001,
+    44.24224,
+    21.31947000000001,
+    44.24224
+],
+  "geometry": {"coordinates":[21.31947000000001,44.24224],"type":"Point"}
+}

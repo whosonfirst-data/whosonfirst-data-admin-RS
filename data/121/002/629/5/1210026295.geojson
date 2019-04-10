@@ -1,0 +1,74 @@
+{
+  "id": 1210026295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21241,45.00213,19.21241,45.00213",
+    "geom:latitude":45.00213,
+    "geom:longitude":19.21241,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Morovic",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337474,
+    "gn:latitude":45.00213,
+    "gn:longitude":19.21241,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Morovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810069,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337474,
+        "wk:page":"Morovi%C4%87"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2767b740db1d2b4a0a8d3342b919e5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810069,
+            "locality_id":1210026295,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1210026295,
+    "wof:lastmodified":1537684029,
+    "wof:name":"Morovic",
+    "wof:parent_id":1108810069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21241,
+    45.00213,
+    19.21241,
+    45.00213
+],
+  "geometry": {"coordinates":[19.21241,45.00213],"type":"Point"}
+}

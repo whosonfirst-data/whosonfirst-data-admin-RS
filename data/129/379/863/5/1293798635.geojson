@@ -1,0 +1,74 @@
+{
+  "id": 1293798635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22496,43.59949,22.22496,43.59949",
+    "geom:latitude":43.59949,
+    "geom:longitude":22.22496,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Kalicina",
+    "gn:country_code":"RS",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789670,
+    "gn:latitude":43.59949,
+    "gn:longitude":22.22496,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kali\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kali\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108809919,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789670,
+        "wk:page":"Kali%C4%8Dina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ca3892c0c2717947b1d0733a73352ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809919,
+            "locality_id":1293798635,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1293798635,
+    "wof:lastmodified":1537683783,
+    "wof:name":"Kalicina",
+    "wof:parent_id":1108809919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22496,
+    43.59949,
+    22.22496,
+    43.59949
+],
+  "geometry": {"coordinates":[22.22496,43.59949],"type":"Point"}
+}

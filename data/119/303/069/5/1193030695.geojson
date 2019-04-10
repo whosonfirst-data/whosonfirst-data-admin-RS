@@ -1,0 +1,74 @@
+{
+  "id": 1193030695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12798,43.51895,20.12798,43.51895",
+    "geom:latitude":43.51895,
+    "geom:longitude":20.12798,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Opaljenik",
+    "gn:country_code":"RS",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":787467,
+    "gn:latitude":43.51895,
+    "gn:longitude":20.12798,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Opaljenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Opaljenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787467,
+        "wk:page":"Opaljenik"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c2e44d4259a029f2aa0ab86e1b0079e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1193030695,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1193030695,
+    "wof:lastmodified":1537683747,
+    "wof:name":"Opaljenik",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12798,
+    43.51895,
+    20.12798,
+    43.51895
+],
+  "geometry": {"coordinates":[20.12798,43.51895],"type":"Point"}
+}

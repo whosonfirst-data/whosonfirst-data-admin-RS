@@ -1,0 +1,78 @@
+{
+  "id": 1344194035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44174,45.90024,19.44174,45.90024",
+    "geom:latitude":45.90024,
+    "geom:longitude":19.44174,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"80071.0",
+    "gn:asciiname":"Pacir",
+    "gn:country_code":"RS",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193734,
+    "gn:latitude":45.90024,
+    "gn:longitude":19.44174,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Pa\u010dir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pa\u010dir"
+    ],
+    "name:und_x_variant":[
+        "Pacs\u00e9r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108809829,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193734,
+        "wk:page":"Pa%C4%8Dir"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1acbcc6baaa2c39eb421105450ca9c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809829,
+            "locality_id":1344194035,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1344194035,
+    "wof:lastmodified":1537683930,
+    "wof:name":"Pacir",
+    "wof:parent_id":1108809829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44174,
+    45.90024,
+    19.44174,
+    45.90024
+],
+  "geometry": {"coordinates":[19.44174,45.90024],"type":"Point"}
+}

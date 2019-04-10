@@ -1,0 +1,107 @@
+{
+  "id": 890477817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45535,45.47036,19.45535,45.47036",
+    "geom:latitude":45.47036,
+    "geom:longitude":19.45535,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Pivnice"
+    ],
+    "name:dut_x_preferred":[
+        "Pivnice"
+    ],
+    "name:eng_x_preferred":[
+        "Pivnice"
+    ],
+    "name:epo_x_preferred":[
+        "Pivnice"
+    ],
+    "name:fre_x_preferred":[
+        "Pivnice"
+    ],
+    "name:ger_x_preferred":[
+        "Pivnice"
+    ],
+    "name:hrv_x_preferred":[
+        "Pivnice"
+    ],
+    "name:hun_x_preferred":[
+        "Pinc\u00e9d"
+    ],
+    "name:ita_x_preferred":[
+        "Pivnice"
+    ],
+    "name:may_x_preferred":[
+        "Pivnice"
+    ],
+    "name:srp_x_preferred":[
+        "Pivnice"
+    ],
+    "name:unk_x_variant":[
+        "Pivnica"
+    ],
+    "qs:name":"Pivnice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809827,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193295,
+        "gp:id":535957,
+        "qs:id":95057,
+        "wd:id":"Q285989",
+        "wk:page":"Pivnice"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054132,
+    "wof:geomhash":"e83ed524063463315e6c4e36fd88c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809827,
+            "locality_id":890477817,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477817,
+    "wof:lastmodified":1527727178,
+    "wof:name":"Pivnice",
+    "wof:parent_id":1108809827,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45535,
+    45.47036,
+    19.45535,
+    45.47036
+],
+  "geometry": {"coordinates":[19.45535,45.47036],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326663889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.321,44.874,20.321,44.874",
+    "geom:latitude":44.874,
+    "geom:longitude":20.321,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:admin3_code":"70157.0",
+    "gn:asciiname":"Zemun Polje",
+    "gn:country_code":"RS",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864840,
+    "gn:latitude":44.874,
+    "gn:longitude":20.321,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Zemun Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810165,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864840,
+        "wk:page":"Zemun_Polje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f338d23afe209c9153885cd2f5d84790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810165,
+            "locality_id":1326663889,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1326663889,
+    "wof:lastmodified":1537572095,
+    "wof:name":"Zemun Polje",
+    "wof:parent_id":1108810165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.321,
+    44.874,
+    20.321,
+    44.874
+],
+  "geometry": {"coordinates":[20.321,44.874],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209120825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91694,43.56389,19.91694,43.56389",
+    "geom:latitude":43.56389,
+    "geom:longitude":19.91694,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Popovici",
+    "gn:country_code":"RS",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318974,
+    "gn:latitude":43.56389,
+    "gn:longitude":19.91694,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Popovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318974
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a9efa958a479a0fad02cf92e7a47d9dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120825
+        }
+    ],
+    "wof:id":1209120825,
+    "wof:lastmodified":1536297104,
+    "wof:name":"Popovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91694,
+    43.56389,
+    19.91694,
+    43.56389
+],
+  "geometry": {"coordinates":[19.91694,43.56389],"type":"Point"}
+}

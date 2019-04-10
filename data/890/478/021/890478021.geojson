@@ -1,0 +1,99 @@
+{
+  "id": 890478021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14571,45.17938,21.14571,45.17938",
+    "geom:latitude":45.17938,
+    "geom:longitude":21.14571,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":78,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:eng_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:epo_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:fre_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:hun_x_preferred":[
+        "Laudontanya"
+    ],
+    "name:may_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:rum_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:slv_x_preferred":[
+        "Laudonovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0443\u0434\u043e\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Laudonovac"
+    ],
+    "qs:name":"Laudanovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810031,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864059,
+        "gp:id":535314,
+        "qs:id":554604,
+        "wd:id":"Q947279"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054141,
+    "wof:geomhash":"eb61111c02c7e53085df27c585f8d9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810031,
+            "locality_id":890478021,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890478021,
+    "wof:lastmodified":1514500314,
+    "wof:name":"Laudanovac",
+    "wof:parent_id":1108810031,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14571,
+    45.17938,
+    21.14571,
+    45.17938
+],
+  "geometry": {"coordinates":[21.14571,45.17938],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 890476707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44294,45.32328,20.44294,45.32328",
+    "geom:latitude":45.32328,
+    "geom:longitude":20.44294,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5293,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "E\u00e7ka"
+    ],
+    "name:dut_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "E\u0109ka"
+    ],
+    "name:fre_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:hrv_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9cska"
+    ],
+    "name:may_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:rum_x_preferred":[
+        "Ecica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0447\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "E\u010dka"
+    ],
+    "name:unk_x_variant":[
+        "Pavlovo E\u010dka"
+    ],
+    "qs:name":"E\u010dka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:elevation":71.0,
+    "wd:latitude":"45.317777777",
+    "wd:longitude":"20.438888888",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810171,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790847,
+        "gp:id":533815,
+        "qs:id":129622,
+        "wd:id":"Q743707",
+        "wk:page":"E\u010dka"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054086,
+    "wof:geomhash":"2925382c57ba87616f29459da32b78d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810171,
+            "locality_id":890476707,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476707,
+    "wof:lastmodified":1527727147,
+    "wof:name":"E\u010dka",
+    "wof:parent_id":1108810171,
+    "wof:placetype":"locality",
+    "wof:population":5293,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44294,
+    45.32328,
+    20.44294,
+    45.32328
+],
+  "geometry": {"coordinates":[20.44294,45.32328],"type":"Point"}
+}

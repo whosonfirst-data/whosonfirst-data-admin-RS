@@ -1,0 +1,72 @@
+{
+  "id": 1209229279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15217,44.46417,22.15217,44.46417",
+    "geom:latitude":44.46417,
+    "geom:longitude":22.15217,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Donji Milanovac",
+    "gn:country_code":"RS",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791175,
+    "gn:latitude":44.46417,
+    "gn:longitude":22.15217,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donji Milanovac",
+    "gn:population":2410,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043d\u044c\u0438 \u041c\u0438\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_variant":[
+        "Donji Milanovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791175,
+        "wk:page":"Donji_Milanovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e51e82cae1e9885123c97075374e3fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229279
+        }
+    ],
+    "wof:id":1209229279,
+    "wof:lastmodified":1537683809,
+    "wof:name":"Donji Milanovac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:population":2410,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15217,
+    44.46417,
+    22.15217,
+    44.46417
+],
+  "geometry": {"coordinates":[22.15217,44.46417],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 890476943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.375,45.27278,20.375,45.27278",
+    "geom:latitude":45.27278,
+    "geom:longitude":20.375,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1746,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u0431\u043b\u0430\u0442\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:eng_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:epo_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:fre_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:ger_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:hrv_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyerzs\u00e9betlak"
+    ],
+    "name:may_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:rum_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e-\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:slo_x_preferred":[
+        "Biele Blato"
+    ],
+    "name:slv_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:srp_x_preferred":[
+        "Belo Blato"
+    ],
+    "name:unk_x_variant":[
+        "Elisenheim"
+    ],
+    "qs:name":"Belo Blato",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":253,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810171,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792718,
+        "gp:id":535909,
+        "qs:id":275782,
+        "wd:id":"Q263805",
+        "wk:page":"Belo Blato"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054095,
+    "wof:geomhash":"5b0ae8f8db3a4b042c376e31de71ae64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810171,
+            "locality_id":890476943,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476943,
+    "wof:lastmodified":1527727154,
+    "wof:name":"Belo Blato",
+    "wof:parent_id":1108810171,
+    "wof:placetype":"locality",
+    "wof:population":1746,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.375,
+    45.27278,
+    20.375,
+    45.27278
+],
+  "geometry": {"coordinates":[20.375,45.27278],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1209924303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43614,45.33086,19.43614,45.33086",
+    "geom:latitude":45.33086,
+    "geom:longitude":19.43614,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Nova Gajdobra",
+    "gn:country_code":"RS",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194454,
+    "gn:latitude":45.33086,
+    "gn:longitude":19.43614,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Nova Gajdobra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:und_x_variant":[
+        "Wekerle",
+        "Kerekegyh\u00e1z",
+        "Wekerlefalva",
+        "Wekerledorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809827,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194454,
+        "wk:page":"Nova_Gajdobra"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"196164d9cf555e25ab37f0246124adb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809827,
+            "locality_id":1209924303,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1209924303,
+    "wof:lastmodified":1537683931,
+    "wof:name":"Nova Gajdobra",
+    "wof:parent_id":1108809827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43614,
+    45.33086,
+    19.43614,
+    45.33086
+],
+  "geometry": {"coordinates":[19.43614,45.33086],"type":"Point"}
+}

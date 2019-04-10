@@ -1,0 +1,70 @@
+{
+  "id": 1343579483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80326,42.33364,21.80326,42.33364",
+    "geom:latitude":42.33364,
+    "geom:longitude":21.80326,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Marcanska Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859435,
+    "gn:latitude":42.33364,
+    "gn:longitude":21.80326,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Marcanska Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810039,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859435
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"be6f2d50fdf3bb5583f59ab5f32aab73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810039,
+            "locality_id":1343579483,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1343579483,
+    "wof:lastmodified":1537068992,
+    "wof:name":"Marcanska Mahala",
+    "wof:parent_id":1108810039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80326,
+    42.33364,
+    21.80326,
+    42.33364
+],
+  "geometry": {"coordinates":[21.80326,42.33364],"type":"Point"}
+}

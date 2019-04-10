@@ -1,0 +1,82 @@
+{
+  "id": 101914181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":370898.747775,
+    "geom:bbox":"21.8855642775,43.3416408887,21.8922793638,43.351997264",
+    "geom:latitude":43.346986,
+    "geom:longitude":21.888818,
+    "gn:population":250000,
+    "iso:country":"RS",
+    "lbl:latitude":43.348049,
+    "lbl:longitude":21.88821,
+    "mps:latitude":43.348049,
+    "mps:longitude":21.88821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Republika Srbija",
+    "qs:a1":"*Ni\u0161avski upravni okrug",
+    "qs:a1r":"0Serbia",
+    "qs:a2":"Pantelej",
+    "qs:adm0":"Republika Srbija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ni\u00b5",
+    "qs:pop":0,
+    "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108810021,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787657,
+        "gp:id":53562,
+        "qs:id":1078939,
+        "wd:id":"Q129259",
+        "wk:page":"Ni\u0161"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"91b6eaf74096ff93c15b3847fdb6eeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810021,
+            "locality_id":101914181,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":101914181,
+    "wof:lastmodified":1505338662,
+    "wof:name":"Ni\u00b5",
+    "wof:parent_id":1108810021,
+    "wof:placetype":"locality",
+    "wof:population":250000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88556427754901,
+    43.34164088873416,
+    21.89227936375767,
+    43.35199726404886
+],
+  "geometry": {"coordinates":[[[21.8883296057478,43.34205996163251],[21.88740589449327,43.34335315738889],[21.88556427754901,43.34808874381656],[21.88635354195361,43.34993036076065],[21.88712091614639,43.35131163430708],[21.88886627327685,43.35110759517016],[21.88904890653737,43.35199726404886],[21.89148618428942,43.35171226032298],[21.88984242924147,43.34370524449037],[21.89227936375767,43.34342022811649],[21.89191409469754,43.34164088873416],[21.8883296057478,43.34205996163251]]],"type":"Polygon"}
+}

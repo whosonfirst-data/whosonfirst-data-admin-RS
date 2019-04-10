@@ -1,0 +1,84 @@
+{
+  "id": 1243007687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46719,45.86954,19.46719,45.86954",
+    "geom:latitude":45.86954,
+    "geom:longitude":19.46719,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"80071.0",
+    "gn:asciiname":"Stara Moravica",
+    "gn:country_code":"RS",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190005,
+    "gn:latitude":45.86954,
+    "gn:longitude":19.46719,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Stara Moravica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:und_x_variant":[
+        "Kosutfalva",
+        "Omorovicza",
+        "Moravice",
+        "Staro Moravice",
+        "B\u00e1cskossuthfalva",
+        "\u00d3moravicza",
+        "Kossuthfalva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108809829,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190005,
+        "wk:page":"Stara_Moravica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"763ffce7344d13e608a4b93e017be025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809829,
+            "locality_id":1243007687,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1243007687,
+    "wof:lastmodified":1537683922,
+    "wof:name":"Stara Moravica",
+    "wof:parent_id":1108809829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46719,
+    45.86954,
+    19.46719,
+    45.86954
+],
+  "geometry": {"coordinates":[19.46719,45.86954],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 890477435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53211,45.36248,19.53211,45.36248",
+    "geom:latitude":45.36248,
+    "geom:longitude":19.53211,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2733,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Magli\u0107"
+    ],
+    "name:unk_x_variant":[
+        "Ravno Selo"
+    ],
+    "qs:name":"Magli\u0107",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhna Bachka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809831,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195939,
+        "gp:id":535186,
+        "qs:id":1218672,
+        "wd:id":"Q662496",
+        "wk:page":"Magli\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054115,
+    "wof:geomhash":"da9ad47e878f4e0afa9c02776bc639c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809831,
+            "locality_id":890477435,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477435,
+    "wof:lastmodified":1527727186,
+    "wof:name":"Magli\u0107",
+    "wof:parent_id":1108809831,
+    "wof:placetype":"locality",
+    "wof:population":2733,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53211,
+    45.36248,
+    19.53211,
+    45.36248
+],
+  "geometry": {"coordinates":[19.53211,45.36248],"type":"Point"}
+}

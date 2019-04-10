@@ -1,0 +1,74 @@
+{
+  "id": 1276883319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54819,43.34532,21.54819,43.34532",
+    "geom:latitude":43.34532,
+    "geom:longitude":21.54819,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Kostenica",
+    "gn:country_code":"RS",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789217,
+    "gn:latitude":43.34532,
+    "gn:longitude":21.54819,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kostenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kostenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789217,
+        "wk:page":"Kostenica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"47a6e7d300c27cb001175867bd807239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1276883319,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1276883319,
+    "wof:lastmodified":1537683777,
+    "wof:name":"Kostenica",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54819,
+    43.34532,
+    21.54819,
+    43.34532
+],
+  "geometry": {"coordinates":[21.54819,43.34532],"type":"Point"}
+}

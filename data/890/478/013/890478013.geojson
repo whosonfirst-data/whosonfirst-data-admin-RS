@@ -1,0 +1,68 @@
+{
+  "id": 890478013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5375,43.565,20.5375,43.565",
+    "geom:latitude":43.565,
+    "geom:longitude":20.5375,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Rakici",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837295,
+        "gp:id":536969,
+        "qs:id":554451
+    },
+    "wof:country":"RS",
+    "wof:created":1469054141,
+    "wof:geomhash":"4c53aa3ddd0df3f5c8a05418cac9e0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":890478013,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890478013,
+    "wof:lastmodified":1505343729,
+    "wof:name":"Rakici",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5375,
+    43.565,
+    20.5375,
+    43.565
+],
+  "geometry": {"coordinates":[20.5375,43.565],"type":"Point"}
+}

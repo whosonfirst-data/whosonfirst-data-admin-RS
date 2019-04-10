@@ -1,0 +1,72 @@
+{
+  "id": 890477291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0758965,44.5993965,21.0758965,44.5993965",
+    "geom:latitude":44.599396,
+    "geom:longitude":21.075896,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Podunavlje"
+    ],
+    "qs:name":"Podunavlje",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Podunavlje",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":404,
+    "qs:photos_sr":2,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1828,
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389211,
+        "qs:id":379838,
+        "wd:id":"Q1269285",
+        "wk:page":"Podunavlje"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054110,
+    "wof:geomhash":"1302ddb63b4ab231c98bce0cfaa2ec46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890477291
+        }
+    ],
+    "wof:id":890477291,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Podunavlje",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0758965,
+    44.5993965,
+    21.0758965,
+    44.5993965
+],
+  "geometry": {"coordinates":[21.0758965,44.5993965],"type":"Point"}
+}

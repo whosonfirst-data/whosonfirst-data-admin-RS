@@ -1,0 +1,74 @@
+{
+  "id": 1276676573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4384,43.30459,20.4384,43.30459",
+    "geom:latitude":43.30459,
+    "geom:longitude":20.4384,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Plesin",
+    "gn:country_code":"RS",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":787000,
+    "gn:latitude":43.30459,
+    "gn:longitude":20.4384,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ple\u0161in",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ple\u0161in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787000,
+        "wk:page":"Ple%C5%A1in"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4ece0feead5b1637e3abd10a0fb61ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":1276676573,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1276676573,
+    "wof:lastmodified":1537683739,
+    "wof:name":"Plesin",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4384,
+    43.30459000000001,
+    20.4384,
+    43.30459000000001
+],
+  "geometry": {"coordinates":[20.4384,43.30459000000001],"type":"Point"}
+}

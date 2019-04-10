@@ -1,0 +1,74 @@
+{
+  "id": 1309821765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36323,42.55791,22.36323,42.55791",
+    "geom:latitude":42.55791,
+    "geom:longitude":22.36323,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Gornja Lisina",
+    "gn:country_code":"RS",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790491,
+    "gn:latitude":42.55791,
+    "gn:longitude":22.36323,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Lisina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Lisina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790491,
+        "wk:page":"Gornja_Lisina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cd70598723be06acaa8363e0cd281a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1309821765,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1309821765,
+    "wof:lastmodified":1537683798,
+    "wof:name":"Gornja Lisina",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36323,
+    42.55791,
+    22.36323,
+    42.55791
+],
+  "geometry": {"coordinates":[22.36323,42.55791],"type":"Point"}
+}

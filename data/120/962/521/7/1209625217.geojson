@@ -1,0 +1,68 @@
+{
+  "id": 1209625217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51193,44.08821,19.51193,44.08821",
+    "geom:latitude":44.08821,
+    "geom:longitude":19.51193,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bacevci",
+    "gn:country_code":"RS",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204685,
+    "gn:latitude":44.08821,
+    "gn:longitude":19.51193,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ba\u010devci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ba\u010devci"
+    ],
+    "name:und_x_variant":[
+        "Ba\u010devac",
+        "Ba\u0107evica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204685
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c8db3ce8d367b16b76bc4eb5edc4d0e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209625217
+        }
+    ],
+    "wof:id":1209625217,
+    "wof:lastmodified":1537683952,
+    "wof:name":"Bacevci",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51193,
+    44.08821,
+    19.51193,
+    44.08821
+],
+  "geometry": {"coordinates":[19.51193,44.08821],"type":"Point"}
+}

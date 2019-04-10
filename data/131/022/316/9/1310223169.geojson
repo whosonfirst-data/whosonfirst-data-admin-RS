@@ -1,0 +1,74 @@
+{
+  "id": 1310223169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17639,43.41417,21.17639,43.41417",
+    "geom:latitude":43.41417,
+    "geom:longitude":21.17639,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Celije",
+    "gn:country_code":"RS",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792011,
+    "gn:latitude":43.41417,
+    "gn:longitude":21.17639,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0106elije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0106elije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792011,
+        "wk:page":"%C4%86elije_%28Kru%C5%A1evac%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c801fc96d797c087317abc8ac1791481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1310223169,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1310223169,
+    "wof:lastmodified":1537683823,
+    "wof:name":"Celije",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17639,
+    43.41417,
+    21.17639,
+    43.41417
+],
+  "geometry": {"coordinates":[21.17639,43.41417],"type":"Point"}
+}

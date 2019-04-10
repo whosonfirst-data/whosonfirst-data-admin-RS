@@ -1,0 +1,62 @@
+{
+  "id": 1209629751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.585,44.56694,20.585,44.56694",
+    "geom:latitude":44.56694,
+    "geom:longitude":20.585,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Gaglovo",
+    "gn:country_code":"RS",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":850679,
+    "gn:latitude":44.56694,
+    "gn:longitude":20.585,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gaglovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":850679
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"18dcbc5d683349f000a6001c28ccb20a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209629751
+        }
+    ],
+    "wof:id":1209629751,
+    "wof:lastmodified":1536281230,
+    "wof:name":"Gaglovo",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.585,
+    44.56694,
+    20.585,
+    44.56694
+],
+  "geometry": {"coordinates":[20.585,44.56694],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343771971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.437,43.13889,20.437,43.13889",
+    "geom:latitude":43.13889,
+    "geom:longitude":20.437,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Savci",
+    "gn:country_code":"RS",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793777,
+    "gn:latitude":43.13889,
+    "gn:longitude":20.437,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160avci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160avci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793777,
+        "wk:page":"%C5%A0avci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a19ed8be6614b51e767302e4fb067d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1343771971,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1343771971,
+    "wof:lastmodified":1537683845,
+    "wof:name":"Savci",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.437,
+    43.13889,
+    20.437,
+    43.13889
+],
+  "geometry": {"coordinates":[20.437,43.13889],"type":"Point"}
+}

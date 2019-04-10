@@ -1,0 +1,77 @@
+{
+  "id": 1226357277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62027,43.29916,21.62027,43.29916",
+    "geom:latitude":43.29916,
+    "geom:longitude":21.62027,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Desilovo",
+    "gn:country_code":"RS",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791526,
+    "gn:latitude":43.29916,
+    "gn:longitude":21.62027,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"De\u0161ilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "De\u0161ilovo"
+    ],
+    "name:und_x_variant":[
+        "De\u0161ilovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809979,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791526,
+        "wk:page":"De%C5%A1ilovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9bec9045cd514a4b1b05b1441c935208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809979,
+            "locality_id":1226357277,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1226357277,
+    "wof:lastmodified":1537683816,
+    "wof:name":"Desilovo",
+    "wof:parent_id":1108809979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62027,
+    43.29916,
+    21.62027,
+    43.29916
+],
+  "geometry": {"coordinates":[21.62027,43.29916],"type":"Point"}
+}

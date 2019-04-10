@@ -1,0 +1,74 @@
+{
+  "id": 1343771969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90539,44.15765,20.90539,44.15765",
+    "geom:latitude":44.15765,
+    "geom:longitude":20.90539,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Veliko Krcmare",
+    "gn:country_code":"RS",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784533,
+    "gn:latitude":44.15765,
+    "gn:longitude":20.90539,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Veliko Kr\u010dmare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Veliko Kr\u010dmare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810047,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784533,
+        "wk:page":"Veliko_Kr%C4%8Dmare"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bd730ffc5d705f9f5502c970c68998b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810047,
+            "locality_id":1343771969,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1343771969,
+    "wof:lastmodified":1537683696,
+    "wof:name":"Veliko Krcmare",
+    "wof:parent_id":1108810047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90539,
+    44.15765,
+    20.90539,
+    44.15765
+],
+  "geometry": {"coordinates":[20.90539,44.15765],"type":"Point"}
+}

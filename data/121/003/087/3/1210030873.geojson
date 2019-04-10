@@ -1,0 +1,73 @@
+{
+  "id": 1210030873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24044,43.09059,21.24044,43.09059",
+    "geom:latitude":43.09059,
+    "geom:longitude":21.24044,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Crkviste",
+    "gn:country_code":"RS",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834994,
+    "gn:latitude":43.09059,
+    "gn:longitude":21.24044,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Crkvi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Crkvi\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834994
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"44fc6a803a86597920c4f2b890f5bb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1210030873,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1210030873,
+    "wof:lastmodified":1537683865,
+    "wof:name":"Crkviste",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24044,
+    43.09059,
+    21.24044,
+    43.09059
+],
+  "geometry": {"coordinates":[21.24044,43.09059],"type":"Point"}
+}

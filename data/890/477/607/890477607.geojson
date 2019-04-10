@@ -1,0 +1,92 @@
+{
+  "id": 890477607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17868,42.95229,22.17868,42.95229",
+    "geom:latitude":42.95229,
+    "geom:longitude":22.17868,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1000,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Brezovica"
+    ],
+    "name:eng_x_preferred":[
+        "Brezovica"
+    ],
+    "name:fre_x_preferred":[
+        "Brezovica"
+    ],
+    "name:may_x_preferred":[
+        "Brezovica"
+    ],
+    "name:por_x_preferred":[
+        "Brezovica"
+    ],
+    "name:slv_x_preferred":[
+        "Brezovica"
+    ],
+    "name:srp_x_preferred":[
+        "Brezovica"
+    ],
+    "qs:name":"Brezovica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":411,
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108810139,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792277,
+        "gp:id":537497,
+        "qs:id":83762,
+        "wd:id":"Q2924810",
+        "wk:page":"Brezovica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054122,
+    "wof:geomhash":"9a1d88cc83235c44f111afbb8417ea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810139,
+            "locality_id":890477607,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":890477607,
+    "wof:lastmodified":1553816410,
+    "wof:name":"Brezovica",
+    "wof:parent_id":1108810139,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17868,
+    42.95229,
+    22.17868,
+    42.95229
+],
+  "geometry": {"coordinates":[22.17868,42.95229],"type":"Point"}
+}

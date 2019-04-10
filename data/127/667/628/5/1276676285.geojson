@@ -1,0 +1,74 @@
+{
+  "id": 1276676285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99624,42.47399,21.99624,42.47399",
+    "geom:latitude":42.47399,
+    "geom:longitude":21.99624,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Barbarusince",
+    "gn:country_code":"RS",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792884,
+    "gn:latitude":42.47399,
+    "gn:longitude":21.99624,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Barbaru\u0161ince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Barbaru\u0161ince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792884,
+        "wk:page":"Barbaru%C5%A1ince"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a51a422a8580a90ceb30a3e893f004cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1276676285,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1276676285,
+    "wof:lastmodified":1537683838,
+    "wof:name":"Barbarusince",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99624,
+    42.47399,
+    21.99624,
+    42.47399
+],
+  "geometry": {"coordinates":[21.99624,42.47399],"type":"Point"}
+}

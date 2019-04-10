@@ -1,0 +1,74 @@
+{
+  "id": 890477533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62042,43.137069,22.62042,43.137069",
+    "geom:latitude":43.137069,
+    "geom:longitude":22.62042,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pirot"
+    ],
+    "qs:name":"Pirot",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Pirot",
+    "qs:photos":302,
+    "qs:photos_1k":61,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":867,
+    "qs:photos_sr":5,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "wd:latitude":"43.151944444",
+    "wd:longitude":"22.585",
+    "wd:wordcount":2310,
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389200,
+        "qs:id":890849,
+        "wd:id":"Q309343",
+        "wk:page":"Pirot"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054119,
+    "wof:geomhash":"b24fc41b6e183e095d1770fa1e63e8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890477533
+        }
+    ],
+    "wof:id":890477533,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Pirot",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62042,
+    43.137069,
+    22.62042,
+    43.137069
+],
+  "geometry": {"coordinates":[22.62042,43.137069],"type":"Point"}
+}

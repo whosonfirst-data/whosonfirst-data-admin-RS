@@ -1,0 +1,104 @@
+{
+  "id": 890477213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27815,45.84227,20.27815,45.84227",
+    "geom:latitude":45.84227,
+    "geom:longitude":20.27815,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1655,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sajan"
+    ],
+    "name:eng_x_preferred":[
+        "Sajan"
+    ],
+    "name:epo_x_preferred":[
+        "Sajan"
+    ],
+    "name:fre_x_preferred":[
+        "Sajan"
+    ],
+    "name:hun_x_preferred":[
+        "Szaj\u00e1n"
+    ],
+    "name:may_x_preferred":[
+        "Sajan"
+    ],
+    "name:rum_x_preferred":[
+        "Sajan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u044f\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Sajan"
+    ],
+    "name:srp_x_preferred":[
+        "Sajan"
+    ],
+    "name:unk_x_variant":[
+        "Zaj\u00e1n"
+    ],
+    "qs:name":"Sajan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108809913,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786146,
+        "gp:id":535815,
+        "qs:id":129456,
+        "wd:id":"Q519373",
+        "wk:page":"Sajan"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054106,
+    "wof:geomhash":"208c4caff70f12d8c3cd2852011129ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809913,
+            "locality_id":890477213,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":890477213,
+    "wof:lastmodified":1527727185,
+    "wof:name":"Sajan",
+    "wof:parent_id":1108809913,
+    "wof:placetype":"locality",
+    "wof:population":1655,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27815,
+    45.84227,
+    20.27815,
+    45.84227
+],
+  "geometry": {"coordinates":[20.27815,45.84227],"type":"Point"}
+}

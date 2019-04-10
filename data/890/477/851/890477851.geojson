@@ -1,0 +1,95 @@
+{
+  "id": 890477851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12914,43.68752,21.12914,43.68752",
+    "geom:latitude":43.68752,
+    "geom:longitude":21.12914,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Milutovac"
+    ],
+    "name:eng_x_preferred":[
+        "Milutovac"
+    ],
+    "name:fre_x_preferred":[
+        "Milutovac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30eb\u30c8\u30f4\u30a1\u30c4"
+    ],
+    "name:may_x_preferred":[
+        "Milutovac"
+    ],
+    "name:por_x_preferred":[
+        "Milutovac"
+    ],
+    "name:slv_x_preferred":[
+        "Milutovac"
+    ],
+    "name:srp_x_preferred":[
+        "Milutovac"
+    ],
+    "qs:name":"Milutovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108810117,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787940,
+        "gp:id":535454,
+        "qs:id":553807,
+        "wd:id":"Q2737788",
+        "wk:page":"Milutovac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054133,
+    "wof:geomhash":"ab9568a7f583845cbd4b02eb283eff66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810117,
+            "locality_id":890477851,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":890477851,
+    "wof:lastmodified":1527727180,
+    "wof:name":"Milutovac",
+    "wof:parent_id":1108810117,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12914,
+    43.68752,
+    21.12914,
+    43.68752
+],
+  "geometry": {"coordinates":[21.12914,43.68752],"type":"Point"}
+}

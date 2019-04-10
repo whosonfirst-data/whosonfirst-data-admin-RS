@@ -1,0 +1,70 @@
+{
+  "id": 1344267277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78472,44.04917,19.78472,44.04917",
+    "geom:latitude":44.04917,
+    "geom:longitude":19.78472,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Jokici",
+    "gn:country_code":"RS",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337469,
+    "gn:latitude":44.04917,
+    "gn:longitude":19.78472,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Joki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809923,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337469
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fe8bcc20d9d16f975315d1d45ac85417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809923,
+            "locality_id":1344267277,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1344267277,
+    "wof:lastmodified":1537071141,
+    "wof:name":"Jokici",
+    "wof:parent_id":1108809923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78472,
+    44.04917,
+    19.78472,
+    44.04917
+],
+  "geometry": {"coordinates":[19.78472,44.04917],"type":"Point"}
+}

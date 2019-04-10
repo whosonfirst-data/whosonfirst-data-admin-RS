@@ -1,0 +1,110 @@
+{
+  "id": 890477507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22902,45.53946,20.22902,45.53946",
+    "geom:latitude":45.53946,
+    "geom:longitude":20.22902,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4321,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kumane"
+    ],
+    "name:eng_x_preferred":[
+        "Kumane"
+    ],
+    "name:epo_x_preferred":[
+        "Kumane"
+    ],
+    "name:fre_x_preferred":[
+        "Kumane"
+    ],
+    "name:hrv_x_preferred":[
+        "Kumane"
+    ],
+    "name:hun_x_preferred":[
+        "Kum\u00e1n"
+    ],
+    "name:may_x_preferred":[
+        "Kumane"
+    ],
+    "name:rum_x_preferred":[
+        "Kumane"
+    ],
+    "name:slv_x_preferred":[
+        "Kumane"
+    ],
+    "name:srp_x_preferred":[
+        "Kumane"
+    ],
+    "name:unk_x_variant":[
+        "Kum\u00e1nd"
+    ],
+    "qs:name":"Kumane",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srednji Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108809995,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788890,
+        "gp:id":534883,
+        "qs:id":963701,
+        "wd:id":"Q943083",
+        "wk:page":"Kumane"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054118,
+    "wof:geomhash":"a5927de1d4bfb7112245ba8329cb7a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809995,
+            "locality_id":890477507,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477507,
+    "wof:lastmodified":1527727183,
+    "wof:name":"Kumane",
+    "wof:parent_id":1108809995,
+    "wof:placetype":"locality",
+    "wof:population":4321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22902,
+    45.53946,
+    20.22902,
+    45.53946
+],
+  "geometry": {"coordinates":[20.22902,45.53946],"type":"Point"}
+}

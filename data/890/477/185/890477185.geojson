@@ -1,0 +1,113 @@
+{
+  "id": 890477185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60153,45.0707,20.60153,45.0707",
+    "geom:latitude":45.0707,
+    "geom:longitude":20.60153,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":6413,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Debelja\u0109a"
+    ],
+    "name:fre_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05dc\u05d9\u05d0\u05e6'\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Toront\u00e1lv\u00e1s\u00e1rhely"
+    ],
+    "name:may_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:rum_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u043b\u044f\u0447\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:unk_x_variant":[
+        "Toront\u00e1lv\u00e1s\u00e1rhely"
+    ],
+    "qs:name":"Debelja\u010da",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhni Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809925,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791589,
+        "gp:id":533313,
+        "qs:id":196457,
+        "wd:id":"Q543032",
+        "wk:page":"Debelja\u010da"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054105,
+    "wof:geomhash":"2a9fb1e7dce2edef72919412bd61301c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809925,
+            "locality_id":890477185,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477185,
+    "wof:lastmodified":1527727188,
+    "wof:name":"Debelja\u010da",
+    "wof:parent_id":1108809925,
+    "wof:placetype":"locality",
+    "wof:population":6413,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60153,
+    45.0707,
+    20.60153,
+    45.0707
+],
+  "geometry": {"coordinates":[20.60153,45.0707],"type":"Point"}
+}

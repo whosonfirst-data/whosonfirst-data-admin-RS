@@ -1,0 +1,77 @@
+{
+  "id": 1327449529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43107,42.76303,22.43107,42.76303",
+    "geom:latitude":42.76303,
+    "geom:longitude":22.43107,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Suvi Dol",
+    "gn:country_code":"RS",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785321,
+    "gn:latitude":42.76303,
+    "gn:longitude":22.43107,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Suvi Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Suvi Dol"
+    ],
+    "name:und_x_variant":[
+        "Suhi Dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785321,
+        "wk:page":"Suhi_Dol"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dc61654cdfd64f038b1a97e2b8940880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1327449529,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1327449529,
+    "wof:lastmodified":1537683708,
+    "wof:name":"Suvi Dol",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43107,
+    42.76303,
+    22.43107,
+    42.76303
+],
+  "geometry": {"coordinates":[22.43107,42.76303],"type":"Point"}
+}

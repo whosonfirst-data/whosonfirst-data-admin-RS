@@ -1,0 +1,65 @@
+{
+  "id": 1209425001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87778,44.57444,19.87778,44.57444",
+    "geom:latitude":44.57444,
+    "geom:longitude":19.87778,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Sevarice",
+    "gn:country_code":"RS",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216836,
+    "gn:latitude":44.57444,
+    "gn:longitude":19.87778,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160evarice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160evarice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216836
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0340fa35cb5a8e16f0411e5afaacde4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209425001
+        }
+    ],
+    "wof:id":1209425001,
+    "wof:lastmodified":1537683963,
+    "wof:name":"Sevarice",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87778,
+    44.57444,
+    19.87778,
+    44.57444
+],
+  "geometry": {"coordinates":[19.87778,44.57444],"type":"Point"}
+}

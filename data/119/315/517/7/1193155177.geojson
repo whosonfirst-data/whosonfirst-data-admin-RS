@@ -1,0 +1,74 @@
+{
+  "id": 1193155177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7194,44.19276,20.7194,44.19276",
+    "geom:latitude":44.19276,
+    "geom:longitude":20.7194,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Ovsiste",
+    "gn:country_code":"RS",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787285,
+    "gn:latitude":44.19276,
+    "gn:longitude":20.7194,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ovsi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ovsi\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810113,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787285,
+        "wk:page":"Ovsi%C5%A1te"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c4f9748f4c2370ba9663416a8518082a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810113,
+            "locality_id":1193155177,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1193155177,
+    "wof:lastmodified":1537683744,
+    "wof:name":"Ovsiste",
+    "wof:parent_id":1108810113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7194,
+    44.19276,
+    20.7194,
+    44.19276
+],
+  "geometry": {"coordinates":[20.7194,44.19276],"type":"Point"}
+}

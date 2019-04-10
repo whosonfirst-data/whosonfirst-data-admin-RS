@@ -1,0 +1,65 @@
+{
+  "id": 1209530419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.28427,44.53041,19.28427,44.53041",
+    "geom:latitude":44.53041,
+    "geom:longitude":19.28427,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Mijailovici",
+    "gn:country_code":"RS",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256705,
+    "gn:latitude":44.53041,
+    "gn:longitude":19.28427,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mijailovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mijailovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256705
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a07e91033e64253d8cc9c408da366a8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209530419
+        }
+    ],
+    "wof:id":1209530419,
+    "wof:lastmodified":1537683979,
+    "wof:name":"Mijailovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.28427000000001,
+    44.53041,
+    19.28427000000001,
+    44.53041
+],
+  "geometry": {"coordinates":[19.28427000000001,44.53041],"type":"Point"}
+}

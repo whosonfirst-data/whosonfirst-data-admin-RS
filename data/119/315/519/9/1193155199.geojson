@@ -1,0 +1,74 @@
+{
+  "id": 1193155199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84113,43.13838,21.84113,43.13838",
+    "geom:latitude":43.13838,
+    "geom:longitude":21.84113,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Draskovac",
+    "gn:country_code":"RS",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791082,
+    "gn:latitude":43.13838,
+    "gn:longitude":21.84113,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dra\u0161kovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dra\u0161kovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791082,
+        "wk:page":"Dra%C5%A1kovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b4230c380d3b932e691995b51d5ddc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1193155199,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1193155199,
+    "wof:lastmodified":1537683807,
+    "wof:name":"Draskovac",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84113,
+    43.13838,
+    21.84113,
+    43.13838
+],
+  "geometry": {"coordinates":[21.84113,43.13838],"type":"Point"}
+}

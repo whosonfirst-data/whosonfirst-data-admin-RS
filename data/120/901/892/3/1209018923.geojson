@@ -1,0 +1,66 @@
+{
+  "id": 1209018923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22096,44.31713,21.22096,44.31713",
+    "geom:latitude":44.31713,
+    "geom:longitude":21.22096,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Porodin",
+    "gn:country_code":"RS",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786852,
+    "gn:latitude":44.31713,
+    "gn:longitude":21.22096,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Porodin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Porodin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786852,
+        "wk:page":"Porodin"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"531eb694bd8096816dbeff4ff83ea642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209018923
+        }
+    ],
+    "wof:id":1209018923,
+    "wof:lastmodified":1537683736,
+    "wof:name":"Porodin",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22096,
+    44.31713,
+    21.22096,
+    44.31713
+],
+  "geometry": {"coordinates":[21.22096,44.31713],"type":"Point"}
+}

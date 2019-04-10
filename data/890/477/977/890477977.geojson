@@ -1,0 +1,68 @@
+{
+  "id": 890477977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83894,43.65215,20.83894,43.65215",
+    "geom:latitude":43.65215,
+    "geom:longitude":20.83894,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Belobr\u0111ani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810151,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836980,
+        "gp:id":535685,
+        "qs:id":554431
+    },
+    "wof:country":"RS",
+    "wof:created":1469054139,
+    "wof:geomhash":"7cc5c919aa04596b1220bf8d5e6917f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810151,
+            "locality_id":890477977,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890477977,
+    "wof:lastmodified":1505343729,
+    "wof:name":"Belobr\u0111ani",
+    "wof:parent_id":1108810151,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83894,
+    43.65215,
+    20.83894,
+    43.65215
+],
+  "geometry": {"coordinates":[20.83894,43.65215],"type":"Point"}
+}

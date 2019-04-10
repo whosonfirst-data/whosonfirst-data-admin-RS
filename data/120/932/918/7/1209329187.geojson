@@ -1,0 +1,65 @@
+{
+  "id": 1209329187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54028,43.43861,20.54028,43.43861",
+    "geom:latitude":43.43861,
+    "geom:longitude":20.54028,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Zeleznica",
+    "gn:country_code":"RS",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835672,
+    "gn:latitude":43.43861,
+    "gn:longitude":20.54028,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zeleznica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zeleznica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835672
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"444f392a603c40c850a4c08579688080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209329187
+        }
+    ],
+    "wof:id":1209329187,
+    "wof:lastmodified":1537683881,
+    "wof:name":"Zeleznica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54028,
+    43.43861,
+    20.54028,
+    43.43861
+],
+  "geometry": {"coordinates":[20.54028,43.43861],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193034369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35903,44.23432,21.35903,44.23432",
+    "geom:latitude":44.23432,
+    "geom:longitude":21.35903,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Durinac",
+    "gn:country_code":"RS",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790892,
+    "gn:latitude":44.23432,
+    "gn:longitude":21.35903,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u00d0urinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u00d0urinac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108810103,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790892
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1ede1db61055e997279c62f25042b9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810103,
+            "locality_id":1193034369,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1193034369,
+    "wof:lastmodified":1537683803,
+    "wof:name":"Durinac",
+    "wof:parent_id":1108810103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35903,
+    44.23432,
+    21.35903,
+    44.23432
+],
+  "geometry": {"coordinates":[21.35903,44.23432],"type":"Point"}
+}

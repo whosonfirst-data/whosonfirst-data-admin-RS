@@ -1,0 +1,74 @@
+{
+  "id": 1326639809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93221,43.5487,21.93221,43.5487",
+    "geom:latitude":43.5487,
+    "geom:longitude":21.93221,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Radenkovac",
+    "gn:country_code":"RS",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786614,
+    "gn:latitude":43.5487,
+    "gn:longitude":21.93221,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Radenkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radenkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810079,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786614,
+        "wk:page":"Radenkovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f0064d7e9e30e62ef035dfe689967dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810079,
+            "locality_id":1326639809,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1326639809,
+    "wof:lastmodified":1537683731,
+    "wof:name":"Radenkovac",
+    "wof:parent_id":1108810079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93221,
+    43.5487,
+    21.93221,
+    43.5487
+],
+  "geometry": {"coordinates":[21.93221,43.5487],"type":"Point"}
+}

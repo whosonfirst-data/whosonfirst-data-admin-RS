@@ -1,0 +1,91 @@
+{
+  "id": 1226260977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25991,46.0945,20.25991,46.0945",
+    "geom:latitude":46.0945,
+    "geom:longitude":20.25991,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Majdan",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788358,
+    "gn:latitude":46.0945,
+    "gn:longitude":20.25991,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Majdan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Magyarmajd\u00e1n"
+    ],
+    "name:hun_x_variant":[
+        "Majd\u00e1n",
+        "Majd\u00e1ny",
+        "Oroszl\u00e1nosmonostora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "Majdan"
+    ],
+    "name:und_x_variant":[
+        "Madjarmajdan",
+        "Magyarmajd\u00e1n",
+        "Majd\u00e1n",
+        "Majd\u00e1ny",
+        "R\u00e1b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108810001,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788358,
+        "wk:page":"Rabe_%28Novi_Kne%C5%BEevac%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a16d4e6ecdd52250c416ba9314eb6bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810001,
+            "locality_id":1226260977,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1226260977,
+    "wof:lastmodified":1537683763,
+    "wof:name":"Majdan",
+    "wof:parent_id":1108810001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25991,
+    46.0945,
+    20.25991,
+    46.0945
+],
+  "geometry": {"coordinates":[20.25991,46.0945],"type":"Point"}
+}

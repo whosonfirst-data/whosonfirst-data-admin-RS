@@ -1,0 +1,101 @@
+{
+  "id": 890477759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42889,43.24042,21.42889,43.24042",
+    "geom:latitude":43.24042,
+    "geom:longitude":21.42889,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":222,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Konxheli"
+    ],
+    "name:dut_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:eng_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:fre_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:may_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:por_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u0436\u0435\u043b\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:srp_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:unk_x_variant":[
+        "Kond\u017eel"
+    ],
+    "qs:name":"Kond\u017eelj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789337,
+        "gp:id":532682,
+        "qs:id":83699,
+        "wd:id":"Q1931641",
+        "wk:page":"Kond\u017eelj"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054130,
+    "wof:geomhash":"87e59b76c736d851cfe845c691173d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477759,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477759,
+    "wof:lastmodified":1527727183,
+    "wof:name":"Kond\u017eelj",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42889,
+    43.24042,
+    21.42889,
+    43.24042
+],
+  "geometry": {"coordinates":[21.42889,43.24042],"type":"Point"}
+}

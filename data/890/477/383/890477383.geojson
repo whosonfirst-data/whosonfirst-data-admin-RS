@@ -1,0 +1,122 @@
+{
+  "id": 890477383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92944,45.92034,18.92944,45.92034",
+    "geom:latitude":45.92034,
+    "geom:longitude":18.92944,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1770,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:epo_x_preferred":[
+        "Ba\u0109ki Breg"
+    ],
+    "name:fin_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:fre_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:hrv_x_preferred":[
+        "Bereg"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9reg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c1\u30e5\u30ad\u30fb\u30d6\u30ec\u30b0"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438 \u0411\u0440\u0435\u0433"
+    ],
+    "name:may_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:rum_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438 \u0411\u0440\u0435\u0433"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:srp_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
+    "name:unk_x_variant":[
+        "Berg"
+    ],
+    "qs:name":"Ba\u010dki Breg",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Zapadna Bachka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204670,
+        "gp:id":532456,
+        "qs:id":1044081,
+        "wd:id":"Q779764",
+        "wk:page":"Ba\u010dki Breg"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054113,
+    "wof:geomhash":"9bf7fba031a51ed610af454e1e89aa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":890477383,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477383,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Ba\u010dki Breg",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:population":1770,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92944,
+    45.92034,
+    18.92944,
+    45.92034
+],
+  "geometry": {"coordinates":[18.92944,45.92034],"type":"Point"}
+}

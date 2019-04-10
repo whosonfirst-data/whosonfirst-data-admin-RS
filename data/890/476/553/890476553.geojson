@@ -1,0 +1,119 @@
+{
+  "id": 890476553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21931,44.94366,20.21931,44.94366",
+    "geom:latitude":44.94366,
+    "geom:longitude":20.21931,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":15488,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u65b0\u5e15\u4f50\u74e6"
+    ],
+    "name:cze_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:dut_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:eng_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:fre_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:ger_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajpazova"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:may_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:pol_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:slv_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:srp_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:swe_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:unk_x_variant":[
+        "\u00dajp\u00e1zova"
+    ],
+    "qs:name":"bar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":3613,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810093,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787615,
+        "gp:id":535638,
+        "qs:id":129508,
+        "wd:id":"Q917500",
+        "wk:page":"Bar"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054080,
+    "wof:geomhash":"d26376d19f001a2c6397934bbeec5088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810093,
+            "locality_id":890476553,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890476553,
+    "wof:lastmodified":1527727151,
+    "wof:name":"bar",
+    "wof:parent_id":1108810093,
+    "wof:placetype":"locality",
+    "wof:population":15488,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21931,
+    44.94366,
+    20.21931,
+    44.94366
+],
+  "geometry": {"coordinates":[20.21931,44.94366],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326848757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47653,42.44295,22.47653,42.44295",
+    "geom:latitude":42.44295,
+    "geom:longitude":22.47653,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Gramage",
+    "gn:country_code":"RS",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834794,
+    "gn:latitude":42.44295,
+    "gn:longitude":22.47653,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Grama\u0111e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Grama\u0111e"
+    ],
+    "name:und_x_variant":[
+        "Grama\u0111a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834794
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"810086a4139a631231cce64a6ecbdefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1326848757,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1326848757,
+    "wof:lastmodified":1537683859,
+    "wof:name":"Gramage",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47653,
+    42.44295,
+    22.47653,
+    42.44295
+],
+  "geometry": {"coordinates":[22.47653,42.44295],"type":"Point"}
+}

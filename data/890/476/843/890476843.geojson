@@ -1,0 +1,74 @@
+{
+  "id": 890476843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87336,43.65044,20.87336,43.65044",
+    "geom:latitude":43.65044,
+    "geom:longitude":20.87336,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":4,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Novo Selo"
+    ],
+    "qs:name":"Novo Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":872,
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810151,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787546,
+        "gp:id":535685,
+        "qs:id":83628,
+        "wd:id":"Q644996",
+        "wk:page":"Novo Selo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054091,
+    "wof:geomhash":"99e9675f3a81e107bd824aebc68c4dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810151,
+            "locality_id":890476843,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890476843,
+    "wof:lastmodified":1527727148,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":1108810151,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87336,
+    43.65044,
+    20.87336,
+    43.65044
+],
+  "geometry": {"coordinates":[20.87336,43.65044],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 890476957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.018,45.04987,21.018,45.04987",
+    "geom:latitude":45.04987,
+    "geom:longitude":21.018,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":6319,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u062a\u0633\u0643\u064a \u0643\u0627\u0631\u0644\u0648\u0641\u0627\u062a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u7d0d\u7279\u5361\u723e\u6d1b\u74e6\u8328"
+    ],
+    "name:dut_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:eng_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:epo_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:fre_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyk\u00e1rolyfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:may_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:rum_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:srp_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:unk_x_variant":[
+        "Nagyk\u00e1rolyfalva"
+    ],
+    "qs:name":"Banatski Karlovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:elevation":99.0,
+    "wd:latitude":"45.047222222",
+    "wd:longitude":"21.016111111",
+    "wd:wordcount":441,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809813,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792945,
+        "gp:id":532525,
+        "qs:id":129673,
+        "wd:id":"Q1042129",
+        "wk:page":"Banatski Karlovac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054096,
+    "wof:geomhash":"5c1a6c0b3fecad213ce59a1a5ec62ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809813,
+            "locality_id":890476957,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890476957,
+    "wof:lastmodified":1527727150,
+    "wof:name":"Banatski Karlovac",
+    "wof:parent_id":1108809813,
+    "wof:placetype":"locality",
+    "wof:population":6319,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.018,
+    45.04987,
+    21.018,
+    45.04987
+],
+  "geometry": {"coordinates":[21.018,45.04987],"type":"Point"}
+}

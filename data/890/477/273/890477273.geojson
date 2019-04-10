@@ -1,0 +1,93 @@
+{
+  "id": 890477273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45486,44.71457,20.45486,44.71457",
+    "geom:latitude":44.71457,
+    "geom:longitude":20.45486,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Resnik"
+    ],
+    "name:eng_x_preferred":[
+        "Resnik"
+    ],
+    "name:fre_x_preferred":[
+        "Resnik"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03ad\u03c3\u03bd\u03b9\u03ba"
+    ],
+    "name:srp_x_preferred":[
+        "Resnik"
+    ],
+    "qs:name":"Resnik",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Beograd",
+    "qs:photos":124,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":124,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810049,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786333,
+        "gp:id":536380,
+        "qs:id":302840,
+        "wd:id":"Q3078533",
+        "wk:page":"Resnik"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054108,
+    "wof:geomhash":"d0cf2093bf473eb2e9974abc765d210f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810049,
+            "locality_id":890477273,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890477273,
+    "wof:lastmodified":1527727178,
+    "wof:name":"Resnik",
+    "wof:parent_id":1108810049,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45486,
+    44.71457,
+    20.45486,
+    44.71457
+],
+  "geometry": {"coordinates":[20.45486,44.71457],"type":"Point"}
+}

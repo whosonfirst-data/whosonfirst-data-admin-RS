@@ -1,0 +1,73 @@
+{
+  "id": 1343468815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15729,44.44135,19.15729,44.44135",
+    "geom:latitude":44.44135,
+    "geom:longitude":19.15729,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Batar",
+    "gn:country_code":"RS",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272778,
+    "gn:latitude":44.44135,
+    "gn:longitude":19.15729,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Batar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Batar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809971,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272778
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d85fc45a6cbe16e229336a3963d79902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809971,
+            "locality_id":1343468815,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1343468815,
+    "wof:lastmodified":1537683986,
+    "wof:name":"Batar",
+    "wof:parent_id":1108809971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15729,
+    44.44135,
+    19.15729,
+    44.44135
+],
+  "geometry": {"coordinates":[19.15729,44.44135],"type":"Point"}
+}

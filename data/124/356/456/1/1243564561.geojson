@@ -1,0 +1,81 @@
+{
+  "id": 1243564561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6034,42.33708,21.6034,42.33708",
+    "geom:latitude":42.33708,
+    "geom:longitude":21.6034,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Bujic",
+    "gn:country_code":"RS",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792171,
+    "gn:latitude":42.33708,
+    "gn:longitude":21.6034,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Buji\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:boa_x_preferred":[
+        "Byja\u00e7"
+    ],
+    "name:srp_x_preferred":[
+        "Buji\u0107"
+    ],
+    "name:und_x_variant":[
+        "Bujiq",
+        "Byja\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810039,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792171,
+        "wk:page":"Buji%C4%87"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"afb374905906b338666dfd1b2b710915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810039,
+            "locality_id":1243564561,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1243564561,
+    "wof:lastmodified":1537683825,
+    "wof:name":"Bujic",
+    "wof:parent_id":1108810039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6034,
+    42.33708,
+    21.6034,
+    42.33708
+],
+  "geometry": {"coordinates":[21.6034,42.33708],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326848457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48796,44.53297,19.48796,44.53297",
+    "geom:latitude":44.53297,
+    "geom:longitude":19.48796,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Gornja Badanja",
+    "gn:country_code":"RS",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200296,
+    "gn:latitude":44.53297,
+    "gn:longitude":19.48796,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Badanja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Badanja"
+    ],
+    "name:und_x_variant":[
+        "Gornje Badanja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200296,
+        "wk:page":"Gornja_Badanja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"29b2868df9e478425187007a6e19e3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":1326848457,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1326848457,
+    "wof:lastmodified":1537683942,
+    "wof:name":"Gornja Badanja",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48796,
+    44.53297,
+    19.48796,
+    44.53297
+],
+  "geometry": {"coordinates":[19.48796,44.53297],"type":"Point"}
+}

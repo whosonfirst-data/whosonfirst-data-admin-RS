@@ -1,0 +1,101 @@
+{
+  "id": 890477769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13558,45.20359,20.13558,45.20359",
+    "geom:latitude":45.20359,
+    "geom:longitude":20.13558,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1515,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:eng_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:epo_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:fre_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:hun_x_preferred":[
+        "Dunag\u00e1rdony"
+    ],
+    "name:may_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:slv_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:srp_x_preferred":[
+        "Gardinovci"
+    ],
+    "name:unk_x_variant":[
+        "Gardinovaz"
+    ],
+    "qs:name":"Gardinovci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810111,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790772,
+        "gp:id":534786,
+        "qs:id":129619,
+        "wd:id":"Q735327",
+        "wk:page":"Gardinovci"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054130,
+    "wof:geomhash":"d5ff4cfaf2d15c28a65788f3fefc53e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810111,
+            "locality_id":890477769,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477769,
+    "wof:lastmodified":1527727183,
+    "wof:name":"Gardinovci",
+    "wof:parent_id":1108810111,
+    "wof:placetype":"locality",
+    "wof:population":1515,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13558,
+    45.20359,
+    20.13558,
+    45.20359
+],
+  "geometry": {"coordinates":[20.13558,45.20359],"type":"Point"}
+}

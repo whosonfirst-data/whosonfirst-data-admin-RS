@@ -1,0 +1,74 @@
+{
+  "id": 1243278595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33612,44.71762,21.33612,44.71762",
+    "geom:latitude":44.71762,
+    "geom:longitude":21.33612,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Kurjace",
+    "gn:country_code":"RS",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788855,
+    "gn:latitude":44.71762,
+    "gn:longitude":21.33612,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kurja\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kurja\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810133,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788855,
+        "wk:page":"Kurja%C4%8De"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"565e28e9e65013898da070047db582b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810133,
+            "locality_id":1243278595,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1243278595,
+    "wof:lastmodified":1537683772,
+    "wof:name":"Kurjace",
+    "wof:parent_id":1108810133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33612,
+    44.71762,
+    21.33612,
+    44.71762
+],
+  "geometry": {"coordinates":[21.33612,44.71762],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326745127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.315,43.08528,20.315,43.08528",
+    "geom:latitude":43.08528,
+    "geom:longitude":20.315,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Klecanka",
+    "gn:country_code":"RS",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836062,
+    "gn:latitude":43.08528,
+    "gn:longitude":20.315,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kle\u010danka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kle\u010danka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836062
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c39ee966822115b6d1bb9175a13753c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1326745127,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1326745127,
+    "wof:lastmodified":1537683888,
+    "wof:name":"Klecanka",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.315,
+    43.08528,
+    20.315,
+    43.08528
+],
+  "geometry": {"coordinates":[20.315,43.08528],"type":"Point"}
+}

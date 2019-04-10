@@ -1,0 +1,73 @@
+{
+  "id": 1343377007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15206,43.41321,20.15206,43.41321",
+    "geom:latitude":43.41321,
+    "geom:longitude":20.15206,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Kolvilje",
+    "gn:country_code":"RS",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835024,
+    "gn:latitude":43.41321,
+    "gn:longitude":20.15206,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kolvilje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kolvilje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835024
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5a2c8f96f625e8c7e39d19935031f11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1343377007,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1343377007,
+    "wof:lastmodified":1537683866,
+    "wof:name":"Kolvilje",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15206,
+    43.41321,
+    20.15206,
+    43.41321
+],
+  "geometry": {"coordinates":[20.15206,43.41321],"type":"Point"}
+}

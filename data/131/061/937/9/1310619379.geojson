@@ -1,0 +1,77 @@
+{
+  "id": 1310619379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83244,45.09148,19.83244,45.09148",
+    "geom:latitude":45.09148,
+    "geom:longitude":19.83244,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Rivica",
+    "gn:country_code":"RS",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191618,
+    "gn:latitude":45.09148,
+    "gn:longitude":19.83244,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rivica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rivica"
+    ],
+    "name:und_x_variant":[
+        "Rivicza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809903,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191618,
+        "wk:page":"Rivica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"11126736d223649849b74990091e5b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809903,
+            "locality_id":1310619379,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1310619379,
+    "wof:lastmodified":1537683926,
+    "wof:name":"Rivica",
+    "wof:parent_id":1108809903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83244,
+    45.09148,
+    19.83244,
+    45.09148
+],
+  "geometry": {"coordinates":[19.83244,45.09148],"type":"Point"}
+}

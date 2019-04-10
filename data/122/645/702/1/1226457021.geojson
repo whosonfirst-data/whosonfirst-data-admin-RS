@@ -1,0 +1,77 @@
+{
+  "id": 1226457021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40842,43.19647,22.40842,43.19647",
+    "geom:latitude":43.19647,
+    "geom:longitude":22.40842,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Telovac",
+    "gn:country_code":"RS",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785102,
+    "gn:latitude":43.19647,
+    "gn:longitude":22.40842,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Telovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Telovac"
+    ],
+    "name:und_x_variant":[
+        "Tijelovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809845,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785102,
+        "wk:page":"Telovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5bc5c24304097a34f2443caa7f286bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809845,
+            "locality_id":1226457021,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1226457021,
+    "wof:lastmodified":1537683704,
+    "wof:name":"Telovac",
+    "wof:parent_id":1108809845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40842,
+    43.19647,
+    22.40842,
+    43.19647
+],
+  "geometry": {"coordinates":[22.40842,43.19647],"type":"Point"}
+}

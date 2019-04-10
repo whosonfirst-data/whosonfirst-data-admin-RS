@@ -1,0 +1,73 @@
+{
+  "id": 1226252931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3957,44.19976,19.3957,44.19976",
+    "geom:latitude":44.19976,
+    "geom:longitude":19.3957,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Bubnjava",
+    "gn:country_code":"RS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216363,
+    "gn:latitude":44.19976,
+    "gn:longitude":19.3957,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bubnjava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bubnjava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809959,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216363
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0ba92d7ee7e242f2eeb3e5aba2b788d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809959,
+            "locality_id":1226252931,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1226252931,
+    "wof:lastmodified":1537683957,
+    "wof:name":"Bubnjava",
+    "wof:parent_id":1108809959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3957,
+    44.19976,
+    19.3957,
+    44.19976
+],
+  "geometry": {"coordinates":[19.3957,44.19976],"type":"Point"}
+}

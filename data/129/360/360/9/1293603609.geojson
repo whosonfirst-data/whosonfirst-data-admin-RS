@@ -1,0 +1,74 @@
+{
+  "id": 1293603609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7759,44.24535,19.7759,44.24535",
+    "geom:latitude":44.24535,
+    "geom:longitude":19.7759,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Paklje",
+    "gn:country_code":"RS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193712,
+    "gn:latitude":44.24535,
+    "gn:longitude":19.7759,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Paklje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Paklje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810127,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193712,
+        "wk:page":"Paklje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b5d729e77dbdf3b1d1c52196b57f4ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810127,
+            "locality_id":1293603609,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1293603609,
+    "wof:lastmodified":1537683929,
+    "wof:name":"Paklje",
+    "wof:parent_id":1108810127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7759,
+    44.24535,
+    19.7759,
+    44.24535
+],
+  "geometry": {"coordinates":[19.7759,44.24535],"type":"Point"}
+}

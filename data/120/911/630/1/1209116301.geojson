@@ -1,0 +1,65 @@
+{
+  "id": 1209116301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38588,44.59042,19.38588,44.59042",
+    "geom:latitude":44.59042,
+    "geom:longitude":19.38588,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Potocarska Mala",
+    "gn:country_code":"RS",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256871,
+    "gn:latitude":44.59042,
+    "gn:longitude":19.38588,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Poto\u010darska Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Poto\u010darska Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256871
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ca947c5d10fec03dd091438590fb7dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209116301
+        }
+    ],
+    "wof:id":1209116301,
+    "wof:lastmodified":1537683980,
+    "wof:name":"Potocarska Mala",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38588,
+    44.59042,
+    19.38588,
+    44.59042
+],
+  "geometry": {"coordinates":[19.38588,44.59042],"type":"Point"}
+}

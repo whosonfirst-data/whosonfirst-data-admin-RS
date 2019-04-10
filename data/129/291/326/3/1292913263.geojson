@@ -1,0 +1,74 @@
+{
+  "id": 1292913263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74232,42.90945,22.74232,42.90945",
+    "geom:latitude":42.90945,
+    "geom:longitude":22.74232,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Gornja Nevlja",
+    "gn:country_code":"RS",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790479,
+    "gn:latitude":42.90945,
+    "gn:longitude":22.74232,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Nevlja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Nevlja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809887,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790479,
+        "wk:page":"Gornja_Nevlja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eacc248bb0de17abedeeb54620729b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809887,
+            "locality_id":1292913263,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1292913263,
+    "wof:lastmodified":1537683798,
+    "wof:name":"Gornja Nevlja",
+    "wof:parent_id":1108809887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74232,
+    42.90945,
+    22.74232,
+    42.90945
+],
+  "geometry": {"coordinates":[22.74232,42.90945],"type":"Point"}
+}

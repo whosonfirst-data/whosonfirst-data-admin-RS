@@ -1,0 +1,77 @@
+{
+  "id": 1309915875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35635,42.90629,21.35635,42.90629",
+    "geom:latitude":42.90629,
+    "geom:longitude":21.35635,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Trpeza",
+    "gn:country_code":"RS",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784886,
+    "gn:latitude":42.90629,
+    "gn:longitude":21.35635,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trpeza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Trpeza"
+    ],
+    "name:und_x_variant":[
+        "Trpeze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784886,
+        "wk:page":"Trpeza"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6129c98c3bdaff5d5ee6606f00fb7fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1309915875,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1309915875,
+    "wof:lastmodified":1537683701,
+    "wof:name":"Trpeza",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35635,
+    42.90629000000001,
+    21.35635,
+    42.90629000000001
+],
+  "geometry": {"coordinates":[21.35635,42.90629000000001],"type":"Point"}
+}

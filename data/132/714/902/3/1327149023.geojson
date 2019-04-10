@@ -1,0 +1,77 @@
+{
+  "id": 1327149023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40825,43.25053,20.40825,43.25053",
+    "geom:latitude":43.25053,
+    "geom:longitude":20.40825,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Polokce",
+    "gn:country_code":"RS",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786907,
+    "gn:latitude":43.25053,
+    "gn:longitude":20.40825,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Polokce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Polokce"
+    ],
+    "name:und_x_variant":[
+        "Polokci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786907,
+        "wk:page":"Polokce"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"aed1cb322e939f0c769eea0e145ae662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1327149023,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1327149023,
+    "wof:lastmodified":1537683737,
+    "wof:name":"Polokce",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40825,
+    43.25053,
+    20.40825,
+    43.25053
+],
+  "geometry": {"coordinates":[20.40825,43.25053],"type":"Point"}
+}

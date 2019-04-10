@@ -1,0 +1,104 @@
+{
+  "id": 890477237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.58814,45.4024,19.58814,45.4024",
+    "geom:latitude":45.4024,
+    "geom:longitude":19.58814,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3207,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kulpin"
+    ],
+    "name:eng_x_preferred":[
+        "Kulpin"
+    ],
+    "name:epo_x_preferred":[
+        "Kulpin"
+    ],
+    "name:fre_x_preferred":[
+        "Kulpin"
+    ],
+    "name:hrv_x_preferred":[
+        "Kulpin"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6lp\u00e9ny"
+    ],
+    "name:may_x_preferred":[
+        "Kulpin"
+    ],
+    "name:slo_x_preferred":[
+        "Kulp\u00edn"
+    ],
+    "name:slv_x_preferred":[
+        "Kulpin"
+    ],
+    "name:srp_x_preferred":[
+        "Kulpin"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6lp\u00e9ny"
+    ],
+    "qs:name":"Kulpin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809831,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196959,
+        "gp:id":532461,
+        "qs:id":147194,
+        "wd:id":"Q1075729",
+        "wk:page":"Kulpin"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054107,
+    "wof:geomhash":"aa085a5bfb1785a2bdb69e00665324b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809831,
+            "locality_id":890477237,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477237,
+    "wof:lastmodified":1527727186,
+    "wof:name":"Kulpin",
+    "wof:parent_id":1108809831,
+    "wof:placetype":"locality",
+    "wof:population":3207,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.58814,
+    45.4024,
+    19.58814,
+    45.4024
+],
+  "geometry": {"coordinates":[19.58814,45.4024],"type":"Point"}
+}

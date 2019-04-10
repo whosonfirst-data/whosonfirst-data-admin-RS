@@ -1,0 +1,76 @@
+{
+  "id": 1225863077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54341,44.1623,19.54341,44.1623",
+    "geom:latitude":44.1623,
+    "geom:longitude":19.54341,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Provalija",
+    "gn:country_code":"RS",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216331,
+    "gn:latitude":44.1623,
+    "gn:longitude":19.54341,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Provalija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Provalija"
+    ],
+    "name:und_x_variant":[
+        "Provalije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809959,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216331
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d99ca44baef2f0495842668dc363429b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809959,
+            "locality_id":1225863077,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1225863077,
+    "wof:lastmodified":1537683957,
+    "wof:name":"Provalija",
+    "wof:parent_id":1108809959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54341,
+    44.1623,
+    19.54341,
+    44.1623
+],
+  "geometry": {"coordinates":[19.54341,44.1623],"type":"Point"}
+}

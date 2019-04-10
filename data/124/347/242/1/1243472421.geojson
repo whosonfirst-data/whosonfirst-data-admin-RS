@@ -1,0 +1,76 @@
+{
+  "id": 1243472421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7775,43.27444,21.7775,43.27444",
+    "geom:latitude":43.27444,
+    "geom:longitude":21.7775,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Balajinac",
+    "gn:country_code":"RS",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792984,
+    "gn:latitude":43.27444,
+    "gn:longitude":21.7775,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Balajinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Balajinac"
+    ],
+    "name:und_x_variant":[
+        "Balajnac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809979,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792984
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"55eaa24651ffe51386383332be5b5d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809979,
+            "locality_id":1243472421,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1243472421,
+    "wof:lastmodified":1537683840,
+    "wof:name":"Balajinac",
+    "wof:parent_id":1108809979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7775,
+    43.27444000000001,
+    21.7775,
+    43.27444000000001
+],
+  "geometry": {"coordinates":[21.7775,43.27444000000001],"type":"Point"}
+}

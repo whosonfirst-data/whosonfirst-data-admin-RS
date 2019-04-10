@@ -1,0 +1,74 @@
+{
+  "id": 1360295493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41939,43.89072,20.41939,43.89072",
+    "geom:latitude":43.89072,
+    "geom:longitude":20.41939,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Baluga Ljubicka",
+    "gn:country_code":"RS",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862709,
+    "gn:latitude":43.89072,
+    "gn:longitude":20.41939,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Baluga Ljubi\u0107ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baluga",
+        "Baluga Ljubi\u0107ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809867,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862709
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"99597fb1c7c5c9dcad237bfc89989d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809867,
+            "locality_id":1360295493,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1360295493,
+    "wof:lastmodified":1537683913,
+    "wof:name":"Baluga Ljubicka",
+    "wof:parent_id":1108809867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41939,
+    43.89072,
+    20.41939,
+    43.89072
+],
+  "geometry": {"coordinates":[20.41939,43.89072],"type":"Point"}
+}

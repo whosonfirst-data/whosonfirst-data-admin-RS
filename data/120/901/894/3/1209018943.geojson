@@ -1,0 +1,66 @@
+{
+  "id": 1209018943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53881,43.29626,21.53881,43.29626",
+    "geom:latitude":43.29626,
+    "geom:longitude":21.53881,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Jugovac",
+    "gn:country_code":"RS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789742,
+    "gn:latitude":43.29626,
+    "gn:longitude":21.53881,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jugovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jugovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789742,
+        "wk:page":"Jugovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"da9cda3c2cfbff7fb5aa32bb4b543569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209018943
+        }
+    ],
+    "wof:id":1209018943,
+    "wof:lastmodified":1537683784,
+    "wof:name":"Jugovac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53881,
+    43.29626,
+    21.53881,
+    43.29626
+],
+  "geometry": {"coordinates":[21.53881,43.29626],"type":"Point"}
+}

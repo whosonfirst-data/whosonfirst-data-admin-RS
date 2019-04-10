@@ -1,0 +1,70 @@
+{
+  "id": 1259890099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96361,43.51167,19.96361,43.51167",
+    "geom:latitude":43.51167,
+    "geom:longitude":19.96361,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Mladenovici",
+    "gn:country_code":"RS",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319039,
+    "gn:latitude":43.51167,
+    "gn:longitude":19.96361,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mladenovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809993,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319039
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e1c73a1c7a30ea2b3831ef6f0c4ff6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809993,
+            "locality_id":1259890099,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1259890099,
+    "wof:lastmodified":1536770006,
+    "wof:name":"Mladenovici",
+    "wof:parent_id":1108809993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96361,
+    43.51167,
+    19.96361,
+    43.51167
+],
+  "geometry": {"coordinates":[19.96361,43.51167],"type":"Point"}
+}

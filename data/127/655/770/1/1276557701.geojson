@@ -1,0 +1,87 @@
+{
+  "id": 1276557701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38267,45.70446,19.38267,45.70446",
+    "geom:latitude":45.70446,
+    "geom:longitude":19.38267,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Sivac",
+    "gn:country_code":"RS",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190789,
+    "gn:latitude":45.70446,
+    "gn:longitude":19.38267,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sivac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sivac"
+    ],
+    "name:und_x_variant":[
+        "Alt-Siwatz",
+        "R\u00e1cz-Szivac",
+        "Eimannsruh",
+        "Sziv\u00e1c",
+        "Alt-Sivac",
+        "\u00d3sziv\u00e1cz",
+        "Siwatz",
+        "\u00d3sziv\u00e1c",
+        "Sziv\u00e1cz",
+        "\u00dajsziv\u00e1c",
+        "\u00dajsziv\u00e1cz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108809941,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190789,
+        "wk:page":"Sivac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7f0e7fe7086ded70e68901c0bfc9ce34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809941,
+            "locality_id":1276557701,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1276557701,
+    "wof:lastmodified":1537683924,
+    "wof:name":"Sivac",
+    "wof:parent_id":1108809941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38267,
+    45.70446,
+    19.38267,
+    45.70446
+],
+  "geometry": {"coordinates":[19.38267,45.70446],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209120785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09059,42.5029,22.09059,42.5029",
+    "geom:latitude":42.5029,
+    "geom:longitude":22.09059,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Temkarci",
+    "gn:country_code":"RS",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861480,
+    "gn:latitude":42.5029,
+    "gn:longitude":22.09059,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Temkarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861480
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ba1cd1a9e770249c57411735abef2115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120785
+        }
+    ],
+    "wof:id":1209120785,
+    "wof:lastmodified":1536297106,
+    "wof:name":"Temkarci",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09059,
+    42.5029,
+    22.09059,
+    42.5029
+],
+  "geometry": {"coordinates":[22.09059,42.5029],"type":"Point"}
+}

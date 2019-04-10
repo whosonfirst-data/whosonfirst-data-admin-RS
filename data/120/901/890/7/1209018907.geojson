@@ -1,0 +1,66 @@
+{
+  "id": 1209018907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18378,43.13898,21.18378,43.13898",
+    "geom:latitude":43.13898,
+    "geom:longitude":21.18378,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Mirnica",
+    "gn:country_code":"RS",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787921,
+    "gn:latitude":43.13898,
+    "gn:longitude":21.18378,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mirnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mirnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787921,
+        "wk:page":"Mirnica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"917628a9acdf37c89240d7a8d7a183fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209018907
+        }
+    ],
+    "wof:id":1209018907,
+    "wof:lastmodified":1537683754,
+    "wof:name":"Mirnica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18378,
+    43.13898,
+    21.18378,
+    43.13898
+],
+  "geometry": {"coordinates":[21.18378,43.13898],"type":"Point"}
+}

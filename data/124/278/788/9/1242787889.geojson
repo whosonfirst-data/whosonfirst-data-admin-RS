@@ -1,0 +1,70 @@
+{
+  "id": 1242787889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8148,43.88377,20.8148,43.88377",
+    "geom:latitude":43.88377,
+    "geom:longitude":20.8148,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Dobros",
+    "gn:country_code":"RS",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862814,
+    "gn:latitude":43.88377,
+    "gn:longitude":20.8148,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobro\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809917,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862814
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"79970d53cd4d469aefd432e3a929c76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809917,
+            "locality_id":1242787889,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1242787889,
+    "wof:lastmodified":1536760867,
+    "wof:name":"Dobros",
+    "wof:parent_id":1108809917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8148,
+    43.88377,
+    20.8148,
+    43.88377
+],
+  "geometry": {"coordinates":[20.8148,43.88377],"type":"Point"}
+}

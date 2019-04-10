@@ -1,0 +1,73 @@
+{
+  "id": 1293400139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85168,43.25993,20.85168,43.25993",
+    "geom:latitude":43.25993,
+    "geom:longitude":20.85168,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Zaplanina",
+    "gn:country_code":"RS",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836002,
+    "gn:latitude":43.25993,
+    "gn:longitude":20.85168,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zaplanina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zaplanina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809863,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836002
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"173974a1f63964cb0a82ccff3d489546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809863,
+            "locality_id":1293400139,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1293400139,
+    "wof:lastmodified":1537683887,
+    "wof:name":"Zaplanina",
+    "wof:parent_id":1108809863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85168,
+    43.25993,
+    20.85168,
+    43.25993
+],
+  "geometry": {"coordinates":[20.85168,43.25993],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259889797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2629,44.61194,21.2629,44.61194",
+    "geom:latitude":44.61194,
+    "geom:longitude":21.2629,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Trnjane",
+    "gn:country_code":"RS",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784912,
+    "gn:latitude":44.61194,
+    "gn:longitude":21.2629,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trnjane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trnjani",
+        "Trnjane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810033,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784912,
+        "wk:page":"Trnjane_%28Po%C5%BEarevac%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"07a5224a8577d9810b973dcbcc44cb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810033,
+            "locality_id":1259889797,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1259889797,
+    "wof:lastmodified":1537683701,
+    "wof:name":"Trnjane",
+    "wof:parent_id":1108810033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2629,
+    44.61194,
+    21.2629,
+    44.61194
+],
+  "geometry": {"coordinates":[21.2629,44.61194],"type":"Point"}
+}

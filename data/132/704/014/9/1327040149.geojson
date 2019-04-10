@@ -1,0 +1,75 @@
+{
+  "id": 1327040149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93619,44.22075,19.93619,44.22075",
+    "geom:latitude":44.22075,
+    "geom:longitude":19.93619,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Zarube",
+    "gn:country_code":"RS",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216217,
+    "gn:latitude":44.22075,
+    "gn:longitude":19.93619,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zarube",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarubi",
+        "Zarube"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810127,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216217,
+        "wk:page":"Zarube"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6c0772700eeaedb8237c2df8c6fb3a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810127,
+            "locality_id":1327040149,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1327040149,
+    "wof:lastmodified":1537683956,
+    "wof:name":"Zarube",
+    "wof:parent_id":1108810127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93619,
+    44.22075,
+    19.93619,
+    44.22075
+],
+  "geometry": {"coordinates":[19.93619,44.22075],"type":"Point"}
+}

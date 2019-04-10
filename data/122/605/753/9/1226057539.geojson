@@ -1,0 +1,74 @@
+{
+  "id": 1226057539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24435,44.45681,19.24435,44.45681",
+    "geom:latitude":44.45681,
+    "geom:longitude":19.24435,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Zajaca",
+    "gn:country_code":"RS",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186869,
+    "gn:latitude":44.45681,
+    "gn:longitude":19.24435,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zaja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zaja\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186869,
+        "wk:page":"Zaja%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ec77a6a030d166bbd3e13c8835e9c4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":1226057539,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1226057539,
+    "wof:lastmodified":1537683917,
+    "wof:name":"Zajaca",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24435,
+    44.45681,
+    19.24435,
+    44.45681
+],
+  "geometry": {"coordinates":[19.24435,44.45681],"type":"Point"}
+}

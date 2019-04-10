@@ -1,0 +1,98 @@
+{
+  "id": 890477457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50766,43.1606,21.50766,43.1606",
+    "geom:latitude":43.1606,
+    "geom:longitude":21.50766,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":42,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ob\u00ebrtinca"
+    ],
+    "name:dut_x_preferred":[
+        "Obrtince"
+    ],
+    "name:eng_x_preferred":[
+        "Obrtince"
+    ],
+    "name:fre_x_preferred":[
+        "Obrtince"
+    ],
+    "name:may_x_preferred":[
+        "Obrtince"
+    ],
+    "name:por_x_preferred":[
+        "Obrtince"
+    ],
+    "name:slv_x_preferred":[
+        "Obrtince"
+    ],
+    "name:srp_x_preferred":[
+        "Obrtince"
+    ],
+    "name:unk_x_variant":[
+        "Obrtinci"
+    ],
+    "qs:name":"Obrtince",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787509,
+        "gp:id":535227,
+        "qs:id":553792,
+        "wd:id":"Q3106652",
+        "wk:page":"Obrtince"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054116,
+    "wof:geomhash":"471c247b0fd98b6fd81415858f939d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477457,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477457,
+    "wof:lastmodified":1527727186,
+    "wof:name":"Obrtince",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50766,
+    43.1606,
+    21.50766,
+    43.1606
+],
+  "geometry": {"coordinates":[21.50766,43.1606],"type":"Point"}
+}

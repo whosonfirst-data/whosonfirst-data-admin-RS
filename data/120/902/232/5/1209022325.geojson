@@ -1,0 +1,65 @@
+{
+  "id": 1209022325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54698,42.31981,21.54698,42.31981",
+    "geom:latitude":42.31981,
+    "geom:longitude":21.54698,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Sefer",
+    "gn:country_code":"RS",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786022,
+    "gn:latitude":42.31981,
+    "gn:longitude":21.54698,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sefer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sefer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786022
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bc5d0e47537e3d72e9c9c6e49dbad1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209022325
+        }
+    ],
+    "wof:id":1209022325,
+    "wof:lastmodified":1537683719,
+    "wof:name":"Sefer",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54698,
+    42.31981,
+    21.54698,
+    42.31981
+],
+  "geometry": {"coordinates":[21.54698,42.31981],"type":"Point"}
+}

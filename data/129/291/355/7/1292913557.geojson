@@ -1,0 +1,74 @@
+{
+  "id": 1292913557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02563,44.22418,21.02563,44.22418",
+    "geom:latitude":44.22418,
+    "geom:longitude":21.02563,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Donja Raca",
+    "gn:country_code":"RS",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791275,
+    "gn:latitude":44.22418,
+    "gn:longitude":21.02563,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Ra\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Ra\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810047,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791275,
+        "wk:page":"Donja_Ra%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b3776df2e67ada78d7bec768c13ef8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810047,
+            "locality_id":1292913557,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1292913557,
+    "wof:lastmodified":1537683812,
+    "wof:name":"Donja Raca",
+    "wof:parent_id":1108810047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02563,
+    44.22418,
+    21.02563,
+    44.22418
+],
+  "geometry": {"coordinates":[21.02563,44.22418],"type":"Point"}
+}

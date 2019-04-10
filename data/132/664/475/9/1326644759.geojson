@@ -1,0 +1,76 @@
+{
+  "id": 1326644759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62873,42.38362,21.62873,42.38362",
+    "geom:latitude":42.38362,
+    "geom:longitude":21.62873,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Gornje Gare",
+    "gn:country_code":"RS",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790771,
+    "gn:latitude":42.38362,
+    "gn:longitude":21.62873,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornje Gare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornje Gare"
+    ],
+    "name:und_x_variant":[
+        "Gare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810039,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790771
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0f6ca7346e6eaa1857f16bb5184afd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810039,
+            "locality_id":1326644759,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1326644759,
+    "wof:lastmodified":1537683801,
+    "wof:name":"Gornje Gare",
+    "wof:parent_id":1108810039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62873,
+    42.38362,
+    21.62873,
+    42.38362
+],
+  "geometry": {"coordinates":[21.62873,42.38362],"type":"Point"}
+}

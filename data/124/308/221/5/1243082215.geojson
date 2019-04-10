@@ -1,0 +1,77 @@
+{
+  "id": 1243082215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80861,43.66917,20.80861,43.66917",
+    "geom:latitude":43.66917,
+    "geom:longitude":20.80861,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Vranesi",
+    "gn:country_code":"RS",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784240,
+    "gn:latitude":43.66917,
+    "gn:longitude":20.80861,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrane\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vrane\u0161i"
+    ],
+    "name:und_x_variant":[
+        "Vrane\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810151,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784240,
+        "wk:page":"Vrane%C5%A1i"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"860d1be4834dd3d84432ab21ababbf40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810151,
+            "locality_id":1243082215,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1243082215,
+    "wof:lastmodified":1537683691,
+    "wof:name":"Vranesi",
+    "wof:parent_id":1108810151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80861,
+    43.66917,
+    20.80861,
+    43.66917
+],
+  "geometry": {"coordinates":[20.80861,43.66917],"type":"Point"}
+}

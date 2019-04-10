@@ -1,0 +1,92 @@
+{
+  "id": 890476645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49392,43.24496,21.49392,43.24496",
+    "geom:latitude":43.24496,
+    "geom:longitude":21.49392,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":324,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:may_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "qs:name":"Poto\u010di\u0107",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786839,
+        "gp:id":535227,
+        "qs:id":553746,
+        "wd:id":"Q2735453",
+        "wk:page":"Poto\u010di\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054083,
+    "wof:geomhash":"eb88cdad821526a4149bfba7f5e2544d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890476645,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476645,
+    "wof:lastmodified":1527727148,
+    "wof:name":"Poto\u010di\u0107",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49392,
+    43.24496,
+    21.49392,
+    43.24496
+],
+  "geometry": {"coordinates":[21.49392,43.24496],"type":"Point"}
+}

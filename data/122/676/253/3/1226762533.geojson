@@ -1,0 +1,81 @@
+{
+  "id": 1226762533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09268,46.12836,20.09268,46.12836",
+    "geom:latitude":46.12836,
+    "geom:longitude":20.09268,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"Krstur",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788993,
+    "gn:latitude":46.12836,
+    "gn:longitude":20.09268,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Krstur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Krstur"
+    ],
+    "name:und_x_variant":[
+        "R\u00e1cz-Kereszt\u00far",
+        "Kereszt\u00far",
+        "\u00d3kereszt\u00far",
+        "Srpski Krstur",
+        "Szerb-Kereszt\u00far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108810001,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788993,
+        "wk:page":"Srpski_Krstur"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b548d23c8e6f2bd63a046e6613fe6b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810001,
+            "locality_id":1226762533,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1226762533,
+    "wof:lastmodified":1537683774,
+    "wof:name":"Krstur",
+    "wof:parent_id":1108810001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09268,
+    46.12836,
+    20.09268,
+    46.12836
+],
+  "geometry": {"coordinates":[20.09268,46.12836],"type":"Point"}
+}

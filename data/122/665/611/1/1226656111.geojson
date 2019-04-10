@@ -1,0 +1,73 @@
+{
+  "id": 1226656111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38667,43.48278,20.38667,43.48278",
+    "geom:latitude":43.48278,
+    "geom:longitude":20.38667,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Vrmbaje",
+    "gn:country_code":"RS",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":836151,
+    "gn:latitude":43.48278,
+    "gn:longitude":20.38667,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrmbaje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vrmbaje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836151
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"aa61473f2bfc8df48e0ed0ab88eff78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1226656111,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1226656111,
+    "wof:lastmodified":1537683889,
+    "wof:name":"Vrmbaje",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38667,
+    43.48278,
+    20.38667,
+    43.48278
+],
+  "geometry": {"coordinates":[20.38667,43.48278],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276137637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32052,43.13211,20.32052,43.13211",
+    "geom:latitude":43.13211,
+    "geom:longitude":20.32052,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Carovina",
+    "gn:country_code":"RS",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792036,
+    "gn:latitude":43.13211,
+    "gn:longitude":20.32052,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u010carovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010carovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792036,
+        "wk:page":"%C4%8Carovina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"881119fe5002844e77832d53bcfbc372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1276137637,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1276137637,
+    "wof:lastmodified":1537683823,
+    "wof:name":"Carovina",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32052,
+    43.13211,
+    20.32052,
+    43.13211
+],
+  "geometry": {"coordinates":[20.32052,43.13211],"type":"Point"}
+}

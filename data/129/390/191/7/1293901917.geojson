@@ -1,0 +1,71 @@
+{
+  "id": 1293901917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1814,43.64333,21.1814,43.64333",
+    "geom:latitude":43.64333,
+    "geom:longitude":21.1814,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Konjuh",
+    "gn:country_code":"RS",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838774,
+    "gn:latitude":43.64333,
+    "gn:longitude":21.1814,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Konjuh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838774,
+        "wk:page":"Konjuh"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b77178ac97f3bffb0079c8fbae6096f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1293901917,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1293901917,
+    "wof:lastmodified":1537572091,
+    "wof:name":"Konjuh",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1814,
+    43.64333,
+    21.1814,
+    43.64333
+],
+  "geometry": {"coordinates":[21.1814,43.64333],"type":"Point"}
+}

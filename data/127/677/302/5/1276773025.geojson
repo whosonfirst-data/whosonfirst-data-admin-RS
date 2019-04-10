@@ -1,0 +1,71 @@
+{
+  "id": 1276773025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96417,43.95389,20.96417,43.95389",
+    "geom:latitude":43.95389,
+    "geom:longitude":20.96417,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Donja Sabanta",
+    "gn:country_code":"RS",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862844,
+    "gn:latitude":43.95389,
+    "gn:longitude":20.96417,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Sabanta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862844,
+        "wk:page":"Donja_Sabanta"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6b84e07b10769203ec0da1bd120090b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1276773025,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1276773025,
+    "wof:lastmodified":1537572095,
+    "wof:name":"Donja Sabanta",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96417000000001,
+    43.95389,
+    20.96417000000001,
+    43.95389
+],
+  "geometry": {"coordinates":[20.96417000000001,43.95389],"type":"Point"}
+}

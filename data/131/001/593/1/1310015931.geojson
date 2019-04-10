@@ -1,0 +1,74 @@
+{
+  "id": 1310015931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58928,44.04181,20.58928,44.04181",
+    "geom:latitude":44.04181,
+    "geom:longitude":20.58928,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Donja Crnuca",
+    "gn:country_code":"RS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791307,
+    "gn:latitude":44.04181,
+    "gn:longitude":20.58928,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Crnu\u0107a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Crnu\u0107a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809897,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791307,
+        "wk:page":"Donja_Crnu%C4%87a"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7befbea3e01395ac54152aa089a6220d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809897,
+            "locality_id":1310015931,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1310015931,
+    "wof:lastmodified":1537683813,
+    "wof:name":"Donja Crnuca",
+    "wof:parent_id":1108809897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58928,
+    44.04181,
+    20.58928,
+    44.04181
+],
+  "geometry": {"coordinates":[20.58928,44.04181],"type":"Point"}
+}

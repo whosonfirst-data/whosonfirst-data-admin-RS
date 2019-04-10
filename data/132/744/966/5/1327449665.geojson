@@ -1,0 +1,77 @@
+{
+  "id": 1327449665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81671,44.79022,19.81671,44.79022",
+    "geom:latitude":44.79022,
+    "geom:longitude":19.81671,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Vitojevci",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187576,
+    "gn:latitude":44.79022,
+    "gn:longitude":19.81671,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vitojevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:und_x_variant":[
+        "Novi Vitojevci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810059,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187576,
+        "wk:page":"Vitojevci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"30e45ee6f4c64b83e2a1f196c2eb5d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810059,
+            "locality_id":1327449665,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1327449665,
+    "wof:lastmodified":1537683918,
+    "wof:name":"Vitojevci",
+    "wof:parent_id":1108810059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81671,
+    44.79022,
+    19.81671,
+    44.79022
+],
+  "geometry": {"coordinates":[19.81671,44.79022],"type":"Point"}
+}

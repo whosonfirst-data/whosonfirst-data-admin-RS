@@ -1,0 +1,92 @@
+{
+  "id": 890476925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72296,44.50883,21.72296,44.50883",
+    "geom:latitude":44.50883,
+    "geom:longitude":21.72296,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":1249,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:may_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:por_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0160evica"
+    ],
+    "qs:name":"\u0160evica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809939,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785941,
+        "gp:id":534864,
+        "qs:id":275731,
+        "wd:id":"Q3102834",
+        "wk:page":"\u0160evica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054095,
+    "wof:geomhash":"d855ea9a4becaa005c62230c3ca0cc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809939,
+            "locality_id":890476925,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":890476925,
+    "wof:lastmodified":1527727150,
+    "wof:name":"\u0160evica",
+    "wof:parent_id":1108809939,
+    "wof:placetype":"locality",
+    "wof:population":1249,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72296,
+    44.50883,
+    21.72296,
+    44.50883
+],
+  "geometry": {"coordinates":[21.72296,44.50883],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293497795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54129,44.61575,21.54129,44.61575",
+    "geom:latitude":44.61575,
+    "geom:longitude":21.54129,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Mrckovac",
+    "gn:country_code":"RS",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787817,
+    "gn:latitude":44.61575,
+    "gn:longitude":21.54129,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mr\u010dkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mr\u010dkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809895,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787817,
+        "wk:page":"Mr%C4%8Dkovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6b80d45cf2b86b3a1ecc08db319ff564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809895,
+            "locality_id":1293497795,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1293497795,
+    "wof:lastmodified":1537683752,
+    "wof:name":"Mrckovac",
+    "wof:parent_id":1108809895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54129,
+    44.61575,
+    21.54129,
+    44.61575
+],
+  "geometry": {"coordinates":[21.54129,44.61575],"type":"Point"}
+}

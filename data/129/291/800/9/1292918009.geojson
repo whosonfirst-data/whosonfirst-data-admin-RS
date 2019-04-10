@@ -1,0 +1,73 @@
+{
+  "id": 1292918009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30317,43.63338,21.30317,43.63338",
+    "geom:latitude":43.63338,
+    "geom:longitude":21.30317,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Velika Krusevica",
+    "gn:country_code":"RS",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784642,
+    "gn:latitude":43.63338,
+    "gn:longitude":21.30317,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Velika Kru\u0161evica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Velika Kru\u0161evica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784642
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c489f41dd0205db8380d42589465dccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":1292918009,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1292918009,
+    "wof:lastmodified":1537683697,
+    "wof:name":"Velika Krusevica",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30317,
+    43.63338,
+    21.30317,
+    43.63338
+],
+  "geometry": {"coordinates":[21.30317,43.63338],"type":"Point"}
+}

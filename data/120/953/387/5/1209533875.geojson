@@ -1,0 +1,62 @@
+{
+  "id": 1209533875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73232,43.87395,19.73232,43.87395",
+    "geom:latitude":43.87395,
+    "geom:longitude":19.73232,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Kuvelici",
+    "gn:country_code":"RS",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303191,
+    "gn:latitude":43.87395,
+    "gn:longitude":19.73232,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kuveli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303191
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"52433891754e28168a6a8dbd8805219d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209533875
+        }
+    ],
+    "wof:id":1209533875,
+    "wof:lastmodified":1536284200,
+    "wof:name":"Kuvelici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73232,
+    43.87395,
+    19.73232,
+    43.87395
+],
+  "geometry": {"coordinates":[19.73232,43.87395],"type":"Point"}
+}

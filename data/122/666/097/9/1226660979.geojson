@@ -1,0 +1,73 @@
+{
+  "id": 1226660979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00825,43.30416,21.00825,43.30416",
+    "geom:latitude":43.30416,
+    "geom:longitude":21.00825,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Grcaci",
+    "gn:country_code":"RS",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835186,
+    "gn:latitude":43.30416,
+    "gn:longitude":21.00825,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gr\u010daci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gr\u010daci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809863,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835186
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"993678e715dc2408d421f6cac62fc21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809863,
+            "locality_id":1226660979,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1226660979,
+    "wof:lastmodified":1537683869,
+    "wof:name":"Grcaci",
+    "wof:parent_id":1108809863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00825,
+    43.30416,
+    21.00825,
+    43.30416
+],
+  "geometry": {"coordinates":[21.00825,43.30416],"type":"Point"}
+}

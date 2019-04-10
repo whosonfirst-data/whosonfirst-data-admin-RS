@@ -1,0 +1,70 @@
+{
+  "id": 1259392577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07079,42.34978,22.07079,42.34978",
+    "geom:latitude":42.34978,
+    "geom:longitude":22.07079,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Tikva",
+    "gn:country_code":"RS",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861470,
+    "gn:latitude":42.34978,
+    "gn:longitude":22.07079,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Tikva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861470
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d881b9c08cf0a5a71e8e5e4665ff67b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1259392577,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1259392577,
+    "wof:lastmodified":1536988256,
+    "wof:name":"Tikva",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07079,
+    42.34978,
+    22.07079,
+    42.34978
+],
+  "geometry": {"coordinates":[22.07079,42.34978],"type":"Point"}
+}

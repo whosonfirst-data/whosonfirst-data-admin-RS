@@ -1,0 +1,101 @@
+{
+  "id": 890476795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13702,45.29254,21.13702,45.29254",
+    "geom:latitude":45.29254,
+    "geom:longitude":21.13702,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":545,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kupinik"
+    ],
+    "name:eng_x_preferred":[
+        "Kupinik"
+    ],
+    "name:epo_x_preferred":[
+        "Kupinik"
+    ],
+    "name:fre_x_preferred":[
+        "Kupinik"
+    ],
+    "name:hun_x_preferred":[
+        "Bal\u00e1t"
+    ],
+    "name:may_x_preferred":[
+        "Kupinik"
+    ],
+    "name:rum_x_preferred":[
+        "Kupinik"
+    ],
+    "name:slv_x_preferred":[
+        "Kupinik"
+    ],
+    "name:srp_x_preferred":[
+        "Kupinik"
+    ],
+    "name:unk_x_variant":[
+        "Aleksandrov Gaj"
+    ],
+    "qs:name":"Kupinik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810031,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788872,
+        "gp:id":537364,
+        "qs:id":553861,
+        "wd:id":"Q789828",
+        "wk:page":"Kupinik"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054089,
+    "wof:geomhash":"c713d27bcac30f06973c96f4bc8b24d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810031,
+            "locality_id":890476795,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890476795,
+    "wof:lastmodified":1553816409,
+    "wof:name":"Kupinik",
+    "wof:parent_id":1108810031,
+    "wof:placetype":"locality",
+    "wof:population":545,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13702,
+    45.29254,
+    21.13702,
+    45.29254
+],
+  "geometry": {"coordinates":[21.13702,45.29254],"type":"Point"}
+}

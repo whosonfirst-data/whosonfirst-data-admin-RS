@@ -1,0 +1,104 @@
+{
+  "id": 890477419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41328,43.67739,21.41328,43.67739",
+    "geom:latitude":43.67739,
+    "geom:longitude":21.41328,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03ac\u03bb\u03b1\u03c4\u03c2"
+    ],
+    "name:may_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Stala\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Stala\u0107"
+    ],
+    "qs:name":"Stala\u0107",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Rasina",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809871,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785594,
+        "gp:id":536839,
+        "qs:id":129424,
+        "wd:id":"Q3178911",
+        "wk:page":"Stala\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054114,
+    "wof:geomhash":"75ab7fd63d8d668f868d834169b80102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809871,
+            "locality_id":890477419,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":890477419,
+    "wof:lastmodified":1527727183,
+    "wof:name":"Stala\u0107",
+    "wof:parent_id":1108809871,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41328,
+    43.67739,
+    21.41328,
+    43.67739
+],
+  "geometry": {"coordinates":[21.41328,43.67739],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 890477741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.675,44.54278,19.675,44.54278",
+    "geom:latitude":44.54278,
+    "geom:longitude":19.675,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":715,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mrovska"
+    ],
+    "name:eng_x_preferred":[
+        "Mrovska"
+    ],
+    "name:fre_x_preferred":[
+        "Mrovska"
+    ],
+    "name:may_x_preferred":[
+        "Mrovska"
+    ],
+    "name:por_x_preferred":[
+        "Mrovska"
+    ],
+    "name:slv_x_preferred":[
+        "Mrovska"
+    ],
+    "name:srp_x_preferred":[
+        "Mrovska"
+    ],
+    "qs:name":"Mrovska",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810137,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194715,
+        "gp:id":533649,
+        "qs:id":581654,
+        "wd:id":"Q1974803",
+        "wk:page":"Mrovska"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054128,
+    "wof:geomhash":"468dccfbb67d2ae86d6ede0218c0ab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810137,
+            "locality_id":890477741,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477741,
+    "wof:lastmodified":1527727182,
+    "wof:name":"Mrovska",
+    "wof:parent_id":1108810137,
+    "wof:placetype":"locality",
+    "wof:population":715,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.675,
+    44.54278,
+    19.675,
+    44.54278
+],
+  "geometry": {"coordinates":[19.675,44.54278],"type":"Point"}
+}

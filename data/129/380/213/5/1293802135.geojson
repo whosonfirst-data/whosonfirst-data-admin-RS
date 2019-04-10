@@ -1,0 +1,70 @@
+{
+  "id": 1293802135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18167,42.37667,22.18167,42.37667",
+    "geom:latitude":42.37667,
+    "geom:longitude":22.18167,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Toskinci",
+    "gn:country_code":"RS",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861204,
+    "gn:latitude":42.37667,
+    "gn:longitude":22.18167,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"To\u0161kinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861204
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0f66452961d8404709d044f0a2fc29b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1293802135,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1293802135,
+    "wof:lastmodified":1536829586,
+    "wof:name":"Toskinci",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18167,
+    42.37667,
+    22.18167,
+    42.37667
+],
+  "geometry": {"coordinates":[22.18167,42.37667],"type":"Point"}
+}

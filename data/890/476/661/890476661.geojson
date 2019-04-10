@@ -1,0 +1,92 @@
+{
+  "id": 890476661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55212,43.09824,21.55212,43.09824",
+    "geom:latitude":43.09824,
+    "geom:longitude":21.55212,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":65,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:may_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:por_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:srp_x_preferred":[
+        "Staro Selo"
+    ],
+    "qs:name":"Staro Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785509,
+        "gp:id":537761,
+        "qs:id":83570,
+        "wd:id":"Q2361603",
+        "wk:page":"Staro Selo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054083,
+    "wof:geomhash":"b48aa169c71b6e841e53b2228b162fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890476661,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476661,
+    "wof:lastmodified":1527727149,
+    "wof:name":"Staro Selo",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55212,
+    43.09824,
+    21.55212,
+    43.09824
+],
+  "geometry": {"coordinates":[21.55212,43.09824],"type":"Point"}
+}

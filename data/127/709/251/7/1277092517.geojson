@@ -1,0 +1,70 @@
+{
+  "id": 1277092517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27917,44.61806,20.27917,44.61806",
+    "geom:latitude":44.61806,
+    "geom:longitude":20.27917,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Sumadija",
+    "gn:country_code":"RS",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838497,
+    "gn:latitude":44.61806,
+    "gn:longitude":20.27917,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160umadija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810007,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838497
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a0ed329df887a8a5a173192c5c8cb8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810007,
+            "locality_id":1277092517,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1277092517,
+    "wof:lastmodified":1536753507,
+    "wof:name":"Sumadija",
+    "wof:parent_id":1108810007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27917,
+    44.61806,
+    20.27917,
+    44.61806
+],
+  "geometry": {"coordinates":[20.27917,44.61806],"type":"Point"}
+}

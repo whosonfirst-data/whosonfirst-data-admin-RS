@@ -1,0 +1,73 @@
+{
+  "id": 1226549923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76623,44.25913,20.76623,44.25913",
+    "geom:latitude":44.25913,
+    "geom:longitude":20.76623,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Junkovac",
+    "gn:country_code":"RS",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789738,
+    "gn:latitude":44.25913,
+    "gn:longitude":20.76623,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Junkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Junkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810113,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789738
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c671b6655e19ce931ffc022fbd712c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810113,
+            "locality_id":1226549923,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226549923,
+    "wof:lastmodified":1537683784,
+    "wof:name":"Junkovac",
+    "wof:parent_id":1108810113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76623,
+    44.25913,
+    20.76623,
+    44.25913
+],
+  "geometry": {"coordinates":[20.76623,44.25913],"type":"Point"}
+}

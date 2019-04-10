@@ -1,0 +1,99 @@
+{
+  "id": 1243006935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51578,44.76203,21.51578,44.76203",
+    "geom:latitude":44.76203,
+    "geom:longitude":21.51578,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"70394.0",
+    "gn:asciiname":"Veliko Gradiste",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":784535,
+    "gn:latitude":44.76203,
+    "gn:longitude":21.51578,
+    "gn:modification_date":"2012-04-16",
+    "gn:name":"Veliko Gradi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0643\u0648 \u063a\u0631\u0627\u062f\u064a\u0634\u062a\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0413\u0440\u0430\u0434\u0438\u0449\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0648 \u06af\u0631\u062f\u06cc\u0634\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u06cc\u0644\u06cc\u06a9\u0648 \u06af\u0631\u0627\u062f\u06cc\u0634\u062a\u06d2"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e-\u0413\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "Veliko Gradi\u0161te"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0413\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gradi\u0161te"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u683c\u62c9\u8fea\u4ec0\u6cf0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810133,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784535,
+        "wk:page":"Veliko_Gradi%C5%A1te"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e90c385fb56b96ecb13d9e068f046239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810133,
+            "locality_id":1243006935,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1243006935,
+    "wof:lastmodified":1537683696,
+    "wof:name":"Veliko Gradiste",
+    "wof:parent_id":1108810133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51578,
+    44.76203,
+    21.51578,
+    44.76203
+],
+  "geometry": {"coordinates":[21.51578,44.76203],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 890477133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06861,45.47221,20.06861,45.47221",
+    "geom:latitude":45.47221,
+    "geom:longitude":20.06861,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":9231,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u010curug"
+    ],
+    "name:eng_x_preferred":[
+        "\u010curug"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108urug"
+    ],
+    "name:fre_x_preferred":[
+        "\u010curug"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010curug"
+    ],
+    "name:hun_x_preferred":[
+        "Csurog"
+    ],
+    "name:may_x_preferred":[
+        "\u010curug"
+    ],
+    "name:pol_x_preferred":[
+        "\u010curug"
+    ],
+    "name:slv_x_preferred":[
+        "\u010curug"
+    ],
+    "name:srp_x_preferred":[
+        "\u010curug"
+    ],
+    "name:unk_x_variant":[
+        "Csurog"
+    ],
+    "qs:name":"\u010curug",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":778,
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810155,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791672,
+        "gp:id":533275,
+        "qs:id":1029119,
+        "wd:id":"Q238981",
+        "wk:page":"\u010curug"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054103,
+    "wof:geomhash":"29f05426889f7f4ce930353862c8e3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810155,
+            "locality_id":890477133,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477133,
+    "wof:lastmodified":1527727177,
+    "wof:name":"\u010curug",
+    "wof:parent_id":1108810155,
+    "wof:placetype":"locality",
+    "wof:population":9231,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06861,
+    45.47221,
+    20.06861,
+    45.47221
+],
+  "geometry": {"coordinates":[20.06861,45.47221],"type":"Point"}
+}

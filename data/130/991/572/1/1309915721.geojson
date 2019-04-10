@@ -1,0 +1,70 @@
+{
+  "id": 1309915721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86588,43.79375,20.86588,43.79375",
+    "geom:latitude":43.79375,
+    "geom:longitude":20.86588,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Zimovnik",
+    "gn:country_code":"RS",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862776,
+    "gn:latitude":43.79375,
+    "gn:longitude":20.86588,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zimovnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862776
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2d9cdf5b2cea5f3b289c29d8d936c033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":1309915721,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1309915721,
+    "wof:lastmodified":1536773197,
+    "wof:name":"Zimovnik",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86588,
+    43.79375,
+    20.86588,
+    43.79375
+],
+  "geometry": {"coordinates":[20.86588,43.79375],"type":"Point"}
+}

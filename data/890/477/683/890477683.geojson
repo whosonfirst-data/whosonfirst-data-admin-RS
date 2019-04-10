@@ -1,0 +1,113 @@
+{
+  "id": 890477683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91468,45.31575,20.91468,45.31575",
+    "geom:latitude":45.31575,
+    "geom:longitude":20.91468,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1211,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Konak"
+    ],
+    "name:eng_x_preferred":[
+        "Konak"
+    ],
+    "name:epo_x_preferred":[
+        "Konak"
+    ],
+    "name:fre_x_preferred":[
+        "Konak"
+    ],
+    "name:hrv_x_preferred":[
+        "Kanak"
+    ],
+    "name:hun_x_preferred":[
+        "Kanak"
+    ],
+    "name:may_x_preferred":[
+        "Konak"
+    ],
+    "name:rum_x_preferred":[
+        "Konak"
+    ],
+    "name:slv_x_preferred":[
+        "Konak"
+    ],
+    "name:srp_x_preferred":[
+        "Konak"
+    ],
+    "name:unk_x_variant":[
+        "Conak"
+    ],
+    "qs:name":"Konak",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhni Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810065,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789346,
+        "gp:id":534642,
+        "qs:id":196463,
+        "wd:id":"Q1083380",
+        "wk:page":"Konak"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054126,
+    "wof:geomhash":"25f4f4cbe5e0e83842ce109c8233cf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810065,
+            "locality_id":890477683,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477683,
+    "wof:lastmodified":1527727185,
+    "wof:name":"Konak",
+    "wof:parent_id":1108810065,
+    "wof:placetype":"locality",
+    "wof:population":1211,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91468,
+    45.31575,
+    20.91468,
+    45.31575
+],
+  "geometry": {"coordinates":[20.91468,45.31575],"type":"Point"}
+}

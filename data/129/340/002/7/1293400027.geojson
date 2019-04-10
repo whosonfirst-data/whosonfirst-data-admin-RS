@@ -1,0 +1,77 @@
+{
+  "id": 1293400027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40623,42.82448,22.40623,42.82448",
+    "geom:latitude":42.82448,
+    "geom:longitude":22.40623,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Preslap",
+    "gn:country_code":"RS",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786768,
+    "gn:latitude":42.82448,
+    "gn:longitude":22.40623,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Preslap",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Preslap"
+    ],
+    "name:und_x_variant":[
+        "Preslop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809877,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786768,
+        "wk:page":"Preslap"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6a37f7431d5ddee111964d05b7bad68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809877,
+            "locality_id":1293400027,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1293400027,
+    "wof:lastmodified":1537683734,
+    "wof:name":"Preslap",
+    "wof:parent_id":1108809877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40623,
+    42.82448,
+    22.40623,
+    42.82448
+],
+  "geometry": {"coordinates":[22.40623,42.82448],"type":"Point"}
+}

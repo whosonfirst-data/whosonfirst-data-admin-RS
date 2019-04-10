@@ -1,0 +1,74 @@
+{
+  "id": 1259493473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8605,42.53186,21.8605,42.53186",
+    "geom:latitude":42.53186,
+    "geom:longitude":21.8605,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Stropsko",
+    "gn:country_code":"RS",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785392,
+    "gn:latitude":42.53186,
+    "gn:longitude":21.8605,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stropsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stropsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785392,
+        "wk:page":"Stropsko"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"02ad0113121d7f08b23166b06d6f374c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1259493473,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1259493473,
+    "wof:lastmodified":1537683709,
+    "wof:name":"Stropsko",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8605,
+    42.53186,
+    21.8605,
+    42.53186
+],
+  "geometry": {"coordinates":[21.8605,42.53186],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243085641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47919,44.87671,21.47919,44.87671",
+    "geom:latitude":44.87671,
+    "geom:longitude":21.47919,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Kusic",
+    "gn:country_code":"RS",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788844,
+    "gn:latitude":44.87671,
+    "gn:longitude":21.47919,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kusi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kusi\u0107"
+    ],
+    "name:und_x_variant":[
+        "Kusics",
+        "Kusi\u0107i",
+        "Kusicz",
+        "Kussics"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809843,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788844,
+        "wk:page":"Kusi%C4%87_%28Bela_Crkva%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"69e9d5e928121b7af685d4cdfbbc0ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809843,
+            "locality_id":1243085641,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1243085641,
+    "wof:lastmodified":1537683772,
+    "wof:name":"Kusic",
+    "wof:parent_id":1108809843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47919,
+    44.87671,
+    21.47919,
+    44.87671
+],
+  "geometry": {"coordinates":[21.47919,44.87671],"type":"Point"}
+}

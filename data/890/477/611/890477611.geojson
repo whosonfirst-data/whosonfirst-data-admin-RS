@@ -1,0 +1,138 @@
+{
+  "id": 890477611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10651,44.37344,19.10651,44.37344",
+    "geom:latitude":44.37344,
+    "geom:longitude":19.10651,
+    "gn:country":"RS",
+    "gn:fcode":"PPLA3",
+    "gn:pop":4,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Mali Zvornik"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c0f\u8332\u6c83\u723e\u5c3c\u514b"
+    ],
+    "name:cze_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:dut_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:eng_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:fre_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10da\u10d8-\u10d6\u10d5\u10dd\u10e0\u10dc\u10d8\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ac\u03bb\u03b9 \u0396\u03b2\u03cc\u03c1\u03bd\u03b9\u03ba"
+    ],
+    "name:hrv_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:ita_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30fb\u30ba\u30f4\u30a9\u30eb\u30cb\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d8-\u10d6\u10d5\u10dd\u10e0\u10dc\u10d8\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0632\u0648\u0648\u0631\u0646\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:por_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u0417\u0432\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:srp_x_preferred":[
+        "Mali Zvornik"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0417\u0432\u043e\u0440\u043d\u0438\u043a",
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043b\u0438 \u0417\u0432\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u0417\u0432\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u8332\u6c83\u723e\u5c3c\u514b"
+    ],
+    "qs:name":"Mali Zvornik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809971,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195591,
+        "gp:id":944835,
+        "qs:id":95085,
+        "wd:id":"Q1282903",
+        "wk:page":"Mali Zvornik"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054123,
+    "wof:geomhash":"fd0d3118657b1c3f0d08126f20481d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809971,
+            "locality_id":890477611,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477611,
+    "wof:lastmodified":1527727179,
+    "wof:name":"Mali Zvornik",
+    "wof:parent_id":1108809971,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10651,
+    44.37344,
+    19.10651,
+    44.37344
+],
+  "geometry": {"coordinates":[19.10651,44.37344],"type":"Point"}
+}

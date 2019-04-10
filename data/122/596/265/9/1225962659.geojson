@@ -1,0 +1,74 @@
+{
+  "id": 1225962659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64829,44.01614,20.64829,44.01614",
+    "geom:latitude":44.01614,
+    "geom:longitude":20.64829,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Ljuljaci",
+    "gn:country_code":"RS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788537,
+    "gn:latitude":44.01614,
+    "gn:longitude":20.64829,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ljuljaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ljuljaci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809917,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788537,
+        "wk:page":"Ljuljaci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5621c1f663fd1d3cbdef2779aed4716b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809917,
+            "locality_id":1225962659,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1225962659,
+    "wof:lastmodified":1537683767,
+    "wof:name":"Ljuljaci",
+    "wof:parent_id":1108809917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64829,
+    44.01614,
+    20.64829,
+    44.01614
+],
+  "geometry": {"coordinates":[20.64829,44.01614],"type":"Point"}
+}

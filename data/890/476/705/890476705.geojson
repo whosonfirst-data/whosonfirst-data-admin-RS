@@ -1,0 +1,116 @@
+{
+  "id": 890476705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30003,45.44263,20.30003,45.44263",
+    "geom:latitude":45.44263,
+    "geom:longitude":20.30003,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4998,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Elemir"
+    ],
+    "name:eng_x_preferred":[
+        "Elemir"
+    ],
+    "name:epo_x_preferred":[
+        "Elemir"
+    ],
+    "name:fre_x_preferred":[
+        "Elemir"
+    ],
+    "name:ger_x_preferred":[
+        "Elemir"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb\u03b5\u03bc\u03af\u03c1"
+    ],
+    "name:hrv_x_preferred":[
+        "Elemir"
+    ],
+    "name:hun_x_preferred":[
+        "Elem\u00e9r"
+    ],
+    "name:may_x_preferred":[
+        "Elemir"
+    ],
+    "name:rum_x_preferred":[
+        "Elemir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0435\u043c\u0438\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Elemir"
+    ],
+    "name:srp_x_preferred":[
+        "Elemir"
+    ],
+    "name:swe_x_preferred":[
+        "Elemir"
+    ],
+    "name:unk_x_variant":[
+        "Nema\u010dki Elemir"
+    ],
+    "qs:name":"Elemir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810171,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790842,
+        "gp:id":533816,
+        "qs:id":129621,
+        "wd:id":"Q988802",
+        "wk:page":"Elemir"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054086,
+    "wof:geomhash":"9dd327fc2f415c31feeb451f417e9f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810171,
+            "locality_id":890476705,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476705,
+    "wof:lastmodified":1553816409,
+    "wof:name":"Elemir",
+    "wof:parent_id":1108810171,
+    "wof:placetype":"locality",
+    "wof:population":4998,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30003,
+    45.44263,
+    20.30003,
+    45.44263
+],
+  "geometry": {"coordinates":[20.30003,45.44263],"type":"Point"}
+}

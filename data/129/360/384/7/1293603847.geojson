@@ -1,0 +1,73 @@
+{
+  "id": 1293603847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87386,43.27941,20.87386,43.27941",
+    "geom:latitude":43.27941,
+    "geom:longitude":20.87386,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Mramor",
+    "gn:country_code":"RS",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836006,
+    "gn:latitude":43.27941,
+    "gn:longitude":20.87386,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mramor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mramor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809863,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836006
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6e4cab907116a6225a9b4cef959df43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809863,
+            "locality_id":1293603847,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1293603847,
+    "wof:lastmodified":1537683887,
+    "wof:name":"Mramor",
+    "wof:parent_id":1108809863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87386,
+    43.27941,
+    20.87386,
+    43.27941
+],
+  "geometry": {"coordinates":[20.87386,43.27941],"type":"Point"}
+}

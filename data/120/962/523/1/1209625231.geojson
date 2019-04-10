@@ -1,0 +1,65 @@
+{
+  "id": 1209625231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80528,43.36711,20.80528,43.36711",
+    "geom:latitude":43.36711,
+    "geom:longitude":20.80528,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Dorgevici",
+    "gn:country_code":"RS",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835961,
+    "gn:latitude":43.36711,
+    "gn:longitude":20.80528,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u00d0or\u0111evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u00d0or\u0111evi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835961
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a4ef73d83214d78aa6af1bb7959fa276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209625231
+        }
+    ],
+    "wof:id":1209625231,
+    "wof:lastmodified":1537683886,
+    "wof:name":"Dorgevici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80528,
+    43.36711,
+    20.80528,
+    43.36711
+],
+  "geometry": {"coordinates":[20.80528,43.36711],"type":"Point"}
+}

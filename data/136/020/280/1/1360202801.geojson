@@ -1,0 +1,73 @@
+{
+  "id": 1360202801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15375,43.61421,20.15375,43.61421",
+    "geom:latitude":43.61421,
+    "geom:longitude":20.15375,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Varjace",
+    "gn:country_code":"RS",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836501,
+    "gn:latitude":43.61421,
+    "gn:longitude":20.15375,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Varja\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Varja\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836501
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c8239c6cdc33c0e880d6c16af2f52f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1360202801,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1360202801,
+    "wof:lastmodified":1537683894,
+    "wof:name":"Varjace",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15375,
+    43.61421,
+    20.15375,
+    43.61421
+],
+  "geometry": {"coordinates":[20.15375,43.61421],"type":"Point"}
+}

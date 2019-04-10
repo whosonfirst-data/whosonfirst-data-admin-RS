@@ -1,0 +1,77 @@
+{
+  "id": 1343468851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91272,43.01895,21.91272,43.01895",
+    "geom:latitude":43.01895,
+    "geom:longitude":21.91272,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Donje Stopanje",
+    "gn:country_code":"RS",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791219,
+    "gn:latitude":43.01895,
+    "gn:longitude":21.91272,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donje Stopanje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donje Stopanje"
+    ],
+    "name:und_x_variant":[
+        "Donja Stopanja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791219,
+        "wk:page":"Donje_Stopanje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b00e61b0c91b6a0898c67f869df906f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1343468851,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1343468851,
+    "wof:lastmodified":1537683810,
+    "wof:name":"Donje Stopanje",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91272,
+    43.01895,
+    21.91272,
+    43.01895
+],
+  "geometry": {"coordinates":[21.91272,43.01895],"type":"Point"}
+}

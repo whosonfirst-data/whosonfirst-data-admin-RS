@@ -1,0 +1,73 @@
+{
+  "id": 1293793879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13222,43.41722,20.13222,43.41722",
+    "geom:latitude":43.41722,
+    "geom:longitude":20.13222,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Gornji Balice",
+    "gn:country_code":"RS",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834464,
+    "gn:latitude":43.41722,
+    "gn:longitude":20.13222,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornji Bali\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornji Bali\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834464
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"acc1a3ae6255bbb1c96ea89dd620a003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1293793879,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1293793879,
+    "wof:lastmodified":1537683852,
+    "wof:name":"Gornji Balice",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13222,
+    43.41722,
+    20.13222,
+    43.41722
+],
+  "geometry": {"coordinates":[20.13222,43.41722],"type":"Point"}
+}

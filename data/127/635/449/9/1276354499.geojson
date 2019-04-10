@@ -1,0 +1,83 @@
+{
+  "id": 1276354499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93631,45.11937,19.93631,45.11937",
+    "geom:latitude":45.11937,
+    "geom:longitude":19.93631,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Prnjavor",
+    "gn:country_code":"RS",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197094,
+    "gn:latitude":45.11937,
+    "gn:longitude":19.93631,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Prnjavor",
+    "gn:population":35,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Prnjavor"
+    ],
+    "name:und_x_variant":[
+        "Kru\u0161edol Prnjavor",
+        "Kru\u0161edolski Prnjavor",
+        "Krushedol",
+        "Krussedol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809903,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197094,
+        "wk:page":"Kru%C5%A1edol_Prnjavor"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f16b1f0c89553e82fc1c79134422b7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809903,
+            "locality_id":1276354499,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1276354499,
+    "wof:lastmodified":1537683936,
+    "wof:name":"Prnjavor",
+    "wof:parent_id":1108809903,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93631,
+    45.11937,
+    19.93631,
+    45.11937
+],
+  "geometry": {"coordinates":[19.93631,45.11937],"type":"Point"}
+}

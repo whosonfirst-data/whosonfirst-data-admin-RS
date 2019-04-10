@@ -1,0 +1,70 @@
+{
+  "id": 1226664285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73881,43.82759,20.73881,43.82759",
+    "geom:latitude":43.82759,
+    "geom:longitude":20.73881,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Vucije Polje",
+    "gn:country_code":"RS",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862789,
+    "gn:latitude":43.82759,
+    "gn:longitude":20.73881,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vu\u010dije Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809917,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862789
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"390e0f4d140445ff7a78fb1c4a1105d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809917,
+            "locality_id":1226664285,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226664285,
+    "wof:lastmodified":1536831784,
+    "wof:name":"Vucije Polje",
+    "wof:parent_id":1108809917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73881,
+    43.82759,
+    20.73881,
+    43.82759
+],
+  "geometry": {"coordinates":[20.73881,43.82759],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293898015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57366,43.42057,20.57366,43.42057",
+    "geom:latitude":43.42057,
+    "geom:longitude":20.57366,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Doljani",
+    "gn:country_code":"RS",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835668,
+    "gn:latitude":43.42057,
+    "gn:longitude":20.57366,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Doljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Doljani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835668
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"37766cfa0876fc6df981477d138d6a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":1293898015,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1293898015,
+    "wof:lastmodified":1537683880,
+    "wof:name":"Doljani",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57366,
+    43.42057,
+    20.57366,
+    43.42057
+],
+  "geometry": {"coordinates":[20.57366,43.42057],"type":"Point"}
+}

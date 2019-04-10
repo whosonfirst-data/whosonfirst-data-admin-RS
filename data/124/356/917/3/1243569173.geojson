@@ -1,0 +1,73 @@
+{
+  "id": 1243569173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50502,43.19888,21.50502,43.19888",
+    "geom:latitude":43.19888,
+    "geom:longitude":21.50502,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Rasevica",
+    "gn:country_code":"RS",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834616,
+    "gn:latitude":43.19888,
+    "gn:longitude":21.50502,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ra\u0161evica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834616
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"77b86751ea46eb9d0d6eb64be993e08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1243569173,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1243569173,
+    "wof:lastmodified":1537683854,
+    "wof:name":"Rasevica",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50502,
+    43.19888,
+    21.50502,
+    43.19888
+],
+  "geometry": {"coordinates":[21.50502,43.19888],"type":"Point"}
+}

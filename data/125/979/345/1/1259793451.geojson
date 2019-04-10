@@ -1,0 +1,77 @@
+{
+  "id": 1259793451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49444,44.03049,22.49444,44.03049",
+    "geom:latitude":44.03049,
+    "geom:longitude":22.49444,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Sipikovo",
+    "gn:country_code":"RS",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785885,
+    "gn:latitude":44.03049,
+    "gn:longitude":22.49444,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160ipikovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160ipikovo"
+    ],
+    "name:und_x_variant":[
+        "\u0160ipikova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810163,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785885,
+        "wk:page":"%C5%A0ipikovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7338a958845d5b4d3f0f85366480b473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810163,
+            "locality_id":1259793451,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1259793451,
+    "wof:lastmodified":1537683717,
+    "wof:name":"Sipikovo",
+    "wof:parent_id":1108810163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49444,
+    44.03049,
+    22.49444,
+    44.03049
+],
+  "geometry": {"coordinates":[22.49444,44.03049],"type":"Point"}
+}

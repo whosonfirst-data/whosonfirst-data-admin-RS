@@ -1,0 +1,95 @@
+{
+  "id": 890476797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23379,43.60424,21.23379,43.60424",
+    "geom:latitude":43.60424,
+    "geom:longitude":21.23379,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":4,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u056c\u056b\u0576"
+    ],
+    "name:dut_x_preferred":[
+        "Kukljin"
+    ],
+    "name:eng_x_preferred":[
+        "Kukljin"
+    ],
+    "name:fre_x_preferred":[
+        "Kukljin"
+    ],
+    "name:may_x_preferred":[
+        "Kukljin"
+    ],
+    "name:por_x_preferred":[
+        "Kukljin"
+    ],
+    "name:slv_x_preferred":[
+        "Kukljin"
+    ],
+    "name:srp_x_preferred":[
+        "Kukljin"
+    ],
+    "qs:name":"Kukljin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788913,
+        "gp:id":535903,
+        "qs:id":553866,
+        "wd:id":"Q2729244",
+        "wk:page":"Kukljin"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054089,
+    "wof:geomhash":"97ca23000f25252186f6a1880ab96529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":890476797,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":890476797,
+    "wof:lastmodified":1527727146,
+    "wof:name":"Kukljin",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23379,
+    43.60424,
+    21.23379,
+    43.60424
+],
+  "geometry": {"coordinates":[21.23379,43.60424],"type":"Point"}
+}

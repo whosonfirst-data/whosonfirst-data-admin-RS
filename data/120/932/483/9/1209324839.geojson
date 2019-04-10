@@ -1,0 +1,68 @@
+{
+  "id": 1209324839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.575,43.2675,20.575,43.2675",
+    "geom:latitude":43.2675,
+    "geom:longitude":20.575,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Pinjaz Do",
+    "gn:country_code":"RS",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":835506,
+    "gn:latitude":43.2675,
+    "gn:longitude":20.575,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pinja\u017e Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pinja\u017e Do"
+    ],
+    "name:und_x_variant":[
+        "Pinjad\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835506
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c48324891fc115367d43d6ab064ed2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209324839
+        }
+    ],
+    "wof:id":1209324839,
+    "wof:lastmodified":1537683878,
+    "wof:name":"Pinjaz Do",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.575,
+    43.2675,
+    20.575,
+    43.2675
+],
+  "geometry": {"coordinates":[20.575,43.2675],"type":"Point"}
+}

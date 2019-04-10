@@ -1,0 +1,67 @@
+{
+  "id": 1209425065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5925,44.39222,19.5925,44.39222",
+    "geom:latitude":44.39222,
+    "geom:longitude":19.5925,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Donja Lukica Mala",
+    "gn:country_code":"RS",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216647,
+    "gn:latitude":44.39222,
+    "gn:longitude":19.5925,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Luki\u0107a Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luki\u0107a Mahala",
+        "Luki\u0107a",
+        "Donja Luki\u0107a Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216647
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2d8b4f63b27ea2c5acde9f5f2a2d456c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209425065
+        }
+    ],
+    "wof:id":1209425065,
+    "wof:lastmodified":1537683960,
+    "wof:name":"Donja Lukica Mala",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5925,
+    44.39222,
+    19.5925,
+    44.39222
+],
+  "geometry": {"coordinates":[19.5925,44.39222],"type":"Point"}
+}

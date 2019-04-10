@@ -1,0 +1,74 @@
+{
+  "id": 1276883329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02687,42.88891,22.02687,42.88891",
+    "geom:latitude":42.88891,
+    "geom:longitude":22.02687,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Velika Kopasnica",
+    "gn:country_code":"RS",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784647,
+    "gn:latitude":42.88891,
+    "gn:longitude":22.02687,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Velika Kopa\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Velika Kopa\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784647,
+        "wk:page":"Velika_Kopa%C5%A1nica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a5dd8813927c21432b563976e8588db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1276883329,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1276883329,
+    "wof:lastmodified":1537683698,
+    "wof:name":"Velika Kopasnica",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02687,
+    42.88891,
+    22.02687,
+    42.88891
+],
+  "geometry": {"coordinates":[22.02687,42.88891],"type":"Point"}
+}

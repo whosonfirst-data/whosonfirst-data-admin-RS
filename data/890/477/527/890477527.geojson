@@ -1,0 +1,113 @@
+{
+  "id": 890477527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47242,45.14964,21.47242,45.14964",
+    "geom:latitude":45.14964,
+    "geom:longitude":21.47242,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":717,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Markovac"
+    ],
+    "name:eng_x_preferred":[
+        "Markovac"
+    ],
+    "name:epo_x_preferred":[
+        "Markovac"
+    ],
+    "name:fre_x_preferred":[
+        "Markovac"
+    ],
+    "name:ger_x_preferred":[
+        "Markovac"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1rktelke"
+    ],
+    "name:may_x_preferred":[
+        "Markovac"
+    ],
+    "name:rum_x_preferred":[
+        "Marcov\u0103\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Markovac"
+    ],
+    "name:srp_x_preferred":[
+        "Markovac"
+    ],
+    "name:unk_x_variant":[
+        "Markovecz"
+    ],
+    "qs:name":"Markovac",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhni Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788139,
+        "gp:id":535322,
+        "qs:id":1011896,
+        "wd:id":"Q681158",
+        "wk:page":"Markovac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054119,
+    "wof:geomhash":"b1df9a0683810d9c8c435939aa7a17e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890477527,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477527,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Markovac",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":717,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47242,
+    45.14964,
+    21.47242,
+    45.14964
+],
+  "geometry": {"coordinates":[21.47242,45.14964],"type":"Point"}
+}

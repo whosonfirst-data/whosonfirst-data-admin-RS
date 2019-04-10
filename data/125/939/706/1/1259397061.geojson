@@ -1,0 +1,74 @@
+{
+  "id": 1259397061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33517,43.59551,20.33517,43.59551",
+    "geom:latitude":43.59551,
+    "geom:longitude":20.33517,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Osonica",
+    "gn:country_code":"RS",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":787344,
+    "gn:latitude":43.59551,
+    "gn:longitude":20.33517,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Osonica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Osonica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787344,
+        "wk:page":"Osonica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9e11010a59acd62e89fc9a9993aec84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1259397061,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1259397061,
+    "wof:lastmodified":1537683745,
+    "wof:name":"Osonica",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33517,
+    43.59551,
+    20.33517,
+    43.59551
+],
+  "geometry": {"coordinates":[20.33517,43.59551],"type":"Point"}
+}

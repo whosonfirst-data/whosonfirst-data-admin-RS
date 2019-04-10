@@ -1,0 +1,70 @@
+{
+  "id": 1226549713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18097,42.70748,22.18097,42.70748",
+    "geom:latitude":42.70748,
+    "geom:longitude":22.18097,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Bogdanovci",
+    "gn:country_code":"RS",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861056,
+    "gn:latitude":42.70748,
+    "gn:longitude":22.18097,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bogdanovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861056
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d595b5b2b5253a3896d9501af6aaf57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1226549713,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1226549713,
+    "wof:lastmodified":1536991430,
+    "wof:name":"Bogdanovci",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18097,
+    42.70748,
+    22.18097,
+    42.70748
+],
+  "geometry": {"coordinates":[22.18097,42.70748],"type":"Point"}
+}

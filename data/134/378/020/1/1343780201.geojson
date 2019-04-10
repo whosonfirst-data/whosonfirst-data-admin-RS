@@ -1,0 +1,77 @@
+{
+  "id": 1343780201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1836,43.7351,21.1836,43.7351",
+    "geom:latitude":43.7351,
+    "geom:longitude":21.1836,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Donji Krcin",
+    "gn:country_code":"RS",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791185,
+    "gn:latitude":43.7351,
+    "gn:longitude":21.1836,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donji Kr\u010din",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Kr\u010din"
+    ],
+    "name:und_x_variant":[
+        "Dolnji Kr\u010din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108810129,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791185,
+        "wk:page":"Donji_Kr%C4%8Din"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3b6f854237ac4149715f46267d2722f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810129,
+            "locality_id":1343780201,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1343780201,
+    "wof:lastmodified":1537683809,
+    "wof:name":"Donji Krcin",
+    "wof:parent_id":1108810129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1836,
+    43.7351,
+    21.1836,
+    43.7351
+],
+  "geometry": {"coordinates":[21.1836,43.7351],"type":"Point"}
+}

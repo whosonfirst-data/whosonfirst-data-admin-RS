@@ -1,0 +1,71 @@
+{
+  "id": 1209124439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95438,43.24343,20.95438,43.24343",
+    "geom:latitude":43.24343,
+    "geom:longitude":20.95438,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Sudimlja",
+    "gn:country_code":"RS",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":785326,
+    "gn:latitude":43.24343,
+    "gn:longitude":20.95438,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sudimlja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sudimlja"
+    ],
+    "name:und_x_variant":[
+        "Sudimlje",
+        "Sudmnja",
+        "Sudimnja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785326,
+        "wk:page":"Sudimlja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"141e993e053f2f30a723e8461d9bbbbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209124439
+        }
+    ],
+    "wof:id":1209124439,
+    "wof:lastmodified":1537683708,
+    "wof:name":"Sudimlja",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95438,
+    43.24343,
+    20.95438,
+    43.24343
+],
+  "geometry": {"coordinates":[20.95438,43.24343],"type":"Point"}
+}

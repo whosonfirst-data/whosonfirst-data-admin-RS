@@ -1,0 +1,73 @@
+{
+  "id": 1260303923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88849,45.03059,20.88849,45.03059",
+    "geom:latitude":45.03059,
+    "geom:longitude":20.88849,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Novi Vladimirovac",
+    "gn:country_code":"RS",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787591,
+    "gn:latitude":45.03059,
+    "gn:longitude":20.88849,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Novi Vladimirovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Novi Vladimirovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809813,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787591
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b7f6daafbf6dd826b773e5d79d3334ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809813,
+            "locality_id":1260303923,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1260303923,
+    "wof:lastmodified":1537683748,
+    "wof:name":"Novi Vladimirovac",
+    "wof:parent_id":1108809813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88849,
+    45.03059,
+    20.88849,
+    45.03059
+],
+  "geometry": {"coordinates":[20.88849,45.03059],"type":"Point"}
+}

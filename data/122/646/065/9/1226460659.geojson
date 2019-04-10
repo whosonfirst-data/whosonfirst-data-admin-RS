@@ -1,0 +1,72 @@
+{
+  "id": 1226460659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64389,43.14944,20.64389,43.14944",
+    "geom:latitude":43.14944,
+    "geom:longitude":20.64389,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ackovici",
+    "gn:country_code":"RS",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835453,
+    "gn:latitude":43.14944,
+    "gn:longitude":20.64389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ackovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ackovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835453
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7ba682f34a589e1e2a093f1c32b9a311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1226460659,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1226460659,
+    "wof:lastmodified":1537683877,
+    "wof:name":"Ackovici",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64389,
+    43.14944000000001,
+    20.64389,
+    43.14944000000001
+],
+  "geometry": {"coordinates":[20.64389,43.14944000000001],"type":"Point"}
+}

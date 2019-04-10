@@ -1,0 +1,74 @@
+{
+  "id": 1326540227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35337,44.24899,22.35337,44.24899",
+    "geom:latitude":44.24899,
+    "geom:longitude":22.35337,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Sarkamen",
+    "gn:country_code":"RS",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786074,
+    "gn:latitude":44.24899,
+    "gn:longitude":22.35337,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160arkamen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160arkamen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809987,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786074,
+        "wk:page":"%C5%A0arkamen"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c7595083f8243efa120fdf8a180a7030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809987,
+            "locality_id":1326540227,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1326540227,
+    "wof:lastmodified":1537683720,
+    "wof:name":"Sarkamen",
+    "wof:parent_id":1108809987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35337,
+    44.24899,
+    22.35337,
+    44.24899
+],
+  "geometry": {"coordinates":[22.35337,44.24899],"type":"Point"}
+}

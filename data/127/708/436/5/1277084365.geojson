@@ -1,0 +1,73 @@
+{
+  "id": 1277084365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13716,43.9593,21.13716,43.9593",
+    "geom:latitude":43.9593,
+    "geom:longitude":21.13716,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Lozovik",
+    "gn:country_code":"RS",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788460,
+    "gn:latitude":43.9593,
+    "gn:longitude":21.13716,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lozovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lozovik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809907,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788460
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5c72039bc5278916d4345dde95a42d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809907,
+            "locality_id":1277084365,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1277084365,
+    "wof:lastmodified":1537683765,
+    "wof:name":"Lozovik",
+    "wof:parent_id":1108809907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13716,
+    43.9593,
+    21.13716,
+    43.9593
+],
+  "geometry": {"coordinates":[21.13716,43.9593],"type":"Point"}
+}

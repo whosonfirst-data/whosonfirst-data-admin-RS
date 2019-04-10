@@ -1,0 +1,73 @@
+{
+  "id": 1276778411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10036,43.55337,20.10036,43.55337",
+    "geom:latitude":43.55337,
+    "geom:longitude":20.10036,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Baulovici",
+    "gn:country_code":"RS",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836663,
+    "gn:latitude":43.55337,
+    "gn:longitude":20.10036,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Baulovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Baulovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836663
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bd816a880b1224148884b385e0370758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1276778411,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1276778411,
+    "wof:lastmodified":1537683895,
+    "wof:name":"Baulovici",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10036,
+    43.55337,
+    20.10036,
+    43.55337
+],
+  "geometry": {"coordinates":[20.10036,43.55337],"type":"Point"}
+}

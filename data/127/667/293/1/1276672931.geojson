@@ -1,0 +1,71 @@
+{
+  "id": 1276672931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79194,43.86956,20.79194,43.86956",
+    "geom:latitude":43.86956,
+    "geom:longitude":20.79194,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Balosave",
+    "gn:country_code":"RS",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":862806,
+    "gn:latitude":43.86956,
+    "gn:longitude":20.79194,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Balosave",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809917,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862806,
+        "wk:page":"Balosave"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8ba6b10a7dcf345f9541fb982c79271f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809917,
+            "locality_id":1276672931,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1276672931,
+    "wof:lastmodified":1537572094,
+    "wof:name":"Balosave",
+    "wof:parent_id":1108809917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79194,
+    43.86956,
+    20.79194,
+    43.86956
+],
+  "geometry": {"coordinates":[20.79194,43.86956],"type":"Point"}
+}

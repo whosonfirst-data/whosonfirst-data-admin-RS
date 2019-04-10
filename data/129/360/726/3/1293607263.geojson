@@ -1,0 +1,74 @@
+{
+  "id": 1293607263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22557,43.77895,20.22557,43.77895",
+    "geom:latitude":43.77895,
+    "geom:longitude":20.22557,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Guca",
+    "gn:country_code":"RS",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790106,
+    "gn:latitude":43.77895,
+    "gn:longitude":20.22557,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gu\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gu\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790106,
+        "wk:page":"Gu%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e147fcd43bf24810e25d1851591e7223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":1293607263,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1293607263,
+    "wof:lastmodified":1537683790,
+    "wof:name":"Guca",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22557,
+    43.77895,
+    20.22557,
+    43.77895
+],
+  "geometry": {"coordinates":[20.22557,43.77895],"type":"Point"}
+}

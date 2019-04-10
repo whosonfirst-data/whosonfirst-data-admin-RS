@@ -1,0 +1,75 @@
+{
+  "id": 1092054895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001634,
+    "geom:area_square_m":14340921.163927,
+    "geom:bbox":"20.424816,44.7548765,20.473829,44.815314",
+    "geom:latitude":44.784871,
+    "geom:longitude":20.451985,
+    "iso:country":"RS",
+    "lbl:latitude":44.784275,
+    "lbl:longitude":20.451613,
+    "meso:adm1_alt":"Grad Beograd",
+    "meso:adm1_alt2":"Belgrade",
+    "meso:adm1_loc":"\u0411\u0435\u043e\u0433\u0440\u0430\u0434",
+    "meso:gadm_adm2":"Savski Venac",
+    "meso:hasc_1":"RS.BG",
+    "meso:iscgm_adm2":"Savski Venac",
+    "meso:mps_x":20.451613,
+    "meso:mps_y":44.784275,
+    "meso:name_en":"Savski Venac",
+    "meso:name_loc":"Savski Venac",
+    "meso:source":"EGM",
+    "mps:latitude":44.784275,
+    "mps:longitude":20.451613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Savski Venac"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633755,
+        85688279,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"RS",
+    "wof:created":1473898695,
+    "wof:geomhash":"a9b5fee53bcdb7fc7d60eebf7431dc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "county_id":1092054895,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1092054895,
+    "wof:lastmodified":1507676553,
+    "wof:name":"Savski Venac",
+    "wof:parent_id":85688279,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[
+        1108810063
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42481599999977,
+    44.75487649999985,
+    20.47382899999977,
+    44.81531399999986
+],
+  "geometry": {"coordinates":[[[20.42879649999978,44.79675999999984],[20.44360849999978,44.80495549999983],[20.44808199999977,44.81531399999986],[20.45791499999979,44.81392549999984],[20.46276349999977,44.80755799999986],[20.46622799999977,44.80304899999985],[20.46626999999978,44.79228499999985],[20.46807649999977,44.77754799999985],[20.46606299999979,44.76983649999985],[20.47382899999977,44.76148249999986],[20.47093049999978,44.75487649999985],[20.46249699999979,44.75664749999984],[20.44886249999979,44.75858099999985],[20.44005699999977,44.77377899999985],[20.43735849999979,44.77149899999984],[20.43656299999978,44.77989349999984],[20.42481599999977,44.79277949999985],[20.42879649999978,44.79675999999984]]],"type":"Polygon"}
+}

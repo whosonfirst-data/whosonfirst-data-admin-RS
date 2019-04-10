@@ -1,0 +1,124 @@
+{
+  "id": 890477641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09719,45.59427,19.09719,45.59427",
+    "geom:latitude":45.59427,
+    "geom:longitude":19.09719,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5991,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sonta"
+    ],
+    "name:eng_x_preferred":[
+        "Sonta"
+    ],
+    "name:epo_x_preferred":[
+        "Sonta"
+    ],
+    "name:fre_x_preferred":[
+        "Sonta"
+    ],
+    "name:ger_x_preferred":[
+        "Sonta"
+    ],
+    "name:hrv_x_preferred":[
+        "Sonta"
+    ],
+    "name:hun_x_preferred":[
+        "Szond"
+    ],
+    "name:ita_x_preferred":[
+        "Sonta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30bf"
+    ],
+    "name:may_x_preferred":[
+        "Sonta"
+    ],
+    "name:slv_x_preferred":[
+        "Sonta"
+    ],
+    "name:spa_x_preferred":[
+        "sonta"
+    ],
+    "name:srp_x_preferred":[
+        "Sonta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043d\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Waldau an der Donau"
+    ],
+    "qs:name":"Sonta",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Zapadna Bachka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"45.593888888",
+    "wd:longitude":"19.095555555",
+    "wd:wordcount":317,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108809815,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190335,
+        "gp:id":536783,
+        "qs:id":1043919,
+        "wd:id":"Q784960",
+        "wk:page":"Sonta"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054125,
+    "wof:geomhash":"222c9ce454c57c2b66904fdec5e3445e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809815,
+            "locality_id":890477641,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477641,
+    "wof:lastmodified":1527727185,
+    "wof:name":"Sonta",
+    "wof:parent_id":1108809815,
+    "wof:placetype":"locality",
+    "wof:population":5991,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09719,
+    45.59427,
+    19.09719,
+    45.59427
+],
+  "geometry": {"coordinates":[19.09719,45.59427],"type":"Point"}
+}

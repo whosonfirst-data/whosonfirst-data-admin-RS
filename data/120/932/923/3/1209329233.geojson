@@ -1,0 +1,65 @@
+{
+  "id": 1209329233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19074,43.1799,20.19074,43.1799",
+    "geom:latitude":43.1799,
+    "geom:longitude":20.19074,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Megugora",
+    "gn:country_code":"RS",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793732,
+    "gn:latitude":43.1799,
+    "gn:longitude":20.19074,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Me\u0111ugora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Me\u0111ugora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793732
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1342a0b84ba0ff29c35244863dfc11fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209329233
+        }
+    ],
+    "wof:id":1209329233,
+    "wof:lastmodified":1537683844,
+    "wof:name":"Megugora",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19074,
+    43.1799,
+    20.19074,
+    43.1799
+],
+  "geometry": {"coordinates":[20.19074,43.1799],"type":"Point"}
+}

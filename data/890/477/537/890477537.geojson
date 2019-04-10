@@ -1,0 +1,97 @@
+{
+  "id": 890477537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30472,44.67806,20.30472,44.67806",
+    "geom:latitude":44.67806,
+    "geom:longitude":20.30472,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5618,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0423\u043c\u043a\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u59c6\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Umka"
+    ],
+    "name:fre_x_preferred":[
+        "Umka"
+    ],
+    "name:por_x_preferred":[
+        "Umka"
+    ],
+    "name:srp_x_preferred":[
+        "Umka"
+    ],
+    "qs:name":"Umka",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Beograd",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"44.6781",
+    "wd:longitude":"20.3047",
+    "wd:wordcount":415,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784764,
+        "gp:id":537273,
+        "qs:id":1028952,
+        "wd:id":"Q3050835",
+        "wk:page":"Umka"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054120,
+    "wof:geomhash":"b30bf0cb9a2e17e4d57737ccd31c1cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":890477537,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890477537,
+    "wof:lastmodified":1527727182,
+    "wof:name":"Umka",
+    "wof:parent_id":1108809881,
+    "wof:placetype":"locality",
+    "wof:population":5618,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30472,
+    44.67806,
+    20.30472,
+    44.67806
+],
+  "geometry": {"coordinates":[20.30472,44.67806],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209224735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43866,43.91058,20.43866,43.91058",
+    "geom:latitude":43.91058,
+    "geom:longitude":20.43866,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Sevarlici",
+    "gn:country_code":"RS",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862710,
+    "gn:latitude":43.91058,
+    "gn:longitude":20.43866,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160evarli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862710
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"723e92aee35b6483c1c1be723229102f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209224735
+        }
+    ],
+    "wof:id":1209224735,
+    "wof:lastmodified":1536293837,
+    "wof:name":"Sevarlici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43866,
+    43.91058,
+    20.43866,
+    43.91058
+],
+  "geometry": {"coordinates":[20.43866,43.91058],"type":"Point"}
+}

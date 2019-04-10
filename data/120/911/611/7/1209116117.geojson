@@ -1,0 +1,65 @@
+{
+  "id": 1209116117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66004,43.99363,19.66004,43.99363",
+    "geom:latitude":43.99363,
+    "geom:longitude":19.66004,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Dobrotin",
+    "gn:country_code":"RS",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201902,
+    "gn:latitude":43.99363,
+    "gn:longitude":19.66004,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobrotin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobrotin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201902
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a435e8c0dee4ccd940f33adadfb950f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209116117
+        }
+    ],
+    "wof:id":1209116117,
+    "wof:lastmodified":1537683945,
+    "wof:name":"Dobrotin",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66004,
+    43.99363,
+    19.66004,
+    43.99363
+],
+  "geometry": {"coordinates":[19.66004,43.99363],"type":"Point"}
+}

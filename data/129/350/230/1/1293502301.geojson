@@ -1,0 +1,70 @@
+{
+  "id": 1293502301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75955,42.32662,21.75955,42.32662",
+    "geom:latitude":42.32662,
+    "geom:longitude":21.75955,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Mahadzirska Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859441,
+    "gn:latitude":42.32662,
+    "gn:longitude":21.75955,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mahad\u017eirska Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810039,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859441
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0b0ed0cc08fa3adec1e26cb465228d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810039,
+            "locality_id":1293502301,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1293502301,
+    "wof:lastmodified":1536765994,
+    "wof:name":"Mahadzirska Mahala",
+    "wof:parent_id":1108810039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75955,
+    42.32662,
+    21.75955,
+    42.32662
+],
+  "geometry": {"coordinates":[21.75955,42.32662],"type":"Point"}
+}

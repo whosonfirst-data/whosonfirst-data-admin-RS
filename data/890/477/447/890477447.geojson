@@ -1,0 +1,78 @@
+{
+  "id": 890477447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17472,42.42556,22.17472,42.42556",
+    "geom:latitude":42.42556,
+    "geom:longitude":22.17472,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424890,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Miladinovci",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Ilinden",
+    "qs:photos":96,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":96,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861147,
+        "gp:id":482525,
+        "qs:id":475586,
+        "wd:id":"Q3133887",
+        "wk:page":"Miladinovci"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054116,
+    "wof:geomhash":"2e9a95f47d84d4dce410ca1fb2678633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":890477447,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":890477447,
+    "wof:lastmodified":1527727178,
+    "wof:name":"Miladinovci",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17472,
+    42.42556,
+    22.17472,
+    42.42556
+],
+  "geometry": {"coordinates":[22.17472,42.42556],"type":"Point"}
+}

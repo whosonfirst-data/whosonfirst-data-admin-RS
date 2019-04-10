@@ -1,0 +1,70 @@
+{
+  "id": 1292921833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44587,44.43425,21.44587,44.43425",
+    "geom:latitude":44.43425,
+    "geom:longitude":21.44587,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Trajonji",
+    "gn:country_code":"RS",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837082,
+    "gn:latitude":44.43425,
+    "gn:longitude":21.44587,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trajonji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810027,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837082
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8aceba45b8dabce97a1fec65641b975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810027,
+            "locality_id":1292921833,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1292921833,
+    "wof:lastmodified":1536605416,
+    "wof:name":"Trajonji",
+    "wof:parent_id":1108810027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44587000000001,
+    44.43425,
+    21.44587000000001,
+    44.43425
+],
+  "geometry": {"coordinates":[21.44587000000001,44.43425],"type":"Point"}
+}

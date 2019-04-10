@@ -1,0 +1,77 @@
+{
+  "id": 1226052529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23011,43.43845,20.23011,43.43845",
+    "geom:latitude":43.43845,
+    "geom:longitude":20.23011,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Glegica",
+    "gn:country_code":"RS",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790718,
+    "gn:latitude":43.43845,
+    "gn:longitude":20.23011,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gle\u0111ica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gle\u0111ica"
+    ],
+    "name:und_x_variant":[
+        "Gledjica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790718,
+        "wk:page":"Gle%C4%91ica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1c0914d6106c2ee019620e62fc5a98c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1226052529,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1226052529,
+    "wof:lastmodified":1537683801,
+    "wof:name":"Glegica",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23011,
+    43.43845,
+    20.23011,
+    43.43845
+],
+  "geometry": {"coordinates":[20.23011,43.43845],"type":"Point"}
+}

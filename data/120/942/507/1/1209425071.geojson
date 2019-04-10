@@ -1,0 +1,66 @@
+{
+  "id": 1209425071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44879,42.99754,20.44879,42.99754",
+    "geom:latitude":42.99754,
+    "geom:longitude":20.44879,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Cmanjke",
+    "gn:country_code":"RS",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832356,
+    "gn:latitude":42.99754,
+    "gn:longitude":20.44879,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u010cmanjke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010cmanjke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832356,
+        "wk:page":"%C4%8Cmanjke"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"12ad8a36f40dbe34990eab369386efe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209425071
+        }
+    ],
+    "wof:id":1209425071,
+    "wof:lastmodified":1537683849,
+    "wof:name":"Cmanjke",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44879,
+    42.99754,
+    20.44879,
+    42.99754
+],
+  "geometry": {"coordinates":[20.44879,42.99754],"type":"Point"}
+}

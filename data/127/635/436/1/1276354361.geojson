@@ -1,0 +1,74 @@
+{
+  "id": 1276354361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48401,42.98331,21.48401,42.98331",
+    "geom:latitude":42.98331,
+    "geom:longitude":21.48401,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Gornji Gajtan",
+    "gn:country_code":"RS",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790385,
+    "gn:latitude":42.98331,
+    "gn:longitude":21.48401,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornji Gajtan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornji Gajtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809977,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790385,
+        "wk:page":"Gornji_Gajtan"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6fb37bf66cabe46d8992a0db967e1171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809977,
+            "locality_id":1276354361,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1276354361,
+    "wof:lastmodified":1537683795,
+    "wof:name":"Gornji Gajtan",
+    "wof:parent_id":1108809977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48401,
+    42.98331,
+    21.48401,
+    42.98331
+],
+  "geometry": {"coordinates":[21.48401,42.98331],"type":"Point"}
+}

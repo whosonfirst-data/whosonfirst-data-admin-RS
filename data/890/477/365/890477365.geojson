@@ -1,0 +1,92 @@
+{
+  "id": 890477365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70943,44.86649,19.70943,44.86649",
+    "geom:latitude":44.86649,
+    "geom:longitude":19.70943,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2629,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Drenovac"
+    ],
+    "name:eng_x_preferred":[
+        "Drenovac"
+    ],
+    "name:fre_x_preferred":[
+        "Drenovac"
+    ],
+    "name:may_x_preferred":[
+        "Drenovac"
+    ],
+    "name:por_x_preferred":[
+        "Drenovac"
+    ],
+    "name:slv_x_preferred":[
+        "Drenovac"
+    ],
+    "name:srp_x_preferred":[
+        "Drenovac"
+    ],
+    "qs:name":"Drenovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201216,
+        "gp:id":534279,
+        "qs:id":1044053,
+        "wd:id":"Q2736279",
+        "wk:page":"Drenovac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"2e5ad6a55d5e7e098bf41c0570d4eb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890477365,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477365,
+    "wof:lastmodified":1527727177,
+    "wof:name":"Drenovac",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":2629,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70943,
+    44.86649,
+    19.70943,
+    44.86649
+],
+  "geometry": {"coordinates":[19.70943,44.86649],"type":"Point"}
+}

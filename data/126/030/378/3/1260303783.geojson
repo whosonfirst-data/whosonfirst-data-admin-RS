@@ -1,0 +1,70 @@
+{
+  "id": 1260303783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70139,43.74806,19.70139,43.74806",
+    "geom:latitude":43.74806,
+    "geom:longitude":19.70139,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Ocka Gora",
+    "gn:country_code":"RS",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319246,
+    "gn:latitude":43.74806,
+    "gn:longitude":19.70139,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ocka Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809869,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319246
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a49b9b622d5fd39582b97c1198690e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809869,
+            "locality_id":1260303783,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1260303783,
+    "wof:lastmodified":1536684636,
+    "wof:name":"Ocka Gora",
+    "wof:parent_id":1108809869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70139,
+    43.74806,
+    19.70139,
+    43.74806
+],
+  "geometry": {"coordinates":[19.70139,43.74806],"type":"Point"}
+}

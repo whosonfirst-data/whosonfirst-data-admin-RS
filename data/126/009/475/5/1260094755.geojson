@@ -1,0 +1,73 @@
+{
+  "id": 1260094755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35944,45.28944,19.35944,45.28944",
+    "geom:latitude":45.28944,
+    "geom:longitude":19.35944,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Novi Majur",
+    "gn:country_code":"RS",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215040,
+    "gn:latitude":45.28944,
+    "gn:longitude":19.35944,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Novi Majur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Novi Majur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809827,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215040
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1c43a009d803e4cd3724f592534257eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809827,
+            "locality_id":1260094755,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1260094755,
+    "wof:lastmodified":1537683953,
+    "wof:name":"Novi Majur",
+    "wof:parent_id":1108809827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35944,
+    45.28944,
+    19.35944,
+    45.28944
+],
+  "geometry": {"coordinates":[19.35944,45.28944],"type":"Point"}
+}

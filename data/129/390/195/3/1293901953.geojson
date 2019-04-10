@@ -1,0 +1,77 @@
+{
+  "id": 1293901953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60478,43.10018,22.60478,43.10018",
+    "geom:latitude":43.10018,
+    "geom:longitude":22.60478,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Drzina",
+    "gn:country_code":"RS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790997,
+    "gn:latitude":43.10018,
+    "gn:longitude":22.60478,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dr\u017eina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dr\u017eina"
+    ],
+    "name:und_x_variant":[
+        "Gornja Dr\u017eina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108810029,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790997,
+        "wk:page":"Dr%C5%BEina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5cd857342c7ec6c34e4b720f231cdc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810029,
+            "locality_id":1293901953,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1293901953,
+    "wof:lastmodified":1537683805,
+    "wof:name":"Drzina",
+    "wof:parent_id":1108810029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60478,
+    43.10018,
+    22.60478,
+    43.10018
+],
+  "geometry": {"coordinates":[22.60478,43.10018],"type":"Point"}
+}

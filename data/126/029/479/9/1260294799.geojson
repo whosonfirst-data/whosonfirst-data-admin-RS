@@ -1,0 +1,70 @@
+{
+  "id": 1260294799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04046,44.60829,20.04046,44.60829",
+    "geom:latitude":44.60829,
+    "geom:longitude":20.04046,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Pljostara",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":846905,
+    "gn:latitude":44.60829,
+    "gn:longitude":20.04046,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pljo\u0161tara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810007,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":846905
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d3c89cd6bab2526549dd1217a6ac3acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810007,
+            "locality_id":1260294799,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1260294799,
+    "wof:lastmodified":1536696872,
+    "wof:name":"Pljostara",
+    "wof:parent_id":1108810007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04046,
+    44.60829,
+    20.04046,
+    44.60829
+],
+  "geometry": {"coordinates":[20.04046,44.60829],"type":"Point"}
+}

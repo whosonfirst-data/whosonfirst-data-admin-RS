@@ -1,0 +1,77 @@
+{
+  "id": 1326748809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9128,42.67091,21.9128,42.67091",
+    "geom:latitude":42.67091,
+    "geom:longitude":21.9128,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Urmanica",
+    "gn:country_code":"RS",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":829622,
+    "gn:latitude":42.67091,
+    "gn:longitude":21.9128,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Urmanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Urmanica"
+    ],
+    "name:und_x_variant":[
+        "Urmanice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829622,
+        "wk:page":"Urmanica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"584e2c86ca52ee846b884fb6ac996a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1326748809,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1326748809,
+    "wof:lastmodified":1537683846,
+    "wof:name":"Urmanica",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9128,
+    42.67091,
+    21.9128,
+    42.67091
+],
+  "geometry": {"coordinates":[21.9128,42.67091],"type":"Point"}
+}

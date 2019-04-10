@@ -1,0 +1,74 @@
+{
+  "id": 1293607421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67416,43.09015,21.67416,43.09015",
+    "geom:latitude":43.09015,
+    "geom:longitude":21.67416,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Novo Momcilovo",
+    "gn:country_code":"RS",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787583,
+    "gn:latitude":43.09015,
+    "gn:longitude":21.67416,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Novo Mom\u010dilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Novo Mom\u010dilovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810169,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787583,
+        "wk:page":"Novo_Mom%C4%8Dilovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c7582f0bb17a2f67438e8ae159fbc7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810169,
+            "locality_id":1293607421,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1293607421,
+    "wof:lastmodified":1537683748,
+    "wof:name":"Novo Momcilovo",
+    "wof:parent_id":1108810169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67416,
+    43.09015,
+    21.67416,
+    43.09015
+],
+  "geometry": {"coordinates":[21.67416,43.09015],"type":"Point"}
+}

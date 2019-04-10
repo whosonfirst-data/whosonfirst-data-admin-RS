@@ -1,0 +1,98 @@
+{
+  "id": 890477135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59528,44.79415,19.59528,44.79415",
+    "geom:latitude":44.79415,
+    "geom:longitude":19.59528,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2183,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:may_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:por_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:unk_x_variant":[
+        "Stitor"
+    ],
+    "qs:name":"\u0160titar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189859,
+        "gp:id":532687,
+        "qs:id":1043907,
+        "wd:id":"Q2567732",
+        "wk:page":"\u0160titar"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054103,
+    "wof:geomhash":"e87b34cb80129824916dfd5bebc74b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890477135,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477135,
+    "wof:lastmodified":1527727176,
+    "wof:name":"\u0160titar",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":2183,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59528,
+    44.79415,
+    19.59528,
+    44.79415
+],
+  "geometry": {"coordinates":[19.59528,44.79415],"type":"Point"}
+}

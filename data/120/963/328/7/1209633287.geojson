@@ -1,0 +1,65 @@
+{
+  "id": 1209633287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3125,43.67528,22.3125,43.67528",
+    "geom:latitude":43.67528,
+    "geom:longitude":22.3125,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Vitkovac",
+    "gn:country_code":"RS",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784369,
+    "gn:latitude":43.67528,
+    "gn:longitude":22.3125,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vitkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vitkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784369
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8d7249aa48858e70da6605a3e3c457b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209633287
+        }
+    ],
+    "wof:id":1209633287,
+    "wof:lastmodified":1537683693,
+    "wof:name":"Vitkovac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3125,
+    43.67528,
+    22.3125,
+    43.67528
+],
+  "geometry": {"coordinates":[22.3125,43.67528],"type":"Point"}
+}

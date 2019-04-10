@@ -1,0 +1,75 @@
+{
+  "id": 1225962417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88944,43.52056,21.88944,43.52056",
+    "geom:latitude":43.52056,
+    "geom:longitude":21.88944,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Rsovac",
+    "gn:country_code":"RS",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786223,
+    "gn:latitude":43.52056,
+    "gn:longitude":21.88944,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rsovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rsovci",
+        "Rsovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809811,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786223,
+        "wk:page":"Rsovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"98ce0bb07652d9c229cc562932983621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809811,
+            "locality_id":1225962417,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1225962417,
+    "wof:lastmodified":1537683723,
+    "wof:name":"Rsovac",
+    "wof:parent_id":1108809811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88944,
+    43.52056,
+    21.88944,
+    43.52056
+],
+  "geometry": {"coordinates":[21.88944,43.52056],"type":"Point"}
+}

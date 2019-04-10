@@ -1,0 +1,74 @@
+{
+  "id": 1242595627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74997,43.37367,21.74997,43.37367",
+    "geom:latitude":43.37367,
+    "geom:longitude":21.74997,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Secanica",
+    "gn:country_code":"RS",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786036,
+    "gn:latitude":43.37367,
+    "gn:longitude":21.74997,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Se\u010danica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Se\u010danica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809879,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786036,
+        "wk:page":"Se%C4%8Danica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c3836e5aac56fc24b45fe5bd4bb66a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809879,
+            "locality_id":1242595627,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1242595627,
+    "wof:lastmodified":1537683719,
+    "wof:name":"Secanica",
+    "wof:parent_id":1108809879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74997,
+    43.37367,
+    21.74997,
+    43.37367
+],
+  "geometry": {"coordinates":[21.74997,43.37367],"type":"Point"}
+}

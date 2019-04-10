@@ -1,0 +1,73 @@
+{
+  "id": 1209924131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62227,43.1408,21.62227,43.1408",
+    "geom:latitude":43.1408,
+    "geom:longitude":21.62227,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Pasjaca",
+    "gn:country_code":"RS",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787186,
+    "gn:latitude":43.1408,
+    "gn:longitude":21.62227,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pasja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pasja\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787186
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0206564e3547f378a7a2e2b915e178c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1209924131,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1209924131,
+    "wof:lastmodified":1537683742,
+    "wof:name":"Pasjaca",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62227,
+    43.1408,
+    21.62227,
+    43.1408
+],
+  "geometry": {"coordinates":[21.62227,43.1408],"type":"Point"}
+}

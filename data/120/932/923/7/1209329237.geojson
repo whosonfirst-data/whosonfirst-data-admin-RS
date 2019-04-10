@@ -1,0 +1,66 @@
+{
+  "id": 1209329237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79069,43.54177,19.79069,43.54177",
+    "geom:latitude":43.54177,
+    "geom:longitude":19.79069,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Negbina",
+    "gn:country_code":"RS",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194554,
+    "gn:latitude":43.54177,
+    "gn:longitude":19.79069,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Negbina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Negbina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194554,
+        "wk:page":"Negbina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0f0d17eb3d66b792d4b504da62191b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209329237
+        }
+    ],
+    "wof:id":1209329237,
+    "wof:lastmodified":1537683931,
+    "wof:name":"Negbina",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79069,
+    43.54177,
+    19.79069,
+    43.54177
+],
+  "geometry": {"coordinates":[19.79069,43.54177],"type":"Point"}
+}

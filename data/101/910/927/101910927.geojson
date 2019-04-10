@@ -1,0 +1,188 @@
+{
+  "id": 101910927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000412,
+    "geom:area_square_m":3592072.416363,
+    "geom:bbox":"19.9193153332,45.1887389259,19.9555661702,45.2117615989",
+    "geom:latitude":45.201014,
+    "geom:longitude":19.938536,
+    "gn:population":8839,
+    "iso:country":"RS",
+    "lbl:latitude":45.201476,
+    "lbl:longitude":19.93881,
+    "mps:latitude":45.201476,
+    "mps:longitude":19.93881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0440\u044d\u043c\u0441\u043a\u0456-\u041a\u0430\u0440\u043b\u0430\u045e\u0446\u044b"
+    ],
+    "name:bos_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ces_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:dan_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:deu_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c1\u03ad\u03bc\u03c3\u03ba\u03b9 \u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03c4\u03c3\u03b9"
+    ],
+    "name:epo_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:fin_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:fra_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:hbs_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:hbs_x_variant":[
+        "Op\u0161tina Sremski Karlovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Srijemski Karlovci"
+    ],
+    "name:hun_x_preferred":[
+        "Karl\u00f3ca"
+    ],
+    "name:ita_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ec\u30e0\u30b9\u30ad\u30fb\u30ab\u30eb\u30ed\u30f4\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ub818\uc2a4\ud0a4\uce74\ub97c\ub85c\ube0c\uce58"
+    ],
+    "name:lat_x_preferred":[
+        "Carolovicia"
+    ],
+    "name:msa_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:nld_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u06cc\u0645\u0633\u06a9\u06cc \u06a9\u0627\u0631\u0644\u0648\u0648\u0686\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ron_x_preferred":[
+        "Carlovi\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:spa_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:srp_x_variant":[
+        "Sremski Karlovci"
+    ],
+    "name:swe_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:tur_x_preferred":[
+        "Karlof\u00e7a"
+    ],
+    "name:unk_x_variant":[
+        "Karom"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u96f7\u59c6\u65af\u57fa\u5361\u5c14\u6d1b\u592b\u5947"
+    ],
+    "qs:a0":"Republika Srbija",
+    "qs:a1":"*Ju\u017enobacki upravni okrug",
+    "qs:a1r":"2Autonomna pokrajina Vojvodina",
+    "qs:a2":"Sremski Karlovci",
+    "qs:adm0":"Republika Srbija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sremski Karlovci",
+    "qs:pop":0,
+    "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1424,
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810091,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190101,
+        "gp:id":536822,
+        "qs:id":94993,
+        "qs_pg:id":94993,
+        "wd:id":"Q271922",
+        "wk:page":"Sremski Karlovci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"150a99d99ee6df92de5b764b310c91c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810091,
+            "locality_id":101910927,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":101910927,
+    "wof:lastmodified":1527715935,
+    "wof:name":"Sremski Karlovci",
+    "wof:parent_id":1108810091,
+    "wof:placetype":"locality",
+    "wof:population":8839,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91931533316813,
+    45.18873892592063,
+    19.95556617024516,
+    45.21176159885829
+],
+  "geometry": {"coordinates":[[[19.94614370965814,45.20877908401894],[19.94582118451143,45.20699480631947],[19.94708331399005,45.20687490801788],[19.94692204176783,45.20598277004387],[19.94818414650871,45.20586285885804],[19.94802286124462,45.20497072221326],[19.94928494124906,45.2048507981437],[19.94912364294476,45.20395866282803],[19.95038569821355,45.20383872587519],[19.95006308231763,45.20205445699537],[19.95132509302459,45.20193450939593],[19.95116377543451,45.20104237583161],[19.95242576140873,45.20092241535059],[19.95210310694881,45.19913814997301],[19.95336504836683,45.19901817884664],[19.9532037114987,45.19812604703321],[19.95446562818626,45.19800606302596],[19.9543042782866,45.19711393254181],[19.95556617024516,45.19699393565452],[19.95475942350129,45.19253328080373],[19.95349763063962,45.19265326650918],[19.95365894658971,45.19354540153068],[19.94734980961778,45.1941451145056],[19.94686617940187,45.19146867318938],[19.94560439675337,45.19158856373343],[19.94576558022283,45.19248071398044],[19.94450377285455,45.19260059164344],[19.94466494328816,45.19349274321758],[19.94340311119902,45.19361260799877],[19.94356426859542,45.19450476090003],[19.9372549355428,45.19510386923133],[19.93677178100722,45.19242737431091],[19.93803359795345,45.19230758957531],[19.93738940751609,45.18873892592063],[19.93612766984353,45.18885870172733],[19.93661074305089,45.19153520752474],[19.93282532229182,45.19189446434018],[19.93250338562393,45.1901101146583],[19.93124160855194,45.19022983223618],[19.93108067019739,45.18933765380496],[19.92981890804964,45.18945735403656],[19.92997982658574,45.1903495346985],[19.92871803972605,45.19046922204546],[19.92920077650763,45.19314576528728],[19.93046262282871,45.1930260712486],[19.93094548003324,45.19570259964559],[19.92968357424309,45.19582230037702],[19.93016643294368,45.19849882731506],[19.92890446278136,45.1986185196223],[19.92906540940379,45.19951069568833],[19.92780341451885,45.19963037510831],[19.92796434808736,45.20052255249965],[19.92291624028621,45.20100112791465],[19.92307710130939,45.20189331332239],[19.92433915543069,45.20177368991716],[19.92482183862614,45.2044502340201],[19.92355972500826,45.20456986411597],[19.92420331809268,45.20813858583983],[19.92167891749159,45.20837781851151],[19.92183979302263,45.20927000114136],[19.91931533316813,45.20950917778697],[19.91947617579467,45.21040136397198],[19.92578738791093,45.20980329779371],[19.92562644609302,45.20891112276013],[19.92941305509629,45.20855210828523],[19.92925206054491,45.20765993904098],[19.9355628784059,45.20706129032158],[19.93620729400573,45.21062991721817],[19.93368282287315,45.21086943993146],[19.93384390405407,45.21176159885829],[19.94267960608437,45.21092298909872],[19.94251838604436,45.21003084580877],[19.94378058974007,45.20991098616338],[19.94361935665222,45.20901884420238],[19.94614370965814,45.20877908401894]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259989755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67023,44.55669,21.67023,44.55669",
+    "geom:latitude":44.55669,
+    "geom:longitude":21.67023,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Rakova Bara",
+    "gn:country_code":"RS",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786508,
+    "gn:latitude":44.55669,
+    "gn:longitude":21.67023,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rakova Bara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rakova Bara"
+    ],
+    "name:und_x_variant":[
+        "Raka Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809939,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786508,
+        "wk:page":"Rakova_Bara"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8791a38d6c13a5660f92416af47a44cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809939,
+            "locality_id":1259989755,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1259989755,
+    "wof:lastmodified":1537683729,
+    "wof:name":"Rakova Bara",
+    "wof:parent_id":1108809939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67023,
+    44.55669,
+    21.67023,
+    44.55669
+],
+  "geometry": {"coordinates":[21.67023,44.55669],"type":"Point"}
+}

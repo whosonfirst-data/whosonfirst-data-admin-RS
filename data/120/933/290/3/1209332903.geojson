@@ -1,0 +1,65 @@
+{
+  "id": 1209332903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91362,43.10874,19.91362,43.10874",
+    "geom:latitude":43.10874,
+    "geom:longitude":19.91362,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Crvsko",
+    "gn:country_code":"RS",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318608,
+    "gn:latitude":43.10874,
+    "gn:longitude":19.91362,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Crvsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Crvsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318608,
+        "wk:page":"Crvsko"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b14e2eeb2b21c01a0995642a5127b80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209332903
+        }
+    ],
+    "wof:id":1209332903,
+    "wof:lastmodified":1537684025,
+    "wof:name":"Crvsko",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91362,
+    43.10874,
+    19.91362,
+    43.10874
+],
+  "geometry": {"coordinates":[19.91362,43.10874],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360003899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28762,43.15266,20.28762,43.15266",
+    "geom:latitude":43.15266,
+    "geom:longitude":20.28762,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Pruzanj",
+    "gn:country_code":"RS",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786666,
+    "gn:latitude":43.15266,
+    "gn:longitude":20.28762,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pru\u017eanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pru\u017eanj"
+    ],
+    "name:und_x_variant":[
+        "Pru\u017ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786666,
+        "wk:page":"Pru%C5%BEanj"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c2cb810c7f884adc0780212e9a93d457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1360003899,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1360003899,
+    "wof:lastmodified":1537683732,
+    "wof:name":"Pruzanj",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28762,
+    43.15266,
+    20.28762,
+    43.15266
+],
+  "geometry": {"coordinates":[20.28762,43.15266],"type":"Point"}
+}

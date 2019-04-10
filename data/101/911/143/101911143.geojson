@@ -1,0 +1,123 @@
+{
+  "id": 101911143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:area_square_m":1497288.031756,
+    "geom:bbox":"19.7919730444,43.4542232155,19.8322177177,43.4640787075",
+    "geom:latitude":43.459716,
+    "geom:longitude":19.813712,
+    "iso:country":"RS",
+    "lbl:latitude":43.45903,
+    "lbl:longitude":19.821791,
+    "mps:latitude":43.45903,
+    "mps:longitude":19.821791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0430\u0440\u043e\u0448"
+    ],
+    "name:ces_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:nld_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0430\u0440\u043e\u0448"
+    ],
+    "name:tur_x_preferred":[
+        "Yeni Varo\u015f"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u74e6\u7f85\u4ec0"
+    ],
+    "qs:a0":"Republika Srbija",
+    "qs:a1":"*Zlatiborski upravni okrug",
+    "qs:a1r":"1Serbia",
+    "qs:a2":"Nova Varo\u0161",
+    "qs:adm0":"Republika Srbija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nova Varo\u00b5",
+    "qs:pop":0,
+    "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":43.466667,
+    "wd:longitude":19.820278,
+    "wd:wordcount":416,
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809993,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194407,
+        "gp:id":535641,
+        "qs:id":1327088,
+        "wd:id":"Q367273",
+        "wk:page":"Nova Varo\u0161"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a581e076961f2e5e33ecf44433890ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809993,
+            "locality_id":101911143,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":101911143,
+    "wof:lastmodified":1527715546,
+    "wof:name":"Nova Varo\u00b5",
+    "wof:parent_id":1108809993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79197304441118,
+    43.45422321546647,
+    19.83221771765011,
+    43.46407870750761
+],
+  "geometry": {"coordinates":[[[19.80099819676394,43.46057481935412],[19.80712103782264,43.45998670026239],[19.80757474278317,43.46266775994633],[19.80635012841998,43.46278541925011],[19.80650135742121,43.46367910593108],[19.81017524225473,43.46332607792459],[19.81002395828875,43.46243239751755],[19.81614691990723,43.46184373582804],[19.81629829547563,43.4627374057734],[19.83221771765011,43.46120514922882],[19.83206610394768,43.46031150651288],[19.83084157781673,43.46042945794073],[19.83053840559126,43.45864216535443],[19.82931391167449,43.45876009798536],[19.82916235314843,43.45786644811574],[19.82793787313165,43.45798436404624],[19.82748328957365,43.45530340222746],[19.8213610979908,43.45589273139126],[19.82120967405928,43.45499906500612],[19.81998524082076,43.45511688493201],[19.81983384137629,43.45422321546647],[19.81860942204025,43.45434101869512],[19.81891219047566,43.45612836082597],[19.81768773010253,43.45624615363653],[19.81783910526582,43.4571398253147],[19.81661462216761,43.45725760561328],[19.8167659851884,43.45815127839757],[19.80819435184839,43.45897534618331],[19.80804311704571,43.45808165875559],[19.79824684684911,43.45902255743403],[19.79809576475969,43.45812885230083],[19.79197304441118,43.45871642883014],[19.79287907972588,43.46407870750761],[19.79410374252973,43.46396120888608],[19.79395270292224,43.46306750032329],[19.79640197867832,43.46283246343398],[19.79625090858502,43.46193875806347],[19.8011493339817,43.46146851735273],[19.80099819676394,43.46057481935412]]],"type":"Polygon"}
+}

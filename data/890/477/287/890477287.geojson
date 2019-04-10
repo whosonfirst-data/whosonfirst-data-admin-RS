@@ -1,0 +1,72 @@
+{
+  "id": 890477287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.215187,43.904447,20.215187,43.904447",
+    "geom:latitude":43.904447,
+    "geom:longitude":20.215187,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Moravica"
+    ],
+    "qs:name":"Moravica",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Moravica",
+    "qs:photos":328,
+    "qs:photos_1k":66,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1580,
+    "qs:photos_sr":5,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389210,
+        "qs:id":379837,
+        "wd:id":"Q907164",
+        "wk:page":"Moravica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054110,
+    "wof:geomhash":"a6abdd13671593b680a6b02af664eeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890477287
+        }
+    ],
+    "wof:id":890477287,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Moravica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.215187,
+    43.904447,
+    20.215187,
+    43.904447
+],
+  "geometry": {"coordinates":[20.215187,43.904447],"type":"Point"}
+}

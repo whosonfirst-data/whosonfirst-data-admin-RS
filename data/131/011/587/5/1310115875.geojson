@@ -1,0 +1,74 @@
+{
+  "id": 1310115875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7446,44.23062,20.7446,44.23062",
+    "geom:latitude":44.23062,
+    "geom:longitude":20.7446,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Gorovic",
+    "gn:country_code":"RS",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790304,
+    "gn:latitude":44.23062,
+    "gn:longitude":20.7446,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gorovi\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gorovi\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810113,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790304,
+        "wk:page":"Gorovi%C4%8D"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"24f321585fb481177745ccc33d35fba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810113,
+            "locality_id":1310115875,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1310115875,
+    "wof:lastmodified":1537683793,
+    "wof:name":"Gorovic",
+    "wof:parent_id":1108810113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7446,
+    44.23062,
+    20.7446,
+    44.23062
+],
+  "geometry": {"coordinates":[20.7446,44.23062],"type":"Point"}
+}

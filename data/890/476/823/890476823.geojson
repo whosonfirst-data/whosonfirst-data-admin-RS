@@ -1,0 +1,95 @@
+{
+  "id": 890476823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46533,43.02805,21.46533,43.02805",
+    "geom:latitude":43.02805,
+    "geom:longitude":21.46533,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":226,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Vllasova"
+    ],
+    "name:dut_x_preferred":[
+        "Vlasovo"
+    ],
+    "name:eng_x_preferred":[
+        "Vlasovo"
+    ],
+    "name:fre_x_preferred":[
+        "Vlasovo"
+    ],
+    "name:may_x_preferred":[
+        "Vlasovo"
+    ],
+    "name:por_x_preferred":[
+        "Vlasovo"
+    ],
+    "name:slv_x_preferred":[
+        "Vlasovo"
+    ],
+    "name:srp_x_preferred":[
+        "Vlasovo"
+    ],
+    "qs:name":"Vlasovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784316,
+        "gp:id":537149,
+        "qs:id":83538,
+        "wd:id":"Q2734617",
+        "wk:page":"Vlasovo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054090,
+    "wof:geomhash":"4f837c7d7e283c6cf2c185ec4a5be118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890476823,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476823,
+    "wof:lastmodified":1527727151,
+    "wof:name":"Vlasovo",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46533,
+    43.02805,
+    21.46533,
+    43.02805
+],
+  "geometry": {"coordinates":[21.46533,43.02805],"type":"Point"}
+}

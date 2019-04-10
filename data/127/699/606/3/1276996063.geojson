@@ -1,0 +1,70 @@
+{
+  "id": 1276996063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56751,43.75166,20.56751,43.75166",
+    "geom:latitude":43.75166,
+    "geom:longitude":20.56751,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Lukavac",
+    "gn:country_code":"RS",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":862645,
+    "gn:latitude":43.75166,
+    "gn:longitude":20.56751,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lukavac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862645
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9801729716b1f9ab054a89c9c3c33bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":1276996063,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1276996063,
+    "wof:lastmodified":1536884725,
+    "wof:name":"Lukavac",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56751,
+    43.75166,
+    20.56751,
+    43.75166
+],
+  "geometry": {"coordinates":[20.56751,43.75166],"type":"Point"}
+}

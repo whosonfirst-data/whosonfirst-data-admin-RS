@@ -1,0 +1,70 @@
+{
+  "id": 1259989523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14194,44.28417,20.14194,44.28417",
+    "geom:latitude":44.28417,
+    "geom:longitude":20.14194,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Music",
+    "gn:country_code":"RS",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836974,
+    "gn:latitude":44.28417,
+    "gn:longitude":20.14194,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mu\u0161i\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809983,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836974
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4a5c661733b44333e00ea089befd7f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809983,
+            "locality_id":1259989523,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1259989523,
+    "wof:lastmodified":1536624388,
+    "wof:name":"Music",
+    "wof:parent_id":1108809983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14194,
+    44.28417,
+    20.14194,
+    44.28417
+],
+  "geometry": {"coordinates":[20.14194,44.28417],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 890476837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41122,43.03618,21.41122,43.03618",
+    "geom:latitude":43.03618,
+    "geom:longitude":21.41122,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":200,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u043e\u043c"
+    ],
+    "name:dut_x_preferred":[
+        "Prolom"
+    ],
+    "name:eng_x_preferred":[
+        "Prolom"
+    ],
+    "name:fre_x_preferred":[
+        "Prolom"
+    ],
+    "name:ger_x_preferred":[
+        "Prolom Banja"
+    ],
+    "name:may_x_preferred":[
+        "Prolom"
+    ],
+    "name:por_x_preferred":[
+        "Prolom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u043e\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Prolom"
+    ],
+    "name:srp_x_preferred":[
+        "Prolom"
+    ],
+    "qs:name":"Prolom",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"43.024211",
+    "wd:longitude":"21.240403",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786687,
+        "gp:id":537149,
+        "qs:id":83608,
+        "wd:id":"Q1005173",
+        "wk:page":"Prolom"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054091,
+    "wof:geomhash":"de4a353bf1b3a806172999456bdd777d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":890476837,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476837,
+    "wof:lastmodified":1527727152,
+    "wof:name":"Prolom",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41122,
+    43.03618,
+    21.41122,
+    43.03618
+],
+  "geometry": {"coordinates":[21.41122,43.03618],"type":"Point"}
+}

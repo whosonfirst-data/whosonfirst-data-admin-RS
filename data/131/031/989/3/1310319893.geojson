@@ -1,0 +1,76 @@
+{
+  "id": 1310319893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79294,42.3812,21.79294,42.3812",
+    "geom:latitude":42.3812,
+    "geom:longitude":21.79294,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Stara Maala",
+    "gn:country_code":"RS",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830758,
+    "gn:latitude":42.3812,
+    "gn:longitude":21.79294,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stara Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stara Maala"
+    ],
+    "name:und_x_variant":[
+        "Stara Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809865,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830758
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c7a09dcc867fc5273dfaf1c040d2aa6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809865,
+            "locality_id":1310319893,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1310319893,
+    "wof:lastmodified":1537683848,
+    "wof:name":"Stara Maala",
+    "wof:parent_id":1108809865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79294,
+    42.3812,
+    21.79294,
+    42.3812
+],
+  "geometry": {"coordinates":[21.79294,42.3812],"type":"Point"}
+}

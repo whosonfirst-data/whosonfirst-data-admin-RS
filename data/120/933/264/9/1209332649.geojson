@@ -1,0 +1,62 @@
+{
+  "id": 1209332649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9775,43.61083,19.9775,43.61083",
+    "geom:latitude":43.61083,
+    "geom:longitude":19.9775,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Bogutovo",
+    "gn:country_code":"RS",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318943,
+    "gn:latitude":43.61083,
+    "gn:longitude":19.9775,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bogutovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318943
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"576ae128d4fd4fc155664a24e17f1cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209332649
+        }
+    ],
+    "wof:id":1209332649,
+    "wof:lastmodified":1536290325,
+    "wof:name":"Bogutovo",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9775,
+    43.61083,
+    19.9775,
+    43.61083
+],
+  "geometry": {"coordinates":[19.9775,43.61083],"type":"Point"}
+}

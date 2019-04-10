@@ -1,0 +1,74 @@
+{
+  "id": 1243378091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20019,43.9781,21.20019,43.9781",
+    "geom:latitude":43.9781,
+    "geom:longitude":21.20019,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Deonica",
+    "gn:country_code":"RS",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791538,
+    "gn:latitude":43.9781,
+    "gn:longitude":21.20019,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Deonica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Deonica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809907,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791538,
+        "wk:page":"Deonica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eac33f7e12460277b8a214d4fdca3708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809907,
+            "locality_id":1243378091,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1243378091,
+    "wof:lastmodified":1537683816,
+    "wof:name":"Deonica",
+    "wof:parent_id":1108809907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20019,
+    43.9781,
+    21.20019,
+    43.9781
+],
+  "geometry": {"coordinates":[21.20019,43.9781],"type":"Point"}
+}

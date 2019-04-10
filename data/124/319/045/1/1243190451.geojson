@@ -1,0 +1,73 @@
+{
+  "id": 1243190451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34376,43.21422,22.34376,43.21422",
+    "geom:latitude":43.21422,
+    "geom:longitude":22.34376,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Kremenica",
+    "gn:country_code":"RS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789065,
+    "gn:latitude":43.21422,
+    "gn:longitude":22.34376,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kremenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kremenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809845,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789065
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8f28805da3e0e6665a0538f55849d0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809845,
+            "locality_id":1243190451,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1243190451,
+    "wof:lastmodified":1537683775,
+    "wof:name":"Kremenica",
+    "wof:parent_id":1108809845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34376,
+    43.21422000000001,
+    22.34376,
+    43.21422000000001
+],
+  "geometry": {"coordinates":[22.34376,43.21422000000001],"type":"Point"}
+}

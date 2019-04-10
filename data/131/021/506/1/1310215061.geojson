@@ -1,0 +1,77 @@
+{
+  "id": 1310215061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98189,44.16391,19.98189,44.16391",
+    "geom:latitude":44.16391,
+    "geom:longitude":19.98189,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Krcmar",
+    "gn:country_code":"RS",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197316,
+    "gn:latitude":44.16391,
+    "gn:longitude":19.98189,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kr\u010dmar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kr\u010dmar"
+    ],
+    "name:und_x_variant":[
+        "Kr\u010dmari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809983,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197316,
+        "wk:page":"Kr%C4%8Dmar"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"12b92e658a1071dff3cabf0f066b5b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809983,
+            "locality_id":1310215061,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1310215061,
+    "wof:lastmodified":1537683937,
+    "wof:name":"Krcmar",
+    "wof:parent_id":1108809983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98189,
+    44.16391,
+    19.98189,
+    44.16391
+],
+  "geometry": {"coordinates":[19.98189,44.16391],"type":"Point"}
+}

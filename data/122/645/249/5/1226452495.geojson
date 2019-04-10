@@ -1,0 +1,73 @@
+{
+  "id": 1226452495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2634,45.71907,19.2634,45.71907",
+    "geom:latitude":45.71907,
+    "geom:longitude":19.2634,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Radojevici",
+    "gn:country_code":"RS",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215296,
+    "gn:latitude":45.71907,
+    "gn:longitude":19.2634,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Radojevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radojevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215296
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2a6ac26200e9d021d872fac75d869e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":1226452495,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1226452495,
+    "wof:lastmodified":1537683953,
+    "wof:name":"Radojevici",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2634,
+    45.71907,
+    19.2634,
+    45.71907
+],
+  "geometry": {"coordinates":[19.2634,45.71907],"type":"Point"}
+}

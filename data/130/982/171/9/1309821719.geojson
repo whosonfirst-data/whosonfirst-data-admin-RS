@@ -1,0 +1,74 @@
+{
+  "id": 1309821719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21077,43.49275,20.21077,43.49275",
+    "geom:latitude":43.49275,
+    "geom:longitude":20.21077,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Kosovica",
+    "gn:country_code":"RS",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789232,
+    "gn:latitude":43.49275,
+    "gn:longitude":20.21077,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kosovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kosovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789232,
+        "wk:page":"Kosovica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ec162cac70b96a451bdc2c86d33f62d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1309821719,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1309821719,
+    "wof:lastmodified":1537683777,
+    "wof:name":"Kosovica",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21077,
+    43.49275,
+    20.21077,
+    43.49275
+],
+  "geometry": {"coordinates":[20.21077,43.49275],"type":"Point"}
+}

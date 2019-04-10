@@ -1,0 +1,74 @@
+{
+  "id": 1293215273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36142,44.49512,21.36142,44.49512",
+    "geom:latitude":44.49512,
+    "geom:longitude":21.36142,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Crljenac",
+    "gn:country_code":"RS",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791868,
+    "gn:latitude":44.49512,
+    "gn:longitude":21.36142,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Crljenac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Crljenac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809973,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791868,
+        "wk:page":"Crljenac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7a8345c0caf22f7ebc3326e69e3203ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809973,
+            "locality_id":1293215273,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1293215273,
+    "wof:lastmodified":1537683821,
+    "wof:name":"Crljenac",
+    "wof:parent_id":1108809973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36142000000001,
+    44.49512,
+    21.36142000000001,
+    44.49512
+],
+  "geometry": {"coordinates":[21.36142000000001,44.49512],"type":"Point"}
+}

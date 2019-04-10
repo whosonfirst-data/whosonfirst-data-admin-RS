@@ -1,0 +1,69 @@
+{
+  "id": 1193034279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41484,43.79472,19.41484,43.79472",
+    "geom:latitude":43.79472,
+    "geom:longitude":19.41484,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Spasojevici",
+    "gn:country_code":"RS",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300727,
+    "gn:latitude":43.79472,
+    "gn:longitude":19.41484,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Spasojevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Spasojevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300727
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b172f8e58d21b41d3af8315307c61b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "locality_id":1193034279,
+            "macroregion_id":404228357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193034279,
+    "wof:lastmodified":1537683998,
+    "wof:name":"Spasojevici",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41484,
+    43.79472,
+    19.41484,
+    43.79472
+],
+  "geometry": {"coordinates":[19.41484,43.79472],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209120881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06222,42.35278,22.06222,42.35278",
+    "geom:latitude":42.35278,
+    "geom:longitude":22.06222,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Trgoviste",
+    "gn:country_code":"RS",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":861232,
+    "gn:latitude":42.35278,
+    "gn:longitude":22.06222,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trgovi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Trgovi\u0161te"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e0\u10d2\u10dd\u10d5\u10d8\u10e8\u10e2\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u06d2"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861232,
+        "wk:page":"Trgovi%C5%A1te"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e9a30e1834d910160a2e51c84b7e28c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120881
+        }
+    ],
+    "wof:id":1209120881,
+    "wof:lastmodified":1537683905,
+    "wof:name":"Trgoviste",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06222,
+    42.35278,
+    22.06222,
+    42.35278
+],
+  "geometry": {"coordinates":[22.06222,42.35278],"type":"Point"}
+}

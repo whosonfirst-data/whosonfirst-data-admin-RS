@@ -1,0 +1,73 @@
+{
+  "id": 1343968197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43806,44.43167,19.43806,44.43167",
+    "geom:latitude":44.43167,
+    "geom:longitude":19.43806,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Jevtici",
+    "gn:country_code":"RS",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3239746,
+    "gn:latitude":44.43167,
+    "gn:longitude":19.43806,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jevti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jevti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809935,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3239746
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5ed91fd5e9c11aa59123bf8a7006dc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809935,
+            "locality_id":1343968197,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1343968197,
+    "wof:lastmodified":1537683972,
+    "wof:name":"Jevtici",
+    "wof:parent_id":1108809935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43806,
+    44.43167,
+    19.43806,
+    44.43167
+],
+  "geometry": {"coordinates":[19.43806,44.43167],"type":"Point"}
+}

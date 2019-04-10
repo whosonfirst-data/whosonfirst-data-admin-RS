@@ -1,0 +1,70 @@
+{
+  "id": 1209630007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8029,43.00242,22.8029,43.00242",
+    "geom:latitude":43.00242,
+    "geom:longitude":22.8029,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Gradinje",
+    "gn:country_code":"RS",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790237,
+    "gn:latitude":43.00242,
+    "gn:longitude":22.8029,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gradinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gradinje"
+    ],
+    "name:und_x_variant":[
+        "Gradine",
+        "Gradina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790237,
+        "wk:page":"Gradinje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e30ae89a4e7a031d3bb808ab67e4c9cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209630007
+        }
+    ],
+    "wof:id":1209630007,
+    "wof:lastmodified":1537683792,
+    "wof:name":"Gradinje",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8029,
+    43.00242,
+    22.8029,
+    43.00242
+],
+  "geometry": {"coordinates":[22.8029,43.00242],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276892345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92173,42.37153,21.92173,42.37153",
+    "geom:latitude":42.37153,
+    "geom:longitude":21.92173,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Kocevci",
+    "gn:country_code":"RS",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860819,
+    "gn:latitude":42.37153,
+    "gn:longitude":21.92173,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ko\u010devci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809865,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860819
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a5b64a615be093ac806555c57070a3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809865,
+            "locality_id":1276892345,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1276892345,
+    "wof:lastmodified":1537023403,
+    "wof:name":"Kocevci",
+    "wof:parent_id":1108809865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92173,
+    42.37153,
+    21.92173,
+    42.37153
+],
+  "geometry": {"coordinates":[21.92173,42.37153],"type":"Point"}
+}

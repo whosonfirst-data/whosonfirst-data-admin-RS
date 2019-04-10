@@ -1,0 +1,73 @@
+{
+  "id": 1293215435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3261,44.21414,20.3261,44.21414",
+    "geom:latitude":44.21414,
+    "geom:longitude":20.3261,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Kozelj",
+    "gn:country_code":"RS",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789158,
+    "gn:latitude":44.21414,
+    "gn:longitude":20.3261,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kozelj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kozelj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809957,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789158
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c9a58dc5ab5abdb44c9c0cde694a582f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809957,
+            "locality_id":1293215435,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1293215435,
+    "wof:lastmodified":1537683776,
+    "wof:name":"Kozelj",
+    "wof:parent_id":1108809957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3261,
+    44.21414,
+    20.3261,
+    44.21414
+],
+  "geometry": {"coordinates":[20.3261,44.21414],"type":"Point"}
+}

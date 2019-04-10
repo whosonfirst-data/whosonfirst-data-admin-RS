@@ -1,0 +1,65 @@
+{
+  "id": 1209625367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2963,43.75439,20.2963,43.75439",
+    "geom:latitude":43.75439,
+    "geom:longitude":20.2963,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Zivica",
+    "gn:country_code":"RS",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783875,
+    "gn:latitude":43.75439,
+    "gn:longitude":20.2963,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u017divica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u017divica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783875
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2a551db50c9b4bb690265ee712dc1333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209625367
+        }
+    ],
+    "wof:id":1209625367,
+    "wof:lastmodified":1537683684,
+    "wof:name":"Zivica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2963,
+    43.75439,
+    20.2963,
+    43.75439
+],
+  "geometry": {"coordinates":[20.2963,43.75439],"type":"Point"}
+}

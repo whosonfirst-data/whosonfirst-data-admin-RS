@@ -1,0 +1,75 @@
+{
+  "id": 1243278673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23861,45.25167,19.23861,45.25167",
+    "geom:latitude":45.25167,
+    "geom:longitude":19.23861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Donji Panjik",
+    "gn:country_code":"RS",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215054,
+    "gn:latitude":45.25167,
+    "gn:longitude":19.23861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donji Panjik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Panjik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633779,
+        85684741,
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215054
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"37b3287efa1a292ec6a7c1210a497916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "locality_id":1243278673,
+            "region_id":85684741
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243278673,
+            "region_id":85684741
+        }
+    ],
+    "wof:id":1243278673,
+    "wof:lastmodified":1537683953,
+    "wof:name":"Donji Panjik",
+    "wof:parent_id":85684741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23861,
+    45.25167,
+    19.23861,
+    45.25167
+],
+  "geometry": {"coordinates":[19.23861,45.25167],"type":"Point"}
+}

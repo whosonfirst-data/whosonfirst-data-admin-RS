@@ -1,0 +1,66 @@
+{
+  "id": 1209424955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33932,43.85039,20.33932,43.85039",
+    "geom:latitude":43.85039,
+    "geom:longitude":20.33932,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Atenica",
+    "gn:country_code":"RS",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793075,
+    "gn:latitude":43.85039,
+    "gn:longitude":20.33932,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Atenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Atenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793075,
+        "wk:page":"Atenica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"899c6140203f903196a00ca390c655b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209424955
+        }
+    ],
+    "wof:id":1209424955,
+    "wof:lastmodified":1537683842,
+    "wof:name":"Atenica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33932,
+    43.85039,
+    20.33932,
+    43.85039
+],
+  "geometry": {"coordinates":[20.33932,43.85039],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226052541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17476,45.83429,19.17476,45.83429",
+    "geom:latitude":45.83429,
+    "geom:longitude":19.17476,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Milcic",
+    "gn:country_code":"RS",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215850,
+    "gn:latitude":45.83429,
+    "gn:longitude":19.17476,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mil\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mil\u010di\u0107"
+    ],
+    "name:und_x_variant":[
+        "Mil\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215850
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7596b11f9c6340cadb79d149dfba2e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":1226052541,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1226052541,
+    "wof:lastmodified":1537683954,
+    "wof:name":"Milcic",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17476,
+    45.83429,
+    19.17476,
+    45.83429
+],
+  "geometry": {"coordinates":[19.17476,45.83429],"type":"Point"}
+}

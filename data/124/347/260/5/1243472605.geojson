@@ -1,0 +1,86 @@
+{
+  "id": 1243472605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79227,45.12174,19.79227,45.12174",
+    "geom:latitude":45.12174,
+    "geom:longitude":19.79227,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Vrdnik",
+    "gn:country_code":"RS",
+    "gn:dem":197,
+    "gn:elevation":"267.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187252,
+    "gn:latitude":45.12174,
+    "gn:longitude":19.79227,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrdnik",
+    "gn:population":3704,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0434\u043d\u0438\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "Vrdnik"
+    ],
+    "name:und_x_variant":[
+        "Rednek",
+        "Vrdnik Prnjavor",
+        "Redn\u00f6k"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809903,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187252,
+        "wk:page":"Vrdnik"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1f103789bb4609edbb4c1cba3ed63207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809903,
+            "locality_id":1243472605,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1243472605,
+    "wof:lastmodified":1537683918,
+    "wof:name":"Vrdnik",
+    "wof:parent_id":1108809903,
+    "wof:placetype":"locality",
+    "wof:population":3704,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79227,
+    45.12174,
+    19.79227,
+    45.12174
+],
+  "geometry": {"coordinates":[19.79227,45.12174],"type":"Point"}
+}

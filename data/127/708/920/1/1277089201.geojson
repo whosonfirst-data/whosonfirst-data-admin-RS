@@ -1,0 +1,74 @@
+{
+  "id": 1277089201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20778,44.42694,21.20778,44.42694",
+    "geom:latitude":44.42694,
+    "geom:longitude":21.20778,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Oreovica",
+    "gn:country_code":"RS",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787425,
+    "gn:latitude":44.42694,
+    "gn:longitude":21.20778,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Oreovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Oreovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810157,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787425,
+        "wk:page":"Oreovica_%28%C5%BDabari%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3be6a61dbbc04b1cc6b891a25180b16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810157,
+            "locality_id":1277089201,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1277089201,
+    "wof:lastmodified":1537683746,
+    "wof:name":"Oreovica",
+    "wof:parent_id":1108810157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20778,
+    44.42694,
+    21.20778,
+    44.42694
+],
+  "geometry": {"coordinates":[21.20778,44.42694],"type":"Point"}
+}

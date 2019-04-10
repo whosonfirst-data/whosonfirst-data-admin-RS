@@ -1,0 +1,65 @@
+{
+  "id": 1209429817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11987,43.34352,21.11987,43.34352",
+    "geom:latitude":43.34352,
+    "geom:longitude":21.11987,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Mosute",
+    "gn:country_code":"RS",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835209,
+    "gn:latitude":43.34352,
+    "gn:longitude":21.11987,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mosute",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mosute"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835209
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dd86ead1569b826459feeb2b87f07ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209429817
+        }
+    ],
+    "wof:id":1209429817,
+    "wof:lastmodified":1537683870,
+    "wof:name":"Mosute",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11987,
+    43.34352,
+    21.11987,
+    43.34352
+],
+  "geometry": {"coordinates":[21.11987,43.34352],"type":"Point"}
+}

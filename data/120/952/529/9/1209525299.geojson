@@ -1,0 +1,65 @@
+{
+  "id": 1209525299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1751,43.03595,21.1751,43.03595",
+    "geom:latitude":43.03595,
+    "geom:longitude":21.1751,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Bajovica Lazovi",
+    "gn:country_code":"RS",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835049,
+    "gn:latitude":43.03595,
+    "gn:longitude":21.1751,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bajovica Lazovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bajovica Lazovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835049
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"35b18130bdb955672fce2ed8ed7b028f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209525299
+        }
+    ],
+    "wof:id":1209525299,
+    "wof:lastmodified":1537683866,
+    "wof:name":"Bajovica Lazovi",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1751,
+    43.03595,
+    21.1751,
+    43.03595
+],
+  "geometry": {"coordinates":[21.1751,43.03595],"type":"Point"}
+}

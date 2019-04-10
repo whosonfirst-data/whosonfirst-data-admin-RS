@@ -1,0 +1,79 @@
+{
+  "id": 1259617625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92364,45.50863,19.92364,45.50863",
+    "geom:latitude":45.50863,
+    "geom:longitude":19.92364,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"80390.0",
+    "gn:asciiname":"Nadalj",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194608,
+    "gn:latitude":45.50863,
+    "gn:longitude":19.92364,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Nadalj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Nadalj"
+    ],
+    "name:und_x_variant":[
+        "N\u00e1daly",
+        "N\u00e1dalja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810085,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194608,
+        "wk:page":"Nadalj"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"316c4aeb07376164d046cc8dece802cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810085,
+            "locality_id":1259617625,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1259617625,
+    "wof:lastmodified":1537683931,
+    "wof:name":"Nadalj",
+    "wof:parent_id":1108810085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92364,
+    45.50863,
+    19.92364,
+    45.50863
+],
+  "geometry": {"coordinates":[19.92364,45.50863],"type":"Point"}
+}

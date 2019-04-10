@@ -1,0 +1,116 @@
+{
+  "id": 890476619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50056,44.36139,22.50056,44.36139",
+    "geom:latitude":44.36139,
+    "geom:longitude":22.50056,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u65b0\u585e\u6d1b"
+    ],
+    "name:dut_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:epo_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Novo S\u00e9lo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd-\u10e1\u10d4\u10da\u10dd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05e1\u05dc\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30f4\u30a9\u30fb\u30bb\u30ed"
+    ],
+    "name:pol_x_preferred":[
+        "Nowo se\u0142o"
+    ],
+    "name:rum_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Novo Selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:war_x_preferred":[
+        "Novo Selo"
+    ],
+    "qs:name":"Novo Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":872,
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809987,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838729,
+        "gp:id":877000,
+        "qs:id":554516,
+        "wd:id":"Q2381026",
+        "wk:page":"Novo Selo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054082,
+    "wof:geomhash":"18bf7921bc6b50672c78472d3e679679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809987,
+            "locality_id":890476619,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":890476619,
+    "wof:lastmodified":1553816409,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":1108809987,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50056,
+    44.36139,
+    22.50056,
+    44.36139
+],
+  "geometry": {"coordinates":[22.50056,44.36139],"type":"Point"}
+}

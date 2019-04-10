@@ -1,0 +1,70 @@
+{
+  "id": 1243564469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14694,43.87673,20.14694,43.87673",
+    "geom:latitude":43.87673,
+    "geom:longitude":20.14694,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Rogosevici",
+    "gn:country_code":"RS",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793750,
+    "gn:latitude":43.87673,
+    "gn:longitude":20.14694,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rogosevici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793750
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"66d9ca85e21607e66e229a815dcb9108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":1243564469,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1243564469,
+    "wof:lastmodified":1536634028,
+    "wof:name":"Rogosevici",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14694,
+    43.87673,
+    20.14694,
+    43.87673
+],
+  "geometry": {"coordinates":[20.14694,43.87673],"type":"Point"}
+}

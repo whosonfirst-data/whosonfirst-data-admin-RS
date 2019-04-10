@@ -1,0 +1,78 @@
+{
+  "id": 1259501829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22781,44.68057,21.22781,44.68057",
+    "geom:latitude":44.68057,
+    "geom:longitude":21.22781,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Maljurevac",
+    "gn:country_code":"RS",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788220,
+    "gn:latitude":44.68057,
+    "gn:longitude":21.22781,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Maljurevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Maljurevac"
+    ],
+    "name:und_x_variant":[
+        "Mrljevac",
+        "Maljurovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810033,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788220,
+        "wk:page":"Maljurevac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4f1d1fa7c70a8d26a1cd5cfccf11a88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810033,
+            "locality_id":1259501829,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1259501829,
+    "wof:lastmodified":1537683760,
+    "wof:name":"Maljurevac",
+    "wof:parent_id":1108810033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22781,
+    44.68057,
+    21.22781,
+    44.68057
+],
+  "geometry": {"coordinates":[21.22781,44.68057],"type":"Point"}
+}

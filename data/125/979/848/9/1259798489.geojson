@@ -1,0 +1,74 @@
+{
+  "id": 1259798489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09923,43.40933,21.09923,43.40933",
+    "geom:latitude":43.40933,
+    "geom:longitude":21.09923,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Dobroljupci",
+    "gn:country_code":"RS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791431,
+    "gn:latitude":43.40933,
+    "gn:longitude":21.09923,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobroljupci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobroljupci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809809,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791431,
+        "wk:page":"Dobroljubci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8fac58eda95f2af790e00159a166cc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809809,
+            "locality_id":1259798489,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1259798489,
+    "wof:lastmodified":1537683815,
+    "wof:name":"Dobroljupci",
+    "wof:parent_id":1108809809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09923,
+    43.40933,
+    21.09923,
+    43.40933
+],
+  "geometry": {"coordinates":[21.09923,43.40933],"type":"Point"}
+}

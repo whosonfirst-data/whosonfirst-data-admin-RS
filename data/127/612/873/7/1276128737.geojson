@@ -1,0 +1,74 @@
+{
+  "id": 1276128737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01312,44.22479,20.01312,44.22479",
+    "geom:latitude":44.22479,
+    "geom:longitude":20.01312,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Rajkovic",
+    "gn:country_code":"RS",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786529,
+    "gn:latitude":44.22479,
+    "gn:longitude":20.01312,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rajkovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rajkovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809983,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786529,
+        "wk:page":"Rajkovi%C4%87"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4e0f4f9a021273c92c64061bc1aab133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809983,
+            "locality_id":1276128737,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1276128737,
+    "wof:lastmodified":1537683730,
+    "wof:name":"Rajkovic",
+    "wof:parent_id":1108809983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01312,
+    44.22479000000001,
+    20.01312,
+    44.22479000000001
+],
+  "geometry": {"coordinates":[20.01312,44.22479000000001],"type":"Point"}
+}

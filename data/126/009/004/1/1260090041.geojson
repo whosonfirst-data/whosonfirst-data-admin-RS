@@ -1,0 +1,77 @@
+{
+  "id": 1260090041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25669,43.94961,20.25669,43.94961",
+    "geom:latitude":43.94961,
+    "geom:longitude":20.25669,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Miokovci",
+    "gn:country_code":"RS",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787937,
+    "gn:latitude":43.94961,
+    "gn:longitude":20.25669,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Miokovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Miokovci"
+    ],
+    "name:und_x_variant":[
+        "Mijokovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809867,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787937,
+        "wk:page":"Miokovci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"afcf46a93481ce4afa36392695aa9c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809867,
+            "locality_id":1260090041,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1260090041,
+    "wof:lastmodified":1537683754,
+    "wof:name":"Miokovci",
+    "wof:parent_id":1108809867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25669,
+    43.94961,
+    20.25669,
+    43.94961
+],
+  "geometry": {"coordinates":[20.25669,43.94961],"type":"Point"}
+}

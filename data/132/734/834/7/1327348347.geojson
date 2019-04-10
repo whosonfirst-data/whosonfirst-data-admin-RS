@@ -1,0 +1,75 @@
+{
+  "id": 1327348347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62565,44.46772,19.62565,44.46772",
+    "geom:latitude":44.46772,
+    "geom:longitude":19.62565,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Donje Crniljevo",
+    "gn:country_code":"RS",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216751,
+    "gn:latitude":44.46772,
+    "gn:longitude":19.62565,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donje Crniljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crniljevo",
+        "Donje Crniljevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809921,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216751,
+        "wk:page":"Donje_Crniljevo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ca7073a76ecb34cbfaf3e97841902f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809921,
+            "locality_id":1327348347,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1327348347,
+    "wof:lastmodified":1537683962,
+    "wof:name":"Donje Crniljevo",
+    "wof:parent_id":1108809921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62565,
+    44.46772,
+    19.62565,
+    44.46772
+],
+  "geometry": {"coordinates":[19.62565,44.46772],"type":"Point"}
+}

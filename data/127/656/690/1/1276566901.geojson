@@ -1,0 +1,73 @@
+{
+  "id": 1276566901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17902,44.43516,19.17902,44.43516",
+    "geom:latitude":44.43516,
+    "geom:longitude":19.17902,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Donja Borina",
+    "gn:country_code":"RS",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3216821,
+    "gn:latitude":44.43516,
+    "gn:longitude":19.17902,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Borina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Borina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809971,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216821
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0dd7bc46fe2d321c2b21930c832c2790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809971,
+            "locality_id":1276566901,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1276566901,
+    "wof:lastmodified":1537683963,
+    "wof:name":"Donja Borina",
+    "wof:parent_id":1108809971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17902,
+    44.43516,
+    19.17902,
+    44.43516
+],
+  "geometry": {"coordinates":[19.17902,44.43516],"type":"Point"}
+}

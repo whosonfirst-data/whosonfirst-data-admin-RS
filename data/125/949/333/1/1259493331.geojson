@@ -1,0 +1,74 @@
+{
+  "id": 1259493331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39355,43.05585,22.39355,43.05585",
+    "geom:latitude":43.05585,
+    "geom:longitude":22.39355,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Suracevo",
+    "gn:country_code":"RS",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785289,
+    "gn:latitude":43.05585,
+    "gn:longitude":22.39355,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sura\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sura\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809823,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785289,
+        "wk:page":"Sura%C4%8Devo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"69d31274158de7be16c52bf4cc8e6db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809823,
+            "locality_id":1259493331,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1259493331,
+    "wof:lastmodified":1537683707,
+    "wof:name":"Suracevo",
+    "wof:parent_id":1108809823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39355,
+    43.05585,
+    22.39355,
+    43.05585
+],
+  "geometry": {"coordinates":[22.39355,43.05585],"type":"Point"}
+}

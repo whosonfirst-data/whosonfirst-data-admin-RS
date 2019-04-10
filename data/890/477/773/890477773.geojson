@@ -1,0 +1,104 @@
+{
+  "id": 890477773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31325,46.00584,20.31325,46.00584",
+    "geom:latitude":46.00584,
+    "geom:longitude":20.31325,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":654,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vrbica"
+    ],
+    "name:eng_x_preferred":[
+        "Vrbica"
+    ],
+    "name:epo_x_preferred":[
+        "Vrbica"
+    ],
+    "name:fre_x_preferred":[
+        "Vrbica"
+    ],
+    "name:hun_x_preferred":[
+        "Egyh\u00e1zask\u00e9r"
+    ],
+    "name:may_x_preferred":[
+        "Vrbica"
+    ],
+    "name:rum_x_preferred":[
+        "Verbica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Vrbica"
+    ],
+    "name:srp_x_preferred":[
+        "Vrbica"
+    ],
+    "name:unk_x_variant":[
+        "Egyh\u00e1zask\u00e9r"
+    ],
+    "qs:name":"Vrbica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108809875,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784190,
+        "gp:id":533204,
+        "qs:id":553581,
+        "wd:id":"Q940128",
+        "wk:page":"Vrbica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054130,
+    "wof:geomhash":"c4d875180b391625460b267c843e66d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809875,
+            "locality_id":890477773,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":890477773,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Vrbica",
+    "wof:parent_id":1108809875,
+    "wof:placetype":"locality",
+    "wof:population":654,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31325,
+    46.00584,
+    20.31325,
+    46.00584
+],
+  "geometry": {"coordinates":[20.31325,46.00584],"type":"Point"}
+}

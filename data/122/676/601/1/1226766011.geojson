@@ -1,0 +1,77 @@
+{
+  "id": 1226766011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59395,43.21755,22.59395,43.21755",
+    "geom:latitude":43.21755,
+    "geom:longitude":22.59395,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Nisor",
+    "gn:country_code":"RS",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787649,
+    "gn:latitude":43.21755,
+    "gn:longitude":22.59395,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ni\u0161or",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ni\u0161or"
+    ],
+    "name:und_x_variant":[
+        "Ni\u0161ol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108810029,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787649,
+        "wk:page":"Ni%C5%A1or"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"40da6f17cdff2392e8408a80909c4d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810029,
+            "locality_id":1226766011,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1226766011,
+    "wof:lastmodified":1537683749,
+    "wof:name":"Nisor",
+    "wof:parent_id":1108810029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59395,
+    43.21755,
+    22.59395,
+    43.21755
+],
+  "geometry": {"coordinates":[22.59395,43.21755],"type":"Point"}
+}

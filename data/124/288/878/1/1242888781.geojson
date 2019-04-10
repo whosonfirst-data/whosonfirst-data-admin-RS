@@ -1,0 +1,74 @@
+{
+  "id": 1242888781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55828,43.15892,22.55828,43.15892",
+    "geom:latitude":43.15892,
+    "geom:longitude":22.55828,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Gnjilan",
+    "gn:country_code":"RS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790675,
+    "gn:latitude":43.15892,
+    "gn:longitude":22.55828,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gnjilan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gnjilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108810029,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790675,
+        "wk:page":"Gnjilan"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bf9b000db99da7ee5550fcbb17cba71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810029,
+            "locality_id":1242888781,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1242888781,
+    "wof:lastmodified":1537683800,
+    "wof:name":"Gnjilan",
+    "wof:parent_id":1108810029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55828,
+    43.15892,
+    22.55828,
+    43.15892
+],
+  "geometry": {"coordinates":[22.55828,43.15892],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225954275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02444,44.445,21.02444,44.445",
+    "geom:latitude":44.445,
+    "geom:longitude":21.02444,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Paucina",
+    "gn:country_code":"RS",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837050,
+    "gn:latitude":44.445,
+    "gn:longitude":21.02444,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pau\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810077,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837050
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"20c983a5900771d54db3912a3e389cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810077,
+            "locality_id":1225954275,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1225954275,
+    "wof:lastmodified":1536855692,
+    "wof:name":"Paucina",
+    "wof:parent_id":1108810077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02444,
+    44.445,
+    21.02444,
+    44.445
+],
+  "geometry": {"coordinates":[21.02444,44.445],"type":"Point"}
+}

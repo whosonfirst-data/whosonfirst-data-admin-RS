@@ -1,0 +1,74 @@
+{
+  "id": 1326840247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22652,43.33557,21.22652,43.33557",
+    "geom:latitude":43.33557,
+    "geom:longitude":21.22652,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Dzepnica",
+    "gn:country_code":"RS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790854,
+    "gn:latitude":43.33557,
+    "gn:longitude":21.22652,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"D\u017eepnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "D\u017eepnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809849,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790854,
+        "wk:page":"D%C5%BEepnica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"117e374c67df032bf1441b4d2b67c3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809849,
+            "locality_id":1326840247,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1326840247,
+    "wof:lastmodified":1537683802,
+    "wof:name":"Dzepnica",
+    "wof:parent_id":1108809849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22652,
+    43.33557,
+    21.22652,
+    43.33557
+],
+  "geometry": {"coordinates":[21.22652,43.33557],"type":"Point"}
+}

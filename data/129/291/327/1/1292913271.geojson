@@ -1,0 +1,70 @@
+{
+  "id": 1292913271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.88139,45.39222,19.88139,45.39222",
+    "geom:latitude":45.39222,
+    "geom:longitude":19.88139,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Staro Durgevo",
+    "gn:country_code":"RS",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214946,
+    "gn:latitude":45.39222,
+    "gn:longitude":19.88139,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Staro Dur\u0111evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810109,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214946
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c422c949f21b6b39767f8d025e893ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810109,
+            "locality_id":1292913271,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1292913271,
+    "wof:lastmodified":1536618550,
+    "wof:name":"Staro Durgevo",
+    "wof:parent_id":1108810109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88139,
+    45.39222,
+    19.88139,
+    45.39222
+],
+  "geometry": {"coordinates":[19.88139,45.39222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276566751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92591,44.40344,20.92591,44.40344",
+    "geom:latitude":44.40344,
+    "geom:longitude":20.92591,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Kamenac",
+    "gn:country_code":"RS",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":834634,
+    "gn:latitude":44.40344,
+    "gn:longitude":20.92591,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kamenac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kamenac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810077,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834634
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ddcdca660b98bf0f65719ef1010c0e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810077,
+            "locality_id":1276566751,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1276566751,
+    "wof:lastmodified":1537683854,
+    "wof:name":"Kamenac",
+    "wof:parent_id":1108810077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92591,
+    44.40344,
+    20.92591,
+    44.40344
+],
+  "geometry": {"coordinates":[20.92591,44.40344],"type":"Point"}
+}

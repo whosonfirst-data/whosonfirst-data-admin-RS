@@ -1,0 +1,70 @@
+{
+  "id": 1360099839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98972,43.82889,20.98972,43.82889",
+    "geom:latitude":43.82889,
+    "geom:longitude":20.98972,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Minica Kraj",
+    "gn:country_code":"RS",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862796,
+    "gn:latitude":43.82889,
+    "gn:longitude":20.98972,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mini\u0107a Kraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108810057,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862796
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"86a75974bc13a88861898e4173ccd5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810057,
+            "locality_id":1360099839,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1360099839,
+    "wof:lastmodified":1536924979,
+    "wof:name":"Minica Kraj",
+    "wof:parent_id":1108810057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98972,
+    43.82889,
+    20.98972,
+    43.82889
+],
+  "geometry": {"coordinates":[20.98972,43.82889],"type":"Point"}
+}

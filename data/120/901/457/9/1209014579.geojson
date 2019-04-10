@@ -1,0 +1,65 @@
+{
+  "id": 1209014579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12624,43.46971,20.12624,43.46971",
+    "geom:latitude":43.46971,
+    "geom:longitude":20.12624,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Kokanovici",
+    "gn:country_code":"RS",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836142,
+    "gn:latitude":43.46971,
+    "gn:longitude":20.12624,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kokanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kokanovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836142
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4599fb488b100836998516d8139592a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209014579
+        }
+    ],
+    "wof:id":1209014579,
+    "wof:lastmodified":1537683889,
+    "wof:name":"Kokanovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12624,
+    43.46971,
+    20.12624,
+    43.46971
+],
+  "geometry": {"coordinates":[20.12624,43.46971],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209022687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6625,42.94333,22.6625,42.94333",
+    "geom:latitude":42.94333,
+    "geom:longitude":22.6625,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Dragovita",
+    "gn:country_code":"RS",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791096,
+    "gn:latitude":42.94333,
+    "gn:longitude":22.6625,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dragovita",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dragovita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791096,
+        "wk:page":"Dragovita"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"927495994bc17ec55006838956898a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209022687
+        }
+    ],
+    "wof:id":1209022687,
+    "wof:lastmodified":1537683807,
+    "wof:name":"Dragovita",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6625,
+    42.94333,
+    22.6625,
+    42.94333
+],
+  "geometry": {"coordinates":[22.6625,42.94333],"type":"Point"}
+}

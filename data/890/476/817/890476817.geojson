@@ -1,0 +1,86 @@
+{
+  "id": 890476817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0,45.0,20.0,45.0",
+    "geom:latitude":45.0,
+    "geom:longitude":20.0,
+    "gn:country":"RS",
+    "gn:fcode":"ADM1",
+    "gn:pop":2134409,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Autonomna Pokrajina Vojvodina"
+    ],
+    "name:eng_x_variant":[
+        "Vojvodina"
+    ],
+    "name:fra_x_preferred":[
+        "Vo\u00efvodine"
+    ],
+    "name:hun_x_preferred":[
+        "Vajdas\u00e1g Auton\u00f3m Tartom\u00e1ny"
+    ],
+    "name:hun_x_variant":[
+        "Vajdas\u00e1g"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Autonom\u0103 Voivodina"
+    ],
+    "name:unk_x_variant":[
+        "Socijalisti\u010dka Pokrajina Vojvodina"
+    ],
+    "qs:name":"Autonomna Pokrajina Vojvodina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784272,
+        "qs:id":83534
+    },
+    "wof:country":"RS",
+    "wof:created":1469054090,
+    "wof:geomhash":"611533a84477723905d554155fed38ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890476817
+        }
+    ],
+    "wof:id":890476817,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Autonomna Pokrajina Vojvodina",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:population":2134409,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0,
+    45.0,
+    20.0,
+    45.0
+],
+  "geometry": {"coordinates":[20.0,45.0],"type":"Point"}
+}

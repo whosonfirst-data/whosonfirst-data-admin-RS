@@ -1,0 +1,74 @@
+{
+  "id": 1276243383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57185,44.80767,20.57185,44.80767",
+    "geom:latitude":44.80767,
+    "geom:longitude":20.57185,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Slanci",
+    "gn:country_code":"RS",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785818,
+    "gn:latitude":44.80767,
+    "gn:longitude":20.57185,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Slanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Slanci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785818,
+        "wk:page":"Slanci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bbb4dd36f624f6c13aeed8fdbb70cc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":1276243383,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1276243383,
+    "wof:lastmodified":1537683715,
+    "wof:name":"Slanci",
+    "wof:parent_id":1108810015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57185,
+    44.80767,
+    20.57185,
+    44.80767
+],
+  "geometry": {"coordinates":[20.57185,44.80767],"type":"Point"}
+}

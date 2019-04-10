@@ -1,0 +1,65 @@
+{
+  "id": 1209120743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74163,43.39471,20.74163,43.39471",
+    "geom:latitude":43.39471,
+    "geom:longitude":20.74163,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Dorovici",
+    "gn:country_code":"RS",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835921,
+    "gn:latitude":43.39471,
+    "gn:longitude":20.74163,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u00d0orovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u00d0orovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835921
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"90989dc60bb3c0c24bf05f8d828f2b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120743
+        }
+    ],
+    "wof:id":1209120743,
+    "wof:lastmodified":1537683885,
+    "wof:name":"Dorovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74163,
+    43.39471,
+    20.74163,
+    43.39471
+],
+  "geometry": {"coordinates":[20.74163,43.39471],"type":"Point"}
+}

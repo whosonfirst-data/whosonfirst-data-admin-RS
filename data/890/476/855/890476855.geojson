@@ -1,0 +1,90 @@
+{
+  "id": 890476855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42287,43.15599,21.42287,43.15599",
+    "geom:latitude":43.15599,
+    "geom:longitude":21.42287,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":56,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bresnik"
+    ],
+    "name:eng_x_preferred":[
+        "Bresnik"
+    ],
+    "name:fre_x_preferred":[
+        "Bresnik"
+    ],
+    "name:may_x_preferred":[
+        "Bresnik"
+    ],
+    "name:por_x_preferred":[
+        "Bresnik"
+    ],
+    "name:slv_x_preferred":[
+        "Bresnik"
+    ],
+    "name:srp_x_preferred":[
+        "Bresnik"
+    ],
+    "qs:name":"Bresnik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792319,
+        "gp:id":537149,
+        "qs:id":83766,
+        "wd:id":"Q2735658"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054092,
+    "wof:geomhash":"de3039e559dac7c3876403ee8abcf8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890476855,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476855,
+    "wof:lastmodified":1514500295,
+    "wof:name":"Bresnik",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42287,
+    43.15599,
+    21.42287,
+    43.15599
+],
+  "geometry": {"coordinates":[21.42287,43.15599],"type":"Point"}
+}

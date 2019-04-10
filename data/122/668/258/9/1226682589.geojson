@@ -1,0 +1,96 @@
+{
+  "id": 1226682589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44139,44.74194,20.44139,44.74194",
+    "geom:latitude":44.74194,
+    "geom:longitude":20.44139,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:admin3_code":"70211.0",
+    "gn:asciiname":"Rakovica",
+    "gn:country_code":"RS",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":786500,
+    "gn:latitude":44.74194,
+    "gn:longitude":20.44139,
+    "gn:modification_date":"2012-04-14",
+    "gn:name":"Rakovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Rakovica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d9\u10dd\u10d5\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Rakovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "Rakovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u79d1\u7dad\u5bdf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810049,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786500,
+        "wk:page":"Rakovica%2C_Belgrade"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"209eba2cf1ca52a05b03e02fcf83a139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810049,
+            "locality_id":1226682589,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1226682589,
+    "wof:lastmodified":1537683729,
+    "wof:name":"Rakovica",
+    "wof:parent_id":1108810049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44139,
+    44.74194,
+    20.44139,
+    44.74194
+],
+  "geometry": {"coordinates":[20.44139,44.74194],"type":"Point"}
+}

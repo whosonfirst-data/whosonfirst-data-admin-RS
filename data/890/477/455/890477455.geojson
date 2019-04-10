@@ -1,0 +1,99 @@
+{
+  "id": 890477455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.295,44.51278,20.295,44.51278",
+    "geom:latitude":44.51278,
+    "geom:longitude":20.295,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2773,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:eng_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:fre_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:may_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:por_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:slv_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:srp_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:unk_x_variant":[
+        "Stepajevac"
+    ],
+    "qs:name":"Stepojevac",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Beograd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809951,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785489,
+        "gp:id":536900,
+        "qs:id":1218742,
+        "wd:id":"Q3103021",
+        "wk:page":"Stepojevac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054116,
+    "wof:geomhash":"8ca42163ce834128f06394f8ed5a152b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809951,
+            "locality_id":890477455,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890477455,
+    "wof:lastmodified":1527727180,
+    "wof:name":"Stepojevac",
+    "wof:parent_id":1108809951,
+    "wof:placetype":"locality",
+    "wof:population":2773,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.295,
+    44.51278,
+    20.295,
+    44.51278
+],
+  "geometry": {"coordinates":[20.295,44.51278],"type":"Point"}
+}

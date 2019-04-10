@@ -1,0 +1,66 @@
+{
+  "id": 1209229261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09797,43.84893,20.09797,43.84893",
+    "geom:latitude":43.84893,
+    "geom:longitude":20.09797,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Pilatovici",
+    "gn:country_code":"RS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837129,
+    "gn:latitude":43.84893,
+    "gn:longitude":20.09797,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pilatovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pilatovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837129,
+        "wk:page":"Pilatovi%C4%87i"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d915b2d2c1c0d7c36212b5da717ada19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229261
+        }
+    ],
+    "wof:id":1209229261,
+    "wof:lastmodified":1537683898,
+    "wof:name":"Pilatovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09797,
+    43.84893,
+    20.09797,
+    43.84893
+],
+  "geometry": {"coordinates":[20.09797,43.84893],"type":"Point"}
+}

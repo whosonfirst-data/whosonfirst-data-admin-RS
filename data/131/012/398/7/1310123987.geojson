@@ -1,0 +1,77 @@
+{
+  "id": 1310123987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8761,43.43692,19.8761,43.43692",
+    "geom:latitude":43.43692,
+    "geom:longitude":19.8761,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Komarani",
+    "gn:country_code":"RS",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197855,
+    "gn:latitude":43.43692,
+    "gn:longitude":19.8761,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Komarani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Komarani"
+    ],
+    "name:und_x_variant":[
+        "Komorani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809993,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197855,
+        "wk:page":"Komarani"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3bbc7fc5fb50f0f07f1e68f054bc6330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809993,
+            "locality_id":1310123987,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1310123987,
+    "wof:lastmodified":1537683938,
+    "wof:name":"Komarani",
+    "wof:parent_id":1108809993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8761,
+    43.43692,
+    19.8761,
+    43.43692
+],
+  "geometry": {"coordinates":[19.8761,43.43692],"type":"Point"}
+}

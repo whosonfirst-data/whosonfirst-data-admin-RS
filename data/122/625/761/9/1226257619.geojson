@@ -1,0 +1,77 @@
+{
+  "id": 1226257619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51679,44.39809,20.51679,44.39809",
+    "geom:latitude":44.39809,
+    "geom:longitude":20.51679,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Ranilovic",
+    "gn:country_code":"RS",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786479,
+    "gn:latitude":44.39809,
+    "gn:longitude":20.51679,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ranilovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ranilovi\u0107"
+    ],
+    "name:und_x_variant":[
+        "Ranilovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809817,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786479,
+        "wk:page":"Ranilovi%C4%87"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"24ea66e0574b758fe1b8dc18d021b409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809817,
+            "locality_id":1226257619,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226257619,
+    "wof:lastmodified":1537683729,
+    "wof:name":"Ranilovic",
+    "wof:parent_id":1108809817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51679,
+    44.39809,
+    20.51679,
+    44.39809
+],
+  "geometry": {"coordinates":[20.51679,44.39809],"type":"Point"}
+}

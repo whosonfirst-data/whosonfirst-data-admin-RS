@@ -1,0 +1,74 @@
+{
+  "id": 1209733945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00474,43.2731,22.00474,43.2731",
+    "geom:latitude":43.2731,
+    "geom:longitude":22.00474,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Radikina Bara",
+    "gn:country_code":"RS",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786600,
+    "gn:latitude":43.2731,
+    "gn:longitude":22.00474,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Radikina Bara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radikina Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809989,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786600,
+        "wk:page":"Radikina_Bara"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4c90434796ba8d29e3f21213726b60d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809989,
+            "locality_id":1209733945,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1209733945,
+    "wof:lastmodified":1537683731,
+    "wof:name":"Radikina Bara",
+    "wof:parent_id":1108809989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00474,
+    43.2731,
+    22.00474,
+    43.2731
+],
+  "geometry": {"coordinates":[22.00474,43.2731],"type":"Point"}
+}

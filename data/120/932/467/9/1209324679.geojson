@@ -1,0 +1,66 @@
+{
+  "id": 1209324679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21983,44.19393,20.21983,44.19393",
+    "geom:latitude":44.19393,
+    "geom:longitude":20.21983,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Kadina Luka",
+    "gn:country_code":"RS",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789706,
+    "gn:latitude":44.19393,
+    "gn:longitude":20.21983,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kadina Luka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kadina Luka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789706,
+        "wk:page":"Kadina_Luka"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"754b0a2b2adff8da892fee3e48b45aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209324679
+        }
+    ],
+    "wof:id":1209324679,
+    "wof:lastmodified":1537683784,
+    "wof:name":"Kadina Luka",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21983,
+    44.19393,
+    20.21983,
+    44.19393
+],
+  "geometry": {"coordinates":[20.21983,44.19393],"type":"Point"}
+}

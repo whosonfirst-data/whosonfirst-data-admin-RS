@@ -1,0 +1,70 @@
+{
+  "id": 1327246219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05086,42.41077,22.05086,42.41077",
+    "geom:latitude":42.41077,
+    "geom:longitude":22.05086,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Cokljanci",
+    "gn:country_code":"RS",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861183,
+    "gn:latitude":42.41077,
+    "gn:longitude":22.05086,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u010cokljanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861183
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e456fa797cf27c248dbf2bf91a47dabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1327246219,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1327246219,
+    "wof:lastmodified":1536949768,
+    "wof:name":"Cokljanci",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05086,
+    42.41077,
+    22.05086,
+    42.41077
+],
+  "geometry": {"coordinates":[22.05086,42.41077],"type":"Point"}
+}

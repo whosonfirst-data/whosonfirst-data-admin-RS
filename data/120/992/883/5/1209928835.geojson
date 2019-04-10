@@ -1,0 +1,74 @@
+{
+  "id": 1209928835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00831,44.88253,20.00831,44.88253",
+    "geom:latitude":44.88253,
+    "geom:longitude":20.00831,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Prhovo",
+    "gn:country_code":"RS",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786755,
+    "gn:latitude":44.88253,
+    "gn:longitude":20.00831,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Prhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Prhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810025,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786755,
+        "wk:page":"Prhovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"16560cdba31643a04bdbd83cd9b59d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810025,
+            "locality_id":1209928835,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1209928835,
+    "wof:lastmodified":1537683734,
+    "wof:name":"Prhovo",
+    "wof:parent_id":1108810025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00831,
+    44.88253,
+    20.00831,
+    44.88253
+],
+  "geometry": {"coordinates":[20.00831,44.88253],"type":"Point"}
+}

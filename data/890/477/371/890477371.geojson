@@ -1,0 +1,74 @@
+{
+  "id": 890477371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.57931,44.70224,19.57931,44.70224",
+    "geom:latitude":44.70224,
+    "geom:longitude":19.57931,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1375,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobri\u0107"
+    ],
+    "qs:name":"Dobri\u0107",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201946,
+        "gp:id":537305,
+        "qs:id":1044059,
+        "wd:id":"Q2771668",
+        "wk:page":"Dobri\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"cfe6bc9f981c765f477fad113c34a03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890477371,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477371,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Dobri\u0107",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":1375,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.57931,
+    44.70224,
+    19.57931,
+    44.70224
+],
+  "geometry": {"coordinates":[19.57931,44.70224],"type":"Point"}
+}

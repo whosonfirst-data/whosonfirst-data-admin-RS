@@ -1,0 +1,77 @@
+{
+  "id": 1259994451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96066,43.5455,19.96066,43.5455",
+    "geom:latitude":43.5455,
+    "geom:longitude":19.96066,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Mocioci",
+    "gn:country_code":"RS",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303791,
+    "gn:latitude":43.5455,
+    "gn:longitude":19.96066,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mo\u010dioci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mo\u010dioci"
+    ],
+    "name:und_x_variant":[
+        "Mo\u010dioce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303791,
+        "wk:page":"Mo%C4%8Dioci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f7eed9d042855628ef2e9a2c3d86f44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1259994451,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1259994451,
+    "wof:lastmodified":1537684008,
+    "wof:name":"Mocioci",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96066,
+    43.5455,
+    19.96066,
+    43.5455
+],
+  "geometry": {"coordinates":[19.96066,43.5455],"type":"Point"}
+}

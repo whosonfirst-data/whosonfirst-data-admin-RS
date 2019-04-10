@@ -1,0 +1,70 @@
+{
+  "id": 1225863057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3225,42.46611,22.3225,42.46611",
+    "geom:latitude":42.46611,
+    "geom:longitude":22.3225,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Dudina Mahala",
+    "gn:country_code":"RS",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861533,
+    "gn:latitude":42.46611,
+    "gn:longitude":22.3225,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dudina Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861533
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"15107ca59f2a55eacdf7cbcab8008ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1225863057,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1225863057,
+    "wof:lastmodified":1536987902,
+    "wof:name":"Dudina Mahala",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3225,
+    42.46611,
+    22.3225,
+    42.46611
+],
+  "geometry": {"coordinates":[22.3225,42.46611],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209929091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79772,43.17297,19.79772,43.17297",
+    "geom:latitude":43.17297,
+    "geom:longitude":19.79772,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Tutice",
+    "gn:country_code":"RS",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3306705,
+    "gn:latitude":43.17297,
+    "gn:longitude":19.79772,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Tuti\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tuti\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Tuti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810073,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306705,
+        "wk:page":"Tuti%C4%87e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"573dbd3c1f727c546ced75c6c961921f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810073,
+            "locality_id":1209929091,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1209929091,
+    "wof:lastmodified":1537684021,
+    "wof:name":"Tutice",
+    "wof:parent_id":1108810073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79772,
+    43.17297,
+    19.79772,
+    43.17297
+],
+  "geometry": {"coordinates":[19.79772,43.17297],"type":"Point"}
+}

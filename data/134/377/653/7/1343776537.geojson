@@ -1,0 +1,73 @@
+{
+  "id": 1343776537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34094,43.47734,20.34094,43.47734",
+    "geom:latitude":43.47734,
+    "geom:longitude":20.34094,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Milunovici",
+    "gn:country_code":"RS",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834959,
+    "gn:latitude":43.47734,
+    "gn:longitude":20.34094,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Milunovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Milunovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834959
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0b989b4bfa22bf1dae9b9f409ae7823c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1343776537,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1343776537,
+    "wof:lastmodified":1537683864,
+    "wof:name":"Milunovici",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34094,
+    43.47734000000001,
+    20.34094,
+    43.47734000000001
+],
+  "geometry": {"coordinates":[20.34094,43.47734000000001],"type":"Point"}
+}

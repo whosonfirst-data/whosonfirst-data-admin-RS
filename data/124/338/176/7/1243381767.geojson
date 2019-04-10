@@ -1,0 +1,70 @@
+{
+  "id": 1243381767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53861,44.44556,19.53861,44.44556",
+    "geom:latitude":44.44556,
+    "geom:longitude":19.53861,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Novakovica Mala",
+    "gn:country_code":"RS",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319230,
+    "gn:latitude":44.44556,
+    "gn:longitude":19.53861,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Novakovi\u0107a Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108810013,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319230
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6e4f0c5df15afee8270adeca4c6873d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810013,
+            "locality_id":1243381767,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1243381767,
+    "wof:lastmodified":1536898834,
+    "wof:name":"Novakovica Mala",
+    "wof:parent_id":1108810013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53861,
+    44.44556,
+    19.53861,
+    44.44556
+],
+  "geometry": {"coordinates":[19.53861,44.44556],"type":"Point"}
+}

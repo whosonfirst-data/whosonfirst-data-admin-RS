@@ -1,0 +1,68 @@
+{
+  "id": 890477727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54111,43.62556,20.54111,43.62556",
+    "geom:latitude":43.62556,
+    "geom:longitude":20.54111,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tr\u0161ljice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837441,
+        "gp:id":532811,
+        "qs:id":554478
+    },
+    "wof:country":"RS",
+    "wof:created":1469054128,
+    "wof:geomhash":"b785a21b0a1747ea51e5424a3ea99f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":890477727,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890477727,
+    "wof:lastmodified":1505343728,
+    "wof:name":"Tr\u0161ljice",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54111,
+    43.62556,
+    20.54111,
+    43.62556
+],
+  "geometry": {"coordinates":[20.54111,43.62556],"type":"Point"}
+}

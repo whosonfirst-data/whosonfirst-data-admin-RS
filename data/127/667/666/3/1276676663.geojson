@@ -1,0 +1,78 @@
+{
+  "id": 1276676663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8727,42.51414,21.8727,42.51414",
+    "geom:latitude":42.51414,
+    "geom:longitude":21.8727,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Gornji Neradovac",
+    "gn:country_code":"RS",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790364,
+    "gn:latitude":42.51414,
+    "gn:longitude":21.8727,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornji Neradovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornji Neradovac"
+    ],
+    "name:und_x_variant":[
+        "Neradovac (1)",
+        "Gornje Neradovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790364,
+        "wk:page":"Gornji_Neradovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b7b3fe9f1c251d65cda148cb7c18d702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1276676663,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1276676663,
+    "wof:lastmodified":1537683794,
+    "wof:name":"Gornji Neradovac",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8727,
+    42.51414000000001,
+    21.8727,
+    42.51414000000001
+],
+  "geometry": {"coordinates":[21.8727,42.51414000000001],"type":"Point"}
+}

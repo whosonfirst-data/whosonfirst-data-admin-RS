@@ -1,0 +1,65 @@
+{
+  "id": 1209120647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29695,42.87234,22.29695,42.87234",
+    "geom:latitude":42.87234,
+    "geom:longitude":22.29695,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Karakasi",
+    "gn:country_code":"RS",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835239,
+    "gn:latitude":42.87234,
+    "gn:longitude":22.29695,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Karaka\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Karaka\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835239
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5b3a7b0f98577a60201a61a05aab4883",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120647
+        }
+    ],
+    "wof:id":1209120647,
+    "wof:lastmodified":1537683871,
+    "wof:name":"Karakasi",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29695,
+    42.87234,
+    22.29695,
+    42.87234
+],
+  "geometry": {"coordinates":[22.29695,42.87234],"type":"Point"}
+}

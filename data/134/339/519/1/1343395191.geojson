@@ -1,0 +1,75 @@
+{
+  "id": 1343395191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92962,44.29199,20.92962,44.29199",
+    "geom:latitude":44.29199,
+    "geom:longitude":20.92962,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"71102.0",
+    "gn:asciiname":"Banicina",
+    "gn:country_code":"RS",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792930,
+    "gn:latitude":44.29199,
+    "gn:longitude":20.92962,
+    "gn:modification_date":"2016-10-21",
+    "gn:name":"Bani\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bani\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810077,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792930,
+        "wk:page":"Bani%C4%8Dina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cbaf0d0371f65024fa4e825d920812c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810077,
+            "locality_id":1343395191,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1343395191,
+    "wof:lastmodified":1537683838,
+    "wof:name":"Banicina",
+    "wof:parent_id":1108810077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92962,
+    44.29199000000001,
+    20.92962,
+    44.29199000000001
+],
+  "geometry": {"coordinates":[20.92962,44.29199000000001],"type":"Point"}
+}

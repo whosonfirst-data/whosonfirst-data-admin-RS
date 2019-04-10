@@ -1,0 +1,70 @@
+{
+  "id": 1242592347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58667,44.07556,21.58667,44.07556",
+    "geom:latitude":44.07556,
+    "geom:longitude":21.58667,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Novo Selo",
+    "gn:country_code":"RS",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":837829,
+    "gn:latitude":44.07556,
+    "gn:longitude":21.58667,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809885,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837829
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"137d5335e90243772fb93fc9ddf26e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809885,
+            "locality_id":1242592347,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1242592347,
+    "wof:lastmodified":1537040604,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":1108809885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58667,
+    44.07556,
+    21.58667,
+    44.07556
+],
+  "geometry": {"coordinates":[21.58667,44.07556],"type":"Point"}
+}

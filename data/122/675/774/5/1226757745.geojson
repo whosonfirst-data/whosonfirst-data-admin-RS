@@ -1,0 +1,74 @@
+{
+  "id": 1226757745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15901,44.03396,21.15901,44.03396",
+    "geom:latitude":44.03396,
+    "geom:longitude":21.15901,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Gornji Racnik",
+    "gn:country_code":"RS",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790360,
+    "gn:latitude":44.03396,
+    "gn:longitude":21.15901,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornji Ra\u010dnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornji Ra\u010dnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809907,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790360,
+        "wk:page":"Gornji_Ra%C4%8Dnik"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2eb5dc92df5722ced998773b89ff953c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809907,
+            "locality_id":1226757745,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1226757745,
+    "wof:lastmodified":1537683794,
+    "wof:name":"Gornji Racnik",
+    "wof:parent_id":1108809907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15901,
+    44.03396,
+    21.15901,
+    44.03396
+],
+  "geometry": {"coordinates":[21.15901,44.03396],"type":"Point"}
+}

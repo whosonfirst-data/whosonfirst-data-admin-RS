@@ -1,0 +1,79 @@
+{
+  "id": 1360103213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4697,42.97072,20.4697,42.97072",
+    "geom:latitude":42.97072,
+    "geom:longitude":20.4697,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Ribarice",
+    "gn:country_code":"RS",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786308,
+    "gn:latitude":42.97072,
+    "gn:longitude":20.4697,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ribari\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ribari\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Ribariq",
+        "Ribari\u0107i",
+        "Ribari\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786308,
+        "wk:page":"Ribari%C4%87e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"84c3df3b524877681dd8de04c46ab082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1360103213,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1360103213,
+    "wof:lastmodified":1537683725,
+    "wof:name":"Ribarice",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4697,
+    42.97072,
+    20.4697,
+    42.97072
+],
+  "geometry": {"coordinates":[20.4697,42.97072],"type":"Point"}
+}

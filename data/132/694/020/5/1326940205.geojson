@@ -1,0 +1,74 @@
+{
+  "id": 1326940205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07444,44.01722,20.07444,44.01722",
+    "geom:latitude":44.01722,
+    "geom:longitude":20.07444,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Mrselji",
+    "gn:country_code":"RS",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787807,
+    "gn:latitude":44.01722,
+    "gn:longitude":20.07444,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mr\u0161elji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mr\u0161elji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810037,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787807,
+        "wk:page":"Mr%C5%A1elji"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"171ae27e7a05545edadfd2103d70f0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810037,
+            "locality_id":1326940205,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1326940205,
+    "wof:lastmodified":1537683752,
+    "wof:name":"Mrselji",
+    "wof:parent_id":1108810037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07444,
+    44.01722,
+    20.07444,
+    44.01722
+],
+  "geometry": {"coordinates":[20.07444,44.01722],"type":"Point"}
+}

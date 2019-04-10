@@ -1,0 +1,111 @@
+{
+  "id": 890477327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.609,45.50928,20.609,45.50928",
+    "geom:latitude":45.50928,
+    "geom:longitude":20.609,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4289,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Torak"
+    ],
+    "name:eng_x_preferred":[
+        "Torak"
+    ],
+    "name:epo_x_preferred":[
+        "Torak"
+    ],
+    "name:fre_x_preferred":[
+        "Torak"
+    ],
+    "name:hrv_x_preferred":[
+        "Torak"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9gat\u00e1rnok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30af\uff08\u30b8\u30c6\u30a3\u30b7\u30e5\u30c6\uff09"
+    ],
+    "name:may_x_preferred":[
+        "Torak"
+    ],
+    "name:rum_x_preferred":[
+        "Torac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0430\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Torak"
+    ],
+    "name:srp_x_historical":[
+        "Begejci"
+    ],
+    "name:srp_x_preferred":[
+        "Begejci"
+    ],
+    "name:unk_x_variant":[
+        "Klein Torak"
+    ],
+    "qs:name":"Begejci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810167,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792807,
+        "gp:id":532626,
+        "qs:id":1029158,
+        "wd:id":"Q610526"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054111,
+    "wof:geomhash":"bd2cd809a45c7f735aa1fb91c0d745ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810167,
+            "locality_id":890477327,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477327,
+    "wof:lastmodified":1514500284,
+    "wof:name":"Begejci",
+    "wof:parent_id":1108810167,
+    "wof:placetype":"locality",
+    "wof:population":4289,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.609,
+    45.50928,
+    20.609,
+    45.50928
+],
+  "geometry": {"coordinates":[20.609,45.50928],"type":"Point"}
+}

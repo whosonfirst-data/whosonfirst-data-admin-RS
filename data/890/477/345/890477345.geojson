@@ -1,0 +1,104 @@
+{
+  "id": 890477345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97102,44.99259,19.97102,44.99259",
+    "geom:latitude":44.99259,
+    "geom:longitude":19.97102,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3075,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Putinci"
+    ],
+    "name:eng_x_preferred":[
+        "Putinci"
+    ],
+    "name:epo_x_preferred":[
+        "Putinci"
+    ],
+    "name:fre_x_preferred":[
+        "Putinci"
+    ],
+    "name:hrv_x_preferred":[
+        "Putinci"
+    ],
+    "name:hun_x_preferred":[
+        "Putinci"
+    ],
+    "name:may_x_preferred":[
+        "Putinci"
+    ],
+    "name:slv_x_preferred":[
+        "Putinci"
+    ],
+    "name:srp_x_preferred":[
+        "Putinci"
+    ],
+    "name:swe_x_preferred":[
+        "Putinci"
+    ],
+    "name:unk_x_variant":[
+        "Putincze"
+    ],
+    "qs:name":"Putinci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810059,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192185,
+        "gp:id":533931,
+        "qs:id":1043965,
+        "wd:id":"Q1041129",
+        "wk:page":"Putinci"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"fd67eaa45500e3d5448527722e2e947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810059,
+            "locality_id":890477345,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890477345,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Putinci",
+    "wof:parent_id":1108810059,
+    "wof:placetype":"locality",
+    "wof:population":3075,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97102,
+    44.99259,
+    19.97102,
+    44.99259
+],
+  "geometry": {"coordinates":[19.97102,44.99259],"type":"Point"}
+}

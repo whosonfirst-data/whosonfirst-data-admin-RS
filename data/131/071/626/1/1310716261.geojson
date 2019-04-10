@@ -1,0 +1,77 @@
+{
+  "id": 1310716261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03122,43.33428,22.03122,43.33428",
+    "geom:latitude":43.33428,
+    "geom:longitude":22.03122,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Malca",
+    "gn:country_code":"RS",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788288,
+    "gn:latitude":43.33428,
+    "gn:longitude":22.03122,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mal\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mal\u010da"
+    ],
+    "name:und_x_variant":[
+        "Mal\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108810021,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788288,
+        "wk:page":"Mal%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5f824161c76d8cab4c8f4e3913781cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810021,
+            "locality_id":1310716261,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1310716261,
+    "wof:lastmodified":1537683761,
+    "wof:name":"Malca",
+    "wof:parent_id":1108810021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03122,
+    43.33428,
+    22.03122,
+    43.33428
+],
+  "geometry": {"coordinates":[22.03122,43.33428],"type":"Point"}
+}

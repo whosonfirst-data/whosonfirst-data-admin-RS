@@ -1,0 +1,95 @@
+{
+  "id": 890477835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51087,43.06673,21.51087,43.06673",
+    "geom:latitude":43.06673,
+    "geom:longitude":21.51087,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":96,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Statoci i Mes\u00ebm"
+    ],
+    "name:dut_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:eng_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:fre_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:may_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:por_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:slv_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:srp_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "qs:name":"Srednji Statovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785622,
+        "gp:id":537761,
+        "qs:id":553656,
+        "wd:id":"Q2735155",
+        "wk:page":"Srednji Statovac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054133,
+    "wof:geomhash":"3ea03a3bae6e668be1de02e3a6e3ef2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477835,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477835,
+    "wof:lastmodified":1527727180,
+    "wof:name":"Srednji Statovac",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51087,
+    43.06673,
+    21.51087,
+    43.06673
+],
+  "geometry": {"coordinates":[21.51087,43.06673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309813495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02303,43.35028,21.02303,43.35028",
+    "geom:latitude":43.35028,
+    "geom:longitude":21.02303,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Drenova",
+    "gn:country_code":"RS",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791047,
+    "gn:latitude":43.35028,
+    "gn:longitude":21.02303,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Drenova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Drenova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809863,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791047
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b7c68d953bbdcb64407397cc68f2c40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809863,
+            "locality_id":1309813495,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1309813495,
+    "wof:lastmodified":1537683806,
+    "wof:name":"Drenova",
+    "wof:parent_id":1108809863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02303,
+    43.35028,
+    21.02303,
+    43.35028
+],
+  "geometry": {"coordinates":[21.02303,43.35028],"type":"Point"}
+}

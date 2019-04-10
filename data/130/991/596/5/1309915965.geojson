@@ -1,0 +1,73 @@
+{
+  "id": 1309915965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08417,43.60528,20.08417,43.60528",
+    "geom:latitude":43.60528,
+    "geom:longitude":20.08417,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Krusevlje",
+    "gn:country_code":"RS",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836791,
+    "gn:latitude":43.60528,
+    "gn:longitude":20.08417,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kru\u0161evlje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kru\u0161evlje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836791
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8990ced8cc3e964279221f34d01341d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1309915965,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1309915965,
+    "wof:lastmodified":1537683897,
+    "wof:name":"Krusevlje",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08417,
+    43.60528,
+    20.08417,
+    43.60528
+],
+  "geometry": {"coordinates":[20.08417,43.60528],"type":"Point"}
+}

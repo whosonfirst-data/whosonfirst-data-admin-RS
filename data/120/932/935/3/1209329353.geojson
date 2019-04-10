@@ -1,0 +1,67 @@
+{
+  "id": 1209329353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79,43.75944,20.79,43.75944",
+    "geom:latitude":43.75944,
+    "geom:longitude":20.79,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Milavcici",
+    "gn:country_code":"RS",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":862768,
+    "gn:latitude":43.75944,
+    "gn:longitude":20.79,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Milav\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milav\u010di\u0107",
+        "Milav\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862768,
+        "wk:page":"Milav%C4%8Di%C4%87i"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"55311184d51cfee5a4550ed6bda85a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209329353
+        }
+    ],
+    "wof:id":1209329353,
+    "wof:lastmodified":1537683914,
+    "wof:name":"Milavcici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79,
+    43.75944000000001,
+    20.79,
+    43.75944000000001
+],
+  "geometry": {"coordinates":[20.79,43.75944000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343373393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33742,42.94092,20.33742,42.94092",
+    "geom:latitude":42.94092,
+    "geom:longitude":20.33742,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Biohane",
+    "gn:country_code":"RS",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831664,
+    "gn:latitude":42.94092,
+    "gn:longitude":20.33742,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Biohane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Biohane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831664,
+        "wk:page":"Biohane"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dfa0bf26f634108c2a4943760940c453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1343373393,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1343373393,
+    "wof:lastmodified":1537683848,
+    "wof:name":"Biohane",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33742,
+    42.94092,
+    20.33742,
+    42.94092
+],
+  "geometry": {"coordinates":[20.33742,42.94092],"type":"Point"}
+}

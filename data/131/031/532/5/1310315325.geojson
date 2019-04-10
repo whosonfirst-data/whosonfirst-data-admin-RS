@@ -1,0 +1,74 @@
+{
+  "id": 1310315325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80487,43.37263,21.80487,43.37263",
+    "geom:latitude":43.37263,
+    "geom:longitude":21.80487,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Vrtiste",
+    "gn:country_code":"RS",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784119,
+    "gn:latitude":43.37263,
+    "gn:longitude":21.80487,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrti\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vrti\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809879,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784119,
+        "wk:page":"Vrti%C5%A1te"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c809c540cf7fbb5cade21cf17182bcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809879,
+            "locality_id":1310315325,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1310315325,
+    "wof:lastmodified":1537683689,
+    "wof:name":"Vrtiste",
+    "wof:parent_id":1108809879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80487,
+    43.37263,
+    21.80487,
+    43.37263
+],
+  "geometry": {"coordinates":[21.80487,43.37263],"type":"Point"}
+}

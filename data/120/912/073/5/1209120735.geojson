@@ -1,0 +1,68 @@
+{
+  "id": 1209120735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89108,43.48865,20.89108,43.48865",
+    "geom:latitude":43.48865,
+    "geom:longitude":20.89108,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Bzenice",
+    "gn:country_code":"RS",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792082,
+    "gn:latitude":43.48865,
+    "gn:longitude":20.89108,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bzenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bzenice"
+    ],
+    "name:und_x_variant":[
+        "Bzenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792082
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bb6c706b380d823134b8e5d25934a318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209120735
+        }
+    ],
+    "wof:id":1209120735,
+    "wof:lastmodified":1537683823,
+    "wof:name":"Bzenice",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89108,
+    43.48865,
+    20.89108,
+    43.48865
+],
+  "geometry": {"coordinates":[20.89108,43.48865],"type":"Point"}
+}

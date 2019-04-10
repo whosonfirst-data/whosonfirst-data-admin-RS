@@ -1,0 +1,77 @@
+{
+  "id": 1310516041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63772,43.27399,21.63772,43.27399",
+    "geom:latitude":43.27399,
+    "geom:longitude":21.63772,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Arbanasce",
+    "gn:country_code":"RS",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793104,
+    "gn:latitude":43.27399,
+    "gn:longitude":21.63772,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Arbanasce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Arbanasce"
+    ],
+    "name:und_x_variant":[
+        "Arbanasci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809979,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793104,
+        "wk:page":"Arbanasce"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"675f7bd8e432ebaa078d8c39d1234a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809979,
+            "locality_id":1310516041,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1310516041,
+    "wof:lastmodified":1537683842,
+    "wof:name":"Arbanasce",
+    "wof:parent_id":1108809979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63772,
+    43.27399000000001,
+    21.63772,
+    43.27399000000001
+],
+  "geometry": {"coordinates":[21.63772,43.27399000000001],"type":"Point"}
+}

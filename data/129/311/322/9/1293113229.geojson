@@ -1,0 +1,73 @@
+{
+  "id": 1293113229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76847,44.51929,19.76847,44.51929",
+    "geom:latitude":44.51929,
+    "geom:longitude":19.76847,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Mala Preseka",
+    "gn:country_code":"RS",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216861,
+    "gn:latitude":44.51929,
+    "gn:longitude":19.76847,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mala Preseka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mala Preseka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809921,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216861
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d1e4ac217451190e0b0d843982415111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809921,
+            "locality_id":1293113229,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1293113229,
+    "wof:lastmodified":1537683963,
+    "wof:name":"Mala Preseka",
+    "wof:parent_id":1108809921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76847,
+    44.51929000000001,
+    19.76847,
+    44.51929000000001
+],
+  "geometry": {"coordinates":[19.76847,44.51929000000001],"type":"Point"}
+}

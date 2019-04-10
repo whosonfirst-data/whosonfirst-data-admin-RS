@@ -1,0 +1,73 @@
+{
+  "id": 1343369483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84715,45.12647,19.84715,45.12647",
+    "geom:latitude":45.12647,
+    "geom:longitude":19.84715,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Staro Hopovo",
+    "gn:country_code":"RS",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10346394,
+    "gn:latitude":45.12647,
+    "gn:longitude":19.84715,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Staro Hopovo",
+    "gn:population":12,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809903,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10346394
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b215d428f58af37268e9fb37979097e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809903,
+            "locality_id":1343369483,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1343369483,
+    "wof:lastmodified":1536876521,
+    "wof:name":"Staro Hopovo",
+    "wof:parent_id":1108809903,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84715,
+    45.12647,
+    19.84715,
+    45.12647
+],
+  "geometry": {"coordinates":[19.84715,45.12647],"type":"Point"}
+}

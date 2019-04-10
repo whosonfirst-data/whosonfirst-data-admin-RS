@@ -1,0 +1,92 @@
+{
+  "id": 890477355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50101,44.69783,19.50101,44.69783",
+    "geom:latitude":44.69783,
+    "geom:longitude":19.50101,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":3212,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lipolist"
+    ],
+    "name:eng_x_preferred":[
+        "Lipolist"
+    ],
+    "name:fre_x_preferred":[
+        "Lipolist"
+    ],
+    "name:may_x_preferred":[
+        "Lipolist"
+    ],
+    "name:por_x_preferred":[
+        "Lipolist"
+    ],
+    "name:slv_x_preferred":[
+        "Lipolist"
+    ],
+    "name:srp_x_preferred":[
+        "Lipolist"
+    ],
+    "qs:name":"Lipolist",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196511,
+        "gp:id":535922,
+        "qs:id":1044033,
+        "wd:id":"Q2736643",
+        "wk:page":"Lipolist"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"f875707b723e670b645bfbf444296a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":890477355,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477355,
+    "wof:lastmodified":1527727177,
+    "wof:name":"Lipolist",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:population":3212,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50101,
+    44.69783,
+    19.50101,
+    44.69783
+],
+  "geometry": {"coordinates":[19.50101,44.69783],"type":"Point"}
+}

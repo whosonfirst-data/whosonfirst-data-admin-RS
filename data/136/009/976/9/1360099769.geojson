@@ -1,0 +1,74 @@
+{
+  "id": 1360099769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01668,43.67064,22.01668,43.67064",
+    "geom:latitude":43.67064,
+    "geom:longitude":22.01668,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Milusinac",
+    "gn:country_code":"RS",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787943,
+    "gn:latitude":43.67064,
+    "gn:longitude":22.01668,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Milu\u0161inac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Milu\u0161inac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810079,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787943,
+        "wk:page":"Milu%C5%A1inac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b01734f78284da902ca5f970c022edfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810079,
+            "locality_id":1360099769,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1360099769,
+    "wof:lastmodified":1537683754,
+    "wof:name":"Milusinac",
+    "wof:parent_id":1108810079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01668,
+    43.67064,
+    22.01668,
+    43.67064
+],
+  "geometry": {"coordinates":[22.01668,43.67064],"type":"Point"}
+}

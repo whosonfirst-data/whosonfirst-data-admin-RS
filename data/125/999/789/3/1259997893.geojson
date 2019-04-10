@@ -1,0 +1,73 @@
+{
+  "id": 1259997893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73426,44.73745,19.73426,44.73745",
+    "geom:latitude":44.73745,
+    "geom:longitude":19.73426,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Dumaca",
+    "gn:country_code":"RS",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217035,
+    "gn:latitude":44.73745,
+    "gn:longitude":19.73426,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Duma\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Duma\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810061,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217035
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a41c87c3e983480b31f98076957a1ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810061,
+            "locality_id":1259997893,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1259997893,
+    "wof:lastmodified":1537683965,
+    "wof:name":"Dumaca",
+    "wof:parent_id":1108810061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73426,
+    44.73745,
+    19.73426,
+    44.73745
+],
+  "geometry": {"coordinates":[19.73426,44.73745],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343975989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8025,43.37417,19.8025,43.37417",
+    "geom:latitude":43.37417,
+    "geom:longitude":19.8025,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Gornje Pravosevo",
+    "gn:country_code":"RS",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317339,
+    "gn:latitude":43.37417,
+    "gn:longitude":19.8025,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornje Pravo\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornje Pravo\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810043,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317339
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6ee88fb60d3ed1eeceeb740fdb78f653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810043,
+            "locality_id":1343975989,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1343975989,
+    "wof:lastmodified":1537684024,
+    "wof:name":"Gornje Pravosevo",
+    "wof:parent_id":1108810043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8025,
+    43.37417,
+    19.8025,
+    43.37417
+],
+  "geometry": {"coordinates":[19.8025,43.37417],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209018983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60222,43.45944,20.60222,43.45944",
+    "geom:latitude":43.45944,
+    "geom:longitude":20.60222,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Usce",
+    "gn:country_code":"RS",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":835832,
+    "gn:latitude":43.45944,
+    "gn:longitude":20.60222,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"U\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "U\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835832
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9b5af052398e8e3c86ad039d854a73af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209018983
+        }
+    ],
+    "wof:id":1209018983,
+    "wof:lastmodified":1537683883,
+    "wof:name":"Usce",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60222000000001,
+    43.45944,
+    20.60222000000001,
+    43.45944
+],
+  "geometry": {"coordinates":[20.60222000000001,43.45944],"type":"Point"}
+}

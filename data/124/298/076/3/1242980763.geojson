@@ -1,0 +1,73 @@
+{
+  "id": 1242980763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12446,43.31485,22.12446,43.31485",
+    "geom:latitude":43.31485,
+    "geom:longitude":22.12446,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Ostrovica",
+    "gn:country_code":"RS",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787313,
+    "gn:latitude":43.31485,
+    "gn:longitude":22.12446,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ostrovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ostrovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809989,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787313
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0ee9eda1494cb3d7ebfab2fedd768969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809989,
+            "locality_id":1242980763,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1242980763,
+    "wof:lastmodified":1537683744,
+    "wof:name":"Ostrovica",
+    "wof:parent_id":1108809989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12446,
+    43.31485,
+    22.12446,
+    43.31485
+],
+  "geometry": {"coordinates":[22.12446,43.31485],"type":"Point"}
+}

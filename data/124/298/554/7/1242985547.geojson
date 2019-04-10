@@ -1,0 +1,73 @@
+{
+  "id": 1242985547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15037,43.48215,22.15037,43.48215",
+    "geom:latitude":43.48215,
+    "geom:longitude":22.15037,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Miljkovac",
+    "gn:country_code":"RS",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787956,
+    "gn:latitude":43.48215,
+    "gn:longitude":22.15037,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Miljkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Miljkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108809919,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787956
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8adeb68ebd52be8cae2f611f7a829653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809919,
+            "locality_id":1242985547,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1242985547,
+    "wof:lastmodified":1537683755,
+    "wof:name":"Miljkovac",
+    "wof:parent_id":1108809919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15037,
+    43.48215,
+    22.15037,
+    43.48215
+],
+  "geometry": {"coordinates":[22.15037,43.48215],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243077559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50787,43.27812,21.50787,43.27812",
+    "geom:latitude":43.27812,
+    "geom:longitude":21.50787,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Pasinac",
+    "gn:country_code":"RS",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787192,
+    "gn:latitude":43.27812,
+    "gn:longitude":21.50787,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pa\u0161inac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pa\u0161inac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787192,
+        "wk:page":"Pa%C5%A1inac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"72e473ab2e1e76012d86d19226db262b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1243077559,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1243077559,
+    "wof:lastmodified":1537683742,
+    "wof:name":"Pasinac",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50787,
+    43.27812,
+    21.50787,
+    43.27812
+],
+  "geometry": {"coordinates":[21.50787,43.27812],"type":"Point"}
+}

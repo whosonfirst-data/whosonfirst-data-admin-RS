@@ -1,0 +1,95 @@
+{
+  "id": 890476719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31943,43.18284,21.31943,43.18284",
+    "geom:latitude":43.18284,
+    "geom:longitude":21.31943,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":232,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0448\u0435\u0432\u0430\u0446"
+    ],
+    "name:dut_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "name:eng_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "name:fre_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "name:may_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "name:por_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "name:slv_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "name:srp_x_preferred":[
+        "Vr\u0161evac"
+    ],
+    "qs:name":"Vr\u0161evac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784129,
+        "gp:id":536799,
+        "qs:id":553575,
+        "wd:id":"Q2730156",
+        "wk:page":"Vr\u0161evac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054086,
+    "wof:geomhash":"28ad00234dde683b84969f2af0f129e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":890476719,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476719,
+    "wof:lastmodified":1527727153,
+    "wof:name":"Vr\u0161evac",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:population":232,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31943,
+    43.18284,
+    21.31943,
+    43.18284
+],
+  "geometry": {"coordinates":[21.31943,43.18284],"type":"Point"}
+}

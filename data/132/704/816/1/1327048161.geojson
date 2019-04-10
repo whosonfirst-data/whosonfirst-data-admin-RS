@@ -1,0 +1,70 @@
+{
+  "id": 1327048161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15378,42.70231,22.15378,42.70231",
+    "geom:latitude":42.70231,
+    "geom:longitude":22.15378,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Bijelo Polje",
+    "gn:country_code":"RS",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861049,
+    "gn:latitude":42.70231,
+    "gn:longitude":22.15378,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bijelo Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861049
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6daa3abda005bb90344e12b5dded9350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1327048161,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1327048161,
+    "wof:lastmodified":1536737641,
+    "wof:name":"Bijelo Polje",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15378,
+    42.70231,
+    22.15378,
+    42.70231
+],
+  "geometry": {"coordinates":[22.15378,42.70231],"type":"Point"}
+}

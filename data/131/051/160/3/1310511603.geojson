@@ -1,0 +1,77 @@
+{
+  "id": 1310511603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10093,42.84283,22.10093,42.84283",
+    "geom:latitude":42.84283,
+    "geom:longitude":22.10093,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Graovo",
+    "gn:country_code":"RS",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790196,
+    "gn:latitude":42.84283,
+    "gn:longitude":22.10093,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Graovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Graovo"
+    ],
+    "name:und_x_variant":[
+        "Gornje Grahovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790196,
+        "wk:page":"Graovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8d1ae5ada74780c0fedc777dd381ff1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1310511603,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1310511603,
+    "wof:lastmodified":1537683791,
+    "wof:name":"Graovo",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10093,
+    42.84283,
+    22.10093,
+    42.84283
+],
+  "geometry": {"coordinates":[22.10093,42.84283],"type":"Point"}
+}

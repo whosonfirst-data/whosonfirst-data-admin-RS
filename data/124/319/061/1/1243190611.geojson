@@ -1,0 +1,74 @@
+{
+  "id": 1243190611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20163,44.40252,20.20163,44.40252",
+    "geom:latitude":44.40252,
+    "geom:longitude":20.20163,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Jabucje",
+    "gn:country_code":"RS",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789939,
+    "gn:latitude":44.40252,
+    "gn:longitude":20.20163,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jabu\u010dje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jabu\u010dje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809947,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789939,
+        "wk:page":"Jabu%C4%8Dje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5641ce2dce0c9c41806136ea059c0a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809947,
+            "locality_id":1243190611,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1243190611,
+    "wof:lastmodified":1537683788,
+    "wof:name":"Jabucje",
+    "wof:parent_id":1108809947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20163,
+    44.40252,
+    20.20163,
+    44.40252
+],
+  "geometry": {"coordinates":[20.20163,44.40252],"type":"Point"}
+}

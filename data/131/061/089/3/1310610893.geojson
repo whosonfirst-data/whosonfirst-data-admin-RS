@@ -1,0 +1,74 @@
+{
+  "id": 1310610893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59972,43.05951,21.59972,43.05951",
+    "geom:latitude":43.05951,
+    "geom:longitude":21.59972,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Bublica",
+    "gn:country_code":"RS",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792208,
+    "gn:latitude":43.05951,
+    "gn:longitude":21.59972,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bublica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bublica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792208,
+        "wk:page":"Bublica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b55f27af234988da0947592fcd532fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1310610893,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1310610893,
+    "wof:lastmodified":1537683826,
+    "wof:name":"Bublica",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59972,
+    43.05951,
+    21.59972,
+    43.05951
+],
+  "geometry": {"coordinates":[21.59972,43.05951],"type":"Point"}
+}

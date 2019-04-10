@@ -1,0 +1,74 @@
+{
+  "id": 1276676329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42524,44.12913,21.42524,44.12913",
+    "geom:latitude":44.12913,
+    "geom:longitude":21.42524,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Miliva",
+    "gn:country_code":"RS",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787962,
+    "gn:latitude":44.12913,
+    "gn:longitude":21.42524,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Miliva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Miliva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809885,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787962,
+        "wk:page":"Miliva"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c0f19e420fc1b46d5a193452abd2aca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809885,
+            "locality_id":1276676329,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1276676329,
+    "wof:lastmodified":1537683755,
+    "wof:name":"Miliva",
+    "wof:parent_id":1108809885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42524,
+    44.12913,
+    21.42524,
+    44.12913
+],
+  "geometry": {"coordinates":[21.42524,44.12913],"type":"Point"}
+}

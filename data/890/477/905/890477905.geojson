@@ -1,0 +1,74 @@
+{
+  "id": 890477905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47487,43.162,21.47487,43.162",
+    "geom:latitude":43.162,
+    "geom:longitude":21.47487,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":25,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bukoloram"
+    ],
+    "qs:name":"Bukoloram",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792165,
+        "gp:id":537149,
+        "qs:id":554056,
+        "wd:id":"Q2734727",
+        "wk:page":"Bukoloram"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054136,
+    "wof:geomhash":"79c0ab5f37a070fb9e685dca33cdb11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477905,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477905,
+    "wof:lastmodified":1527727183,
+    "wof:name":"Bukoloram",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47487,
+    43.162,
+    21.47487,
+    43.162
+],
+  "geometry": {"coordinates":[21.47487,43.162],"type":"Point"}
+}

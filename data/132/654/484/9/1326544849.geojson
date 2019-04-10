@@ -1,0 +1,74 @@
+{
+  "id": 1326544849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38453,44.48488,20.38453,44.48488",
+    "geom:latitude":44.48488,
+    "geom:longitude":20.38453,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Rozanci",
+    "gn:country_code":"RS",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786232,
+    "gn:latitude":44.48488,
+    "gn:longitude":20.38453,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ro\u017eanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ro\u017eanci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809835,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786232,
+        "wk:page":"Ro%C5%BEanci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2b90a3ba59a7115c26ba45aac44e08f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809835,
+            "locality_id":1326544849,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1326544849,
+    "wof:lastmodified":1537683723,
+    "wof:name":"Rozanci",
+    "wof:parent_id":1108809835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38453,
+    44.48488,
+    20.38453,
+    44.48488
+],
+  "geometry": {"coordinates":[20.38453,44.48488],"type":"Point"}
+}

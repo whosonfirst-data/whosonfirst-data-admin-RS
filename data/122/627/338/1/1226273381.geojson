@@ -1,0 +1,79 @@
+{
+  "id": 1226273381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83523,45.87691,19.83523,45.87691",
+    "geom:latitude":45.87691,
+    "geom:longitude":19.83523,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"80365.0",
+    "gn:asciiname":"Tornjos",
+    "gn:country_code":"RS",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188955,
+    "gn:latitude":45.87691,
+    "gn:longitude":19.83523,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Tornjo\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tornjo\u0161"
+    ],
+    "name:und_x_variant":[
+        "Tornyos",
+        "Tornio\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108810067,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188955,
+        "wk:page":"Tornjo%C5%A1"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"724bdbdedfafb7c4c494b9dcc82dd6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810067,
+            "locality_id":1226273381,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1226273381,
+    "wof:lastmodified":1537683920,
+    "wof:name":"Tornjos",
+    "wof:parent_id":1108810067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83523,
+    45.87691,
+    19.83523,
+    45.87691
+],
+  "geometry": {"coordinates":[19.83523,45.87691],"type":"Point"}
+}

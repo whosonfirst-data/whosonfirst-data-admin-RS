@@ -1,0 +1,70 @@
+{
+  "id": 1310711969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19694,42.40861,22.19694,42.40861",
+    "geom:latitude":42.40861,
+    "geom:longitude":22.19694,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Trnjarci",
+    "gn:country_code":"RS",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861151,
+    "gn:latitude":42.40861,
+    "gn:longitude":22.19694,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trnjarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861151
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cc29658e2b7f7c1b660be1335a775e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1310711969,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1310711969,
+    "wof:lastmodified":1536616691,
+    "wof:name":"Trnjarci",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19694,
+    42.40861,
+    22.19694,
+    42.40861
+],
+  "geometry": {"coordinates":[22.19694,42.40861],"type":"Point"}
+}

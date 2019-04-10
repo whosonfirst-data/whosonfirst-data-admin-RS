@@ -1,0 +1,73 @@
+{
+  "id": 1259493455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.30933,44.43225,19.30933,44.43225",
+    "geom:latitude":44.43225,
+    "geom:longitude":19.30933,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Donji Kostajnik",
+    "gn:country_code":"RS",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216801,
+    "gn:latitude":44.43225,
+    "gn:longitude":19.30933,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donji Kostajnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Kostajnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809935,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216801
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a863dfc93b75d572af5f8dc9fdc4dd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809935,
+            "locality_id":1259493455,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1259493455,
+    "wof:lastmodified":1537683962,
+    "wof:name":"Donji Kostajnik",
+    "wof:parent_id":1108809935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.30933,
+    44.43225,
+    19.30933,
+    44.43225
+],
+  "geometry": {"coordinates":[19.30933,44.43225],"type":"Point"}
+}

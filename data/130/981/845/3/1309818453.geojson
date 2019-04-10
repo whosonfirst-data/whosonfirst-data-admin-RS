@@ -1,0 +1,74 @@
+{
+  "id": 1309818453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50889,43.53111,19.50889,43.53111",
+    "geom:latitude":43.53111,
+    "geom:longitude":19.50889,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Dobrilovici",
+    "gn:country_code":"RS",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201937,
+    "gn:latitude":43.53111,
+    "gn:longitude":19.50889,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobrilovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobrilovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810041,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201937,
+        "wk:page":"Dobrilovi%C4%87i"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"343e97a45ea657067a04f332cd3f5a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810041,
+            "locality_id":1309818453,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1309818453,
+    "wof:lastmodified":1537683945,
+    "wof:name":"Dobrilovici",
+    "wof:parent_id":1108810041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50889,
+    43.53111,
+    19.50889,
+    43.53111
+],
+  "geometry": {"coordinates":[19.50889,43.53111],"type":"Point"}
+}

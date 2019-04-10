@@ -1,0 +1,62 @@
+{
+  "id": 1209424901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28045,42.70147,22.28045,42.70147",
+    "geom:latitude":42.70147,
+    "geom:longitude":22.28045,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Bliznaci",
+    "gn:country_code":"RS",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861741,
+    "gn:latitude":42.70147,
+    "gn:longitude":22.28045,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bliznaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861741
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"add161d07ac51de359c2268785ae9a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209424901
+        }
+    ],
+    "wof:id":1209424901,
+    "wof:lastmodified":1536287411,
+    "wof:name":"Bliznaci",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28045,
+    42.70147,
+    22.28045,
+    42.70147
+],
+  "geometry": {"coordinates":[22.28045,42.70147],"type":"Point"}
+}

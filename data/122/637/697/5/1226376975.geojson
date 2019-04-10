@@ -1,0 +1,97 @@
+{
+  "id": 1226376975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26111,45.50667,19.26111,45.50667",
+    "geom:latitude":45.50667,
+    "geom:longitude":19.26111,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"3194208.0",
+    "gn:asciiname":"Odzaci",
+    "gn:country_code":"RS",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3194209,
+    "gn:latitude":45.50667,
+    "gn:longitude":19.26111,
+    "gn:modification_date":"2012-04-12",
+    "gn:name":"Od\u017eaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Od\u0135aci"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0648\u062f\u0698\u0627\u0686\u06cc"
+    ],
+    "name:srp_x_preferred":[
+        "Od\u017eaci"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u045f\u0430\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0434\u0436\u0430\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Hanfhausen",
+        "Hodschach",
+        "Hocsak",
+        "Hodschag",
+        "H\u00f3ds\u00e1g"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u624e\u9f4a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810009,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194209,
+        "wk:page":"Od%C5%BEaci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ddcb812a276afeef0e08da0f0a1fd0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810009,
+            "locality_id":1226376975,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1226376975,
+    "wof:lastmodified":1537683930,
+    "wof:name":"Odzaci",
+    "wof:parent_id":1108810009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26111,
+    45.50667,
+    19.26111,
+    45.50667
+],
+  "geometry": {"coordinates":[19.26111,45.50667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327148959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60056,43.16083,20.60056,43.16083",
+    "geom:latitude":43.16083,
+    "geom:longitude":20.60056,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Jova",
+    "gn:country_code":"RS",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789754,
+    "gn:latitude":43.16083,
+    "gn:longitude":20.60056,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Jova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789754,
+        "wk:page":"Jova_%28Novi_Pazar%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4e9d764a475c6ad13b118c9978da2c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1327148959,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1327148959,
+    "wof:lastmodified":1537683785,
+    "wof:name":"Jova",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60056,
+    43.16083,
+    20.60056,
+    43.16083
+],
+  "geometry": {"coordinates":[20.60056,43.16083],"type":"Point"}
+}

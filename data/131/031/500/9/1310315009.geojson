@@ -1,0 +1,74 @@
+{
+  "id": 1310315009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74031,43.25863,20.74031,43.25863",
+    "geom:latitude":43.25863,
+    "geom:longitude":20.74031,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Sipacina",
+    "gn:country_code":"RS",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785887,
+    "gn:latitude":43.25863,
+    "gn:longitude":20.74031,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160ipa\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160ipa\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810051,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785887,
+        "wk:page":"%C5%A0ipa%C4%8Dina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fdd5cd91a652d3f06dbef58883907919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810051,
+            "locality_id":1310315009,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1310315009,
+    "wof:lastmodified":1537683717,
+    "wof:name":"Sipacina",
+    "wof:parent_id":1108810051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74031,
+    43.25863,
+    20.74031,
+    43.25863
+],
+  "geometry": {"coordinates":[20.74031,43.25863],"type":"Point"}
+}

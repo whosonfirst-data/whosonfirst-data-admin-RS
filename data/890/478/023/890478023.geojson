@@ -1,0 +1,72 @@
+{
+  "id": 890478023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.127639,45.0741865,20.127639,45.0741865",
+    "geom:latitude":45.074187,
+    "geom:longitude":20.127639,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Indjija",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srem",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1620,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809901,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":534294,
+        "qs:id":265210,
+        "wd:id":"Q309341",
+        "wk:page":"In\u0111ija"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054141,
+    "wof:geomhash":"5fd7fdaf31af898ad7f3f576e535af51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809901,
+            "locality_id":890478023,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890478023,
+    "wof:lastmodified":1527727115,
+    "wof:name":"Indjija",
+    "wof:parent_id":1108809901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.127639,
+    45.0741865,
+    20.127639,
+    45.0741865
+],
+  "geometry": {"coordinates":[20.127639,45.0741865],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276238203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19001,44.35822,20.19001,44.35822",
+    "geom:latitude":44.35822,
+    "geom:longitude":20.19001,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Celije",
+    "gn:country_code":"RS",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792010,
+    "gn:latitude":44.35822,
+    "gn:longitude":20.19001,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0106elije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0106elije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809947,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792010
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4368d5417f478591e7a0c58e8b9de738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809947,
+            "locality_id":1276238203,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1276238203,
+    "wof:lastmodified":1537683823,
+    "wof:name":"Celije",
+    "wof:parent_id":1108809947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19001,
+    44.35822,
+    20.19001,
+    44.35822
+],
+  "geometry": {"coordinates":[20.19001,44.35822],"type":"Point"}
+}

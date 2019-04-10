@@ -1,0 +1,76 @@
+{
+  "id": 890476815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36075,43.58928,21.36075,43.58928",
+    "geom:latitude":43.58928,
+    "geom:longitude":21.36075,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dedina"
+    ],
+    "qs:name":"Dedina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"43.590277777",
+    "wd:longitude":"21.365833333",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809937,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791572,
+        "gp:id":534843,
+        "qs:id":554020,
+        "wd:id":"Q1002208",
+        "wk:page":"Dedina"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054090,
+    "wof:geomhash":"ffd36d8d8216e28249f578df73cf1fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809937,
+            "locality_id":890476815,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":890476815,
+    "wof:lastmodified":1527727151,
+    "wof:name":"Dedina",
+    "wof:parent_id":1108809937,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36075,
+    43.58928,
+    21.36075,
+    43.58928
+],
+  "geometry": {"coordinates":[21.36075,43.58928],"type":"Point"}
+}

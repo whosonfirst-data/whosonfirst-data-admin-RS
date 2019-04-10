@@ -1,0 +1,77 @@
+{
+  "id": 1259501775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32382,42.35133,22.32382,42.35133",
+    "geom:latitude":42.35133,
+    "geom:longitude":22.32382,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Karamanica",
+    "gn:country_code":"RS",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789573,
+    "gn:latitude":42.35133,
+    "gn:longitude":22.32382,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Karamanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Karamanica"
+    ],
+    "name:und_x_variant":[
+        "Karamanic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789573,
+        "wk:page":"Karamanica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"356d801428821341ddcbab3a0171ecb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1259501775,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1259501775,
+    "wof:lastmodified":1537683782,
+    "wof:name":"Karamanica",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32382,
+    42.35133,
+    22.32382,
+    42.35133
+],
+  "geometry": {"coordinates":[22.32382,42.35133],"type":"Point"}
+}

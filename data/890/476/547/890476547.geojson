@@ -1,0 +1,107 @@
+{
+  "id": 890476547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7003,45.55918,20.7003,45.55918",
+    "geom:latitude":45.55918,
+    "geom:longitude":20.7003,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1553,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:eng_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:epo_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:fre_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:hrv_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarittab\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:rum_x_preferred":[
+        "Novi Itabej"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438-\u0418\u0442\u0435\u0431\u0435\u0439"
+    ],
+    "name:slv_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:srp_x_preferred":[
+        "Novi Itebej"
+    ],
+    "name:unk_x_variant":[
+        "Ittebe"
+    ],
+    "qs:name":"Novi Itebej",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810167,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787602,
+        "gp:id":536832,
+        "qs:id":129505,
+        "wd:id":"Q1048908",
+        "wk:page":"Novi Itebej"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054080,
+    "wof:geomhash":"817f464fb9f9e829e37c3195186c97bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810167,
+            "locality_id":890476547,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476547,
+    "wof:lastmodified":1527727153,
+    "wof:name":"Novi Itebej",
+    "wof:parent_id":1108810167,
+    "wof:placetype":"locality",
+    "wof:population":1553,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7003,
+    45.55918,
+    20.7003,
+    45.55918
+],
+  "geometry": {"coordinates":[20.7003,45.55918],"type":"Point"}
+}

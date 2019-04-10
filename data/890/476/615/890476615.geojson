@@ -1,0 +1,70 @@
+{
+  "id": 890476615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44668,43.74432,20.44668,43.74432",
+    "geom:latitude":43.74432,
+    "geom:longitude":20.44668,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Li\u0161ani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838241,
+        "gp:id":535542,
+        "qs:id":554511,
+        "wk:page":"Ananea District"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054082,
+    "wof:geomhash":"1a1a37fce0c3997d2df19667b985256f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":890476615,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890476615,
+    "wof:lastmodified":1527727151,
+    "wof:name":"Li\u0161ani",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44668,
+    43.74432,
+    20.44668,
+    43.74432
+],
+  "geometry": {"coordinates":[20.44668,43.74432],"type":"Point"}
+}

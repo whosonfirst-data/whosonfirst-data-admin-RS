@@ -1,0 +1,81 @@
+{
+  "id": 1242692563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.255,44.87639,21.255,44.87639",
+    "geom:latitude":44.87639,
+    "geom:longitude":21.255,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Kajtasovo",
+    "gn:country_code":"RS",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789695,
+    "gn:latitude":44.87639,
+    "gn:longitude":21.255,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kajtasovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kajtasovo"
+    ],
+    "name:und_x_variant":[
+        "Gajtas",
+        "Greben\u00e1cz",
+        "Gerebenc",
+        "Gerebencz",
+        "Grebenac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809843,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789695,
+        "wk:page":"Kajtasovo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4cec8933e4474b5226347f840cfd0b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809843,
+            "locality_id":1242692563,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1242692563,
+    "wof:lastmodified":1537683784,
+    "wof:name":"Kajtasovo",
+    "wof:parent_id":1108809843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.255,
+    44.87639,
+    21.255,
+    44.87639
+],
+  "geometry": {"coordinates":[21.255,44.87639],"type":"Point"}
+}

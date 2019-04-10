@@ -1,0 +1,74 @@
+{
+  "id": 1260098365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61895,44.04169,20.61895,44.04169",
+    "geom:latitude":44.04169,
+    "geom:longitude":20.61895,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Vracevsnica",
+    "gn:country_code":"RS",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784247,
+    "gn:latitude":44.04169,
+    "gn:longitude":20.61895,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vra\u0107ev\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vra\u0107ev\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809897,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784247,
+        "wk:page":"Vra%C4%87ev%C5%A1nica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e261548381b4afc49944cc38931a4821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809897,
+            "locality_id":1260098365,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1260098365,
+    "wof:lastmodified":1537683691,
+    "wof:name":"Vracevsnica",
+    "wof:parent_id":1108809897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61895,
+    44.04169,
+    20.61895,
+    44.04169
+],
+  "geometry": {"coordinates":[20.61895,44.04169],"type":"Point"}
+}

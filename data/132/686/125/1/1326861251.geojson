@@ -1,0 +1,74 @@
+{
+  "id": 1326861251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.992,44.185,19.992,44.185",
+    "geom:latitude":44.185,
+    "geom:longitude":19.992,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"70831.0",
+    "gn:asciiname":"Golubac",
+    "gn:country_code":"RS",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790561,
+    "gn:latitude":44.185,
+    "gn:longitude":19.992,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Golubac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Golubac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809983,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790561
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fb13cc0e8d8dbc87babc63fc7f3a662d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809983,
+            "locality_id":1326861251,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1326861251,
+    "wof:lastmodified":1537683799,
+    "wof:name":"Golubac",
+    "wof:parent_id":1108809983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.992,
+    44.185,
+    19.992,
+    44.185
+],
+  "geometry": {"coordinates":[19.992,44.185],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259994493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56756,43.65366,21.56756,43.65366",
+    "geom:latitude":43.65366,
+    "geom:longitude":21.56756,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Lipovac",
+    "gn:country_code":"RS",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788641,
+    "gn:latitude":43.65366,
+    "gn:longitude":21.56756,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lipovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lipovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108810055,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788641
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0d7fb6e396b99961cc521facd29e02b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810055,
+            "locality_id":1259994493,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1259994493,
+    "wof:lastmodified":1537683768,
+    "wof:name":"Lipovac",
+    "wof:parent_id":1108810055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56756,
+    43.65366,
+    21.56756,
+    43.65366
+],
+  "geometry": {"coordinates":[21.56756,43.65366],"type":"Point"}
+}

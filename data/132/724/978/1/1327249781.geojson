@@ -1,0 +1,73 @@
+{
+  "id": 1327249781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33639,44.55516,19.33639,44.55516",
+    "geom:latitude":44.55516,
+    "geom:longitude":19.33639,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Srednja Mala",
+    "gn:country_code":"RS",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256856,
+    "gn:latitude":44.55516,
+    "gn:longitude":19.33639,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Srednja Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Srednja Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256856
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0be908f5598ffa6dce23c68c7b52d9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":1327249781,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1327249781,
+    "wof:lastmodified":1537683980,
+    "wof:name":"Srednja Mala",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33639,
+    44.55516,
+    19.33639,
+    44.55516
+],
+  "geometry": {"coordinates":[19.33639,44.55516],"type":"Point"}
+}

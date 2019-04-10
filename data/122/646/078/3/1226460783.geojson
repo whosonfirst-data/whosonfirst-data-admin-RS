@@ -1,0 +1,70 @@
+{
+  "id": 1226460783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00083,44.19194,21.00083,44.19194",
+    "geom:latitude":44.19194,
+    "geom:longitude":21.00083,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"D. Panjirac",
+    "gn:country_code":"RS",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":839057,
+    "gn:latitude":44.19194,
+    "gn:longitude":21.00083,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"D. Panjirac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810047,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":839057
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b6c35dd856a8bf548ee1f4230fb88d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810047,
+            "locality_id":1226460783,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226460783,
+    "wof:lastmodified":1536621757,
+    "wof:name":"D. Panjirac",
+    "wof:parent_id":1108810047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00083,
+    44.19194,
+    21.00083,
+    44.19194
+],
+  "geometry": {"coordinates":[21.00083,44.19194],"type":"Point"}
+}

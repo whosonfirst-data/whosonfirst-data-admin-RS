@@ -1,0 +1,93 @@
+{
+  "id": 890477241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.42418,44.53995,19.42418,44.53995",
+    "geom:latitude":44.53995,
+    "geom:longitude":19.42418,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":1549,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jarebice"
+    ],
+    "name:eng_x_preferred":[
+        "Jarebice"
+    ],
+    "name:fre_x_preferred":[
+        "Jarebice"
+    ],
+    "name:may_x_preferred":[
+        "Jarebice"
+    ],
+    "name:por_x_preferred":[
+        "Jarebice"
+    ],
+    "name:slv_x_preferred":[
+        "Jarebice"
+    ],
+    "name:srp_x_preferred":[
+        "Jarebice"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u0628\u06a9\u06d2"
+    ],
+    "qs:name":"Jarebice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198859,
+        "gp:id":537718,
+        "qs:id":147239,
+        "wd:id":"Q2435677"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054107,
+    "wof:geomhash":"16bcae0baa7575847ec190ed4a392bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":890477241,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477241,
+    "wof:lastmodified":1553816410,
+    "wof:name":"Jarebice",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:population":1549,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.42418,
+    44.53995,
+    19.42418,
+    44.53995
+],
+  "geometry": {"coordinates":[19.42418,44.53995],"type":"Point"}
+}

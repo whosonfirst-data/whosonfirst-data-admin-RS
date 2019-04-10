@@ -1,0 +1,78 @@
+{
+  "id": 1326748409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33922,42.95687,20.33922,42.95687",
+    "geom:latitude":42.95687,
+    "geom:longitude":20.33922,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Dulebe",
+    "gn:country_code":"RS",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790931,
+    "gn:latitude":42.95687,
+    "gn:longitude":20.33922,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dulebe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dulebe"
+    ],
+    "name:und_x_variant":[
+        "Duljebe",
+        "Dulede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790931,
+        "wk:page":"Dulebe_%28Tutin%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9867c24533073c66466d7bac1cd93718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1326748409,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1326748409,
+    "wof:lastmodified":1537683804,
+    "wof:name":"Dulebe",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33922,
+    42.95687,
+    20.33922,
+    42.95687
+],
+  "geometry": {"coordinates":[20.33922,42.95687],"type":"Point"}
+}

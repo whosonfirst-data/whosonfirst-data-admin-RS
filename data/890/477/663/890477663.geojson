@@ -1,0 +1,114 @@
+{
+  "id": 890477663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18388,45.02253,21.18388,45.02253",
+    "geom:latitude":45.02253,
+    "geom:longitude":21.18388,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2094,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:dut_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:epo_x_preferred":[
+        "Izbi\u015dte"
+    ],
+    "name:fre_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:ger_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:hun_x_preferred":[
+        "Izbistye"
+    ],
+    "name:may_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:rum_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0431\u0438\u0448\u0442\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "Izbi\u0161te"
+    ],
+    "name:unk_x_variant":[
+        "Isbischte"
+    ],
+    "qs:name":"Izbi\u00b5te",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhni Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789972,
+        "gp:id":534318,
+        "qs:id":129590,
+        "wd:id":"Q739564"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054126,
+    "wof:geomhash":"278504474a3faf15e4617f8978c0c8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890477663,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890477663,
+    "wof:lastmodified":1514500304,
+    "wof:name":"Izbi\u00b5te",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":2094,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18388,
+    45.02253,
+    21.18388,
+    45.02253
+],
+  "geometry": {"coordinates":[21.18388,45.02253],"type":"Point"}
+}

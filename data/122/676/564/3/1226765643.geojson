@@ -1,0 +1,74 @@
+{
+  "id": 1226765643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54972,44.35803,20.54972,44.35803",
+    "geom:latitude":44.35803,
+    "geom:longitude":20.54972,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Misaca",
+    "gn:country_code":"RS",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787906,
+    "gn:latitude":44.35803,
+    "gn:longitude":20.54972,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Misa\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Misa\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809817,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787906,
+        "wk:page":"Misa%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"992899981dfbd5fac50e943ae114ac7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809817,
+            "locality_id":1226765643,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226765643,
+    "wof:lastmodified":1537683754,
+    "wof:name":"Misaca",
+    "wof:parent_id":1108809817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54972,
+    44.35803,
+    20.54972,
+    44.35803
+],
+  "geometry": {"coordinates":[20.54972,44.35803],"type":"Point"}
+}

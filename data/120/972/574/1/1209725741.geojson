@@ -1,0 +1,80 @@
+{
+  "id": 1209725741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2776,44.9287,21.2776,44.9287",
+    "geom:latitude":44.9287,
+    "geom:longitude":21.2776,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Dupljaja",
+    "gn:country_code":"RS",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790911,
+    "gn:latitude":44.9287,
+    "gn:longitude":21.2776,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dupljaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dupljaja"
+    ],
+    "name:und_x_variant":[
+        "Temesv\u00e1ralja",
+        "Dudaljija",
+        "Temes-Var\u00e1lja",
+        "Duplaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809843,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790911,
+        "wk:page":"Dupljaja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7e7dbe0cbcf1a0044f4ca8560cd0c999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809843,
+            "locality_id":1209725741,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1209725741,
+    "wof:lastmodified":1537683804,
+    "wof:name":"Dupljaja",
+    "wof:parent_id":1108809843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2776,
+    44.9287,
+    21.2776,
+    44.9287
+],
+  "geometry": {"coordinates":[21.2776,44.9287],"type":"Point"}
+}

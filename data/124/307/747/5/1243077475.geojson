@@ -1,0 +1,79 @@
+{
+  "id": 1243077475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8904,45.77517,19.8904,45.77517",
+    "geom:latitude":45.77517,
+    "geom:longitude":19.8904,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"Mol-Obornjaca",
+    "gn:country_code":"RS",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318868,
+    "gn:latitude":45.77517,
+    "gn:longitude":19.8904,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mol-Obornja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "V\u00f6lgypart"
+    ],
+    "name:hun_x_variant":[
+        "Nagyv\u00f6lgy"
+    ],
+    "name:srp_x_preferred":[
+        "Mol-Obornja\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108809807,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318868
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4b2681637c0614ae72995db0361453e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809807,
+            "locality_id":1243077475,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1243077475,
+    "wof:lastmodified":1537684027,
+    "wof:name":"Mol-Obornjaca",
+    "wof:parent_id":1108809807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8904,
+    45.77517,
+    19.8904,
+    45.77517
+],
+  "geometry": {"coordinates":[19.8904,45.77517],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277088841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34109,43.12501,20.34109,43.12501",
+    "geom:latitude":43.12501,
+    "geom:longitude":20.34109,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Baljen",
+    "gn:country_code":"RS",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835875,
+    "gn:latitude":43.12501,
+    "gn:longitude":20.34109,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Baljen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Baljen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810119,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835875
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2e08da0a2ee7b7822071852f5b96c9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810119,
+            "locality_id":1277088841,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1277088841,
+    "wof:lastmodified":1537683884,
+    "wof:name":"Baljen",
+    "wof:parent_id":1108810119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34109,
+    43.12501,
+    20.34109,
+    43.12501
+],
+  "geometry": {"coordinates":[20.34109,43.12501],"type":"Point"}
+}

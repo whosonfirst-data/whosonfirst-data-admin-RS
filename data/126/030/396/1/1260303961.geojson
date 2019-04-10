@@ -1,0 +1,70 @@
+{
+  "id": 1260303961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57278,43.39194,21.57278,43.39194",
+    "geom:latitude":43.39194,
+    "geom:longitude":21.57278,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Klisura",
+    "gn:country_code":"RS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":852511,
+    "gn:latitude":43.39194,
+    "gn:longitude":21.57278,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Klisura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809811,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":852511
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ce847f051e076aa694b3b490c6d1fcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809811,
+            "locality_id":1260303961,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1260303961,
+    "wof:lastmodified":1536684397,
+    "wof:name":"Klisura",
+    "wof:parent_id":1108809811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57278,
+    43.39194000000001,
+    21.57278,
+    43.39194000000001
+],
+  "geometry": {"coordinates":[21.57278,43.39194000000001],"type":"Point"}
+}

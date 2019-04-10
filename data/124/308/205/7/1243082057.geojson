@@ -1,0 +1,70 @@
+{
+  "id": 1243082057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56292,44.60988,20.56292,44.60988",
+    "geom:latitude":44.60988,
+    "geom:longitude":20.56292,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Bosnjaci",
+    "gn:country_code":"RS",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":850617,
+    "gn:latitude":44.60988,
+    "gn:longitude":20.56292,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bo\u0161njaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810083,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":850617
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5fa138363821f6469c7a6d4b3dc25f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810083,
+            "locality_id":1243082057,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1243082057,
+    "wof:lastmodified":1536832697,
+    "wof:name":"Bosnjaci",
+    "wof:parent_id":1108810083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56292,
+    44.60988,
+    20.56292,
+    44.60988
+],
+  "geometry": {"coordinates":[20.56292,44.60988],"type":"Point"}
+}

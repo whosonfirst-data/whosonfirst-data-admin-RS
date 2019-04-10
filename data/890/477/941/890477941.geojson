@@ -1,0 +1,71 @@
+{
+  "id": 890477941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41333,43.69306,20.41333,43.69306",
+    "geom:latitude":43.69306,
+    "geom:longitude":20.41333,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pajovi\u0107i"
+    ],
+    "qs:name":"Pajovi\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836463,
+        "gp:id":535542,
+        "qs:id":554407
+    },
+    "wof:country":"RS",
+    "wof:created":1469054138,
+    "wof:geomhash":"c2b8d01df97ea9dddc9d6c2fd12f4dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":890477941,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":890477941,
+    "wof:lastmodified":1505343729,
+    "wof:name":"Pajovi\u0107i",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41333,
+    43.69306,
+    20.41333,
+    43.69306
+],
+  "geometry": {"coordinates":[20.41333,43.69306],"type":"Point"}
+}

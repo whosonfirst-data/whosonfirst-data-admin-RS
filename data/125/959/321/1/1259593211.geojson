@@ -1,0 +1,77 @@
+{
+  "id": 1259593211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72045,43.14835,21.72045,43.14835",
+    "geom:latitude":43.14835,
+    "geom:longitude":21.72045,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Grudas",
+    "gn:country_code":"RS",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790123,
+    "gn:latitude":43.14835,
+    "gn:longitude":21.72045,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gruda\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gruda\u0161"
+    ],
+    "name:und_x_variant":[
+        "Grude\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810169,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790123,
+        "wk:page":"Gruda%C5%A1"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"09691821fa413d111234bd24bcbe0837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810169,
+            "locality_id":1259593211,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1259593211,
+    "wof:lastmodified":1537683790,
+    "wof:name":"Grudas",
+    "wof:parent_id":1108810169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72045,
+    43.14835,
+    21.72045,
+    43.14835
+],
+  "geometry": {"coordinates":[21.72045,43.14835],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209733793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47065,43.95091,19.47065,43.95091",
+    "geom:latitude":43.95091,
+    "geom:longitude":19.47065,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Beserovina",
+    "gn:country_code":"RS",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204262,
+    "gn:latitude":43.95091,
+    "gn:longitude":19.47065,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Beserovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Beserovina"
+    ],
+    "name:und_x_variant":[
+        "Besarovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809833,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204262,
+        "wk:page":"Beserovina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2394394d8bc0c5f5b7ebd3a5a6fc4df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809833,
+            "locality_id":1209733793,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1209733793,
+    "wof:lastmodified":1537683949,
+    "wof:name":"Beserovina",
+    "wof:parent_id":1108809833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47065,
+    43.95091,
+    19.47065,
+    43.95091
+],
+  "geometry": {"coordinates":[19.47065,43.95091],"type":"Point"}
+}

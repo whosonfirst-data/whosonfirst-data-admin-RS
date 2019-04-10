@@ -1,0 +1,76 @@
+{
+  "id": 1243190479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22408,43.7008,20.22408,43.7008",
+    "geom:latitude":43.7008,
+    "geom:longitude":20.22408,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Kotraza",
+    "gn:country_code":"RS",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789190,
+    "gn:latitude":43.7008,
+    "gn:longitude":20.22408,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kotra\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kotra\u017ea"
+    ],
+    "name:und_x_variant":[
+        "Kotra\u017ea Vu\u010dkavica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789190
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e28b6a4ec747222df9b460feb4a9be3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":1243190479,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1243190479,
+    "wof:lastmodified":1537683777,
+    "wof:name":"Kotraza",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22408,
+    43.7008,
+    20.22408,
+    43.7008
+],
+  "geometry": {"coordinates":[20.22408,43.7008],"type":"Point"}
+}

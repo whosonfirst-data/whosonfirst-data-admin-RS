@@ -1,0 +1,65 @@
+{
+  "id": 1209324509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81389,44.43389,20.81389,44.43389",
+    "geom:latitude":44.43389,
+    "geom:longitude":20.81389,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Rakovac",
+    "gn:country_code":"RS",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834559,
+    "gn:latitude":44.43389,
+    "gn:longitude":20.81389,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rakovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834559
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6bff019dce79d27d39474ada75159b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209324509
+        }
+    ],
+    "wof:id":1209324509,
+    "wof:lastmodified":1537683854,
+    "wof:name":"Rakovac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81389,
+    44.43389000000001,
+    20.81389,
+    44.43389000000001
+],
+  "geometry": {"coordinates":[20.81389,44.43389000000001],"type":"Point"}
+}

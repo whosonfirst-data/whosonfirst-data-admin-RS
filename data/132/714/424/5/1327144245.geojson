@@ -1,0 +1,72 @@
+{
+  "id": 1327144245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.60585,44.05247,19.60585,44.05247",
+    "geom:latitude":44.05247,
+    "geom:longitude":19.60585,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ovcinjsko Polje",
+    "gn:country_code":"RS",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275261,
+    "gn:latitude":44.05247,
+    "gn:longitude":19.60585,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ov\u010dinjsko Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ov\u010dinjsko Polje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809833,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275261
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6921eedc645e366a9b177394892056c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809833,
+            "locality_id":1327144245,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1327144245,
+    "wof:lastmodified":1537683989,
+    "wof:name":"Ovcinjsko Polje",
+    "wof:parent_id":1108809833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.60585,
+    44.05247,
+    19.60585,
+    44.05247
+],
+  "geometry": {"coordinates":[19.60585,44.05247],"type":"Point"}
+}

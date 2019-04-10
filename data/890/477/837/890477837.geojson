@@ -1,0 +1,107 @@
+{
+  "id": 890477837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73708,42.38445,21.73708,42.38445",
+    "geom:latitude":42.38445,
+    "geom:longitude":21.73708,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":2852,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Sumulic\u00eb"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u043b\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Samoljica"
+    ],
+    "name:eng_x_preferred":[
+        "Sumulice"
+    ],
+    "name:fre_x_preferred":[
+        "Samoljica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e2\u30ea\u30c4\u30a1"
+    ],
+    "name:may_x_preferred":[
+        "Samoljica"
+    ],
+    "name:por_x_preferred":[
+        "Samoljica"
+    ],
+    "name:slv_x_preferred":[
+        "Samoljica"
+    ],
+    "name:sqi_x_preferred":[
+        "Sumulic\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "Samoljica"
+    ],
+    "name:unk_x_variant":[
+        "Somaljice"
+    ],
+    "qs:name":"Samoljica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809865,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786111,
+        "gp:id":532735,
+        "qs:id":553692,
+        "wd:id":"Q3104463",
+        "wk:page":"Samoljica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054133,
+    "wof:geomhash":"9b019853e33fcea1367d7c795ea51f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809865,
+            "locality_id":890477837,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":890477837,
+    "wof:lastmodified":1527727186,
+    "wof:name":"Samoljica",
+    "wof:parent_id":1108809865,
+    "wof:placetype":"locality",
+    "wof:population":2852,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73708,
+    42.38445,
+    21.73708,
+    42.38445
+],
+  "geometry": {"coordinates":[21.73708,42.38445],"type":"Point"}
+}

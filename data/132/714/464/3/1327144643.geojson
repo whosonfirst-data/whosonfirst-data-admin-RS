@@ -1,0 +1,82 @@
+{
+  "id": 1327144643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.68981,45.50148,19.68981,45.50148",
+    "geom:latitude":45.50148,
+    "geom:longitude":19.68981,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Backo Dobro Polje",
+    "gn:country_code":"RS",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204661,
+    "gn:latitude":45.50148,
+    "gn:longitude":19.68981,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ba\u010dko Dobro Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ba\u010dko Dobro Polje"
+    ],
+    "name:und_x_variant":[
+        "Pribi\u0107evi\u0107evo",
+        "Kisk\u00e9r",
+        "Kleinwiesen",
+        "Ba\u010dko Dobro",
+        "Klein Ker",
+        "Klein-Keer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108810149,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204661,
+        "wk:page":"Ba%C4%8Dko_Dobro_Polje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3ddf3d107b8b926bd6c0261bf19b92ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810149,
+            "locality_id":1327144643,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1327144643,
+    "wof:lastmodified":1537683951,
+    "wof:name":"Backo Dobro Polje",
+    "wof:parent_id":1108810149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.68981,
+    45.50148,
+    19.68981,
+    45.50148
+],
+  "geometry": {"coordinates":[19.68981,45.50148],"type":"Point"}
+}

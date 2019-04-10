@@ -1,0 +1,73 @@
+{
+  "id": 1360295405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7197,43.23223,22.7197,43.23223",
+    "geom:latitude":43.23223,
+    "geom:longitude":22.7197,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Bela",
+    "gn:country_code":"RS",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792797,
+    "gn:latitude":43.23223,
+    "gn:longitude":22.7197,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108810029,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792797
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9e8a7a6008842115fca6f56d3009c9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810029,
+            "locality_id":1360295405,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1360295405,
+    "wof:lastmodified":1537683836,
+    "wof:name":"Bela",
+    "wof:parent_id":1108810029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7197,
+    43.23223,
+    22.7197,
+    43.23223
+],
+  "geometry": {"coordinates":[22.7197,43.23223],"type":"Point"}
+}

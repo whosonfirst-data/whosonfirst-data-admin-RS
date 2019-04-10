@@ -1,0 +1,66 @@
+{
+  "id": 1209625081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84056,42.84583,21.84056,42.84583",
+    "geom:latitude":42.84583,
+    "geom:longitude":21.84056,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Bukova Glava",
+    "gn:country_code":"RS",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792154,
+    "gn:latitude":42.84583,
+    "gn:longitude":21.84056,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bukova Glava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bukova Glava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792154,
+        "wk:page":"Bukova_Glava"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"2e0a2f1b2de9f7c6f144a636e6b1125f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209625081
+        }
+    ],
+    "wof:id":1209625081,
+    "wof:lastmodified":1537683824,
+    "wof:name":"Bukova Glava",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84056,
+    42.84583,
+    21.84056,
+    42.84583
+],
+  "geometry": {"coordinates":[21.84056,42.84583],"type":"Point"}
+}

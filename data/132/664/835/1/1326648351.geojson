@@ -1,0 +1,77 @@
+{
+  "id": 1326648351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51667,42.48333,22.51667,42.48333",
+    "geom:latitude":42.48333,
+    "geom:longitude":22.51667,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Belut",
+    "gn:country_code":"RS",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792685,
+    "gn:latitude":42.48333,
+    "gn:longitude":22.51667,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Belut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Belut"
+    ],
+    "name:und_x_variant":[
+        "Belu\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792685,
+        "wk:page":"Belut"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"48bbe714a36388b2d143167e16e1023d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1326648351,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1326648351,
+    "wof:lastmodified":1537683834,
+    "wof:name":"Belut",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51667,
+    42.48333,
+    22.51667,
+    42.48333
+],
+  "geometry": {"coordinates":[22.51667,42.48333],"type":"Point"}
+}

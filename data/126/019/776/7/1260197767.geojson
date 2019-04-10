@@ -1,0 +1,74 @@
+{
+  "id": 1260197767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46856,45.80641,19.46856,45.80641",
+    "geom:latitude":45.80641,
+    "geom:longitude":19.46856,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"1",
+    "gn:asciiname":"Gornja Rogatica",
+    "gn:country_code":"RS",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200189,
+    "gn:latitude":45.80641,
+    "gn:longitude":19.46856,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Rogatica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Rogatica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108809829,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200189,
+        "wk:page":"Gornja_Rogatica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5a52472ec80f7aa95309c09b716c6860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809829,
+            "locality_id":1260197767,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1260197767,
+    "wof:lastmodified":1537683942,
+    "wof:name":"Gornja Rogatica",
+    "wof:parent_id":1108809829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46856,
+    45.80641,
+    19.46856,
+    45.80641
+],
+  "geometry": {"coordinates":[19.46856,45.80641],"type":"Point"}
+}

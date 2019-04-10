@@ -1,0 +1,78 @@
+{
+  "id": 1310716277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13975,44.82158,21.13975,44.82158",
+    "geom:latitude":44.82158,
+    "geom:longitude":21.13975,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Sumarak",
+    "gn:country_code":"RS",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785305,
+    "gn:latitude":44.82158,
+    "gn:longitude":21.13975,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160umarak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160umarak"
+    ],
+    "name:und_x_variant":[
+        "Em\u00e1nueltelep",
+        "Emanuelovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809929,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785305,
+        "wk:page":"%C5%A0umarak"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"96b4bf8e2e05b4235a54368234398354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809929,
+            "locality_id":1310716277,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1310716277,
+    "wof:lastmodified":1537683707,
+    "wof:name":"Sumarak",
+    "wof:parent_id":1108809929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13975,
+    44.82158,
+    21.13975,
+    44.82158
+],
+  "geometry": {"coordinates":[21.13975,44.82158],"type":"Point"}
+}

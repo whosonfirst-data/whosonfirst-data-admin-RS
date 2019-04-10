@@ -1,0 +1,73 @@
+{
+  "id": 1193025963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2577,43.57642,20.2577,43.57642",
+    "geom:latitude":43.57642,
+    "geom:longitude":20.2577,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Crnjevo",
+    "gn:country_code":"RS",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836536,
+    "gn:latitude":43.57642,
+    "gn:longitude":20.2577,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Crnjevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Crnjevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836536
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4571d2fa74d83ab3ef25a457065c7132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1193025963,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1193025963,
+    "wof:lastmodified":1537683894,
+    "wof:name":"Crnjevo",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2577,
+    43.57642,
+    20.2577,
+    43.57642
+],
+  "geometry": {"coordinates":[20.2577,43.57642],"type":"Point"}
+}

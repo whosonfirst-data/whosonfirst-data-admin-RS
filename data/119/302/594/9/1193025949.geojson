@@ -1,0 +1,74 @@
+{
+  "id": 1193025949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15111,43.63917,20.15111,43.63917",
+    "geom:latitude":43.63917,
+    "geom:longitude":20.15111,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Radaljevo",
+    "gn:country_code":"RS",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":836390,
+    "gn:latitude":43.63917,
+    "gn:longitude":20.15111,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Radaljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radaljevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836390,
+        "wk:page":"Radaljevo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f812ac4bfc1b2dc9304ff238420016bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1193025949,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1193025949,
+    "wof:lastmodified":1537683893,
+    "wof:name":"Radaljevo",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15111,
+    43.63917,
+    20.15111,
+    43.63917
+],
+  "geometry": {"coordinates":[20.15111,43.63917],"type":"Point"}
+}

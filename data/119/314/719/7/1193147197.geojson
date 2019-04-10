@@ -1,0 +1,74 @@
+{
+  "id": 1193147197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91814,42.95888,21.91814,42.95888",
+    "geom:latitude":42.95888,
+    "geom:longitude":21.91814,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Sisince",
+    "gn:country_code":"RS",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785859,
+    "gn:latitude":42.95888,
+    "gn:longitude":21.91814,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0160i\u0161ince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160i\u0161ince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809955,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785859,
+        "wk:page":"%C5%A0i%C5%A1ince"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eee34f90a5619415725da83963a496a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809955,
+            "locality_id":1193147197,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1193147197,
+    "wof:lastmodified":1537683716,
+    "wof:name":"Sisince",
+    "wof:parent_id":1108809955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91814,
+    42.95888,
+    21.91814,
+    42.95888
+],
+  "geometry": {"coordinates":[21.91814,42.95888],"type":"Point"}
+}

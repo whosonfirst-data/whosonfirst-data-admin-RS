@@ -1,0 +1,73 @@
+{
+  "id": 1259601503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52844,43.27827,21.52844,43.27827",
+    "geom:latitude":43.27827,
+    "geom:longitude":21.52844,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Gornja Trnava",
+    "gn:country_code":"RS",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790455,
+    "gn:latitude":43.27827,
+    "gn:longitude":21.52844,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Trnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Trnava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790455
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"99a5c1c998c0e3313a971ba8834ff823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1259601503,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1259601503,
+    "wof:lastmodified":1537683797,
+    "wof:name":"Gornja Trnava",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52844,
+    43.27827,
+    21.52844,
+    43.27827
+],
+  "geometry": {"coordinates":[21.52844,43.27827],"type":"Point"}
+}

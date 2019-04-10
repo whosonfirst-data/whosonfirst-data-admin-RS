@@ -1,0 +1,74 @@
+{
+  "id": 1260098551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50102,44.55136,21.50102,44.55136",
+    "geom:latitude":44.55136,
+    "geom:longitude":21.50102,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Mala Bresnica",
+    "gn:country_code":"RS",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788337,
+    "gn:latitude":44.55136,
+    "gn:longitude":21.50102,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mala Bresnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mala Bresnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809939,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788337,
+        "wk:page":"Mala_Bresnica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"84cc4466d8f203542e0dbeeba758fd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809939,
+            "locality_id":1260098551,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1260098551,
+    "wof:lastmodified":1537683762,
+    "wof:name":"Mala Bresnica",
+    "wof:parent_id":1108809939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50102,
+    44.55136,
+    21.50102,
+    44.55136
+],
+  "geometry": {"coordinates":[21.50102,44.55136],"type":"Point"}
+}

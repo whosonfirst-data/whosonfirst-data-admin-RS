@@ -1,0 +1,105 @@
+{
+  "id": 890477729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09175,44.87393,20.09175,44.87393",
+    "geom:latitude":44.87393,
+    "geom:longitude":20.09175,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2376,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:epo_x_preferred":[
+        "\u015cimanovci"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:may_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "qs:name":"\u00c5 imanovci",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srem",
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810025,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785903,
+        "gp:id":536656,
+        "qs:id":243667,
+        "wd:id":"Q1065816"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054128,
+    "wof:geomhash":"4b63a9b6beed9fb81ccf020bd3342b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810025,
+            "locality_id":890477729,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890477729,
+    "wof:lastmodified":1514500386,
+    "wof:name":"\u00c5 imanovci",
+    "wof:parent_id":1108810025,
+    "wof:placetype":"locality",
+    "wof:population":2376,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09175,
+    44.87393,
+    20.09175,
+    44.87393
+],
+  "geometry": {"coordinates":[20.09175,44.87393],"type":"Point"}
+}

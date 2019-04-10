@@ -1,0 +1,73 @@
+{
+  "id": 1260192931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29562,44.5537,19.29562,44.5537",
+    "geom:latitude":44.5537,
+    "geom:longitude":19.29562,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Ignjatovici",
+    "gn:country_code":"RS",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256742,
+    "gn:latitude":44.5537,
+    "gn:longitude":19.29562,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ignjatovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ignjatovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256742
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d6eb864f92f177e7ca71cd5ee21c619b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":1260192931,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1260192931,
+    "wof:lastmodified":1537683979,
+    "wof:name":"Ignjatovici",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29562,
+    44.5537,
+    19.29562,
+    44.5537
+],
+  "geometry": {"coordinates":[19.29562,44.5537],"type":"Point"}
+}

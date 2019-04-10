@@ -1,0 +1,74 @@
+{
+  "id": 1344067103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97056,43.4575,20.97056,43.4575",
+    "geom:latitude":43.4575,
+    "geom:longitude":20.97056,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Boturici",
+    "gn:country_code":"RS",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836027,
+    "gn:latitude":43.4575,
+    "gn:longitude":20.97056,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Boturi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Boturi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809809,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836027,
+        "wk:page":"Boturi%C4%87i"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"bed17b92422bf7344ab95ab2f2f6f8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809809,
+            "locality_id":1344067103,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1344067103,
+    "wof:lastmodified":1537683888,
+    "wof:name":"Boturici",
+    "wof:parent_id":1108809809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97056,
+    43.4575,
+    20.97056,
+    43.4575
+],
+  "geometry": {"coordinates":[20.97056,43.4575],"type":"Point"}
+}

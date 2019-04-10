@@ -1,0 +1,74 @@
+{
+  "id": 1226655953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41022,44.22216,19.41022,44.22216",
+    "geom:latitude":44.22216,
+    "geom:longitude":19.41022,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Donja Ljuboviga",
+    "gn:country_code":"RS",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201670,
+    "gn:latitude":44.22216,
+    "gn:longitude":19.41022,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Ljubovi\u0111a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Ljubovi\u0111a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809959,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201670,
+        "wk:page":"Donja_Ljubovi%C4%91a"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"cc72f0c3189bdfcbca639dcb8fe60f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809959,
+            "locality_id":1226655953,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1226655953,
+    "wof:lastmodified":1537683944,
+    "wof:name":"Donja Ljuboviga",
+    "wof:parent_id":1108809959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41022,
+    44.22216,
+    19.41022,
+    44.22216
+],
+  "geometry": {"coordinates":[19.41022,44.22216],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226079565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43839,43.92174,21.43839,43.92174",
+    "geom:latitude":43.92174,
+    "geom:longitude":21.43839,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"71200.0",
+    "gn:asciiname":"Batinac",
+    "gn:country_code":"RS",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792836,
+    "gn:latitude":43.92174,
+    "gn:longitude":21.43839,
+    "gn:modification_date":"2016-10-21",
+    "gn:name":"Batinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Batinac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809883,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792836,
+        "wk:page":"Batinac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fa379a05ce0e28216a9447bb87bcb723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809883,
+            "locality_id":1226079565,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1226079565,
+    "wof:lastmodified":1537683837,
+    "wof:name":"Batinac",
+    "wof:parent_id":1108809883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43839,
+    43.92174,
+    21.43839,
+    43.92174
+],
+  "geometry": {"coordinates":[21.43839,43.92174],"type":"Point"}
+}

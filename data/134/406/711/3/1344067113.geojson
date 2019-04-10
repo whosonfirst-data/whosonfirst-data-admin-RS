@@ -1,0 +1,74 @@
+{
+  "id": 1344067113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61896,42.91407,21.61896,42.91407",
+    "geom:latitude":42.91407,
+    "geom:longitude":21.61896,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Donji Bucumet",
+    "gn:country_code":"RS",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791200,
+    "gn:latitude":42.91407,
+    "gn:longitude":21.61896,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donji Bu\u010dumet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Bu\u010dumet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688329,
+        102191581,
+        1108809977,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791200,
+        "wk:page":"Donji_Bu%C4%8Dumet"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4d8d41ffc582522981fdbeda2eb1e7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809977,
+            "locality_id":1344067113,
+            "macroregion_id":404228357,
+            "region_id":85688329
+        }
+    ],
+    "wof:id":1344067113,
+    "wof:lastmodified":1537683810,
+    "wof:name":"Donji Bucumet",
+    "wof:parent_id":1108809977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61896,
+    42.91407,
+    21.61896,
+    42.91407
+],
+  "geometry": {"coordinates":[21.61896,42.91407],"type":"Point"}
+}

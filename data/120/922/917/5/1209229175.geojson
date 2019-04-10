@@ -1,0 +1,65 @@
+{
+  "id": 1209229175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59298,43.49688,19.59298,43.49688",
+    "geom:latitude":43.49688,
+    "geom:longitude":19.59298,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Pod",
+    "gn:country_code":"RS",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3305059,
+    "gn:latitude":43.49688,
+    "gn:longitude":19.59298,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305059
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ac2e3efa1f7155beb257c1eaa936aef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229175
+        }
+    ],
+    "wof:id":1209229175,
+    "wof:lastmodified":1537684014,
+    "wof:name":"Pod",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59298,
+    43.49688,
+    19.59298,
+    43.49688
+],
+  "geometry": {"coordinates":[19.59298,43.49688],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259392735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.06228,44.11867,21.06228,44.11867",
+    "geom:latitude":44.11867,
+    "geom:longitude":21.06228,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Dobrovodica",
+    "gn:country_code":"RS",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791411,
+    "gn:latitude":44.11867,
+    "gn:longitude":21.06228,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobrovodica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobrovodica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809839,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791411,
+        "wk:page":"Dobrovodica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b9b545887b00ba4946e49639be7b651b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809839,
+            "locality_id":1259392735,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1259392735,
+    "wof:lastmodified":1537683814,
+    "wof:name":"Dobrovodica",
+    "wof:parent_id":1108809839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.06228,
+    44.11867,
+    21.06228,
+    44.11867
+],
+  "geometry": {"coordinates":[21.06228,44.11867],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890477831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33269,43.25829,21.33269,43.25829",
+    "geom:latitude":43.25829,
+    "geom:longitude":21.33269,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":605,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Suvi Do"
+    ],
+    "qs:name":"Suvi Do",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809849,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785231,
+        "gp:id":537232,
+        "qs:id":553645,
+        "wd:id":"Q7650499",
+        "wk:page":"Suvi Do"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054132,
+    "wof:geomhash":"3da13e7efeffb44f5f1765a42a5cdf17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809849,
+            "locality_id":890477831,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477831,
+    "wof:lastmodified":1527727185,
+    "wof:name":"Suvi Do",
+    "wof:parent_id":1108809849,
+    "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33269,
+    43.25829,
+    21.33269,
+    43.25829
+],
+  "geometry": {"coordinates":[21.33269,43.25829],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276892319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58423,44.61441,21.58423,44.61441",
+    "geom:latitude":44.61441,
+    "geom:longitude":21.58423,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Kudres",
+    "gn:country_code":"RS",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788928,
+    "gn:latitude":44.61441,
+    "gn:longitude":21.58423,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kudre\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kudre\u0161"
+    ],
+    "name:und_x_variant":[
+        "Kudre\u010d",
+        "Kudre\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108809895,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788928,
+        "wk:page":"Kudre%C5%A1"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"abd2d1322c12d13104003712b672db47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809895,
+            "locality_id":1276892319,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1276892319,
+    "wof:lastmodified":1537683773,
+    "wof:name":"Kudres",
+    "wof:parent_id":1108809895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58423,
+    44.61441,
+    21.58423,
+    44.61441
+],
+  "geometry": {"coordinates":[21.58423,44.61441],"type":"Point"}
+}

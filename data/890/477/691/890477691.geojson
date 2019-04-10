@@ -1,0 +1,107 @@
+{
+  "id": 890477691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9276,45.89292,18.9276,45.89292",
+    "geom:latitude":45.89292,
+    "geom:longitude":18.9276,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1886,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kolut"
+    ],
+    "name:eng_x_preferred":[
+        "Kolut"
+    ],
+    "name:epo_x_preferred":[
+        "Kolut"
+    ],
+    "name:fre_x_preferred":[
+        "Kolut"
+    ],
+    "name:hrv_x_preferred":[
+        "Kolut"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00fcll\u0151d"
+    ],
+    "name:may_x_preferred":[
+        "Kolut"
+    ],
+    "name:slv_x_preferred":[
+        "Kolut"
+    ],
+    "name:srp_x_preferred":[
+        "Kolut"
+    ],
+    "name:unk_x_variant":[
+        "K\u00fcll\u0151d"
+    ],
+    "qs:name":"Kolut",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Zapadna Bachka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":197,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197862,
+        "gp:id":534633,
+        "qs:id":887857,
+        "wd:id":"Q927968",
+        "wk:page":"Kolut"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054127,
+    "wof:geomhash":"e2422c9a6de0a13d8214137cefe9da6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":890477691,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477691,
+    "wof:lastmodified":1527727186,
+    "wof:name":"Kolut",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:population":1886,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9276,
+    45.89292,
+    18.9276,
+    45.89292
+],
+  "geometry": {"coordinates":[18.9276,45.89292],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890477521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-13",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.056894,45.421216,19.056894,45.421216",
+    "geom:latitude":45.421216,
+    "geom:longitude":19.056894,
+    "gp:adm0":23424843,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Borovo",
+    "qs:name_adm0":"Hrvatska",
+    "qs:name_adm1":"Vukovarsko-Srijemska",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633755,
+        85688295,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15022292,
+        "qs:id":1002608,
+        "wd:id":"Q2911335",
+        "wk:page":"Borovo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054118,
+    "wof:geomhash":"b88903b8181f9288aa2dfabdd8deb1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "county_id":890477521,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477521,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Borovo",
+    "wof:parent_id":85688295,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.056894,
+    45.421216,
+    19.056894,
+    45.421216
+],
+  "geometry": {"coordinates":[19.056894,45.421216],"type":"Point"}
+}

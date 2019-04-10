@@ -1,0 +1,73 @@
+{
+  "id": 1327246307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71169,43.33634,19.71169,43.33634",
+    "geom:latitude":43.33634,
+    "geom:longitude":19.71169,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Brancici",
+    "gn:country_code":"RS",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304640,
+    "gn:latitude":43.33634,
+    "gn:longitude":19.71169,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bran\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bran\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810043,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304640
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a444cdd66269831537811a4e11347f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810043,
+            "locality_id":1327246307,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1327246307,
+    "wof:lastmodified":1537684012,
+    "wof:name":"Brancici",
+    "wof:parent_id":1108810043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71169,
+    43.33634,
+    19.71169,
+    43.33634
+],
+  "geometry": {"coordinates":[19.71169,43.33634],"type":"Point"}
+}

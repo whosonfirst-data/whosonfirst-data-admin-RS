@@ -1,0 +1,62 @@
+{
+  "id": 1209116177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01861,43.9775,20.01861,43.9775",
+    "geom:latitude":43.9775,
+    "geom:longitude":20.01861,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Matovici",
+    "gn:country_code":"RS",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837570,
+    "gn:latitude":43.9775,
+    "gn:longitude":20.01861,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Matovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837570
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"42113f14a8be242da4b708b445a99215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209116177
+        }
+    ],
+    "wof:id":1209116177,
+    "wof:lastmodified":1536297246,
+    "wof:name":"Matovici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01861,
+    43.9775,
+    20.01861,
+    43.9775
+],
+  "geometry": {"coordinates":[20.01861,43.9775],"type":"Point"}
+}

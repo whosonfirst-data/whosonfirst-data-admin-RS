@@ -1,0 +1,65 @@
+{
+  "id": 1209525565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33472,43.45806,19.33472,43.45806",
+    "geom:latitude":43.45806,
+    "geom:longitude":19.33472,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Cetkovina",
+    "gn:country_code":"RS",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342959,
+    "gn:latitude":43.45806,
+    "gn:longitude":19.33472,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u0106etkovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0106etkovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342959
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4542c0cd047694e8f7bee3b6bf39587c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209525565
+        }
+    ],
+    "wof:id":1209525565,
+    "wof:lastmodified":1537684032,
+    "wof:name":"Cetkovina",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33472,
+    43.45806,
+    19.33472,
+    43.45806
+],
+  "geometry": {"coordinates":[19.33472,43.45806],"type":"Point"}
+}

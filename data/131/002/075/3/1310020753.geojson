@@ -1,0 +1,73 @@
+{
+  "id": 1310020753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64739,43.0842,20.64739,43.0842",
+    "geom:latitude":43.0842,
+    "geom:longitude":20.64739,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Zminac",
+    "gn:country_code":"RS",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835417,
+    "gn:latitude":43.0842,
+    "gn:longitude":20.64739,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zminac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zminac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108810003,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835417
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"500fe75094aeb4d6330133d8d665014d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810003,
+            "locality_id":1310020753,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1310020753,
+    "wof:lastmodified":1537683877,
+    "wof:name":"Zminac",
+    "wof:parent_id":1108810003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64739,
+    43.0842,
+    20.64739,
+    43.0842
+],
+  "geometry": {"coordinates":[20.64739,43.0842],"type":"Point"}
+}

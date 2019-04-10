@@ -1,0 +1,80 @@
+{
+  "id": 1310223203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87503,45.96113,19.87503,45.96113",
+    "geom:latitude":45.96113,
+    "geom:longitude":19.87503,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"Doline",
+    "gn:country_code":"RS",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318867,
+    "gn:latitude":45.96113,
+    "gn:longitude":19.87503,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Doline",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "V\u00f6lgyes"
+    ],
+    "name:srp_x_preferred":[
+        "Doline"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u043b\u0438\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108809911,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318867,
+        "wk:page":"Doline_%28Kanji%C5%BEa%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b9f347ee2e9ee21b39e0dcefe592b125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809911,
+            "locality_id":1310223203,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1310223203,
+    "wof:lastmodified":1537684027,
+    "wof:name":"Doline",
+    "wof:parent_id":1108809911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87503,
+    45.96113,
+    19.87503,
+    45.96113
+],
+  "geometry": {"coordinates":[19.87503,45.96113],"type":"Point"}
+}

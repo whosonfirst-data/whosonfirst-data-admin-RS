@@ -1,0 +1,70 @@
+{
+  "id": 1327241533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97188,43.78351,19.97188,43.78351",
+    "geom:latitude":43.78351,
+    "geom:longitude":19.97188,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Vulovici",
+    "gn:country_code":"RS",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319094,
+    "gn:latitude":43.78351,
+    "gn:longitude":19.97188,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vulovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810037,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319094
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9773a51552d156a5070b64f226e6a953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810037,
+            "locality_id":1327241533,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1327241533,
+    "wof:lastmodified":1536956324,
+    "wof:name":"Vulovici",
+    "wof:parent_id":1108810037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97188,
+    43.78351,
+    19.97188,
+    43.78351
+],
+  "geometry": {"coordinates":[19.97188,43.78351],"type":"Point"}
+}

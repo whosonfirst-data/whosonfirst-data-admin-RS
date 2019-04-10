@@ -1,0 +1,62 @@
+{
+  "id": 1209124229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8919,43.80201,20.8919,43.80201",
+    "geom:latitude":43.80201,
+    "geom:longitude":20.8919,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Krusevica",
+    "gn:country_code":"RS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862780,
+    "gn:latitude":43.80201,
+    "gn:longitude":20.8919,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kru\u0161evica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862780
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e45e1f03b0c6f620a461598fc6751e01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209124229
+        }
+    ],
+    "wof:id":1209124229,
+    "wof:lastmodified":1536297005,
+    "wof:name":"Krusevica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8919,
+    43.80201,
+    20.8919,
+    43.80201
+],
+  "geometry": {"coordinates":[20.8919,43.80201],"type":"Point"}
+}

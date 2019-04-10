@@ -1,0 +1,71 @@
+{
+  "id": 1277084435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78923,44.67657,19.78923,44.67657",
+    "geom:latitude":44.67657,
+    "geom:longitude":19.78923,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Kujavica",
+    "gn:country_code":"RS",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337458,
+    "gn:latitude":44.67657,
+    "gn:longitude":19.78923,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kujavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810137,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337458,
+        "wk:page":"Kujavica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a58bc5f2608a5e2f5f29f40d0428999d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810137,
+            "locality_id":1277084435,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1277084435,
+    "wof:lastmodified":1537572123,
+    "wof:name":"Kujavica",
+    "wof:parent_id":1108810137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78923,
+    44.67657,
+    19.78923,
+    44.67657
+],
+  "geometry": {"coordinates":[19.78923,44.67657],"type":"Point"}
+}

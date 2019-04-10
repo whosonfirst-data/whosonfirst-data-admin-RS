@@ -1,0 +1,62 @@
+{
+  "id": 1209329347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42417,43.12833,21.42417,43.12833",
+    "geom:latitude":43.12833,
+    "geom:longitude":21.42417,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Maslaci",
+    "gn:country_code":"RS",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863248,
+    "gn:latitude":43.12833,
+    "gn:longitude":21.42417,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Maslaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863248
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"53c445b90983bb578e137755ac11186d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209329347
+        }
+    ],
+    "wof:id":1209329347,
+    "wof:lastmodified":1536290423,
+    "wof:name":"Maslaci",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42417,
+    43.12833,
+    21.42417,
+    43.12833
+],
+  "geometry": {"coordinates":[21.42417,43.12833],"type":"Point"}
+}

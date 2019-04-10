@@ -1,0 +1,76 @@
+{
+  "id": 1293113193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45167,44.24222,19.45167,44.24222",
+    "geom:latitude":44.24222,
+    "geom:longitude":19.45167,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Gornja Ljuboviga",
+    "gn:country_code":"RS",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200234,
+    "gn:latitude":44.24222,
+    "gn:longitude":19.45167,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Ljubovi\u0111a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Ljubovi\u0111a"
+    ],
+    "name:und_x_variant":[
+        "Gornja Ljubovidja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809959,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200234
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4b464f30212aacfec89403dec8453831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809959,
+            "locality_id":1293113193,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1293113193,
+    "wof:lastmodified":1537683942,
+    "wof:name":"Gornja Ljuboviga",
+    "wof:parent_id":1108809959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45167,
+    44.24222,
+    19.45167,
+    44.24222
+],
+  "geometry": {"coordinates":[19.45167,44.24222],"type":"Point"}
+}

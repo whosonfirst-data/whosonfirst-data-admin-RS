@@ -1,0 +1,79 @@
+{
+  "id": 1344071659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20794,44.79636,21.20794,44.79636",
+    "geom:latitude":44.79636,
+    "geom:longitude":21.20794,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Dubovac",
+    "gn:country_code":"RS",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790979,
+    "gn:latitude":44.79636,
+    "gn:longitude":21.20794,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dubovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dubovac"
+    ],
+    "name:und_x_variant":[
+        "Domb\u00f3",
+        "Dunadomb\u00f3",
+        "Dubovacz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108809929,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790979,
+        "wk:page":"Dubovac_%28Kovin%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1650a1c0683f5dff6e18884aa7d15cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809929,
+            "locality_id":1344071659,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1344071659,
+    "wof:lastmodified":1537683805,
+    "wof:name":"Dubovac",
+    "wof:parent_id":1108809929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20794,
+    44.79636,
+    21.20794,
+    44.79636
+],
+  "geometry": {"coordinates":[21.20794,44.79636],"type":"Point"}
+}

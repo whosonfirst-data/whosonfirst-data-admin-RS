@@ -1,0 +1,70 @@
+{
+  "id": 1225859935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37278,45.25273,19.37278,45.25273",
+    "geom:latitude":45.25273,
+    "geom:longitude":19.37278,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Sinaj",
+    "gn:country_code":"RS",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165697,
+    "gn:latitude":45.25273,
+    "gn:longitude":19.37278,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sinaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809827,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165697
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e1b6be0c4f6178a8a2208f3aaf173bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809827,
+            "locality_id":1225859935,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1225859935,
+    "wof:lastmodified":1536992309,
+    "wof:name":"Sinaj",
+    "wof:parent_id":1108809827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37278,
+    45.25273,
+    19.37278,
+    45.25273
+],
+  "geometry": {"coordinates":[19.37278,45.25273],"type":"Point"}
+}

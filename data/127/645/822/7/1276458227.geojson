@@ -1,0 +1,70 @@
+{
+  "id": 1276458227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96212,42.60666,21.96212,42.60666",
+    "geom:latitude":42.60666,
+    "geom:longitude":21.96212,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Konopljarci",
+    "gn:country_code":"RS",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860356,
+    "gn:latitude":42.60666,
+    "gn:longitude":21.96212,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Konopljarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860356
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"685d36ff87f6b892baa827b11d540594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1276458227,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1276458227,
+    "wof:lastmodified":1536608543,
+    "wof:name":"Konopljarci",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96212,
+    42.60666,
+    21.96212,
+    42.60666
+],
+  "geometry": {"coordinates":[21.96212,42.60666],"type":"Point"}
+}

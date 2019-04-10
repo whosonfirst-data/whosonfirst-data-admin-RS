@@ -1,0 +1,74 @@
+{
+  "id": 1343476993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.623,43.21359,21.623,43.21359",
+    "geom:latitude":43.21359,
+    "geom:longitude":21.623,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Berilje",
+    "gn:country_code":"RS",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792668,
+    "gn:latitude":43.21359,
+    "gn:longitude":21.623,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Berilje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Berilje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792668,
+        "wk:page":"Berilje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"813508e74f8a3f1386b0ca0a4ebfcc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":1343476993,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1343476993,
+    "wof:lastmodified":1537683834,
+    "wof:name":"Berilje",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.623,
+    43.21359,
+    21.623,
+    43.21359
+],
+  "geometry": {"coordinates":[21.623,43.21359],"type":"Point"}
+}

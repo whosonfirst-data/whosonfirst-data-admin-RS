@@ -1,0 +1,73 @@
+{
+  "id": 1360099727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62889,44.32444,20.62889,44.32444",
+    "geom:latitude":44.32444,
+    "geom:longitude":20.62889,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Lipar",
+    "gn:country_code":"RS",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836734,
+    "gn:latitude":44.32444,
+    "gn:longitude":20.62889,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lipar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lipar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809817,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836734
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ac356b84367d3fdfe482d7a1324d9116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809817,
+            "locality_id":1360099727,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1360099727,
+    "wof:lastmodified":1537683896,
+    "wof:name":"Lipar",
+    "wof:parent_id":1108809817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62889,
+    44.32444,
+    20.62889,
+    44.32444
+],
+  "geometry": {"coordinates":[20.62889,44.32444],"type":"Point"}
+}

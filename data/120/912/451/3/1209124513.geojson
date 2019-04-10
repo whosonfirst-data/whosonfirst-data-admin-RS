@@ -1,0 +1,65 @@
+{
+  "id": 1209124513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44419,43.54141,19.44419,43.54141",
+    "geom:latitude":43.54141,
+    "geom:longitude":19.44419,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Zirca",
+    "gn:country_code":"RS",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297918,
+    "gn:latitude":43.54141,
+    "gn:longitude":19.44419,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u017dir\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u017dir\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297918
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8c5a69610fd0b44f1d15ecf083865dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209124513
+        }
+    ],
+    "wof:id":1209124513,
+    "wof:lastmodified":1537683995,
+    "wof:name":"Zirca",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44419,
+    43.54141,
+    19.44419,
+    43.54141
+],
+  "geometry": {"coordinates":[19.44419,43.54141],"type":"Point"}
+}

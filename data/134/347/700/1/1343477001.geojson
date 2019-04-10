@@ -1,0 +1,70 @@
+{
+  "id": 1343477001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1382,43.9728,21.1382,43.9728",
+    "geom:latitude":43.9728,
+    "geom:longitude":21.1382,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Prnjavor",
+    "gn:country_code":"RS",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":838271,
+    "gn:latitude":43.9728,
+    "gn:longitude":21.1382,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Prnjavor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688309,
+        102191581,
+        1108809907,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838271
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"092c3f94ceddef686e10b86019aed61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809907,
+            "locality_id":1343477001,
+            "macroregion_id":404228357,
+            "region_id":85688309
+        }
+    ],
+    "wof:id":1343477001,
+    "wof:lastmodified":1536722609,
+    "wof:name":"Prnjavor",
+    "wof:parent_id":1108809907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1382,
+    43.9728,
+    21.1382,
+    43.9728
+],
+  "geometry": {"coordinates":[21.1382,43.9728],"type":"Point"}
+}

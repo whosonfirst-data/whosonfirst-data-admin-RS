@@ -1,0 +1,74 @@
+{
+  "id": 1242787683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35529,43.47378,22.35529,43.47378",
+    "geom:latitude":43.47378,
+    "geom:longitude":22.35529,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Gornja Kamenica",
+    "gn:country_code":"RS",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790500,
+    "gn:latitude":43.47378,
+    "gn:longitude":22.35529,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Kamenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Kamenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108809919,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790500,
+        "wk:page":"Gornja_Kamenica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"74aa3107028a9de3249e512ade11ac90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809919,
+            "locality_id":1242787683,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1242787683,
+    "wof:lastmodified":1537683798,
+    "wof:name":"Gornja Kamenica",
+    "wof:parent_id":1108809919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35529,
+    43.47378,
+    22.35529,
+    43.47378
+],
+  "geometry": {"coordinates":[22.35529,43.47378],"type":"Point"}
+}

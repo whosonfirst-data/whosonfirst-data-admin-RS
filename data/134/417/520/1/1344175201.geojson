@@ -1,0 +1,74 @@
+{
+  "id": 1344175201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2743,42.69041,22.2743,42.69041",
+    "geom:latitude":42.69041,
+    "geom:longitude":22.2743,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Stojanovci",
+    "gn:country_code":"RS",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861740,
+    "gn:latitude":42.69041,
+    "gn:longitude":22.2743,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Stojanovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vodenica",
+        "Stojanovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810101,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861740
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4c61f9088daccd1a2708a28b89dacee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810101,
+            "locality_id":1344175201,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1344175201,
+    "wof:lastmodified":1537683908,
+    "wof:name":"Stojanovci",
+    "wof:parent_id":1108810101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2743,
+    42.69041,
+    22.2743,
+    42.69041
+],
+  "geometry": {"coordinates":[22.2743,42.69041],"type":"Point"}
+}

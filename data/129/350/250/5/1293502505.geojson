@@ -1,0 +1,77 @@
+{
+  "id": 1293502505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20626,43.29511,22.20626,43.29511",
+    "geom:latitude":43.29511,
+    "geom:longitude":22.20626,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Dolac naselje",
+    "gn:country_code":"RS",
+    "gn:dem":272,
+    "gn:elevation":"270.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520912,
+    "gn:latitude":43.29511,
+    "gn:longitude":22.20626,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dolac naselje",
+    "gn:population":855,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u0430\u0446 \u043d\u0430\u0441\u0435\u0459\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809845,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520912
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8aee23e15dd20a77dfbef1a04284a254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809845,
+            "locality_id":1293502505,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1293502505,
+    "wof:lastmodified":1537560790,
+    "wof:name":"Dolac naselje",
+    "wof:parent_id":1108809845,
+    "wof:placetype":"locality",
+    "wof:population":855,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20626,
+    43.29511,
+    22.20626,
+    43.29511
+],
+  "geometry": {"coordinates":[22.20626,43.29511],"type":"Point"}
+}

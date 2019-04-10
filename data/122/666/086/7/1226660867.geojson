@@ -1,0 +1,81 @@
+{
+  "id": 1226660867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69778,44.73949,20.69778,44.73949",
+    "geom:latitude":44.73949,
+    "geom:longitude":20.69778,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"Ivanovo",
+    "gn:country_code":"RS",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789982,
+    "gn:latitude":44.73949,
+    "gn:longitude":20.69778,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ivanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ivanovo"
+    ],
+    "name:und_x_variant":[
+        "Alexanderkirchen",
+        "Iwanovo",
+        "S\u00e1ndoregyh\u00e1z",
+        "Nagy-Gy\u00f6rgyfalva",
+        "S\u00e1ndoregyh\u00e1za"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810019,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789982,
+        "wk:page":"Ivanovo_%28Pan%C4%8Devo%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a96b5298dc14b570c306b8a6c06c3533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810019,
+            "locality_id":1226660867,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1226660867,
+    "wof:lastmodified":1537683789,
+    "wof:name":"Ivanovo",
+    "wof:parent_id":1108810019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69778,
+    44.73949,
+    20.69778,
+    44.73949
+],
+  "geometry": {"coordinates":[20.69778,44.73949],"type":"Point"}
+}

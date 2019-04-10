@@ -1,0 +1,70 @@
+{
+  "id": 1327148981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72188,44.62393,19.72188,44.62393",
+    "geom:latitude":44.62393,
+    "geom:longitude":19.72188,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Caric Mala",
+    "gn:country_code":"RS",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337465,
+    "gn:latitude":44.62393,
+    "gn:longitude":19.72188,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Cari\u0107 Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810137,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337465
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8890980562f4ddcae5b1e39d88c19d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810137,
+            "locality_id":1327148981,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1327148981,
+    "wof:lastmodified":1537086767,
+    "wof:name":"Caric Mala",
+    "wof:parent_id":1108810137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72188,
+    44.62393,
+    19.72188,
+    44.62393
+],
+  "geometry": {"coordinates":[19.72188,44.62393],"type":"Point"}
+}

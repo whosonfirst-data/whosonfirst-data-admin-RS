@@ -1,0 +1,74 @@
+{
+  "id": 1327048311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00873,43.46403,21.00873,43.46403",
+    "geom:latitude":43.46403,
+    "geom:longitude":21.00873,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Starci",
+    "gn:country_code":"RS",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835313,
+    "gn:latitude":43.46403,
+    "gn:longitude":21.00873,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Starci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Starci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108809809,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835313,
+        "wk:page":"Starci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1a7d6b092cb48464e3a781ce4a0c1192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809809,
+            "locality_id":1327048311,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1327048311,
+    "wof:lastmodified":1537683874,
+    "wof:name":"Starci",
+    "wof:parent_id":1108809809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00873,
+    43.46403,
+    21.00873,
+    43.46403
+],
+  "geometry": {"coordinates":[21.00873,43.46403],"type":"Point"}
+}

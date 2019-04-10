@@ -1,0 +1,74 @@
+{
+  "id": 890476633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47543,44.50556,19.47543,44.50556",
+    "geom:latitude":44.50556,
+    "geom:longitude":19.47543,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":756,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Badanja"
+    ],
+    "qs:name":"Donja Badanja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201726,
+        "gp:id":537718,
+        "qs:id":581740,
+        "wd:id":"Q2534188",
+        "wk:page":"Donja Badanja"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054082,
+    "wof:geomhash":"709fb5f8655f1c768ac3c569cd5bb677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":890476633,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890476633,
+    "wof:lastmodified":1527727148,
+    "wof:name":"Donja Badanja",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:population":756,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47543,
+    44.50556,
+    19.47543,
+    44.50556
+],
+  "geometry": {"coordinates":[19.47543,44.50556],"type":"Point"}
+}

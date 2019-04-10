@@ -1,0 +1,101 @@
+{
+  "id": 890477031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06138,45.90078,19.06138,45.90078",
+    "geom:latitude":45.90078,
+    "geom:longitude":19.06138,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2122,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gakovo"
+    ],
+    "name:eng_x_preferred":[
+        "Gakovo"
+    ],
+    "name:epo_x_preferred":[
+        "Gakovo"
+    ],
+    "name:fre_x_preferred":[
+        "Gakovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Gakovo"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00e1dor"
+    ],
+    "name:may_x_preferred":[
+        "Gakovo"
+    ],
+    "name:slv_x_preferred":[
+        "Gakovo"
+    ],
+    "name:srp_x_preferred":[
+        "Gakovo"
+    ],
+    "name:unk_x_variant":[
+        "Gaumarkt"
+    ],
+    "qs:name":"Gakovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":939,
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200746,
+        "gp:id":536309,
+        "qs:id":147280,
+        "wd:id":"Q1030942",
+        "wk:page":"Gakovo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054099,
+    "wof:geomhash":"e139a6aa240f226827b34fa4bb90c2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":890477031,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":890477031,
+    "wof:lastmodified":1553816410,
+    "wof:name":"Gakovo",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:population":2122,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06138,
+    45.90078,
+    19.06138,
+    45.90078
+],
+  "geometry": {"coordinates":[19.06138,45.90078],"type":"Point"}
+}

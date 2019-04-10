@@ -1,0 +1,72 @@
+{
+  "id": 890477277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.191227,43.881438,20.191227,43.881438",
+    "geom:latitude":43.881438,
+    "geom:longitude":20.191227,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lu\u010dani",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Moravica",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809965,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":535134,
+        "qs:id":1323701,
+        "wd:id":"Q2089397",
+        "wk:page":"Lu\u010dani"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054109,
+    "wof:geomhash":"a83e460e2cb425bfdd077b0604345b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809965,
+            "locality_id":890477277,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":890477277,
+    "wof:lastmodified":1527727184,
+    "wof:name":"Lu\u010dani",
+    "wof:parent_id":1108809965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.191227,
+    43.881438,
+    20.191227,
+    43.881438
+],
+  "geometry": {"coordinates":[20.191227,43.881438],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209833945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0035,43.98737,21.0035,43.98737",
+    "geom:latitude":43.98737,
+    "geom:longitude":21.0035,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Bukorovac",
+    "gn:country_code":"RS",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792163,
+    "gn:latitude":43.98737,
+    "gn:longitude":21.0035,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bukorovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bukorovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792163
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"ae4a1782a6ff6726cc6d48d5d333e284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1209833945,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1209833945,
+    "wof:lastmodified":1537683825,
+    "wof:name":"Bukorovac",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0035,
+    43.98737,
+    21.0035,
+    43.98737
+],
+  "geometry": {"coordinates":[21.0035,43.98737],"type":"Point"}
+}

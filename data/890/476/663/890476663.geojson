@@ -1,0 +1,91 @@
+{
+  "id": 890476663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25741,45.14294,20.25741,45.14294",
+    "geom:latitude":45.14294,
+    "geom:longitude":20.25741,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":638,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u043d\u043a\u0430\u043c\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438-\u0421\u043b\u0430\u043d\u043a\u0430\u043c\u0435\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "Stari Slankamen"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0421\u043b\u0430\u043d\u043a\u0430\u043c\u0435\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Salankamen"
+    ],
+    "name:unk_x_variant":[
+        "Alt-Sankamen"
+    ],
+    "qs:name":"Stari Slankamen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"45.142777777",
+    "wd:longitude":"20.2575",
+    "wd:wordcount":533,
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809901,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785529,
+        "gp:id":535660,
+        "qs:id":83575,
+        "wd:id":"Q1027263",
+        "wk:page":"Stari Slankamen"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054083,
+    "wof:geomhash":"899d3e4e65768b7effbf623a6c745c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809901,
+            "locality_id":890476663,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":890476663,
+    "wof:lastmodified":1527727152,
+    "wof:name":"Stari Slankamen",
+    "wof:parent_id":1108809901,
+    "wof:placetype":"locality",
+    "wof:population":638,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25741,
+    45.14294,
+    20.25741,
+    45.14294
+],
+  "geometry": {"coordinates":[20.25741,45.14294],"type":"Point"}
+}

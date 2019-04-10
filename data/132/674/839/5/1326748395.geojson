@@ -1,0 +1,74 @@
+{
+  "id": 1326748395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98973,43.71055,20.98973,43.71055",
+    "geom:latitude":43.71055,
+    "geom:longitude":20.98973,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Rajinac",
+    "gn:country_code":"RS",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786533,
+    "gn:latitude":43.71055,
+    "gn:longitude":20.98973,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rajinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rajinac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688243,
+        102191581,
+        1108810117,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786533,
+        "wk:page":"Rajinac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4235b9dc9b8198587a88324e6c999b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810117,
+            "locality_id":1326748395,
+            "macroregion_id":404228357,
+            "region_id":85688243
+        }
+    ],
+    "wof:id":1326748395,
+    "wof:lastmodified":1537683730,
+    "wof:name":"Rajinac",
+    "wof:parent_id":1108810117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98973,
+    43.71055,
+    20.98973,
+    43.71055
+],
+  "geometry": {"coordinates":[20.98973,43.71055],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360303819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82127,45.73462,19.82127,45.73462",
+    "geom:latitude":45.73462,
+    "geom:longitude":19.82127,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Milesevo",
+    "gn:country_code":"RS",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195133,
+    "gn:latitude":45.73462,
+    "gn:longitude":19.82127,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mile\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mile\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809841,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195133,
+        "wk:page":"Mile%C5%A1evo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9155a5d06818c2841d7e3b5e1671761b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809841,
+            "locality_id":1360303819,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1360303819,
+    "wof:lastmodified":1537683932,
+    "wof:name":"Milesevo",
+    "wof:parent_id":1108809841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82127,
+    45.73462,
+    19.82127,
+    45.73462
+],
+  "geometry": {"coordinates":[19.82127,45.73462],"type":"Point"}
+}

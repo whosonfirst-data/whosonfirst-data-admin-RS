@@ -1,0 +1,72 @@
+{
+  "id": 890477557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97447,44.112876,19.97447,44.112876",
+    "geom:latitude":44.112876,
+    "geom:longitude":19.97447,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kolubara"
+    ],
+    "qs:name":"Kolubara",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Kolubara",
+    "qs:photos":289,
+    "qs:photos_1k":59,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":707,
+    "qs:photos_sr":5,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "wd:wordcount":839,
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389220,
+        "qs:id":1089060,
+        "wd:id":"Q120179",
+        "wk:page":"Kolubara"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054120,
+    "wof:geomhash":"41d641c201bf575d3252f155762fcfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890477557
+        }
+    ],
+    "wof:id":890477557,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Kolubara",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97447,
+    44.112876,
+    19.97447,
+    44.112876
+],
+  "geometry": {"coordinates":[19.97447,44.112876],"type":"Point"}
+}

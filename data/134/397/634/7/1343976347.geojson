@@ -1,0 +1,74 @@
+{
+  "id": 1343976347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58244,43.77634,20.58244,43.77634",
+    "geom:latitude":43.77634,
+    "geom:longitude":20.58244,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Mrsac",
+    "gn:country_code":"RS",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":862649,
+    "gn:latitude":43.77634,
+    "gn:longitude":20.58244,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mrsa\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mrsa\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862649,
+        "wk:page":"Mrsa%C4%87"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c2e79dcdff29cfc25e09e15e0c5fe592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":1343976347,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1343976347,
+    "wof:lastmodified":1537683913,
+    "wof:name":"Mrsac",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58244,
+    43.77634000000001,
+    20.58244,
+    43.77634000000001
+],
+  "geometry": {"coordinates":[20.58244,43.77634000000001],"type":"Point"}
+}

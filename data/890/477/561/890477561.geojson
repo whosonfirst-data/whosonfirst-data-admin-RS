@@ -1,0 +1,72 @@
+{
+  "id": 890477561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.782943,43.643404,19.782943,43.643404",
+    "geom:latitude":43.643404,
+    "geom:longitude":19.782943,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Zlatibor"
+    ],
+    "qs:name":"Zlatibor",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Zlatibor",
+    "qs:photos":435,
+    "qs:photos_1k":88,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1895,
+    "qs:photos_sr":6,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "wd:wordcount":643,
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389216,
+        "qs:id":1089246,
+        "wd:id":"Q207143",
+        "wk:page":"Zlatibor"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054121,
+    "wof:geomhash":"85e866aeab39992ad984591660966bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890477561
+        }
+    ],
+    "wof:id":890477561,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Zlatibor",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.782943,
+    43.643404,
+    19.782943,
+    43.643404
+],
+  "geometry": {"coordinates":[19.782943,43.643404],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 890477805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82987,45.3554,20.82987,45.3554",
+    "geom:latitude":45.3554,
+    "geom:longitude":20.82987,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2246,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Boka"
+    ],
+    "name:eng_x_preferred":[
+        "Boka"
+    ],
+    "name:epo_x_preferred":[
+        "Boka"
+    ],
+    "name:fre_x_preferred":[
+        "Boka"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrvatska Boka"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00f3ka"
+    ],
+    "name:may_x_preferred":[
+        "Boka"
+    ],
+    "name:rum_x_preferred":[
+        "Boka"
+    ],
+    "name:slv_x_preferred":[
+        "Boka"
+    ],
+    "name:srp_x_preferred":[
+        "Boka"
+    ],
+    "name:unk_x_variant":[
+        "B\u00f3ka"
+    ],
+    "qs:name":"Boka",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Srednji Banat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810065,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792479,
+        "gp:id":532819,
+        "qs:id":261028,
+        "wd:id":"Q569263",
+        "wk:page":"Boka"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054131,
+    "wof:geomhash":"aceba16bf9686354e43f4017c66725f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810065,
+            "locality_id":890477805,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477805,
+    "wof:lastmodified":1527727181,
+    "wof:name":"Boka",
+    "wof:parent_id":1108810065,
+    "wof:placetype":"locality",
+    "wof:population":2246,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82987,
+    45.3554,
+    20.82987,
+    45.3554
+],
+  "geometry": {"coordinates":[20.82987,45.3554],"type":"Point"}
+}

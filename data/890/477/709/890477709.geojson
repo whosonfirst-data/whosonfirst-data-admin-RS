@@ -1,0 +1,101 @@
+{
+  "id": 890477709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24549,44.5385,19.24549,44.5385",
+    "geom:latitude":44.5385,
+    "geom:longitude":19.24549,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Klupci"
+    ],
+    "name:eng_x_preferred":[
+        "Klupci"
+    ],
+    "name:fre_x_preferred":[
+        "Klupci"
+    ],
+    "name:may_x_preferred":[
+        "Klupci"
+    ],
+    "name:pol_x_preferred":[
+        "Klupci"
+    ],
+    "name:por_x_preferred":[
+        "Klupci"
+    ],
+    "name:slv_x_preferred":[
+        "Klupci"
+    ],
+    "name:srp_x_preferred":[
+        "Klupci"
+    ],
+    "qs:name":"Klupci",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Machva",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216975,
+        "gp:id":28752673,
+        "qs:id":66558,
+        "wd:id":"Q2785019",
+        "wk:page":"Klupci"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054127,
+    "wof:geomhash":"7d0a9909eba388b7f70cfe12442ad65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":890477709,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477709,
+    "wof:lastmodified":1527727177,
+    "wof:name":"Klupci",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24549,
+    44.5385,
+    19.24549,
+    44.5385
+],
+  "geometry": {"coordinates":[19.24549,44.5385],"type":"Point"}
+}

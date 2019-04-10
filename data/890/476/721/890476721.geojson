@@ -1,0 +1,98 @@
+{
+  "id": 890476721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41056,43.10812,21.41056,43.10812",
+    "geom:latitude":43.10812,
+    "geom:longitude":21.41056,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":253,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Tov\u00ebrlani"
+    ],
+    "name:dut_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:eng_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:fre_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:may_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:por_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:slv_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:srp_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:unk_x_variant":[
+        "Tovrljan"
+    ],
+    "qs:name":"Tovrljane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784985,
+        "gp:id":537149,
+        "qs:id":553620,
+        "wd:id":"Q3106667",
+        "wk:page":"Tovrljane"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054086,
+    "wof:geomhash":"89b0c7c79d39b9ce01a2aaa6642f45ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890476721,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476721,
+    "wof:lastmodified":1527727153,
+    "wof:name":"Tovrljane",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41056,
+    43.10812,
+    21.41056,
+    43.10812
+],
+  "geometry": {"coordinates":[21.41056,43.10812],"type":"Point"}
+}

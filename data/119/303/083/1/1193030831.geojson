@@ -1,0 +1,74 @@
+{
+  "id": 1193030831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10812,43.5558,20.10812,43.5558",
+    "geom:latitude":43.5558,
+    "geom:longitude":20.10812,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Sivcina",
+    "gn:country_code":"RS",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":785854,
+    "gn:latitude":43.5558,
+    "gn:longitude":20.10812,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Siv\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Siv\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785854,
+        "wk:page":"Siv%C4%8Dina"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f94695f0d19c08d438d357b29f5b6236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1193030831,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1193030831,
+    "wof:lastmodified":1537683716,
+    "wof:name":"Sivcina",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10812,
+    43.5558,
+    20.10812,
+    43.5558
+],
+  "geometry": {"coordinates":[20.10812,43.5558],"type":"Point"}
+}

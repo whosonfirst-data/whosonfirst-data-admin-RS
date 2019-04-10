@@ -1,0 +1,70 @@
+{
+  "id": 1360095037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07333,44.14056,21.07333,44.14056",
+    "geom:latitude":44.14056,
+    "geom:longitude":21.07333,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Loznica",
+    "gn:country_code":"RS",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838811,
+    "gn:latitude":44.14056,
+    "gn:longitude":21.07333,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Loznica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809839,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838811
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4410675bebf905c1e3c0e7d174cc7dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809839,
+            "locality_id":1360095037,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1360095037,
+    "wof:lastmodified":1536931942,
+    "wof:name":"Loznica",
+    "wof:parent_id":1108809839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07333,
+    44.14056,
+    21.07333,
+    44.14056
+],
+  "geometry": {"coordinates":[21.07333,44.14056],"type":"Point"}
+}

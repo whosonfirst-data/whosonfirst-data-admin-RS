@@ -1,0 +1,110 @@
+{
+  "id": 890476959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66407,45.36606,20.66407,45.36606",
+    "geom:latitude":45.36606,
+    "geom:longitude":20.66407,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1993,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:eng_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:epo_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:fre_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:ger_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:hun_x_preferred":[
+        "Ern\u0151h\u00e1za"
+    ],
+    "name:may_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:rum_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438-\u0414\u0435\u0441\u043f\u043e\u0442\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:srp_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:unk_x_variant":[
+        "Ernesthausen"
+    ],
+    "qs:name":"Banatski Despotovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":597,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810171,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792948,
+        "gp:id":532522,
+        "qs:id":129674,
+        "wd:id":"Q806131",
+        "wk:page":"Banatski Despotovac"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054096,
+    "wof:geomhash":"d133d0f35fb7acd648397ec5d5ee75d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810171,
+            "locality_id":890476959,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476959,
+    "wof:lastmodified":1527727150,
+    "wof:name":"Banatski Despotovac",
+    "wof:parent_id":1108810171,
+    "wof:placetype":"locality",
+    "wof:population":1993,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66407,
+    45.36606,
+    20.66407,
+    45.36606
+],
+  "geometry": {"coordinates":[20.66407,45.36606],"type":"Point"}
+}

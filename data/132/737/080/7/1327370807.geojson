@@ -1,0 +1,93 @@
+{
+  "id": 1327370807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03194,43.22278,22.03194,43.22278",
+    "geom:latitude":43.22278,
+    "geom:longitude":22.03194,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"70467.0",
+    "gn:asciiname":"Gadzin Han",
+    "gn:country_code":"RS",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":790795,
+    "gn:latitude":43.22278,
+    "gn:longitude":22.03194,
+    "gn:modification_date":"2012-04-17",
+    "gn:name":"Gad\u017ein Han",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u0438\u043d \u0445\u0430\u043d"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Gad\u017ein Han"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10ef\u10d8\u10dc-\u10ee\u10d0\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06af\u0627\u062f\u0632\u0646 \u06c1\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u0438\u043d-\u0425\u0430\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "Gad\u017ein Han"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0430\u045f\u0438\u043d \u0425\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809893,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790795,
+        "wk:page":"Gad%C5%BEin_Han"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a66e8c4eb406d0a39928baf7c0279f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809893,
+            "locality_id":1327370807,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1327370807,
+    "wof:lastmodified":1537683802,
+    "wof:name":"Gadzin Han",
+    "wof:parent_id":1108809893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03194,
+    43.22278,
+    22.03194,
+    43.22278
+],
+  "geometry": {"coordinates":[22.03194,43.22278],"type":"Point"}
+}

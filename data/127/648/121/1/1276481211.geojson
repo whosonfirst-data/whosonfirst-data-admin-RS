@@ -1,0 +1,74 @@
+{
+  "id": 1276481211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0825,42.36417,22.0825,42.36417",
+    "geom:latitude":42.36417,
+    "geom:longitude":22.0825,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"71161.0",
+    "gn:asciiname":"Trgoviste",
+    "gn:country_code":"RS",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":784946,
+    "gn:latitude":42.36417,
+    "gn:longitude":22.0825,
+    "gn:modification_date":"2012-04-17",
+    "gn:name":"Trgovi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Trgovi\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784946
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b0fa38b7350871d95ccf357cbcaeacb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1276481211,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1276481211,
+    "wof:lastmodified":1537683702,
+    "wof:name":"Trgoviste",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0825,
+    42.36417,
+    22.0825,
+    42.36417
+],
+  "geometry": {"coordinates":[22.0825,42.36417],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293603647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68505,44.59965,22.68505,44.59965",
+    "geom:latitude":44.59965,
+    "geom:longitude":22.68505,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Mala Vrbica",
+    "gn:country_code":"RS",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788291,
+    "gn:latitude":44.59965,
+    "gn:longitude":22.68505,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mala Vrbica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mala Vrbica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809915,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788291,
+        "wk:page":"Mala_Vrbica_%28Kladovo%29"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"028a493ce2dfb15e67614dd1f090baa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809915,
+            "locality_id":1293603647,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1293603647,
+    "wof:lastmodified":1537683761,
+    "wof:name":"Mala Vrbica",
+    "wof:parent_id":1108809915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68505,
+    44.59965,
+    22.68505,
+    44.59965
+],
+  "geometry": {"coordinates":[22.68505,44.59965],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1326967077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41383,43.06412,22.41383,43.06412",
+    "geom:latitude":43.06412,
+    "geom:longitude":22.41383,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"70050.0",
+    "gn:asciiname":"Babusnica",
+    "gn:country_code":"RS",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793034,
+    "gn:latitude":43.06412,
+    "gn:longitude":22.41383,
+    "gn:modification_date":"2012-04-17",
+    "gn:name":"Babu\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628\u0648\u0634\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0431\u0443\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Babu\u0161nica"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Babu\u0161nica"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0627\u0628\u0648\u0634\u0646\u06cc\u0686\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Babu\u0161nica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0443\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "Babu\u0161nica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0431\u0443\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bobu\u0161nica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5e03\u4ec0\u5c3c\u5bdf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809823,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793034,
+        "wk:page":"Babu%C5%A1nica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4c99706bb219d0c3f44f979f738b7f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809823,
+            "locality_id":1326967077,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1326967077,
+    "wof:lastmodified":1537683841,
+    "wof:name":"Babusnica",
+    "wof:parent_id":1108809823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41383,
+    43.06412,
+    22.41383,
+    43.06412
+],
+  "geometry": {"coordinates":[22.41383,43.06412],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310416071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18327,44.694,21.18327,44.694",
+    "geom:latitude":44.694,
+    "geom:longitude":21.18327,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Klenovnik",
+    "gn:country_code":"RS",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789464,
+    "gn:latitude":44.694,
+    "gn:longitude":21.18327,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Klenovnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Klenovnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810033,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789464
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a52e49527a67c2f7ed5e39292d6b9c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810033,
+            "locality_id":1310416071,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1310416071,
+    "wof:lastmodified":1537683780,
+    "wof:name":"Klenovnik",
+    "wof:parent_id":1108810033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18327,
+    44.694,
+    21.18327,
+    44.694
+],
+  "geometry": {"coordinates":[21.18327,44.694],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 890476955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56421,45.58693,20.56421,45.58693",
+    "geom:latitude":45.58693,
+    "geom:longitude":20.56421,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2855,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:eng_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:epo_x_preferred":[
+        "Banatsko Karadjordjevo"
+    ],
+    "name:fre_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:hrv_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e1lmajor"
+    ],
+    "name:may_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:rum_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e-\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0440\u0434\u0436\u0435\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:srp_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:unk_x_variant":[
+        "Neu-Zerne"
+    ],
+    "qs:name":"Banatsko Kara\u0111or\u0111evo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810167,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792940,
+        "gp:id":535635,
+        "qs:id":129672,
+        "wd:id":"Q1089484",
+        "wk:page":"Banatsko Kara\u0111or\u0111evo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054096,
+    "wof:geomhash":"51f05d75a3c7d84749dd985cab241dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810167,
+            "locality_id":890476955,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476955,
+    "wof:lastmodified":1527727147,
+    "wof:name":"Banatsko Kara\u0111or\u0111evo",
+    "wof:parent_id":1108810167,
+    "wof:placetype":"locality",
+    "wof:population":2855,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56421,
+    45.58693,
+    20.56421,
+    45.58693
+],
+  "geometry": {"coordinates":[20.56421,45.58693],"type":"Point"}
+}

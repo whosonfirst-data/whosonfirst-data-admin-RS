@@ -1,0 +1,73 @@
+{
+  "id": 1226060779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27361,43.59444,20.27361,43.59444",
+    "geom:latitude":43.59444,
+    "geom:longitude":20.27361,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Obrenovici",
+    "gn:country_code":"RS",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":836452,
+    "gn:latitude":43.59444,
+    "gn:longitude":20.27361,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Obrenovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Obrenovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809905,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836452
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"300a9554ae28f2bc4fd2307e133d0c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809905,
+            "locality_id":1226060779,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1226060779,
+    "wof:lastmodified":1537683893,
+    "wof:name":"Obrenovici",
+    "wof:parent_id":1108809905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27361,
+    43.59444000000001,
+    20.27361,
+    43.59444000000001
+],
+  "geometry": {"coordinates":[20.27361,43.59444000000001],"type":"Point"}
+}

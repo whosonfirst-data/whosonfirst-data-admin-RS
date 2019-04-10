@@ -1,0 +1,73 @@
+{
+  "id": 1276996253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77301,44.67169,19.77301,44.67169",
+    "geom:latitude":44.67169,
+    "geom:longitude":19.77301,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Vucevica",
+    "gn:country_code":"RS",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3217005,
+    "gn:latitude":44.67169,
+    "gn:longitude":19.77301,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vu\u010devica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vu\u010devica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810137,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217005
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"83c5824a3486742bcb50bcca3a46e582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810137,
+            "locality_id":1276996253,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1276996253,
+    "wof:lastmodified":1537683964,
+    "wof:name":"Vucevica",
+    "wof:parent_id":1108810137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77301,
+    44.67169000000001,
+    19.77301,
+    44.67169000000001
+],
+  "geometry": {"coordinates":[19.77301,44.67169000000001],"type":"Point"}
+}

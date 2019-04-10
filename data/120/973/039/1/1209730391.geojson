@@ -1,0 +1,73 @@
+{
+  "id": 1209730391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05238,43.1825,21.05238,43.1825",
+    "geom:latitude":43.1825,
+    "geom:longitude":21.05238,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Sipovac",
+    "gn:country_code":"RS",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834925,
+    "gn:latitude":43.1825,
+    "gn:longitude":21.05238,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Sipovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sipovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834925
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3146cc3b25f5f3e659efc1fa1f7dfe9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1209730391,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1209730391,
+    "wof:lastmodified":1537683863,
+    "wof:name":"Sipovac",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05238,
+    43.1825,
+    21.05238,
+    43.1825
+],
+  "geometry": {"coordinates":[21.05238,43.1825],"type":"Point"}
+}

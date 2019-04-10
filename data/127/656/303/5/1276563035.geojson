@@ -1,0 +1,74 @@
+{
+  "id": 1276563035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01257,43.16476,21.01257,43.16476",
+    "geom:latitude":43.16476,
+    "geom:longitude":21.01257,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Mrce",
+    "gn:country_code":"RS",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787818,
+    "gn:latitude":43.16476,
+    "gn:longitude":21.01257,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mr\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mr\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787818,
+        "wk:page":"Mr%C4%8De"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c5d154460adf4f5c0862579277a6eea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":1276563035,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1276563035,
+    "wof:lastmodified":1537683752,
+    "wof:name":"Mrce",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01257,
+    43.16476,
+    21.01257,
+    43.16476
+],
+  "geometry": {"coordinates":[21.01257,43.16476],"type":"Point"}
+}

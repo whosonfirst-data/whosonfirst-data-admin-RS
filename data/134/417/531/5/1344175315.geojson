@@ -1,0 +1,74 @@
+{
+  "id": 1344175315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81215,42.74282,21.81215,42.74282",
+    "geom:latitude":42.74282,
+    "geom:longitude":21.81215,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Mijovce",
+    "gn:country_code":"RS",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787990,
+    "gn:latitude":42.74282,
+    "gn:longitude":21.81215,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mijovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mijovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787990,
+        "wk:page":"Mijovce"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"388ae5644866add6e9e4ef52c52b2d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":1344175315,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1344175315,
+    "wof:lastmodified":1537683756,
+    "wof:name":"Mijovce",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81215,
+    42.74282,
+    21.81215,
+    42.74282
+],
+  "geometry": {"coordinates":[21.81215,42.74282],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209530471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67667,43.31528,19.67667,43.31528",
+    "geom:latitude":43.31528,
+    "geom:longitude":19.67667,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Divci",
+    "gn:country_code":"RS",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3202018,
+    "gn:latitude":43.31528,
+    "gn:longitude":19.67667,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Divci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Divci -Lu\u010dice",
+        "Divci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202018
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9c41bff87cf60c97314fa64dff0075d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209530471
+        }
+    ],
+    "wof:id":1209530471,
+    "wof:lastmodified":1537683945,
+    "wof:name":"Divci",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67667,
+    43.31528,
+    19.67667,
+    43.31528
+],
+  "geometry": {"coordinates":[19.67667,43.31528],"type":"Point"}
+}

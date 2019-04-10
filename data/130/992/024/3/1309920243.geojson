@@ -1,0 +1,74 @@
+{
+  "id": 1309920243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10685,44.36375,20.10685,44.36375",
+    "geom:latitude":44.36375,
+    "geom:longitude":20.10685,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"9",
+    "gn:asciiname":"Nepricava",
+    "gn:country_code":"RS",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787696,
+    "gn:latitude":44.36375,
+    "gn:longitude":20.10685,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Nepri\u010dava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Nepri\u010dava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688313,
+        102191581,
+        1108809947,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787696,
+        "wk:page":"Nepri%C4%8Dava"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a7f726fe8c943d581cb7e3849dc8d735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809947,
+            "locality_id":1309920243,
+            "macroregion_id":404228357,
+            "region_id":85688313
+        }
+    ],
+    "wof:id":1309920243,
+    "wof:lastmodified":1537683750,
+    "wof:name":"Nepricava",
+    "wof:parent_id":1108809947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10685,
+    44.36375,
+    20.10685,
+    44.36375
+],
+  "geometry": {"coordinates":[20.10685,44.36375],"type":"Point"}
+}

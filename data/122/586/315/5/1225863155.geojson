@@ -1,0 +1,79 @@
+{
+  "id": 1225863155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08117,43.75937,20.08117,43.75937",
+    "geom:latitude":43.75937,
+    "geom:longitude":20.08117,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Vrane",
+    "gn:country_code":"RS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784241,
+    "gn:latitude":43.75937,
+    "gn:longitude":20.08117,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vrane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "Vrane"
+    ],
+    "name:und_x_variant":[
+        "Vranje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809821,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784241
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"540472cbd6141c428d2633b0e734ac53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809821,
+            "locality_id":1225863155,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1225863155,
+    "wof:lastmodified":1537683691,
+    "wof:name":"Vrane",
+    "wof:parent_id":1108809821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08117,
+    43.75937,
+    20.08117,
+    43.75937
+],
+  "geometry": {"coordinates":[20.08117,43.75937],"type":"Point"}
+}

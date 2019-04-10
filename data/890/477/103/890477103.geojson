@@ -1,0 +1,68 @@
+{
+  "id": 890477103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58333,43.52792,20.58333,43.52792",
+    "geom:latitude":43.52792,
+    "geom:longitude":20.58333,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Dojovi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837374,
+        "gp:id":536969,
+        "qs:id":554463
+    },
+    "wof:country":"RS",
+    "wof:created":1469054102,
+    "wof:geomhash":"a580f637de8de48c6f63fd7cbc8e3751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":890477103,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":890477103,
+    "wof:lastmodified":1505343724,
+    "wof:name":"Dojovi",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58333,
+    43.52792,
+    20.58333,
+    43.52792
+],
+  "geometry": {"coordinates":[20.58333,43.52792],"type":"Point"}
+}

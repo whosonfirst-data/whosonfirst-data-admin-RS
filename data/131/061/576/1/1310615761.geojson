@@ -1,0 +1,77 @@
+{
+  "id": 1310615761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53617,44.25306,20.53617,44.25306",
+    "geom:latitude":44.25306,
+    "geom:longitude":20.53617,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Vukosavci",
+    "gn:country_code":"RS",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784077,
+    "gn:latitude":44.25306,
+    "gn:longitude":20.53617,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vukosavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vukosavci"
+    ],
+    "name:und_x_variant":[
+        "Vukosavce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809817,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784077,
+        "wk:page":"Vukosavci"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8eed699e18108e2be3a5f8b93d6d4bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809817,
+            "locality_id":1310615761,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1310615761,
+    "wof:lastmodified":1537683688,
+    "wof:name":"Vukosavci",
+    "wof:parent_id":1108809817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53617,
+    44.25306,
+    20.53617,
+    44.25306
+],
+  "geometry": {"coordinates":[20.53617,44.25306],"type":"Point"}
+}

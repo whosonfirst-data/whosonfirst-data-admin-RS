@@ -1,0 +1,74 @@
+{
+  "id": 1343671777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48334,43.94102,20.48334,43.94102",
+    "geom:latitude":43.94102,
+    "geom:longitude":20.48334,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Gornja Trepca",
+    "gn:country_code":"RS",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862743,
+    "gn:latitude":43.94102,
+    "gn:longitude":20.48334,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Trep\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Trep\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809867,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862743,
+        "wk:page":"Gornja_Trep%C4%8Da"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c1f4afed52e3ba6555a2c92cba7aa8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809867,
+            "locality_id":1343671777,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1343671777,
+    "wof:lastmodified":1537683914,
+    "wof:name":"Gornja Trepca",
+    "wof:parent_id":1108809867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48334,
+    43.94102,
+    20.48334,
+    43.94102
+],
+  "geometry": {"coordinates":[20.48334,43.94102],"type":"Point"}
+}

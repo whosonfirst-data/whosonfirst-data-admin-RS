@@ -1,0 +1,74 @@
+{
+  "id": 1276999649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33107,43.66537,22.33107,43.66537",
+    "geom:latitude":43.66537,
+    "geom:longitude":22.33107,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Petrusa",
+    "gn:country_code":"RS",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787064,
+    "gn:latitude":43.66537,
+    "gn:longitude":22.33107,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Petru\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Petru\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108809919,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787064,
+        "wk:page":"Petru%C5%A1a"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"52376050ae18c9e872217bf5d0fb31ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809919,
+            "locality_id":1276999649,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1276999649,
+    "wof:lastmodified":1537683740,
+    "wof:name":"Petrusa",
+    "wof:parent_id":1108809919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33107,
+    43.66537,
+    22.33107,
+    43.66537
+],
+  "geometry": {"coordinates":[22.33107,43.66537],"type":"Point"}
+}

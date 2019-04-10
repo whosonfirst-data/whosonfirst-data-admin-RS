@@ -1,0 +1,73 @@
+{
+  "id": 1225959205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12368,43.79893,20.12368,43.79893",
+    "geom:latitude":43.79893,
+    "geom:longitude":20.12368,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Lopas",
+    "gn:country_code":"RS",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788495,
+    "gn:latitude":43.79893,
+    "gn:longitude":20.12368,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lopa\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lopa\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810037,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788495
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"d8327ff87cb9cb3556cd4d96fcddffda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810037,
+            "locality_id":1225959205,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1225959205,
+    "wof:lastmodified":1537683766,
+    "wof:name":"Lopas",
+    "wof:parent_id":1108810037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12368,
+    43.79893,
+    20.12368,
+    43.79893
+],
+  "geometry": {"coordinates":[20.12368,43.79893],"type":"Point"}
+}

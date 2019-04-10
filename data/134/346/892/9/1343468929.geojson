@@ -1,0 +1,73 @@
+{
+  "id": 1343468929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72723,44.0904,20.72723,44.0904",
+    "geom:latitude":44.0904,
+    "geom:longitude":20.72723,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Mala Vrbica",
+    "gn:country_code":"RS",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788292,
+    "gn:latitude":44.0904,
+    "gn:longitude":20.72723,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mala Vrbica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mala Vrbica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788292
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9a46292c94e4d4664be7aac74f9385a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1343468929,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1343468929,
+    "wof:lastmodified":1537683761,
+    "wof:name":"Mala Vrbica",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72723,
+    44.0904,
+    20.72723,
+    44.0904
+],
+  "geometry": {"coordinates":[20.72723,44.0904],"type":"Point"}
+}

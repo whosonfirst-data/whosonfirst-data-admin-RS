@@ -1,0 +1,72 @@
+{
+  "id": 1209116157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69205,45.6816,19.69205,45.6816",
+    "geom:latitude":45.6816,
+    "geom:longitude":19.69205,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"1",
+    "gn:asciiname":"Lovcenac",
+    "gn:country_code":"RS",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196185,
+    "gn:latitude":45.6816,
+    "gn:longitude":19.69205,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lov\u0107enac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:und_x_variant":[
+        "Sekitsch",
+        "Sonnhag",
+        "Szeghegy",
+        "Seki\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196185,
+        "wk:page":"Lov%C4%87enac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b67601c3bf648396a04a37387a05b93a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209116157
+        }
+    ],
+    "wof:id":1209116157,
+    "wof:lastmodified":1537683934,
+    "wof:name":"Lovcenac",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69205,
+    45.6816,
+    19.69205,
+    45.6816
+],
+  "geometry": {"coordinates":[19.69205,45.6816],"type":"Point"}
+}

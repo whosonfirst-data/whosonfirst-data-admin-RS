@@ -1,0 +1,74 @@
+{
+  "id": 1259501611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23713,42.44874,22.23713,42.44874",
+    "geom:latitude":42.44874,
+    "geom:longitude":22.23713,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Katrandzici",
+    "gn:country_code":"RS",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861555,
+    "gn:latitude":42.44874,
+    "gn:longitude":22.23713,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Katrand\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katran\u0111ici",
+        "Katrand\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861555
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c0b8be1689c4525847dda57c3b73aeb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1259501611,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1259501611,
+    "wof:lastmodified":1537683906,
+    "wof:name":"Katrandzici",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23713,
+    42.44874,
+    22.23713,
+    42.44874
+],
+  "geometry": {"coordinates":[22.23713,42.44874],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343575893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97222,43.92722,20.97222,43.92722",
+    "geom:latitude":43.92722,
+    "geom:longitude":20.97222,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Orasje",
+    "gn:country_code":"RS",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862821,
+    "gn:latitude":43.92722,
+    "gn:longitude":20.97222,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ora\u0161je",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862821
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"eacf4912da6f952f7aa2267275496b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1343575893,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1343575893,
+    "wof:lastmodified":1537074046,
+    "wof:name":"Orasje",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97222,
+    43.92722,
+    20.97222,
+    43.92722
+],
+  "geometry": {"coordinates":[20.97222,43.92722],"type":"Point"}
+}

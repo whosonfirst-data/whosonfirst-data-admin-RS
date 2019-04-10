@@ -1,0 +1,72 @@
+{
+  "id": 890477707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.563415,43.992814,21.563415,43.992814",
+    "geom:latitude":43.992814,
+    "geom:longitude":21.563415,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Pomoravlje"
+    ],
+    "qs:name":"Pomoravlje",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Pomoravlje",
+    "qs:photos":73,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":149,
+    "qs:photos_sr":2,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389221,
+        "qs:id":230651,
+        "wd:id":"Q3396040",
+        "wk:page":"Pomoravlje"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054127,
+    "wof:geomhash":"483b56eb26283bc4089cd3f76c043772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "region_id":890477707
+        }
+    ],
+    "wof:id":890477707,
+    "wof:lastmodified":1529541200,
+    "wof:name":"Pomoravlje",
+    "wof:parent_id":85633755,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.563415,
+    43.992814,
+    21.563415,
+    43.992814
+],
+  "geometry": {"coordinates":[21.563415,43.992814],"type":"Point"}
+}

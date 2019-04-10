@@ -1,0 +1,86 @@
+{
+  "id": 1242884275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91736,45.96383,19.91736,45.96383",
+    "geom:latitude":45.96383,
+    "geom:longitude":19.91736,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"Totovo Selo",
+    "gn:country_code":"RS",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318866,
+    "gn:latitude":45.96383,
+    "gn:longitude":19.91736,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Totovo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "T\u00f3thfalu"
+    ],
+    "name:hun_x_variant":[
+        "T\u00f3tfalu"
+    ],
+    "name:srp_x_preferred":[
+        "Totovo Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u0442\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "T\u00f3tfalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688257,
+        102191581,
+        1108809911,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318866,
+        "wk:page":"Totovo_Selo"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"7b516b4c5977188ebb11df26da391bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809911,
+            "locality_id":1242884275,
+            "macroregion_id":404227537,
+            "region_id":85688257
+        }
+    ],
+    "wof:id":1242884275,
+    "wof:lastmodified":1537684027,
+    "wof:name":"Totovo Selo",
+    "wof:parent_id":1108809911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91736,
+    45.96383,
+    19.91736,
+    45.96383
+],
+  "geometry": {"coordinates":[19.91736,45.96383],"type":"Point"}
+}

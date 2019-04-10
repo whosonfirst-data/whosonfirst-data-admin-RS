@@ -1,0 +1,74 @@
+{
+  "id": 1243278769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55041,44.92677,19.55041,44.92677",
+    "geom:latitude":44.92677,
+    "geom:longitude":19.55041,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Nocaj",
+    "gn:country_code":"RS",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194474,
+    "gn:latitude":44.92677,
+    "gn:longitude":19.55041,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"No\u0107aj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "No\u0107aj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810087,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194474,
+        "wk:page":"No%C4%87aj"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"8190b9ba92a171dc683d2da1ec15efa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810087,
+            "locality_id":1243278769,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1243278769,
+    "wof:lastmodified":1537683931,
+    "wof:name":"Nocaj",
+    "wof:parent_id":1108810087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55041,
+    44.92677,
+    19.55041,
+    44.92677
+],
+  "geometry": {"coordinates":[19.55041,44.92677],"type":"Point"}
+}

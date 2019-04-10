@@ -1,0 +1,74 @@
+{
+  "id": 1226757767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05042,43.21997,20.05042,43.21997",
+    "geom:latitude":43.21997,
+    "geom:longitude":20.05042,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Krce",
+    "gn:country_code":"RS",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789077,
+    "gn:latitude":43.21997,
+    "gn:longitude":20.05042,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Kr\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kr\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108810073,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789077,
+        "wk:page":"Kr%C4%87e"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"fecdde509d070cb68f368b6dadea1548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810073,
+            "locality_id":1226757767,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1226757767,
+    "wof:lastmodified":1537683775,
+    "wof:name":"Krce",
+    "wof:parent_id":1108810073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05042000000001,
+    43.21997,
+    20.05042000000001,
+    43.21997
+],
+  "geometry": {"coordinates":[20.05042000000001,43.21997],"type":"Point"}
+}

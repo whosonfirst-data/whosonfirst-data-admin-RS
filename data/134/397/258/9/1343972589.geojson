@@ -1,0 +1,70 @@
+{
+  "id": 1343972589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72701,43.58373,19.72701,43.58373",
+    "geom:latitude":43.58373,
+    "geom:longitude":19.72701,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Velika Rasnica",
+    "gn:country_code":"RS",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303080,
+    "gn:latitude":43.58373,
+    "gn:longitude":19.72701,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Velika Rasnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809993,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303080
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6e8da86ef6d0e0d85749e4847d8b69ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809993,
+            "locality_id":1343972589,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1343972589,
+    "wof:lastmodified":1537001682,
+    "wof:name":"Velika Rasnica",
+    "wof:parent_id":1108809993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72701,
+    43.58373,
+    19.72701,
+    43.58373
+],
+  "geometry": {"coordinates":[19.72701,43.58373],"type":"Point"}
+}

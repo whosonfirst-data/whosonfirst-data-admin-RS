@@ -1,0 +1,98 @@
+{
+  "id": 890477283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17487,42.55909,22.17487,42.55909",
+    "geom:latitude":42.55909,
+    "geom:longitude":22.17487,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":700,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Krivafeja"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u0424\u0435\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Kriva Feja"
+    ],
+    "name:eng_x_preferred":[
+        "Kriva Feja"
+    ],
+    "name:fre_x_preferred":[
+        "Kriva Feja"
+    ],
+    "name:may_x_preferred":[
+        "Kriva Feja"
+    ],
+    "name:por_x_preferred":[
+        "Kriva Feja"
+    ],
+    "name:slv_x_preferred":[
+        "Kriva Feja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u0424\u0435\u0458\u0430"
+    ],
+    "qs:name":"Kriva Feja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810147,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942384,
+        "gp:id":534798,
+        "qs:id":653120,
+        "wd:id":"Q3105815",
+        "wk:page":"Kriva Feja"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054109,
+    "wof:geomhash":"031a542f4d75e2acd3154f0a1aa1441b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810147,
+            "locality_id":890477283,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":890477283,
+    "wof:lastmodified":1527727184,
+    "wof:name":"Kriva Feja",
+    "wof:parent_id":1108810147,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17487,
+    42.55909,
+    22.17487,
+    42.55909
+],
+  "geometry": {"coordinates":[22.17487,42.55909],"type":"Point"}
+}

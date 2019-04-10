@@ -1,0 +1,98 @@
+{
+  "id": 890476729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31485,43.13483,21.31485,43.13483",
+    "geom:latitude":43.13483,
+    "geom:longitude":21.31485,
+    "gn:country":"RS",
+    "gn:fcode":"PPLL",
+    "gn:pop":343,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "K\u00ebr\u00e7mari"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u044a\u0447\u043c\u0430\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "name:eng_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "name:fre_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "name:may_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "name:por_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "name:slv_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "name:srp_x_preferred":[
+        "Kr\u010dmare"
+    ],
+    "qs:name":"Kr\u010dmare",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809943,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789072,
+        "gp:id":534903,
+        "qs:id":553885,
+        "wd:id":"Q2729744",
+        "wk:page":"Kr\u010dmare"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054086,
+    "wof:geomhash":"d975117404dd06a4a9becd5bcb057d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809943,
+            "locality_id":890476729,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890476729,
+    "wof:lastmodified":1527727154,
+    "wof:name":"Kr\u010dmare",
+    "wof:parent_id":1108809943,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31485,
+    43.13483,
+    21.31485,
+    43.13483
+],
+  "geometry": {"coordinates":[21.31485,43.13483],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360103407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19593,42.378,22.19593,42.378",
+    "geom:latitude":42.378,
+    "geom:longitude":22.19593,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Trajkovci",
+    "gn:country_code":"RS",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861205,
+    "gn:latitude":42.378,
+    "gn:longitude":22.19593,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Trajkovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861205
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e6a8530d3126875ee7e5834244e76061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1360103407,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1360103407,
+    "wof:lastmodified":1536919812,
+    "wof:name":"Trajkovci",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19593,
+    42.378,
+    22.19593,
+    42.378
+],
+  "geometry": {"coordinates":[22.19593,42.378],"type":"Point"}
+}

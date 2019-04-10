@@ -1,0 +1,74 @@
+{
+  "id": 1209730115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04906,43.53384,22.04906,43.53384",
+    "geom:latitude":43.53384,
+    "geom:longitude":22.04906,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Bozinovac",
+    "gn:country_code":"RS",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792388,
+    "gn:latitude":43.53384,
+    "gn:longitude":22.04906,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Bo\u017einovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bo\u017einovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108809919,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792388,
+        "wk:page":"Bo%C5%BEinovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"b1232e4a881440ab8014329faa547d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809919,
+            "locality_id":1209730115,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1209730115,
+    "wof:lastmodified":1537683829,
+    "wof:name":"Bozinovac",
+    "wof:parent_id":1108809919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04906,
+    43.53384000000001,
+    22.04906,
+    43.53384000000001
+],
+  "geometry": {"coordinates":[22.04906,43.53384000000001],"type":"Point"}
+}

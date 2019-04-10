@@ -1,0 +1,70 @@
+{
+  "id": 1310716523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35194,43.24611,21.35194,43.24611",
+    "geom:latitude":43.24611,
+    "geom:longitude":21.35194,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Labovici",
+    "gn:country_code":"RS",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863329,
+    "gn:latitude":43.24611,
+    "gn:longitude":21.35194,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Labovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108809849,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863329
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5a614365b69cc70acb5459804601a598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809849,
+            "locality_id":1310716523,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":1310716523,
+    "wof:lastmodified":1536609787,
+    "wof:name":"Labovici",
+    "wof:parent_id":1108809849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35194,
+    43.24611,
+    21.35194,
+    43.24611
+],
+  "geometry": {"coordinates":[21.35194,43.24611],"type":"Point"}
+}

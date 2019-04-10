@@ -1,0 +1,74 @@
+{
+  "id": 1343676433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97295,44.20234,20.97295,44.20234",
+    "geom:latitude":44.20234,
+    "geom:longitude":20.97295,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Vucic",
+    "gn:country_code":"RS",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784101,
+    "gn:latitude":44.20234,
+    "gn:longitude":20.97295,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Vu\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vu\u010di\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108810047,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784101,
+        "wk:page":"Vu%C4%8Di%C4%87%2C_Serbia"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c5f65628ab9feafff4f7e4431598c218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810047,
+            "locality_id":1343676433,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1343676433,
+    "wof:lastmodified":1537683688,
+    "wof:name":"Vucic",
+    "wof:parent_id":1108810047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97295,
+    44.20234,
+    20.97295,
+    44.20234
+],
+  "geometry": {"coordinates":[20.97295,44.20234],"type":"Point"}
+}

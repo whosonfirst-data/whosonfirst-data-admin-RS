@@ -1,0 +1,69 @@
+{
+  "id": 1209229213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96845,43.54706,20.96845,43.54706",
+    "geom:latitude":43.54706,
+    "geom:longitude":20.96845,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Suvlica",
+    "gn:country_code":"RS",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785361,
+    "gn:latitude":43.54706,
+    "gn:longitude":20.96845,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Suvlica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Suvlica"
+    ],
+    "name:und_x_variant":[
+        "Stublica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785361,
+        "wk:page":"Stublca"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"1daf7161cae7c8b76fd14ef0e58af487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209229213
+        }
+    ],
+    "wof:id":1209229213,
+    "wof:lastmodified":1537683708,
+    "wof:name":"Suvlica",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96845,
+    43.54706,
+    20.96845,
+    43.54706
+],
+  "geometry": {"coordinates":[20.96845,43.54706],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226052685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01963,44.0635,21.01963,44.0635",
+    "geom:latitude":44.0635,
+    "geom:longitude":21.01963,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Botunje",
+    "gn:country_code":"RS",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792401,
+    "gn:latitude":44.0635,
+    "gn:longitude":21.01963,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Botunje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Botunje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688319,
+        102191581,
+        1108809931,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792401,
+        "wk:page":"Botunje"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c888c9d138850d41e0f446d9f716fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809931,
+            "locality_id":1226052685,
+            "macroregion_id":404228357,
+            "region_id":85688319
+        }
+    ],
+    "wof:id":1226052685,
+    "wof:lastmodified":1537683830,
+    "wof:name":"Botunje",
+    "wof:parent_id":1108809931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01963,
+    44.0635,
+    21.01963,
+    44.0635
+],
+  "geometry": {"coordinates":[21.01963,44.0635],"type":"Point"}
+}

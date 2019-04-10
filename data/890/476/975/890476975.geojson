@@ -1,0 +1,101 @@
+{
+  "id": 890476975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55714,45.68943,20.55714,45.68943",
+    "geom:latitude":45.68943,
+    "geom:longitude":20.55714,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1099,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Toba"
+    ],
+    "name:eng_x_preferred":[
+        "Toba"
+    ],
+    "name:fre_x_preferred":[
+        "Toba"
+    ],
+    "name:hrv_x_preferred":[
+        "Toba"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f3ba"
+    ],
+    "name:may_x_preferred":[
+        "Toba"
+    ],
+    "name:rum_x_preferred":[
+        "Toba"
+    ],
+    "name:slv_x_preferred":[
+        "Toba"
+    ],
+    "name:srp_x_preferred":[
+        "Toba"
+    ],
+    "name:unk_x_variant":[
+        "Nagy-T\u00f3ba"
+    ],
+    "qs:name":"Toba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":239,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108809991,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785053,
+        "gp:id":535635,
+        "qs:id":129393,
+        "wd:id":"Q301070",
+        "wk:page":"Toba"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054096,
+    "wof:geomhash":"4b0fce299df6e4f6b283bde3f45eb121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809991,
+            "locality_id":890476975,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890476975,
+    "wof:lastmodified":1527727154,
+    "wof:name":"Toba",
+    "wof:parent_id":1108809991,
+    "wof:placetype":"locality",
+    "wof:population":1099,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55714,
+    45.68943,
+    20.55714,
+    45.68943
+],
+  "geometry": {"coordinates":[20.55714,45.68943],"type":"Point"}
+}

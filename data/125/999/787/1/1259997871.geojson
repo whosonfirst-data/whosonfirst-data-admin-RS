@@ -1,0 +1,74 @@
+{
+  "id": 1259997871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55457,44.51362,19.55457,44.51362",
+    "geom:latitude":44.51362,
+    "geom:longitude":19.55457,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Gornja Sipulja",
+    "gn:country_code":"RS",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316921,
+    "gn:latitude":44.51362,
+    "gn:longitude":19.55457,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gornja Sipulja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Sipulja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809961,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316921,
+        "wk:page":"Gornja_Sipulja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f182d69e08a6f58b7ec1649f9c7d04dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809961,
+            "locality_id":1259997871,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1259997871,
+    "wof:lastmodified":1537684024,
+    "wof:name":"Gornja Sipulja",
+    "wof:parent_id":1108809961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55457,
+    44.51362,
+    19.55457,
+    44.51362
+],
+  "geometry": {"coordinates":[19.55457,44.51362],"type":"Point"}
+}

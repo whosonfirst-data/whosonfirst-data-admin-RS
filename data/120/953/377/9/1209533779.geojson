@@ -1,0 +1,65 @@
+{
+  "id": 1209533779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23857,43.62206,20.23857,43.62206",
+    "geom:latitude":43.62206,
+    "geom:longitude":20.23857,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Rascici",
+    "gn:country_code":"RS",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":836470,
+    "gn:latitude":43.62206,
+    "gn:longitude":20.23857,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Ra\u0161\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ra\u0161\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836470
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"c72e68580bb7d34e34840ff92571dff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209533779
+        }
+    ],
+    "wof:id":1209533779,
+    "wof:lastmodified":1537683894,
+    "wof:name":"Rascici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23857000000001,
+    43.62206,
+    20.23857000000001,
+    43.62206
+],
+  "geometry": {"coordinates":[20.23857000000001,43.62206],"type":"Point"}
+}

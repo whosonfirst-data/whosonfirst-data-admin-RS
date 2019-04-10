@@ -1,0 +1,76 @@
+{
+  "id": 1226557925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76787,45.2078,19.76787,45.2078",
+    "geom:latitude":45.2078,
+    "geom:longitude":19.76787,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Rakovac",
+    "gn:country_code":"RS",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191997,
+    "gn:latitude":45.2078,
+    "gn:longitude":19.76787,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Rakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rakovac"
+    ],
+    "name:und_x_variant":[
+        "Novi Rakovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809847,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191997
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4a14a9ae80ebf67c443ec37eed5f53a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809847,
+            "locality_id":1226557925,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1226557925,
+    "wof:lastmodified":1537683927,
+    "wof:name":"Rakovac",
+    "wof:parent_id":1108809847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76787,
+    45.2078,
+    19.76787,
+    45.2078
+],
+  "geometry": {"coordinates":[19.76787,45.2078],"type":"Point"}
+}

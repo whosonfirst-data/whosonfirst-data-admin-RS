@@ -1,0 +1,72 @@
+{
+  "id": 1293108713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3402,43.8629,19.3402,43.8629",
+    "geom:latitude":43.8629,
+    "geom:longitude":19.3402,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rajaci",
+    "gn:country_code":"RS",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300576,
+    "gn:latitude":43.8629,
+    "gn:longitude":19.3402,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Rajaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rajaci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809833,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300576
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"6c118c4e85490690315e3af0e58460bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809833,
+            "locality_id":1293108713,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1293108713,
+    "wof:lastmodified":1537683998,
+    "wof:name":"Rajaci",
+    "wof:parent_id":1108809833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3402,
+    43.8629,
+    19.3402,
+    43.8629
+],
+  "geometry": {"coordinates":[19.3402,43.8629],"type":"Point"}
+}

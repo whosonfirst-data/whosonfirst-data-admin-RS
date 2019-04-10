@@ -1,0 +1,84 @@
+{
+  "id": 1327167867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0057,43.29507,22.0057,43.29507",
+    "geom:latitude":43.29507,
+    "geom:longitude":22.0057,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"71285.0",
+    "gn:asciiname":"Niska Banja",
+    "gn:country_code":"RS",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":834855,
+    "gn:latitude":43.29507,
+    "gn:longitude":22.0057,
+    "gn:modification_date":"2012-04-16",
+    "gn:name":"Ni\u0161ka Banja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u0448\u043a\u0430 \u0411\u0430\u043d\u044f"
+    ],
+    "name:hbs_x_preferred":[
+        "\u041d\u0438\u0448\u043a\u0430 \u0411\u0430\u045a\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0448\u043a\u0430 \u0411\u0430\u045a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4ec0\u7926\u6cc9\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108809989,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834855,
+        "wk:page":"Ni%C5%A1ka_Banja"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dae10b643873e9c6b8832dfc0108ce94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809989,
+            "locality_id":1327167867,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1327167867,
+    "wof:lastmodified":1537683861,
+    "wof:name":"Niska Banja",
+    "wof:parent_id":1108809989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0057,
+    43.29507,
+    22.0057,
+    43.29507
+],
+  "geometry": {"coordinates":[22.0057,43.29507],"type":"Point"}
+}

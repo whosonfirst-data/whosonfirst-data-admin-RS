@@ -1,0 +1,94 @@
+{
+  "id": 890477353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54654,44.85617,19.54654,44.85617",
+    "geom:latitude":44.85617,
+    "geom:longitude":19.54654,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":1419,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Metkovi\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Metkovi\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Metkovi\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Metkovi\u0107"
+    ],
+    "name:rum_x_preferred":[
+        "Metkovi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Ma\u010dvanski Metkovi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "Metkovi\u0107"
+    ],
+    "qs:name":"Metkovi\u0107",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"43.05",
+    "wd:longitude":"17.65",
+    "wd:wordcount":530,
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108809851,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195220,
+        "gp:id":532790,
+        "qs:id":1044018,
+        "wd:id":"Q3101914",
+        "wk:page":"Metkovi\u0107"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054112,
+    "wof:geomhash":"b66a8c16d9a3a1757c44067491f38e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809851,
+            "locality_id":890477353,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":890477353,
+    "wof:lastmodified":1527727177,
+    "wof:name":"Metkovi\u0107",
+    "wof:parent_id":1108809851,
+    "wof:placetype":"locality",
+    "wof:population":1419,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54654,
+    44.85617,
+    19.54654,
+    44.85617
+],
+  "geometry": {"coordinates":[19.54654,44.85617],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 890477585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49612,44.83786,20.49612,44.83786",
+    "geom:latitude":44.83786,
+    "geom:longitude":20.49612,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Krnja\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Krnja\u010da"
+    ],
+    "name:fre_x_preferred":[
+        "Krnja\u010da"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30cb\u30e3\u30c1\u30e3"
+    ],
+    "name:rum_x_preferred":[
+        "Krnja\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "Krnja\u010da"
+    ],
+    "name:tur_x_preferred":[
+        "Krnja\u010da"
+    ],
+    "qs:name":"Krnja\u010da",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Beograd",
+    "qs:photos":1138,
+    "qs:photos_1k":231,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1138,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:latitude":"44.84138889",
+    "wd:longitude":"20.50027778",
+    "wd:wordcount":1217,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789022,
+        "gp:id":534811,
+        "qs:id":1165761,
+        "wd:id":"Q3199875",
+        "wk:page":"Krnja\u010da"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054122,
+    "wof:geomhash":"e4791e697be8df263096c16a786fc9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":890477585,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890477585,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Krnja\u010da",
+    "wof:parent_id":1108810015,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49612,
+    44.83786,
+    20.49612,
+    44.83786
+],
+  "geometry": {"coordinates":[20.49612,44.83786],"type":"Point"}
+}

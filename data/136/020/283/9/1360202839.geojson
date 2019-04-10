@@ -1,0 +1,74 @@
+{
+  "id": 1360202839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0555,42.3812,22.0555,42.3812",
+    "geom:latitude":42.3812,
+    "geom:longitude":22.0555,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Donja Trnica",
+    "gn:country_code":"RS",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":791254,
+    "gn:latitude":42.3812,
+    "gn:longitude":22.0555,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donja Trnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Trnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108810115,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791254,
+        "wk:page":"Donja_Trnica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"194a84de30fa9b2e0bc8f2f39f5790bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810115,
+            "locality_id":1360202839,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1360202839,
+    "wof:lastmodified":1537683811,
+    "wof:name":"Donja Trnica",
+    "wof:parent_id":1108810115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0555,
+    42.3812,
+    22.0555,
+    42.3812
+],
+  "geometry": {"coordinates":[22.0555,42.3812],"type":"Point"}
+}

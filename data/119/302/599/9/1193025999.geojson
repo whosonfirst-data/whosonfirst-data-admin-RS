@@ -1,0 +1,70 @@
+{
+  "id": 1193025999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.925,43.57833,19.925,43.57833",
+    "geom:latitude":43.57833,
+    "geom:longitude":19.925,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Dzelebdzici",
+    "gn:country_code":"RS",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318961,
+    "gn:latitude":43.57833,
+    "gn:longitude":19.925,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"D\u017eelebd\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809993,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318961
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"a7def7cb623a4d0ebc97661d8ed540ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809993,
+            "locality_id":1193025999,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1193025999,
+    "wof:lastmodified":1536367825,
+    "wof:name":"Dzelebdzici",
+    "wof:parent_id":1108809993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.925,
+    43.57833,
+    19.925,
+    43.57833
+],
+  "geometry": {"coordinates":[19.925,43.57833],"type":"Point"}
+}

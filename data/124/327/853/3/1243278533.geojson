@@ -1,0 +1,73 @@
+{
+  "id": 1243278533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33798,42.43324,22.33798,42.43324",
+    "geom:latitude":42.43324,
+    "geom:longitude":22.33798,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Konjicka Reka",
+    "gn:country_code":"RS",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834792,
+    "gn:latitude":42.43324,
+    "gn:longitude":22.33798,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Konji\u010dka Reka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Konji\u010dka Reka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809861,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834792
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"41f8b6671237327a596f837620c2aa3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809861,
+            "locality_id":1243278533,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1243278533,
+    "wof:lastmodified":1537683859,
+    "wof:name":"Konjicka Reka",
+    "wof:parent_id":1108809861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33798,
+    42.43324000000001,
+    22.33798,
+    42.43324000000001
+],
+  "geometry": {"coordinates":[22.33798,42.43324000000001],"type":"Point"}
+}

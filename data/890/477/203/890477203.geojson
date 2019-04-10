@@ -1,0 +1,103 @@
+{
+  "id": 890477203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32428,45.35498,19.32428,45.35498",
+    "geom:latitude":45.35498,
+    "geom:longitude":19.32428,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "gp:adm0":20069818,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:eng_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:fre_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:hrv_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1cst\u00f3v\u00e1ros"
+    ],
+    "name:ita_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:may_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:slv_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:srp_x_preferred":[
+        "Tovari\u0161evo"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e1cst\u00f3v\u00e1ros"
+    ],
+    "qs:name":"Tovari\u00b5evo",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Juzhna Bachka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809827,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188949,
+        "gp:id":537148,
+        "qs:id":1218752,
+        "wd:id":"Q852686"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054106,
+    "wof:geomhash":"02741785548020b672e32cfe850e8a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809827,
+            "locality_id":890477203,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":890477203,
+    "wof:lastmodified":1514500357,
+    "wof:name":"Tovari\u00b5evo",
+    "wof:parent_id":1108809827,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32428,
+    45.35498,
+    19.32428,
+    45.35498
+],
+  "geometry": {"coordinates":[19.32428,45.35498],"type":"Point"}
+}

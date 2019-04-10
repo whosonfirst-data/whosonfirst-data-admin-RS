@@ -1,0 +1,73 @@
+{
+  "id": 1326740681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62604,44.55848,22.62604,44.55848",
+    "geom:latitude":44.55848,
+    "geom:longitude":22.62604,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vajuga",
+    "gn:country_code":"RS",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784740,
+    "gn:latitude":44.55848,
+    "gn:longitude":22.62604,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Vajuga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vajuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809915,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784740,
+        "wk:page":"Vajuga"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"5dac9e088624d63c442cc1163b1e331b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809915,
+            "locality_id":1326740681,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1326740681,
+    "wof:lastmodified":1537683699,
+    "wof:name":"Vajuga",
+    "wof:parent_id":1108809915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62604,
+    44.55848,
+    22.62604,
+    44.55848
+],
+  "geometry": {"coordinates":[22.62604,44.55848],"type":"Point"}
+}

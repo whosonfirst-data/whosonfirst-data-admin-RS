@@ -1,0 +1,74 @@
+{
+  "id": 1343280359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39281,43.09002,22.39281,43.09002",
+    "geom:latitude":43.09002,
+    "geom:longitude":22.39281,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Donji Strizevac",
+    "gn:country_code":"RS",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791160,
+    "gn:latitude":43.09002,
+    "gn:longitude":22.39281,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Donji Stri\u017eevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Stri\u017eevac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688303,
+        102191581,
+        1108809823,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791160,
+        "wk:page":"Donji_Stri%C5%BEevac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"9c58185b3116f3679c1862c0fd47b1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809823,
+            "locality_id":1343280359,
+            "macroregion_id":404228357,
+            "region_id":85688303
+        }
+    ],
+    "wof:id":1343280359,
+    "wof:lastmodified":1537683808,
+    "wof:name":"Donji Strizevac",
+    "wof:parent_id":1108809823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39281,
+    43.09002,
+    22.39281,
+    43.09002
+],
+  "geometry": {"coordinates":[22.39281,43.09002],"type":"Point"}
+}

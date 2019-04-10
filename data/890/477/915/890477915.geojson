@@ -1,0 +1,71 @@
+{
+  "id": 890477915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53874,43.2229,21.53874,43.2229",
+    "geom:latitude":43.2229,
+    "geom:longitude":21.53874,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":368,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010cukovac"
+    ],
+    "qs:name":"\u010cukovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688261,
+        102191581,
+        1108810045,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834600,
+        "gp:id":536165,
+        "qs:id":554392
+    },
+    "wof:country":"RS",
+    "wof:created":1469054137,
+    "wof:geomhash":"cbcf031d7100084e07f676a3d9ca555d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810045,
+            "locality_id":890477915,
+            "macroregion_id":404228357,
+            "region_id":85688261
+        }
+    ],
+    "wof:id":890477915,
+    "wof:lastmodified":1505343729,
+    "wof:name":"\u010cukovac",
+    "wof:parent_id":1108810045,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53874,
+    43.2229,
+    21.53874,
+    43.2229
+],
+  "geometry": {"coordinates":[21.53874,43.2229],"type":"Point"}
+}

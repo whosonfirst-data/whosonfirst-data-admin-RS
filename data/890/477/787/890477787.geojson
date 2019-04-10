@@ -1,0 +1,110 @@
+{
+  "id": 890477787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68083,45.44665,20.68083,45.44665",
+    "geom:latitude":45.44665,
+    "geom:longitude":20.68083,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":458,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:eng_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:epo_x_preferred":[
+        "Banatsko Vi\u015dnjicjevo"
+    ],
+    "name:fre_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:ger_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:hrv_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:hun_x_preferred":[
+        "Vida"
+    ],
+    "name:may_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:rum_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e-\u0412\u0438\u0448\u043d\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:srp_x_preferred":[
+        "Banatsko Vi\u0161nji\u0107evo"
+    ],
+    "name:unk_x_variant":[
+        "Vi\u0161nji\u0107evo"
+    ],
+    "qs:name":"Banatsko Vi\u0161nji\u0107evo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810167,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792935,
+        "gp:id":534764,
+        "qs:id":83783,
+        "wd:id":"Q1089505",
+        "wk:page":"Banatsko Vi\u0161nji\u0107evo"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054131,
+    "wof:geomhash":"16925b301d8f337a3c248234d4e57cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810167,
+            "locality_id":890477787,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":890477787,
+    "wof:lastmodified":1527727187,
+    "wof:name":"Banatsko Vi\u0161nji\u0107evo",
+    "wof:parent_id":1108810167,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68083,
+    45.44665,
+    20.68083,
+    45.44665
+],
+  "geometry": {"coordinates":[20.68083,45.44665],"type":"Point"}
+}

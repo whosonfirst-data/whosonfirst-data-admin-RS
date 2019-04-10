@@ -1,0 +1,94 @@
+{
+  "id": 1243490383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85833,45.10111,19.85833,45.10111",
+    "geom:latitude":45.10111,
+    "geom:longitude":19.85833,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"80187.0",
+    "gn:asciiname":"Irig",
+    "gn:country_code":"RS",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3199103,
+    "gn:latitude":45.10111,
+    "gn:longitude":19.85833,
+    "gn:modification_date":"2012-04-15",
+    "gn:name":"Irig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pnb_x_preferred":[
+        "\u0627\u06cc\u0631\u0646\u06af"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0438\u0433"
+    ],
+    "name:srp_x_preferred":[
+        "Irig"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0440\u0438\u0433"
+    ],
+    "name:und_x_variant":[
+        "\u00dcr\u00f6gh",
+        "Irrig",
+        "\u00dcr\u00f6g",
+        "Ireg",
+        "Iregh"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u91cc\u683c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108809903,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199103,
+        "wk:page":"Irig%2C_Serbia"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"56ee2e8cc52da6780e50f1945d581daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809903,
+            "locality_id":1243490383,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1243490383,
+    "wof:lastmodified":1537683940,
+    "wof:name":"Irig",
+    "wof:parent_id":1108809903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85833,
+    45.10111,
+    19.85833,
+    45.10111
+],
+  "geometry": {"coordinates":[19.85833,45.10111],"type":"Point"}
+}

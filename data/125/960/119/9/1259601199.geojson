@@ -1,0 +1,77 @@
+{
+  "id": 1259601199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57927,44.08351,22.57927,44.08351",
+    "geom:latitude":44.08351,
+    "geom:longitude":22.57927,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Zlokuce",
+    "gn:country_code":"RS",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783833,
+    "gn:latitude":44.08351,
+    "gn:longitude":22.57927,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Zloku\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zloku\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Zloku\u0107a",
+        "Aleksandrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809987,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783833
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3384637234f7b059c28998f0e7b8626c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809987,
+            "locality_id":1259601199,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1259601199,
+    "wof:lastmodified":1537683683,
+    "wof:name":"Zlokuce",
+    "wof:parent_id":1108809987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57927,
+    44.08351,
+    22.57927,
+    44.08351
+],
+  "geometry": {"coordinates":[22.57927,44.08351],"type":"Point"}
+}

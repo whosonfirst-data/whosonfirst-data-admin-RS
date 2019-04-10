@@ -1,0 +1,73 @@
+{
+  "id": 1310516327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92197,43.66058,19.92197,43.66058",
+    "geom:latitude":43.66058,
+    "geom:longitude":19.92197,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Gordici",
+    "gn:country_code":"RS",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303554,
+    "gn:latitude":43.66058,
+    "gn:longitude":19.92197,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Gordi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gordi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809821,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303554
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"633f38af3345f23618d2d357ee92d30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809821,
+            "locality_id":1310516327,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1310516327,
+    "wof:lastmodified":1537684006,
+    "wof:name":"Gordici",
+    "wof:parent_id":1108809821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92197,
+    43.66058,
+    19.92197,
+    43.66058
+],
+  "geometry": {"coordinates":[19.92197,43.66058],"type":"Point"}
+}

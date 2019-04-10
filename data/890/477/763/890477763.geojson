@@ -1,0 +1,95 @@
+{
+  "id": 890477763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35395,44.66486,20.35395,44.66486",
+    "geom:latitude":44.66486,
+    "geom:longitude":20.35395,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":2751,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u043e\u0449\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Mo\u0161tanica"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Mo\u0161tanica"
+    ],
+    "name:fre_x_preferred":[
+        "Velika Mo\u0161tanica"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u0645\u0634\u062a\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Velika Mo\u0161tanica"
+    ],
+    "name:srp_x_preferred":[
+        "Velika Mo\u0161tanica"
+    ],
+    "name:unk_x_variant":[
+        "Mo\u0161tanica"
+    ],
+    "qs:name":"Velika Mo\u0161tanica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784635,
+        "gp:id":537273,
+        "qs:id":129389,
+        "wd:id":"Q3177271",
+        "wk:page":"Velika Mo\u0161tanica"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054130,
+    "wof:geomhash":"46982c05350cc6f8a2bcc9bf594c8505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":890477763,
+            "macroregion_id":404228357,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":890477763,
+    "wof:lastmodified":1527727176,
+    "wof:name":"Velika Mo\u0161tanica",
+    "wof:parent_id":1108809881,
+    "wof:placetype":"locality",
+    "wof:population":2751,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35395,
+    44.66486,
+    20.35395,
+    44.66486
+],
+  "geometry": {"coordinates":[20.35395,44.66486],"type":"Point"}
+}

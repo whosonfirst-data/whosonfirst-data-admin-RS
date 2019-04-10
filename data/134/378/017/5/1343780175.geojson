@@ -1,0 +1,73 @@
+{
+  "id": 1343780175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89824,44.66337,19.89824,44.66337",
+    "geom:latitude":44.66337,
+    "geom:longitude":19.89824,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"8",
+    "gn:asciiname":"Tocak",
+    "gn:country_code":"RS",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216991,
+    "gn:latitude":44.66337,
+    "gn:longitude":19.89824,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"To\u010dak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "To\u010dak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688335,
+        102191581,
+        1108810137,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216991
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"57f22326b1313af9bb7270c50e382449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810137,
+            "locality_id":1343780175,
+            "macroregion_id":404228357,
+            "region_id":85688335
+        }
+    ],
+    "wof:id":1343780175,
+    "wof:lastmodified":1537683964,
+    "wof:name":"Tocak",
+    "wof:parent_id":1108810137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89824,
+    44.66337,
+    19.89824,
+    44.66337
+],
+  "geometry": {"coordinates":[19.89824,44.66337],"type":"Point"}
+}

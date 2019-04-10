@@ -1,0 +1,62 @@
+{
+  "id": 1209116627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38628,45.24991,19.38628,45.24991",
+    "geom:latitude":45.24991,
+    "geom:longitude":19.38628,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"Centar",
+    "gn:country_code":"RS",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166430,
+    "gn:latitude":45.24991,
+    "gn:longitude":19.38628,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Centar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166430
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"877c3f5211311e71d3a65cb4bf510321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209116627
+        }
+    ],
+    "wof:id":1209116627,
+    "wof:lastmodified":1536297232,
+    "wof:name":"Centar",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38628,
+    45.24991,
+    19.38628,
+    45.24991
+],
+  "geometry": {"coordinates":[19.38628,45.24991],"type":"Point"}
+}

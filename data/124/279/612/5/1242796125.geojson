@@ -1,0 +1,75 @@
+{
+  "id": 1242796125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60301,44.1024,22.60301,44.1024",
+    "geom:latitude":44.1024,
+    "geom:longitude":22.60301,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kovilovo",
+    "gn:country_code":"RS",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789169,
+    "gn:latitude":44.1024,
+    "gn:longitude":22.60301,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Kovilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kovilovo"
+    ],
+    "name:und_x_variant":[
+        "Kojilovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688331,
+        102191581,
+        1108809987,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789169
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"0d46b4cb3cb6446b79e5806a32fcc62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809987,
+            "locality_id":1242796125,
+            "macroregion_id":404228357,
+            "region_id":85688331
+        }
+    ],
+    "wof:id":1242796125,
+    "wof:lastmodified":1537683776,
+    "wof:name":"Kovilovo",
+    "wof:parent_id":1108809987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60301,
+    44.1024,
+    22.60301,
+    44.1024
+],
+  "geometry": {"coordinates":[22.60301,44.1024],"type":"Point"}
+}

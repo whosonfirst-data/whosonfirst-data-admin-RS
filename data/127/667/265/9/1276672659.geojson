@@ -1,0 +1,70 @@
+{
+  "id": 1276672659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82528,43.74083,20.82528,43.74083",
+    "geom:latitude":43.74083,
+    "geom:longitude":20.82528,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Srdovinska Mala",
+    "gn:country_code":"RS",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":837232,
+    "gn:latitude":43.74083,
+    "gn:longitude":20.82528,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Srdovinska Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688273,
+        102191581,
+        1108809933,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":837232
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4ceeaad235f783e55d6c400847264678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809933,
+            "locality_id":1276672659,
+            "macroregion_id":404228357,
+            "region_id":85688273
+        }
+    ],
+    "wof:id":1276672659,
+    "wof:lastmodified":1536820088,
+    "wof:name":"Srdovinska Mala",
+    "wof:parent_id":1108809933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82528,
+    43.74083,
+    20.82528,
+    43.74083
+],
+  "geometry": {"coordinates":[20.82528,43.74083],"type":"Point"}
+}

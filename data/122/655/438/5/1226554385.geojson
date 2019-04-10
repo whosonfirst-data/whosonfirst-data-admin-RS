@@ -1,0 +1,79 @@
+{
+  "id": 1226554385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50705,45.07948,19.50705,45.07948",
+    "geom:latitude":45.07948,
+    "geom:longitude":19.50705,
+    "gn:admin1_code":"VO",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Calma",
+    "gn:country_code":"RS",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202886,
+    "gn:latitude":45.07948,
+    "gn:longitude":19.50705,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"\u010calma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010calma"
+    ],
+    "name:und_x_variant":[
+        "Tschalma",
+        "Chalma",
+        "Csalma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810087,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202886,
+        "wk:page":"%C4%8Calma"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"3d532305c3e06b39a679abe49f5a9ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810087,
+            "locality_id":1226554385,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1226554385,
+    "wof:lastmodified":1537683947,
+    "wof:name":"Calma",
+    "wof:parent_id":1108810087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50705,
+    45.07948,
+    19.50705,
+    45.07948
+],
+  "geometry": {"coordinates":[19.50705,45.07948],"type":"Point"}
+}

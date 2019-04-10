@@ -1,0 +1,106 @@
+{
+  "id": 890476669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39067,45.07524,21.39067,45.07524",
+    "geom:latitude":45.07524,
+    "geom:longitude":21.39067,
+    "gn:country":"RS",
+    "gn:fcode":"PPL",
+    "gn:pop":536,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jablanka"
+    ],
+    "name:eng_x_preferred":[
+        "Jablanka"
+    ],
+    "name:epo_x_preferred":[
+        "Jablanka"
+    ],
+    "name:fre_x_preferred":[
+        "Jablanka"
+    ],
+    "name:hun_x_preferred":[
+        "Alm\u00e1d"
+    ],
+    "name:may_x_preferred":[
+        "Jablanka"
+    ],
+    "name:rum_x_preferred":[
+        "Iablanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0431\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Jablanka"
+    ],
+    "name:srp_x_preferred":[
+        "Jablanka"
+    ],
+    "name:unk_x_variant":[
+        "Alm\u00e1d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0644\u0646\u06a9\u0627"
+    ],
+    "qs:name":"Jablanka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810153,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789942,
+        "qs:id":83710,
+        "wd:id":"Q279460",
+        "wk:page":"Jablanka"
+    },
+    "wof:country":"RS",
+    "wof:created":1469054084,
+    "wof:geomhash":"6c80a462a9fdf03d9a1f0e1cde9ca77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810153,
+            "locality_id":890476669,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":890476669,
+    "wof:lastmodified":1527727149,
+    "wof:name":"Jablanka",
+    "wof:parent_id":1108810153,
+    "wof:placetype":"locality",
+    "wof:population":536,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39067,
+    45.07524,
+    21.39067,
+    45.07524
+],
+  "geometry": {"coordinates":[21.39067,45.07524],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209629847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.68849,43.97186,19.68849,43.97186",
+    "geom:latitude":43.97186,
+    "geom:longitude":19.68849,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Lazici",
+    "gn:country_code":"RS",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302842,
+    "gn:latitude":43.97186,
+    "gn:longitude":19.68849,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Lazi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lazi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302842
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4e5651d81732186cd62f4907f97c6464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633755,
+            "locality_id":1209629847
+        }
+    ],
+    "wof:id":1209629847,
+    "wof:lastmodified":1537684000,
+    "wof:name":"Lazici",
+    "wof:parent_id":85633755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.68849,
+    43.97186,
+    19.68849,
+    43.97186
+],
+  "geometry": {"coordinates":[19.68849,43.97186],"type":"Point"}
+}

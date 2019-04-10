@@ -1,0 +1,74 @@
+{
+  "id": 1327449907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53398,43.76129,21.53398,43.76129",
+    "geom:latitude":43.76129,
+    "geom:longitude":21.53398,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Pretrkovac",
+    "gn:country_code":"RS",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786762,
+    "gn:latitude":43.76129,
+    "gn:longitude":21.53398,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pretrkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pretrkovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688285,
+        102191581,
+        1108810055,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786762,
+        "wk:page":"Pretrkovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"e1e24b9df3841ec6acb3af009af65a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810055,
+            "locality_id":1327449907,
+            "macroregion_id":404228357,
+            "region_id":85688285
+        }
+    ],
+    "wof:id":1327449907,
+    "wof:lastmodified":1537683734,
+    "wof:name":"Pretrkovac",
+    "wof:parent_id":1108810055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53398,
+    43.76129,
+    21.53398,
+    43.76129
+],
+  "geometry": {"coordinates":[21.53398,43.76129],"type":"Point"}
+}

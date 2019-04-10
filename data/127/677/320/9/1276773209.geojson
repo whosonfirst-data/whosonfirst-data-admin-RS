@@ -1,0 +1,74 @@
+{
+  "id": 1276773209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06556,43.65583,20.06556,43.65583",
+    "geom:latitude":43.65583,
+    "geom:longitude":20.06556,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Dobrace",
+    "gn:country_code":"RS",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":836764,
+    "gn:latitude":43.65583,
+    "gn:longitude":20.06556,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Dobra\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dobra\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809821,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":836764,
+        "wk:page":"Dobra%C4%8De"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"4ac04f8147c261a89d7e0204be33c82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809821,
+            "locality_id":1276773209,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1276773209,
+    "wof:lastmodified":1537683897,
+    "wof:name":"Dobrace",
+    "wof:parent_id":1108809821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06556,
+    43.65583,
+    20.06556,
+    43.65583
+],
+  "geometry": {"coordinates":[20.06556,43.65583],"type":"Point"}
+}

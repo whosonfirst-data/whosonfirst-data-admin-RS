@@ -1,0 +1,74 @@
+{
+  "id": 1226554453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41426,44.65576,21.41426,44.65576",
+    "geom:latitude":44.65576,
+    "geom:longitude":21.41426,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Pecanica",
+    "gn:country_code":"RS",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787154,
+    "gn:latitude":44.65576,
+    "gn:longitude":21.41426,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Pe\u010danica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pe\u010danica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688233,
+        102191581,
+        1108810133,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787154,
+        "wk:page":"Pe%C4%8Danica"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"f36953d7f0f02e1718f37929c66f9725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810133,
+            "locality_id":1226554453,
+            "macroregion_id":404228357,
+            "region_id":85688233
+        }
+    ],
+    "wof:id":1226554453,
+    "wof:lastmodified":1537683741,
+    "wof:name":"Pecanica",
+    "wof:parent_id":1108810133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41426,
+    44.65576,
+    21.41426,
+    44.65576
+],
+  "geometry": {"coordinates":[21.41426,44.65576],"type":"Point"}
+}

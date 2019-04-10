@@ -1,0 +1,77 @@
+{
+  "id": 1209928893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75423,42.56962,21.75423,42.56962",
+    "geom:latitude":42.56962,
+    "geom:longitude":21.75423,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Muhovac",
+    "gn:country_code":"RS",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787788,
+    "gn:latitude":42.56962,
+    "gn:longitude":21.75423,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Muhovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Muhovac"
+    ],
+    "name:und_x_variant":[
+        "Muhovau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688223,
+        102191581,
+        1108809865,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787788,
+        "wk:page":"Muhovac"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"603414da4adf128b3a448c446d4ecaf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809865,
+            "locality_id":1209928893,
+            "macroregion_id":404228357,
+            "region_id":85688223
+        }
+    ],
+    "wof:id":1209928893,
+    "wof:lastmodified":1537683751,
+    "wof:name":"Muhovac",
+    "wof:parent_id":1108809865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75423,
+    42.56962,
+    21.75423,
+    42.56962
+],
+  "geometry": {"coordinates":[21.75423,42.56962],"type":"Point"}
+}
