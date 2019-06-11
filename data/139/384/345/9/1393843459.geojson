@@ -16,22 +16,9 @@
     "mps:longitude":20.564292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "qs:a0":"Republika Srbija",
-    "qs:a1":"*Grad Beograd",
-    "qs:a1r":"5Serbia",
-    "qs:a2":"Grocka",
-    "qs:adm0":"Republika Srbija",
-    "qs:id":0,
-    "qs:la_lc":"*",
-    "qs:level":"locality",
-    "qs:loc":"Zemun",
-    "qs:pop":0,
-    "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "wd:wordcount":2887,
     "wof:belongsto":[
         102191581,
         1108809899,
@@ -41,10 +28,7 @@
         85688279
     ],
     "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":53774,
-        "wd:id":"Q189419"
-    },
+    "wof:concordances":{},
     "wof:country":"RS",
     "wof:geomhash":"a9f65c6aa0f32ee6c6999a4caeee0759",
     "wof:hierarchy":[
@@ -60,7 +44,7 @@
         }
     ],
     "wof:id":1393843459,
-    "wof:lastmodified":1560284393,
+    "wof:lastmodified":1560285500,
     "wof:name":"Grocka",
     "wof:parent_id":1108809899,
     "wof:placetype":"borough",
