@@ -33,12 +33,12 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":2887,
     "wof:belongsto":[
-        85688279,
         102191581,
         1108809899,
         85633755,
         404228357,
-        101914159
+        101914159,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +49,7 @@
     "wof:geomhash":"a9f65c6aa0f32ee6c6999a4caeee0759",
     "wof:hierarchy":[
         {
+            "borough_id":1393843459,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108809899,
@@ -59,10 +60,10 @@
         }
     ],
     "wof:id":1393843459,
-    "wof:lastmodified":1560283976,
+    "wof:lastmodified":1560284393,
     "wof:name":"Grocka",
     "wof:parent_id":1108809899,
-    "wof:placetype":"neighbourhood",
+    "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
     "wof:supersedes":[

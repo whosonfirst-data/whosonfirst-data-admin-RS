@@ -32,12 +32,12 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85688291,
         102191581,
         1108810093,
         85633755,
         404227537,
-        101913505
+        101913505,
+        85688291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +49,7 @@
     "wof:geomhash":"37c69377c892cd64d2a181ed74f0d541",
     "wof:hierarchy":[
         {
+            "borough_id":1393843433,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810093,
@@ -59,10 +60,10 @@
         }
     ],
     "wof:id":1393843433,
-    "wof:lastmodified":1560283976,
+    "wof:lastmodified":1560284393,
     "wof:name":"Stara Pazova",
     "wof:parent_id":1108810093,
-    "wof:placetype":"neighbourhood",
+    "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
     "wof:supersedes":[

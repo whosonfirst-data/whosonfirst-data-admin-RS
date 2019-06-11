@@ -39,12 +39,12 @@
     "wd:longitude":20.283333,
     "wd:wordcount":1024,
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810099,
         85633755,
         404228357,
-        101913175
+        101913175,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,6 +59,7 @@
     "wof:geomhash":"c5b783e9de31bb1dace85c559bf54e1b",
     "wof:hierarchy":[
         {
+            "borough_id":1393843431,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810099,
@@ -69,10 +70,10 @@
         }
     ],
     "wof:id":1393843431,
-    "wof:lastmodified":1560283976,
+    "wof:lastmodified":1560284393,
     "wof:name":"Surcin",
     "wof:parent_id":1108810099,
-    "wof:placetype":"neighbourhood",
+    "wof:placetype":"borough",
     "wof:population":12575,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-rs",

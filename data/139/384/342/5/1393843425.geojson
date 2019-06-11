@@ -32,12 +32,12 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810165,
         85633755,
         404228357,
-        101912621
+        101912621,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +48,7 @@
     "wof:geomhash":"983e7172c1d42c0d2bf12731e643553d",
     "wof:hierarchy":[
         {
+            "borough_id":1393843425,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810165,
@@ -58,10 +59,10 @@
         }
     ],
     "wof:id":1393843425,
-    "wof:lastmodified":1560283975,
+    "wof:lastmodified":1560284393,
     "wof:name":"Zemun",
     "wof:parent_id":1108810165,
-    "wof:placetype":"neighbourhood",
+    "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
     "wof:supersedes":[

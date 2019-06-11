@@ -37,12 +37,12 @@
     "src:population":"geonames",
     "wd:wordcount":2887,
     "wof:belongsto":[
-        85688279,
         102191581,
         1108809997,
         85633755,
         404228357,
-        101914147
+        101914147,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,6 +57,7 @@
     "wof:geomhash":"077ec383c18e2b6806b9da84cbd26e6b",
     "wof:hierarchy":[
         {
+            "borough_id":1393843443,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108809997,
@@ -67,10 +68,10 @@
         }
     ],
     "wof:id":1393843443,
-    "wof:lastmodified":1560283976,
+    "wof:lastmodified":1560284393,
     "wof:name":"Novi Beograd",
     "wof:parent_id":1108809997,
-    "wof:placetype":"neighbourhood",
+    "wof:placetype":"borough",
     "wof:population":155591,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
