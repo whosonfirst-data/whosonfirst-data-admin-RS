@@ -1,0 +1,78 @@
+{
+  "id": 1393843517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40556,44.82806,20.40556,44.82806",
+    "geom:latitude":44.82806,
+    "geom:longitude":20.40556,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Tosin Bunar",
+    "gn:country_code":"RS",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":845266,
+    "gn:latitude":44.82806,
+    "gn:longitude":20.40556,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"To\u0161in Bunar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "To\u0161in Bunar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809997,
+        85633755,
+        404228357,
+        1276354439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":845266,
+        "wk:page":"To%C5%A1in_Bunar"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"dd88f99b6f3148cbda71060cc407c330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809997,
+            "locality_id":1276354439,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1393843517,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1393843517,
+    "wof:lastmodified":1560284811,
+    "wof:name":"Tosin Bunar",
+    "wof:parent_id":1108809997,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276354439
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40556,
+    44.82806,
+    20.40556,
+    44.82806
+],
+  "geometry": {"coordinates":[20.40556,44.82806],"type":"Point"}
+}
