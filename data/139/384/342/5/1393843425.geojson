@@ -1,9 +1,8 @@
 {
-  "id": 101912621,
+  "id": 1393843425,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.001365,
     "geom:area_square_m":11951416.52863,
@@ -16,52 +15,7 @@
     "mps:latitude":44.905833,
     "mps:longitude":20.277724,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u65b0\u5e15\u4f50\u74e6"
-    ],
-    "name:cze_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:dut_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:eng_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:epo_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:fre_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:ger_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:hrv_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:hun_x_preferred":[
-        "\u00dajpazova"
-    ],
-    "name:ita_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:may_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:pol_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:slv_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:srp_x_preferred":[
-        "\u041d\u043e\u0432\u0430 \u041f\u0430\u0437\u043e\u0432\u0430"
-    ],
-    "name:swe_x_preferred":[
-        "Nova Pazova"
-    ],
+    "mz:is_current":1,
     "qs:a0":"Republika Srbija",
     "qs:a1":"*Grad Beograd",
     "qs:a1r":"8Serbia",
@@ -82,7 +36,8 @@
         102191581,
         1108810165,
         85633755,
-        404228357
+        404228357,
+        101912621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,19 +53,20 @@
             "localadmin_id":1108810165,
             "locality_id":101912621,
             "macroregion_id":404228357,
+            "neighbourhood_id":1393843425,
             "region_id":85688279
         }
     ],
-    "wof:id":101912621,
-    "wof:lastmodified":1560283976,
-    "wof:name":"Nova Pazova",
+    "wof:id":1393843425,
+    "wof:lastmodified":1560283975,
+    "wof:name":"Zemun",
     "wof:parent_id":1108810165,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[
-        1393843425
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101912621
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

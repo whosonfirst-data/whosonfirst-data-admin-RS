@@ -1,9 +1,8 @@
 {
-  "id": 101913505,
+  "id": 1393843433,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.001238,
     "geom:area_square_m":10832720.149218,
@@ -16,52 +15,7 @@
     "mps:latitude":44.943458,
     "mps:longitude":20.22173,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u65b0\u5e15\u4f50\u74e6"
-    ],
-    "name:cze_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:dut_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:eng_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:epo_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:fre_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:ger_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:hrv_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:hun_x_preferred":[
-        "\u00dajpazova"
-    ],
-    "name:ita_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:may_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:pol_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:slv_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:srp_x_preferred":[
-        "\u041d\u043e\u0432\u0430 \u041f\u0430\u0437\u043e\u0432\u0430"
-    ],
-    "name:swe_x_preferred":[
-        "Nova Pazova"
-    ],
+    "mz:is_current":1,
     "qs:a0":"Republika Srbija",
     "qs:a1":"*Sremski upravni okrug",
     "qs:a1r":"8Autonomna pokrajina Vojvodina",
@@ -82,7 +36,8 @@
         102191581,
         1108810093,
         85633755,
-        404227537
+        404227537,
+        101913505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,19 +54,20 @@
             "localadmin_id":1108810093,
             "locality_id":101913505,
             "macroregion_id":404227537,
+            "neighbourhood_id":1393843433,
             "region_id":85688291
         }
     ],
-    "wof:id":101913505,
+    "wof:id":1393843433,
     "wof:lastmodified":1560283976,
-    "wof:name":"Nova Pazova",
+    "wof:name":"Stara Pazova",
     "wof:parent_id":1108810093,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[
-        1393843433
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101913505
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
