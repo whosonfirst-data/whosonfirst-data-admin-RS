@@ -16,16 +16,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Debelja\u010da"
-    ],
     "name:eng_x_preferred":[
         "Debelja\u010da"
     ],
     "name:epo_x_preferred":[
         "Debelja\u0109a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Debelja\u010da"
     ],
     "name:heb_x_preferred":[
@@ -34,10 +31,13 @@
     "name:hun_x_preferred":[
         "Toront\u00e1lv\u00e1s\u00e1rhely"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Debelja\u010da"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Debelja\u010da"
+    ],
+    "name:ron_x_preferred":[
         "Debelja\u010da"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890477185,
-    "wof:lastmodified":1527727188,
+    "wof:lastmodified":1561831318,
     "wof:name":"Debelja\u010da",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

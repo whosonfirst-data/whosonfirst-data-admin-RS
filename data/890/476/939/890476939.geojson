@@ -15,16 +15,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Ljukovo"
-    ],
     "name:eng_x_preferred":[
         "Ljukovo"
     ],
     "name:epo_x_preferred":[
         "Ljukovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ljukovo"
     ],
     "name:hrv_x_preferred":[
@@ -33,7 +30,10 @@
     "name:hun_x_preferred":[
         "Lyuk\u00f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ljukovo"
+    ],
+    "name:nld_x_preferred":[
         "Ljukovo"
     ],
     "name:rus_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890476939,
-    "wof:lastmodified":1527727147,
+    "wof:lastmodified":1561831303,
     "wof:name":"Ljukovo",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

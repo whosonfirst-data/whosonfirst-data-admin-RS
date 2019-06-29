@@ -15,19 +15,16 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Statoci i Mes\u00ebm"
-    ],
-    "name:dut_x_preferred":[
-        "Srednji Statovac"
-    ],
     "name:eng_x_preferred":[
         "Srednji Statovac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Srednji Statovac"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Srednji Statovac"
+    ],
+    "name:nld_x_preferred":[
         "Srednji Statovac"
     ],
     "name:por_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:slv_x_preferred":[
         "Srednji Statovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Statoci i Mes\u00ebm"
     ],
     "name:srp_x_preferred":[
         "Srednji Statovac"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":890477835,
-    "wof:lastmodified":1527727180,
+    "wof:lastmodified":1561831311,
     "wof:name":"Srednji Statovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

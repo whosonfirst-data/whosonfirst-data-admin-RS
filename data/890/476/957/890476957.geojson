@@ -21,19 +21,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u7d0d\u7279\u5361\u723e\u6d1b\u74e6\u8328"
-    ],
-    "name:dut_x_preferred":[
-        "Banatski Karlovac"
-    ],
     "name:eng_x_preferred":[
         "Banatski Karlovac"
     ],
     "name:epo_x_preferred":[
         "Banatski Karlovac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banatski Karlovac"
     ],
     "name:hrv_x_preferred":[
@@ -45,10 +39,13 @@
     "name:ita_x_preferred":[
         "Banatski Karlovac"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Banatski Karlovac"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Banatski Karlovac"
+    ],
+    "name:ron_x_preferred":[
         "Banatski Karlovac"
     ],
     "name:rus_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Nagyk\u00e1rolyfalva"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7d0d\u7279\u5361\u723e\u6d1b\u74e6\u8328"
     ],
     "qs:name":"Banatski Karlovac",
     "qs:photos_9r":0,
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":890476957,
-    "wof:lastmodified":1527727150,
+    "wof:lastmodified":1561831305,
     "wof:name":"Banatski Karlovac",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

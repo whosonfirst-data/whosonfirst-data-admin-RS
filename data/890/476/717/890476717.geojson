@@ -15,25 +15,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Jermenovci"
-    ],
     "name:eng_x_preferred":[
         "Jermenovci"
     ],
     "name:epo_x_preferred":[
         "Jermenovci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jermenovci"
     ],
     "name:hun_x_preferred":[
         "\u00dcrm\u00e9nyh\u00e1za"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jermenovci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Jermenovci"
+    ],
+    "name:ron_x_preferred":[
         "Jermenovci"
     ],
     "name:slv_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890476717,
-    "wof:lastmodified":1527727153,
+    "wof:lastmodified":1561831307,
     "wof:name":"Jermenovci",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

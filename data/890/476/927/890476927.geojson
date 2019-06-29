@@ -18,7 +18,7 @@
     "name:bos_x_preferred":[
         "Nova Crnja"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nova Crnja"
     ],
     "name:eng_x_preferred":[
@@ -27,10 +27,7 @@
     "name:epo_x_preferred":[
         "Nova Crnja"
     ],
-    "name:fre_x_preferred":[
-        "Nova Crnja"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nova Crnja"
     ],
     "name:hbs_x_preferred":[
@@ -48,7 +45,10 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30f4\u30a1\u30fb\u30c4\u30eb\u30cb\u30e3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:nld_x_preferred":[
         "Nova Crnja"
     ],
     "name:pnb_x_preferred":[
@@ -57,7 +57,7 @@
     "name:pol_x_preferred":[
         "Nova Crnja"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nova Crnja"
     ],
     "name:slv_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890476927,
-    "wof:lastmodified":1527727153,
+    "wof:lastmodified":1561831307,
     "wof:name":"Nova Crnja",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":638720.762771,
+    "geom:area_square_m":638720.762772,
     "geom:bbox":"21.930688865,44.4196118522,21.9505464828,44.4294151783",
     "geom:latitude":44.424937,
     "geom:longitude":21.940639,
@@ -26,17 +26,11 @@
     "name:ces_x_preferred":[
         "Majdanpek"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4f0a\u4e39\u4f69\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Majdanpek"
-    ],
     "name:deu_x_preferred":[
         "Majdanpek"
     ],
-    "name:dut_x_preferred":[
-        "Majdanpek"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ca\u03bd\u03c4\u03ac\u03bd\u03c0\u03b5\u03ba"
     ],
     "name:eng_x_preferred":[
         "Majdanpek"
@@ -46,15 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Majdanpek"
-    ],
-    "name:fre_x_preferred":[
-        "Majdanpek"
-    ],
-    "name:ger_x_preferred":[
-        "Majdanpek"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03ca\u03bd\u03c4\u03ac\u03bd\u03c0\u03b5\u03ba"
     ],
     "name:hbs_x_preferred":[
         "Majdanpek"
@@ -67,9 +52,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30a4\u30c0\u30f3\u30da\u30af"
-    ],
-    "name:may_x_preferred":[
-        "Majdanpek"
     ],
     "name:msa_x_preferred":[
         "Majdanpek"
@@ -87,9 +69,6 @@
         "Majdanpek"
     ],
     "name:ron_x_preferred":[
-        "Maidan"
-    ],
-    "name:rum_x_preferred":[
         "Maidan"
     ],
     "name:rus_x_preferred":[
@@ -158,7 +137,7 @@
         }
     ],
     "wof:id":101911609,
-    "wof:lastmodified":1527715549,
+    "wof:lastmodified":1561831300,
     "wof:name":"Majdanpek",
     "wof:parent_id":1108809967,
     "wof:placetype":"locality",

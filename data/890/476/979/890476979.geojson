@@ -15,7 +15,7 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tara\u0161"
     ],
     "name:eng_x_preferred":[
@@ -24,10 +24,7 @@
     "name:epo_x_preferred":[
         "Tara\u015d"
     ],
-    "name:fre_x_preferred":[
-        "Tara\u0161"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tara\u0161"
     ],
     "name:hrv_x_preferred":[
@@ -36,10 +33,13 @@
     "name:hun_x_preferred":[
         "Tiszatarr\u00f3s"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tara\u0161"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Tara\u0161"
+    ],
+    "name:ron_x_preferred":[
         "Tara\u0161"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":890476979,
-    "wof:lastmodified":1527727149,
+    "wof:lastmodified":1561831305,
     "wof:name":"Tara\u0161",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

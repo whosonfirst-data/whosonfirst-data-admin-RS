@@ -15,19 +15,16 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bajishtica e Poshtme"
-    ],
-    "name:dut_x_preferred":[
-        "Donja Beja\u0161nica"
-    ],
     "name:eng_x_preferred":[
         "Donja Beja\u0161nica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Donja Beja\u0161nica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Donja Beja\u0161nica"
+    ],
+    "name:nld_x_preferred":[
         "Donja Beja\u0161nica"
     ],
     "name:por_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:slv_x_preferred":[
         "Donja Beja\u0161nica"
+    ],
+    "name:sqi_x_preferred":[
+        "Bajishtica e Poshtme"
     ],
     "name:srp_x_preferred":[
         "Donja Beja\u0161nica"
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":890477891,
-    "wof:lastmodified":1527727185,
+    "wof:lastmodified":1561831316,
     "wof:name":"Donja Beja\u0161nica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

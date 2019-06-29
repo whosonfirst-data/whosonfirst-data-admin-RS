@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000221,
-    "geom:area_square_m":1996630.583463,
+    "geom:area_square_m":1996630.583464,
     "geom:bbox":"22.7633149599,43.0090323409,22.7916410467,43.0232698535",
     "geom:latitude":43.01598,
     "geom:longitude":22.778771,
@@ -28,32 +28,17 @@
     "name:ces_x_preferred":[
         "Dimitrovgrad"
     ],
-    "name:chi_x_preferred":[
-        "\u5b63\u7c73\u7279\u6d1b\u592b\u683c\u52d2"
-    ],
-    "name:cze_x_preferred":[
-        "Dimitrovgrad"
-    ],
     "name:deu_x_preferred":[
         "Dimitrovgrad"
     ],
-    "name:dut_x_preferred":[
-        "Dimitrovgrad"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bc\u03af\u03c4\u03c1\u03bf\u03b2\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Dimitrovgrad"
     ],
     "name:fra_x_preferred":[
         "Dimitrovgrad"
-    ],
-    "name:fre_x_preferred":[
-        "Dimitrovgrad"
-    ],
-    "name:ger_x_preferred":[
-        "Dimitrovgrad"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03bc\u03af\u03c4\u03c1\u03bf\u03b2\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:hbs_x_preferred":[
         "Dimitrovgrad"
@@ -75,12 +60,6 @@
     ],
     "name:kor_x_preferred":[
         "\ub514\ubbf8\ud2b8\ub85c\ube0c\uadf8\ub77c\ub4dc"
-    ],
-    "name:mac_x_preferred":[
-        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
-    ],
-    "name:may_x_preferred":[
-        "Dimitrovgrad"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
@@ -177,7 +156,7 @@
         }
     ],
     "wof:id":101911141,
-    "wof:lastmodified":1527715550,
+    "wof:lastmodified":1561831300,
     "wof:name":"Dimitrovgrad",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

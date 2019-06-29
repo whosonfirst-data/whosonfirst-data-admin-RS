@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":3661764.291852,
+    "geom:area_square_m":3661764.291851,
     "geom:bbox":"19.2210854853,45.3744891475,19.2702717922,45.4088775344",
     "geom:latitude":45.389423,
     "geom:longitude":19.241208,
@@ -25,13 +25,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0447"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Ba\u010d"
-    ],
-    "name:dut_x_preferred":[
         "Ba\u010d"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
         "Ba\u010d"
     ],
     "name:fra_x_preferred":[
-        "Ba\u010d"
-    ],
-    "name:fre_x_preferred":[
-        "Ba\u010d"
-    ],
-    "name:ger_x_preferred":[
         "Ba\u010d"
     ],
     "name:heb_x_preferred":[
@@ -73,7 +61,10 @@
     "name:lit_x_preferred":[
         "Ba\u010das"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ba\u010d"
+    ],
+    "name:nld_x_preferred":[
         "Ba\u010d"
     ],
     "name:pnb_x_preferred":[
@@ -156,7 +147,7 @@
         }
     ],
     "wof:id":101910975,
-    "wof:lastmodified":1527715936,
+    "wof:lastmodified":1561831301,
     "wof:name":"Ba\u010d",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

@@ -21,13 +21,10 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6eab"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kovin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kovin"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,7 @@
     "name:epo_x_preferred":[
         "Kovin"
     ],
-    "name:fre_x_preferred":[
-        "Kovin"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kovin"
     ],
     "name:hbs_x_preferred":[
@@ -60,7 +54,10 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30f4\u30a3\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kovin"
+    ],
+    "name:nld_x_preferred":[
         "Kovin"
     ],
     "name:pnb_x_preferred":[
@@ -70,9 +67,6 @@
         "Kovin"
     ],
     "name:ron_x_preferred":[
-        "Cuvin"
-    ],
-    "name:rum_x_preferred":[
         "Cuvin"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +128,7 @@
         }
     ],
     "wof:id":890476703,
-    "wof:lastmodified":1527727151,
+    "wof:lastmodified":1561831306,
     "wof:name":"Kovin",
     "wof:parent_id":1108809929,
     "wof:placetype":"locality",

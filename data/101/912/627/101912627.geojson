@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001706,
-    "geom:area_square_m":14715555.940097,
+    "geom:area_square_m":14715555.940096,
     "geom:bbox":"19.0779432012,45.7489867916,19.1500996558,45.8065816447",
     "geom:latitude":45.774426,
     "geom:longitude":19.114912,
@@ -45,8 +45,8 @@
     "name:deu_x_preferred":[
         "Sombor"
     ],
-    "name:dut_x_preferred":[
-        "Grad Sombor"
+    "name:deu_x_variant":[
+        "Op\u0161tina Sombor"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03cc\u03bc\u03c0\u03bf\u03c1"
@@ -68,15 +68,6 @@
     ],
     "name:fra_x_preferred":[
         "Sombor"
-    ],
-    "name:fre_x_preferred":[
-        "Sombor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10db\u10d1\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Sombor"
     ],
     "name:hbs_x_preferred":[
         "Sombor"
@@ -105,6 +96,9 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30f3\u30dc\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10db\u10d1\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc19c\ubcf4\ub974"
     ],
@@ -116,6 +110,9 @@
     ],
     "name:nld_x_preferred":[
         "Sombor"
+    ],
+    "name:nld_x_variant":[
+        "Grad Sombor"
     ],
     "name:nno_x_preferred":[
         "Sombor"
@@ -217,7 +214,7 @@
         }
     ],
     "wof:id":101912627,
-    "wof:lastmodified":1527653265,
+    "wof:lastmodified":1561831299,
     "wof:name":"Sombor",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

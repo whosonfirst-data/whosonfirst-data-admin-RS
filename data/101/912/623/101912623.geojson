@@ -29,20 +29,11 @@
     "name:ces_x_preferred":[
         "Petrovarad\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u5f7c\u5f97\u7f57\u74e6\u62c9\u4e01"
-    ],
-    "name:cze_x_preferred":[
-        "Petrovarad\u00edn"
-    ],
     "name:deu_x_preferred":[
         "Petrovaradin"
     ],
     "name:deu_x_variant":[
         "Peterwardein"
-    ],
-    "name:dut_x_preferred":[
-        "Petrovaradin"
     ],
     "name:eng_x_preferred":[
         "Petrovaradin"
@@ -51,15 +42,6 @@
         "Petrovaradin"
     ],
     "name:fra_x_preferred":[
-        "Petrovaradin"
-    ],
-    "name:fre_x_preferred":[
-        "Petrovaradin"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10d0\u10e0\u10d0\u10d3\u10d8\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Petrovaradin"
     ],
     "name:hbs_x_preferred":[
@@ -86,9 +68,6 @@
     "name:kor_x_preferred":[
         "\ud398\ud2b8\ub85c\ubc14\ub77c\ub518"
     ],
-    "name:may_x_preferred":[
-        "Petrovaradin"
-    ],
     "name:msa_x_preferred":[
         "Petrovaradin"
     ],
@@ -111,9 +90,6 @@
         "Petrovaradin"
     ],
     "name:ron_x_preferred":[
-        "Petrovaradin"
-    ],
-    "name:rum_x_preferred":[
         "Petrovaradin"
     ],
     "name:rus_x_preferred":[
@@ -196,7 +172,7 @@
         }
     ],
     "wof:id":101912623,
-    "wof:lastmodified":1535390449,
+    "wof:lastmodified":1561831299,
     "wof:name":"Petrovaradin",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

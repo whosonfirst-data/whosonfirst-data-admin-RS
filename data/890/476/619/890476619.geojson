@@ -18,23 +18,14 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u585e\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "Novo Selo"
-    ],
     "name:eng_x_preferred":[
         "Novo Selo"
     ],
     "name:epo_x_preferred":[
         "Novo Selo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novo S\u00e9lo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10d5\u10dd-\u10e1\u10d4\u10da\u10dd"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d1\u05d5 \u05e1\u05dc\u05d5"
@@ -42,10 +33,16 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30f4\u30a9\u30fb\u30bb\u30ed"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd-\u10e1\u10d4\u10da\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Novo Selo"
+    ],
     "name:pol_x_preferred":[
         "Nowo se\u0142o"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novo Selo"
     ],
     "name:rus_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:war_x_preferred":[
         "Novo Selo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u585e\u6d1b"
     ],
     "qs:name":"Novo Selo",
     "qs:photos_9r":0,
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":890476619,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1561831304,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

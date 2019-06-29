@@ -165,9 +165,6 @@
     "name:cym_x_preferred":[
         "Serbia"
     ],
-    "name:cze_x_preferred":[
-        "Srbsko"
-    ],
     "name:dan_x_preferred":[
         "Serbien"
     ],
@@ -772,8 +769,7 @@
         "\u585e\u5c14\u7ef4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u585e\u723e\u7dad\u4e9e",
-        "\u585e\u5c14\u7ef4\u4e9a"
+        "\u585e\u723e\u7dad\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u585e\u723e\u7dad\u4e9e"
@@ -936,7 +932,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1544059315,
+    "wof:lastmodified":1561831274,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

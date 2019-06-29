@@ -18,11 +18,8 @@
     "name:bos_x_preferred":[
         "Kisa\u010d"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kys\u00e1\u010d"
-    ],
-    "name:dut_x_preferred":[
-        "Kisa\u010d"
     ],
     "name:eng_x_preferred":[
         "Kisa\u010d"
@@ -30,7 +27,10 @@
     "name:epo_x_preferred":[
         "Kisa\u0109"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0633\u0627\u0686"
+    ],
+    "name:fra_x_preferred":[
         "Kisa\u010d"
     ],
     "name:hun_x_preferred":[
@@ -39,13 +39,13 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30b5\u30c1\u30e5"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kisa\u010d"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0633\u0627\u0686"
+    "name:nld_x_preferred":[
+        "Kisa\u010d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kys\u00e1\u010d"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890477359,
-    "wof:lastmodified":1527727182,
+    "wof:lastmodified":1561831313,
     "wof:name":"Kisa\u010d",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

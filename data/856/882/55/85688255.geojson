@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.685289,
-    "geom:area_square_m":6134938502.796966,
+    "geom:area_square_m":6134938502.796926,
     "geom:bbox":"19.221426,43.006824,20.2985715,44.169132",
     "geom:latitude":43.613997,
     "geom:longitude":19.78327,
@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Districte de Zlatibor"
     ],
-    "name:chi_x_preferred":[
-        "\u8332\u62c9\u63d0\u6ce2\u723e\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Zlatibor District"
     ],
-    "name:dut_x_preferred":[
-        "Zlatibor"
+    "name:deu_x_preferred":[
+        "Okrug Zlatibor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ba\u03c1\u03bf\u03cd\u03b3\u03ba \u0396\u03bb\u03ac\u03c4\u03b9\u03bc\u03c0\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Zlatiborski upravni okrug"
@@ -56,17 +56,8 @@
     "name:fin_x_preferred":[
         "Zlatibor"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zlatibor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10da\u10d0\u10e2\u10d8\u10d1\u10dd\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Zlatibor"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03ba\u03c1\u03bf\u03cd\u03b3\u03ba \u0396\u03bb\u03ac\u03c4\u03b9\u03bc\u03c0\u03bf\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ab2\u0abe\u0a9f\u0abf\u0aac\u0acb\u0ab0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -95,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c9d\u0ccd\u0cb2\u0cbe\u0c9f\u0cbf\u0cac\u0cb0\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10da\u10d0\u10e2\u10d8\u10d1\u10dd\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc990\ub77c\ud2f0\ubcf4\ub974 \uad6c"
     ],
@@ -107,14 +101,17 @@
     "name:mar_x_preferred":[
         "\u091d\u094d\u0932\u093e\u091f\u093f\u092c\u094b\u0930 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
-        "Zlatibor District"
-    ],
     "name:mon_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Zlatibor District"
+    ],
     "name:nan_x_preferred":[
         "Zlatiborski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Zlatibor"
     ],
     "name:nob_x_preferred":[
         "Zlatibor distrikt"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Distrito de Zlatibor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Zlatibor"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +134,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dbd\u0da7\u0dd2\u0db6\u0ddd\u0dbb\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zlatiborsk\u00fd obvod"
     ],
     "name:spa_x_preferred":[
@@ -169,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Zlatibor"
+    ],
+    "name:zho_x_preferred":[
+        "\u8332\u62c9\u63d0\u6ce2\u723e\u5dde"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a0_lc":"RS0000000",
@@ -235,7 +235,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814896,
+    "wof:lastmodified":1561831276,
     "wof:name":"Zlatiborski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

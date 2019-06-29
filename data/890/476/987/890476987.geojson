@@ -18,25 +18,25 @@
     "name:deu_x_preferred":[
         "Sankt Nikolaus an der Theiss"
     ],
-    "name:dut_x_preferred":[
-        "Ostoji\u0107evo"
-    ],
     "name:eng_x_preferred":[
         "Ostoji\u0107evo"
     ],
     "name:epo_x_preferred":[
         "Ostojicjevo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ostoji\u0107evo"
     ],
     "name:hun_x_preferred":[
         "Tiszaszentmikl\u00f3s"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ostoji\u0107evo"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ostoji\u0107evo"
+    ],
+    "name:ron_x_preferred":[
         "Ostoji\u0107evo"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":890476987,
-    "wof:lastmodified":1527727153,
+    "wof:lastmodified":1561831307,
     "wof:name":"Ostoji\u0107evo",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

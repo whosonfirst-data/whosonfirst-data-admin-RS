@@ -19,19 +19,19 @@
     "name:bos_x_preferred":[
         "Stala\u0107"
     ],
-    "name:dut_x_preferred":[
-        "Stala\u0107"
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03ac\u03bb\u03b1\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Stala\u0107"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stala\u0107"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03ac\u03bb\u03b1\u03c4\u03c2"
+    "name:msa_x_preferred":[
+        "Stala\u0107"
     ],
-    "name:may_x_preferred":[
+    "name:nld_x_preferred":[
         "Stala\u0107"
     ],
     "name:por_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890477419,
-    "wof:lastmodified":1527727183,
+    "wof:lastmodified":1561831315,
     "wof:name":"Stala\u0107",
     "wof:parent_id":1108809871,
     "wof:placetype":"locality",

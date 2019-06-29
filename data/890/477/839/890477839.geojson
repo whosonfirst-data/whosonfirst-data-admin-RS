@@ -15,19 +15,16 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Prekashtica"
-    ],
-    "name:dut_x_preferred":[
-        "Preka\u0161nica"
-    ],
     "name:eng_x_preferred":[
         "Preka\u0161nica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Preka\u0161nica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Preka\u0161nica"
+    ],
+    "name:nld_x_preferred":[
         "Preka\u0161nica"
     ],
     "name:por_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:slv_x_preferred":[
         "Preka\u0161nica"
+    ],
+    "name:sqi_x_preferred":[
+        "Prekashtica"
     ],
     "name:srp_x_preferred":[
         "Preka\u0161nica"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":890477839,
-    "wof:lastmodified":1527727186,
+    "wof:lastmodified":1561831317,
     "wof:name":"Preka\u0161nica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

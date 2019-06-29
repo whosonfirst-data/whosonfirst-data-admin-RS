@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003071,
-    "geom:area_square_m":26936595.378881,
+    "geom:area_square_m":26936595.378882,
     "geom:bbox":"20.3332206719,44.7873375769,20.4488035258,44.8358315342",
     "geom:latitude":44.811177,
     "geom:longitude":20.396208,
@@ -17,9 +17,6 @@
     "mps:longitude":20.404978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0536\u0565\u0574\u0578\u0582\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d"
     ],
@@ -29,14 +26,17 @@
     "name:bul_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6cfd\u8499"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zemun"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Zemun"
+    ],
+    "name:deu_x_preferred":[
+        "Zemun"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03bb\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Zemun"
@@ -44,14 +44,8 @@
     "name:epo_x_preferred":[
         "Zemun"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zemun"
-    ],
-    "name:ger_x_preferred":[
-        "Zemun"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bc\u03bb\u03af\u03bd\u03bf"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05de\u05d5\u05df"
@@ -62,6 +56,9 @@
     "name:hun_x_preferred":[
         "Zimony"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u0574\u0578\u0582\u0576"
+    ],
     "name:ita_x_preferred":[
         "Zemun"
     ],
@@ -71,8 +68,11 @@
     "name:kor_x_preferred":[
         "\uc81c\ubb38"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Zemun"
     ],
     "name:nob_x_preferred":[
         "Zemun"
@@ -83,7 +83,7 @@
     "name:por_x_preferred":[
         "Zemun"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zemun"
     ],
     "name:rus_x_preferred":[
@@ -110,8 +110,8 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d"
     ],
-    "name:wel_x_preferred":[
-        "Zemun"
+    "name:zho_x_preferred":[
+        "\u6cfd\u8499"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a1":"*Novi Beograd",
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":101914147,
-    "wof:lastmodified":1553815582,
+    "wof:lastmodified":1561831300,
     "wof:name":"Zemun",
     "wof:parent_id":1108809997,
     "wof:placetype":"locality",

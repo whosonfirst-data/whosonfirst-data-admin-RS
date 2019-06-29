@@ -15,19 +15,16 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Arbanashka"
-    ],
-    "name:dut_x_preferred":[
-        "Arbana\u0161ka"
-    ],
     "name:eng_x_preferred":[
         "Arbana\u0161ka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arbana\u0161ka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Arbana\u0161ka"
+    ],
+    "name:nld_x_preferred":[
         "Arbana\u0161ka"
     ],
     "name:por_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:slv_x_preferred":[
         "Arbana\u0161ka"
+    ],
+    "name:sqi_x_preferred":[
+        "Arbanashka"
     ],
     "name:srp_x_preferred":[
         "Arbana\u0161ka"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":890477257,
-    "wof:lastmodified":1527727179,
+    "wof:lastmodified":1561831311,
     "wof:name":"Arbana\u0161ka",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

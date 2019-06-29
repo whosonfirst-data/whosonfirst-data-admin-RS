@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279344,
-    "geom:area_square_m":2471636205.886348,
+    "geom:area_square_m":2471636205.886336,
     "geom:bbox":"19.4365005,44.0701185,20.4370955,44.5856475",
     "geom:latitude":44.311081,
     "geom:longitude":19.93895,
@@ -41,17 +41,17 @@
     "name:cat_x_preferred":[
         "Districte de Kolubara"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u76e7\u5df4\u62c9\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kolubarsk\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Kolubara District"
     ],
-    "name:dut_x_preferred":[
-        "Kolubara"
+    "name:deu_x_preferred":[
+        "Okrug Kolubara"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03bf\u03bb\u03bf\u03cd\u03bc\u03c0\u03b1\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kolubarski upravni okrug"
@@ -59,17 +59,8 @@
     "name:fin_x_preferred":[
         "Kolubara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kolubara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10e3\u10d1\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Kolubara"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03bf\u03bb\u03bf\u03cd\u03bc\u03c0\u03b1\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0ac1\u0aac\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -95,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb2\u0cc1\u0cac\u0cb0\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10e3\u10d1\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf5c\ub8e8\ubc14\ub77c \uad6c"
     ],
@@ -107,11 +101,14 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u094d\u0932\u0941\u092c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kolubara District"
     ],
     "name:nan_x_preferred":[
         "Kolubarski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Kolubara"
     ],
     "name:nob_x_preferred":[
         "Kolubare distrikt"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Distrito de Kolubara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Kolubara"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kolubara"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u76e7\u5df4\u62c9\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SRB",
@@ -293,7 +293,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814896,
+    "wof:lastmodified":1561831275,
     "wof:name":"Kolubarski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
