@@ -31,10 +31,11 @@
     "wof:belongsto":[
         85688279,
         102191581,
-        1108810165,
+        1108810063,
         85633755,
         404228357,
-        1326663889
+        890476941,
+        1393843435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +46,20 @@
     "wof:geomhash":"f338d23afe209c9153885cd2f5d84790",
     "wof:hierarchy":[
         {
+            "borough_id":1393843435,
             "continent_id":102191581,
             "country_id":85633755,
-            "localadmin_id":1108810165,
-            "locality_id":1326663889,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
             "macroregion_id":404228357,
             "neighbourhood_id":1393843503,
             "region_id":85688279
         }
     ],
     "wof:id":1393843503,
-    "wof:lastmodified":1560284811,
+    "wof:lastmodified":1562015370,
     "wof:name":"Zemun Polje",
-    "wof:parent_id":1108810165,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

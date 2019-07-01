@@ -33,10 +33,11 @@
     "wof:belongsto":[
         85688279,
         102191581,
-        1108810015,
+        1108810063,
         85633755,
         404228357,
-        1259801639
+        890476941,
+        1393843453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +48,20 @@
     "wof:geomhash":"5828477f4192fc1b0bff88c07b36f5f9",
     "wof:hierarchy":[
         {
+            "borough_id":1393843453,
             "continent_id":102191581,
             "country_id":85633755,
-            "localadmin_id":1108810015,
-            "locality_id":1259801639,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
             "macroregion_id":404228357,
             "neighbourhood_id":1393843523,
             "region_id":85688279
         }
     ],
     "wof:id":1393843523,
-    "wof:lastmodified":1560284811,
+    "wof:lastmodified":1562015382,
     "wof:name":"Rospi Cuprija",
-    "wof:parent_id":1108810015,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

@@ -714,7 +714,7 @@
     },
     "wof:country":"RS",
     "wof:created":1469054095,
-    "wof:geomhash":"37c2e485a29e112b21ab0b2163a9278a",
+    "wof:geomhash":"754859d2e5782893aaad1417de8238a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -726,7 +726,7 @@
         }
     ],
     "wof:id":890476941,
-    "wof:lastmodified":1560277983,
+    "wof:lastmodified":1562015415,
     "wof:name":"Belgrade",
     "wof:parent_id":1108810063,
     "wof:placetype":"locality",

@@ -30,10 +30,11 @@
     "wof:belongsto":[
         85688279,
         102191581,
-        1108809881,
+        1108810063,
         85633755,
         404228357,
-        1310519935
+        890476941,
+        1393843445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +45,20 @@
     "wof:geomhash":"8571c7a43e8af0a9d5efda86e4c26c5a",
     "wof:hierarchy":[
         {
+            "borough_id":1393843445,
             "continent_id":102191581,
             "country_id":85633755,
-            "localadmin_id":1108809881,
-            "locality_id":1310519935,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
             "macroregion_id":404228357,
             "neighbourhood_id":1393843501,
             "region_id":85688279
         }
     ],
     "wof:id":1393843501,
-    "wof:lastmodified":1560284811,
+    "wof:lastmodified":1562015367,
     "wof:name":"Bele Vode",
-    "wof:parent_id":1108809881,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

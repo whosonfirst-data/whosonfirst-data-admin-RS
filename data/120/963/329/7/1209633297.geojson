@@ -29,7 +29,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633755
+        85688279,
+        102191581,
+        1108809997,
+        85633755,
+        404228357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"3955f3d04c18c4671008335378f48fc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633755,
-            "locality_id":1209633297
+            "localadmin_id":1108809997,
+            "locality_id":1209633297,
+            "macroregion_id":404228357,
+            "region_id":85688279
         }
     ],
     "wof:id":1209633297,
-    "wof:lastmodified":1560284811,
+    "wof:lastmodified":1562015317,
     "wof:name":"Mala Ciganti",
-    "wof:parent_id":85633755,
+    "wof:parent_id":1108809997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[

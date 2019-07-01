@@ -21,12 +21,12 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85688279,
         102191581,
-        1108810015,
+        1108810063,
         85633755,
         404228357,
-        101914153,
-        85688279
+        890476941
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -37,17 +37,16 @@
             "borough_id":1393843453,
             "continent_id":102191581,
             "country_id":85633755,
-            "localadmin_id":1108810015,
-            "locality_id":101914153,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
             "macroregion_id":404228357,
-            "neighbourhood_id":1393843453,
             "region_id":85688279
         }
     ],
     "wof:id":1393843453,
-    "wof:lastmodified":1560285500,
+    "wof:lastmodified":1562015307,
     "wof:name":"Palilula",
-    "wof:parent_id":1108810015,
+    "wof:parent_id":890476941,
     "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

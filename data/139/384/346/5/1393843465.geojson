@@ -28,8 +28,13 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209433101,
-        85633755
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +45,20 @@
     "wof:geomhash":"9edcb39cecdbb35f9f66a8e054c26120",
     "wof:hierarchy":[
         {
+            "borough_id":1393843443,
+            "continent_id":102191581,
             "country_id":85633755,
-            "locality_id":1209433101,
-            "neighbourhood_id":1393843465
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1393843465,
+            "region_id":85688279
         }
     ],
     "wof:id":1393843465,
-    "wof:lastmodified":1560284810,
+    "wof:lastmodified":1562015346,
     "wof:name":"Ledine",
-    "wof:parent_id":85633755,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

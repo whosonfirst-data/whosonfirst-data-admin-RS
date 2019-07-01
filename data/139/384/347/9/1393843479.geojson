@@ -47,10 +47,11 @@
     "wof:belongsto":[
         85688279,
         102191581,
-        1108810049,
+        1108810063,
         85633755,
         404228357,
-        890477273
+        890476941,
+        1393843447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,19 +66,20 @@
     "wof:geomhash":"d0cf2093bf473eb2e9974abc765d210f",
     "wof:hierarchy":[
         {
+            "borough_id":1393843447,
             "continent_id":102191581,
             "country_id":85633755,
-            "localadmin_id":1108810049,
-            "locality_id":890477273,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
             "macroregion_id":404228357,
             "neighbourhood_id":1393843479,
             "region_id":85688279
         }
     ],
     "wof:id":1393843479,
-    "wof:lastmodified":1560284810,
+    "wof:lastmodified":1562015355,
     "wof:name":"Resnik",
-    "wof:parent_id":1108810049,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-rs",

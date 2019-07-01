@@ -30,10 +30,11 @@
     "wof:belongsto":[
         85688279,
         102191581,
-        1108810049,
+        1108810063,
         85633755,
         404228357,
-        1327149091
+        890476941,
+        1393843447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +45,20 @@
     "wof:geomhash":"9ba05f27dd38be8fc37eea343c0e47b5",
     "wof:hierarchy":[
         {
+            "borough_id":1393843447,
             "continent_id":102191581,
             "country_id":85633755,
-            "localadmin_id":1108810049,
-            "locality_id":1327149091,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
             "macroregion_id":404228357,
             "neighbourhood_id":1393843481,
             "region_id":85688279
         }
     ],
     "wof:id":1393843481,
-    "wof:lastmodified":1560284810,
+    "wof:lastmodified":1562015356,
     "wof:name":"Filmski Grad",
-    "wof:parent_id":1108810049,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
