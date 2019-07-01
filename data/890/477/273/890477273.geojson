@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,10 @@
     "gp:adm0":20069818,
     "iso:country":"RS",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
+    "name:dut_x_preferred":[
+        "Resnik"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03ad\u03c3\u03bd\u03b9\u03ba"
     ],
@@ -42,6 +46,7 @@
     "qs:photos_sr":3,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -73,13 +78,15 @@
         }
     ],
     "wof:id":890477273,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1562023470,
     "wof:name":"Resnik",
     "wof:parent_id":1108810049,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

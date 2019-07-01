@@ -1,0 +1,83 @@
+{
+  "id": 1393843485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5283,44.77726,20.5283,44.77726",
+    "geom:latitude":44.77726,
+    "geom:longitude":20.5283,
+    "gn:admin1_code":"SE",
+    "gn:admin2_code":"0",
+    "gn:asciiname":"Mali Mokri Lug",
+    "gn:country_code":"RS",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788255,
+    "gn:latitude":44.77726,
+    "gn:longitude":20.5283,
+    "gn:modification_date":"2017-11-17",
+    "gn:name":"Mali Mokri Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mali Mokri Lug"
+    ],
+    "name:und_x_variant":[
+        "Mokri Lug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788255,
+        "wk:page":"Mali_Mokri_Lug"
+    },
+    "wof:country":"RS",
+    "wof:geomhash":"35427495dc9e07e718700a2af9392324",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1393843485,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1393843485,
+    "wof:lastmodified":1562015360,
+    "wof:name":"Mali Mokri Lug",
+    "wof:parent_id":1393843457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344271731
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5283,
+    44.77726,
+    20.5283,
+    44.77726
+],
+  "geometry": {"coordinates":[20.5283,44.77726],"type":"Point"}
+}
