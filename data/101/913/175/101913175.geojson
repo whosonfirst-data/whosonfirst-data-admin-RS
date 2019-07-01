@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.001334,
-    "geom:area_square_m":11702335.686073,
+    "geom:area_square_m":11702335.686077,
     "geom:bbox":"20.2370835268,44.7688215688,20.3353333246,44.8313309125",
     "geom:latitude":44.801108,
     "geom:longitude":20.289948,
@@ -16,7 +17,7 @@
     "mps:latitude":44.796402,
     "mps:longitude":20.285854,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0440\u0447\u0438\u043d"
     ],
@@ -118,14 +119,16 @@
         }
     ],
     "wof:id":101913175,
-    "wof:lastmodified":1527688563,
+    "wof:lastmodified":1562015392,
     "wof:name":"Sur\u010din",
     "wof:parent_id":1108810099,
     "wof:placetype":"locality",
     "wof:population":12575,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843431
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

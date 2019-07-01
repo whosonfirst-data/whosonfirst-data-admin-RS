@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,7 +26,7 @@
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "To\u0161in Bunar"
     ],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":1276354439,
-    "wof:lastmodified":1537683900,
+    "wof:lastmodified":1562015326,
     "wof:name":"Tosin Bunar",
     "wof:parent_id":1108809997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.00174,
-    "geom:area_square_m":15281269.896886,
+    "geom:area_square_m":15281269.896888,
     "geom:bbox":"20.5348281044,44.716134103,20.628820207,44.7748258316",
     "geom:latitude":44.749308,
     "geom:longitude":20.583855,
@@ -15,7 +16,7 @@
     "mps:latitude":44.75577,
     "mps:longitude":20.564292,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:arm_x_preferred":[
         "\u0536\u0565\u0574\u0578\u0582\u0576"
     ],
@@ -153,12 +154,14 @@
         }
     ],
     "wof:id":101914159,
-    "wof:lastmodified":1553815583,
+    "wof:lastmodified":1562015408,
     "wof:name":"Zemun",
     "wof:parent_id":1108809899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

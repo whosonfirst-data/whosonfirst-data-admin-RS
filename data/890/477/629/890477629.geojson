@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "gp:adm0":20069818,
     "iso:country":"RS",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
     ],
@@ -81,14 +82,16 @@
         }
     ],
     "wof:id":890477629,
-    "wof:lastmodified":1527727179,
+    "wof:lastmodified":1562015386,
     "wof:name":"\u017deleznik",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
