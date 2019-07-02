@@ -22,19 +22,13 @@
     "name:bos_x_preferred":[
         "Kraljeve Vode"
     ],
-    "name:chi_x_preferred":[
-        "\u8332\u62c9\u8482\u535a\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zlatibor"
     ],
     "name:eng_x_preferred":[
         "Zlatibor"
     ],
-    "name:fre_x_preferred":[
-        "Zlatibor"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zlatibor"
     ],
     "name:hbs_x_preferred":[
@@ -44,6 +38,9 @@
         "\u05d7\u05d1\u05dc \u05d6\u05dc\u05d8\u05d9\u05d1\u05d5\u05e8"
     ],
     "name:hrv_x_preferred":[
+        "Zlatibor"
+    ],
+    "name:nld_x_preferred":[
         "Zlatibor"
     ],
     "name:por_x_preferred":[
@@ -109,7 +106,7 @@
         }
     ],
     "wof:id":890477481,
-    "wof:lastmodified":1527727184,
+    "wof:lastmodified":1561831315,
     "wof:name":"Zlatibor",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

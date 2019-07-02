@@ -15,32 +15,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pupoci i Madh"
-    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e \u041f\u0443\u043f\u0430\u0432\u0446\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "Veliko Pupavce"
     ],
     "name:eng_x_preferred":[
         "Veliko Pupavce"
     ],
-    "name:fre_x_preferred":[
-        "Veliko Pupavce"
-    ],
-    "name:may_x_preferred":[
-        "Veliko Pupavce"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0648\u0644\u06cc\u06a9\u0648 \u067e\u0648\u067e\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Pupavce"
+    ],
+    "name:msa_x_preferred":[
+        "Veliko Pupavce"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Pupavce"
     ],
     "name:por_x_preferred":[
         "Veliko Pupavce"
     ],
     "name:slv_x_preferred":[
         "Veliko Pupavce"
+    ],
+    "name:sqi_x_preferred":[
+        "Pupoci i Madh"
     ],
     "name:srp_x_preferred":[
         "Veliko Pupavce"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890477821,
-    "wof:lastmodified":1527727178,
+    "wof:lastmodified":1561831310,
     "wof:name":"Veliko Pupavce",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

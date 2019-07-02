@@ -23,7 +23,7 @@
     "name:cze_x_preferred":[
         "Nova Pazova"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nova Pazova"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +32,7 @@
     "name:epo_x_preferred":[
         "Nova Pazova"
     ],
-    "name:fre_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nova Pazova"
     ],
     "name:hrv_x_preferred":[
@@ -47,7 +44,10 @@
     "name:ita_x_preferred":[
         "Nova Pazova"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:nld_x_preferred":[
         "Nova Pazova"
     ],
     "name:pol_x_preferred":[
@@ -61,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Nova Pazova"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e15\u4f50\u74e6"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a1":"*Sremski upravni okrug",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101913505,
-    "wof:lastmodified":1562015393,
+    "wof:lastmodified":1562023463,
     "wof:name":"Nova Pazova",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

@@ -33,16 +33,10 @@
     "name:ces_x_preferred":[
         "Zemun"
     ],
-    "name:chi_x_preferred":[
-        "\u6cfd\u8499"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Zemun"
     ],
     "name:deu_x_preferred":[
-        "Zemun"
-    ],
-    "name:dut_x_preferred":[
         "Zemun"
     ],
     "name:ell_x_preferred":[
@@ -56,15 +50,6 @@
     ],
     "name:fra_x_preferred":[
         "Zemun"
-    ],
-    "name:fre_x_preferred":[
-        "Zemun"
-    ],
-    "name:ger_x_preferred":[
-        "Zemun"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bc\u03bb\u03af\u03bd\u03bf"
     ],
     "name:hbs_x_preferred":[
         "Zemun"
@@ -81,6 +66,9 @@
     "name:hun_x_preferred":[
         "Zimony"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u0574\u0578\u0582\u0576"
+    ],
     "name:ita_x_preferred":[
         "Zemun"
     ],
@@ -89,9 +77,6 @@
     ],
     "name:kor_x_preferred":[
         "\uc81c\ubb38"
-    ],
-    "name:mac_x_preferred":[
-        "\u0417\u0435\u043c\u0443\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d"
@@ -112,9 +97,6 @@
         "Zemun"
     ],
     "name:ron_x_preferred":[
-        "Zemun"
-    ],
-    "name:rum_x_preferred":[
         "Zemun"
     ],
     "name:rus_x_preferred":[
@@ -146,9 +128,6 @@
     ],
     "name:unk_x_variant":[
         "Semlin"
-    ],
-    "name:wel_x_preferred":[
-        "Zemun"
     ],
     "name:zho_x_preferred":[
         "\u6cfd\u8499"
@@ -197,7 +176,7 @@
         }
     ],
     "wof:id":101914163,
-    "wof:lastmodified":1562015413,
+    "wof:lastmodified":1562023469,
     "wof:name":"Zemun",
     "wof:parent_id":1108810063,
     "wof:placetype":"locality",

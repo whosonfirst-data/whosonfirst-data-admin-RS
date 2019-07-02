@@ -16,26 +16,20 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0633\u0628\u0648\u062a\u0648\u0641\u0627\u062a\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u65af\u6ce2\u6258\u74e6\u8328"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Despotovac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Despotovac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03c3\u03c0\u03cc\u03c4\u03bf\u03b2\u03b1\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Despotovac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Despotovac"
-    ],
-    "name:ger_x_preferred":[
-        "Despotovac"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b5\u03c3\u03c0\u03cc\u03c4\u03bf\u03b2\u03b1\u03c4\u03c2"
     ],
     "name:hrv_x_preferred":[
         "Despotovac"
@@ -46,7 +40,10 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30b9\u30dd\u30c8\u30f4\u30a1\u30c4"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Despotovac"
+    ],
+    "name:nld_x_preferred":[
         "Despotovac"
     ],
     "name:pnb_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0414\u0435\u0441\u043f\u043e\u0442\u043e\u0432\u0430\u0442\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u65af\u6ce2\u6258\u74e6\u8328"
     ],
     "qs:name":"Despotovac",
     "qs:name_adm0":"Serbia",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":890477281,
-    "wof:lastmodified":1527727179,
+    "wof:lastmodified":1561831311,
     "wof:name":"Despotovac",
     "wof:parent_id":1108809885,
     "wof:placetype":"locality",

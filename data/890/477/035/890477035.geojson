@@ -18,10 +18,10 @@
     "name:eng_x_preferred":[
         "Petkovica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Petkovica"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Petkovica"
     ],
     "name:por_x_preferred":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":890477035,
-    "wof:lastmodified":1514500329,
+    "wof:lastmodified":1561831316,
     "wof:name":"Petkovica",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

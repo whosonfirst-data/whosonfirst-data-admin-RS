@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Vreoci"
     ],
-    "name:baq_x_preferred":[
-        "Vreoci"
-    ],
     "name:bar_x_preferred":[
         "Vreoci"
     ],
@@ -37,16 +34,19 @@
     "name:cat_x_preferred":[
         "Vreoci"
     ],
+    "name:ces_x_preferred":[
+        "Vreoci"
+    ],
     "name:cos_x_preferred":[
         "Vreoci"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vreoci"
     ],
     "name:dan_x_preferred":[
         "Vreoci"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vreoci"
     ],
     "name:eng_x_preferred":[
@@ -58,19 +58,19 @@
     "name:est_x_preferred":[
         "Vreoci"
     ],
+    "name:eus_x_preferred":[
+        "Vreoci"
+    ],
     "name:fin_x_preferred":[
         "Vreoci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vreoci"
     ],
     "name:frp_x_preferred":[
         "Vreoci"
     ],
     "name:fur_x_preferred":[
-        "Vreoci"
-    ],
-    "name:ger_x_preferred":[
         "Vreoci"
     ],
     "name:gla_x_preferred":[
@@ -88,9 +88,6 @@
     "name:hrv_x_preferred":[
         "Vreoci"
     ],
-    "name:ice_x_preferred":[
-        "Vreoci"
-    ],
     "name:ido_x_preferred":[
         "Vreoci"
     ],
@@ -101,6 +98,9 @@
         "Vreoci"
     ],
     "name:ind_x_preferred":[
+        "Vreoci"
+    ],
+    "name:isl_x_preferred":[
         "Vreoci"
     ],
     "name:ita_x_preferred":[
@@ -121,19 +121,22 @@
     "name:ltz_x_preferred":[
         "Vreoci"
     ],
-    "name:may_x_preferred":[
-        "Vreoci"
-    ],
     "name:min_x_preferred":[
         "Vreoci"
     ],
     "name:mlg_x_preferred":[
         "Vreoci"
     ],
+    "name:msa_x_preferred":[
+        "Vreoci"
+    ],
     "name:nap_x_preferred":[
         "Vreoci"
     ],
     "name:nds_x_preferred":[
+        "Vreoci"
+    ],
+    "name:nld_x_preferred":[
         "Vreoci"
     ],
     "name:nno_x_preferred":[
@@ -163,7 +166,7 @@
     "name:roh_x_preferred":[
         "Vreoci"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vreoci"
     ],
     "name:scn_x_preferred":[
@@ -172,7 +175,7 @@
     "name:sco_x_preferred":[
         "Vreoci"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vreoci"
     ],
     "name:slv_x_preferred":[
@@ -203,9 +206,6 @@
         "Vreoci"
     ],
     "name:vol_x_preferred":[
-        "Vreoci"
-    ],
-    "name:wel_x_preferred":[
         "Vreoci"
     ],
     "name:wln_x_preferred":[
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":890477627,
-    "wof:lastmodified":1527727179,
+    "wof:lastmodified":1561831310,
     "wof:name":"Vreoci",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

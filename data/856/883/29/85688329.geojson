@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305372,
-    "geom:area_square_m":2765252613.536213,
+    "geom:area_square_m":2765252613.536189,
     "geom:bbox":"21.38917,42.6655105,22.5176875,43.1707285",
     "geom:latitude":42.918229,
     "geom:longitude":21.895615,
@@ -26,9 +26,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Rrethi Jablanica"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0627\u0628\u0644\u0627\u0646\u064a\u0643\u0627"
     ],
@@ -44,35 +41,29 @@
     "name:cat_x_preferred":[
         "Districte de Jablanica"
     ],
-    "name:chi_x_preferred":[
-        "\u96c5\u5e03\u862d\u5c3c\u5361\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jablanick\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Jablanica District"
     ],
-    "name:dut_x_preferred":[
-        "Jablanica"
+    "name:deu_x_preferred":[
+        "Okrug Jablanica"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03b9\u03b1\u03bc\u03c0\u03bb\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jablanica"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u062f\u0647:\u0646\u0627\u062d\u06cc\u0647 \u06cc\u0627\u0628\u0644\u0627\u0646\u06cc\u062a\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Jablanican piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jablanica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10d1\u10da\u10d0\u10dc\u10d8\u10e9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Jablanica"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03b9\u03b1\u03bc\u03c0\u03bb\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0aac\u0ab2\u0abe\u0aa8\u0abf\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -98,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cac\u0ccd\u0cb2\u0cbe\u0ca8\u0cbf\u0c95\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10d1\u10da\u10d0\u10dc\u10d8\u10e9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc57c\ube14\ub77c\ub2c8\ucc28 \uad6c"
     ],
@@ -107,23 +101,23 @@
     "name:lit_x_preferred":[
         "Jablanikos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u0431\u043b\u0430\u043d\u0438\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0932\u0928\u093e\u0932\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u0431\u043b\u0430\u043d\u0438\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Jablanica District"
     ],
     "name:nan_x_preferred":[
         "Jablani\u010dki Ko\u0101n"
     ],
+    "name:nld_x_preferred":[
+        "Jablanica"
+    ],
     "name:nob_x_preferred":[
         "Jablanica distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u062f\u0647:\u0646\u0627\u062d\u06cc\u0647 \u06cc\u0627\u0628\u0644\u0627\u0646\u06cc\u062a\u0633\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06cc\u0627\u0628\u0644\u0627\u0646\u06cc\u0686\u0627"
@@ -134,7 +128,7 @@
     "name:por_x_preferred":[
         "Distrito de Jablanica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Jablanica"
     ],
     "name:rus_x_preferred":[
@@ -145,6 +139,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Jablanica"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi Jablanica"
     ],
     "name:srp_x_preferred":[
         "Jablani\u010dki Okrug"
@@ -176,6 +173,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Jablanica"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5\u5e03\u862d\u5c3c\u5361\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SRB",
@@ -303,7 +303,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814896,
+    "wof:lastmodified":1561831275,
     "wof:name":"Jablani\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

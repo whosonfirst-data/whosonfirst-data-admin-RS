@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29317,
-    "geom:area_square_m":2608177370.117176,
+    "geom:area_square_m":2608177370.117146,
     "geom:bbox":"20.9251155,43.726805,21.82248,44.318073",
     "geom:latitude":43.988655,
     "geom:longitude":21.363481,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Districte de Pomoravlje"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u83ab\u62c9\u592b\u5217\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Pomoravlje District"
     ],
-    "name:dut_x_preferred":[
-        "Pomoravlje"
+    "name:deu_x_preferred":[
+        "Okrug Pomoravlje"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bc\u03bf\u03c1\u03ac\u03b2\u03bb\u03c4\u03b6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pomoravski upravni okrug"
@@ -53,17 +53,8 @@
     "name:fin_x_preferred":[
         "Pomoravlje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pomoravlje"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10db\u10dd\u10e0\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Pomoravlje"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bc\u03bf\u03c1\u03ac\u03b2\u03bb\u03c4\u03b6\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0aae\u0ab0\u0ab5\u0ab2\u0acd\u0a9c\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -89,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cca\u0cae\u0cca\u0cb0\u0cbe\u0cb5\u0ccd\u0cb2\u0cc6 \u0c9c\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10db\u10dd\u10e0\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ubaa8\ub77c\ube14\ub808 \uad6c"
     ],
@@ -101,11 +95,14 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u092e\u094b\u0930\u0947\u0932\u094d\u0932\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pomoravlje District"
     ],
     "name:nan_x_preferred":[
         "Pomoravski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Pomoravlje"
     ],
     "name:nob_x_preferred":[
         "Pomoravlje distrikt"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Pomoravlje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Pomoravlje"
     ],
     "name:rus_x_preferred":[
@@ -157,6 +154,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Pomoravlje"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u83ab\u62c9\u592b\u5217\u5dde"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a0_lc":"RS0000000",
@@ -223,7 +223,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814896,
+    "wof:lastmodified":1561831275,
     "wof:name":"Pomoravski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

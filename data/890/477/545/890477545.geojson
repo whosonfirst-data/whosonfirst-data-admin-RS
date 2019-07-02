@@ -16,26 +16,20 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0447\u0435\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u5207\u6c83"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ku\u010devo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ku\u010devo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c4\u03c3\u03b5\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ku\u010devo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ku\u010devo"
-    ],
-    "name:ger_x_preferred":[
-        "Ku\u010devo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03c4\u03c3\u03b5\u03b2\u03bf"
     ],
     "name:hrv_x_preferred":[
         "Ku\u010devo"
@@ -46,7 +40,10 @@
     "name:jpn_x_preferred":[
         "\u30af\u30c1\u30a7\u30f4\u30a9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ku\u010devo"
+    ],
+    "name:nld_x_preferred":[
         "Ku\u010devo"
     ],
     "name:pnb_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0443\u0447\u0435\u0432\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5207\u6c83"
     ],
     "qs:name":"Ku\u010devo",
     "qs:name_adm0":"Serbia",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":890477545,
-    "wof:lastmodified":1527727182,
+    "wof:lastmodified":1561831313,
     "wof:name":"Ku\u010devo",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

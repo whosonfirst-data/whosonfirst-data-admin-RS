@@ -22,19 +22,13 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u5df4\u8afe\u592b\u9f4a"
-    ],
-    "name:dut_x_preferred":[
-        "Dobanovci"
-    ],
     "name:eng_x_preferred":[
         "Dobanovci"
     ],
     "name:epo_x_preferred":[
         "Dobanovci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dobanovci"
     ],
     "name:hrv_x_preferred":[
@@ -43,7 +37,10 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30d0\u30ce\u30f4\u30c4\u30a3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dobanovci"
+    ],
+    "name:nld_x_preferred":[
         "Dobanovci"
     ],
     "name:ota_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Dobanovce"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5df4\u8afe\u592b\u9f4a"
     ],
     "qs:name":"Dobanovci",
     "qs:name_adm0":"Serbia",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":890477695,
-    "wof:lastmodified":1527727180,
+    "wof:lastmodified":1561831312,
     "wof:name":"Dobanovci",
     "wof:parent_id":1108810099,
     "wof:placetype":"locality",

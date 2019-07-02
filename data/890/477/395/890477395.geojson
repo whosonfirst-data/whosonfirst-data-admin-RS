@@ -23,11 +23,14 @@
     "name:eng_x_preferred":[
         "Jajinci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jajinci"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d0\u05d9\u05d9\u05e0\u05e6\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Jajinci"
     ],
     "name:slv_x_preferred":[
         "Jajinci"
@@ -52,6 +55,7 @@
     "qs:photos_sr":4,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wd:latitude":"44.733333",
     "wd:longitude":"20.483333",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890477395,
-    "wof:lastmodified":1562015383,
+    "wof:lastmodified":1562023471,
     "wof:name":"Jajinci",
     "wof:parent_id":1108810141,
     "wof:placetype":"locality",

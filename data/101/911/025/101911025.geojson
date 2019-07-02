@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":3254280.274731,
+    "geom:area_square_m":3254280.274729,
     "geom:bbox":"20.607486457,43.27029759,20.6315507212,43.3110871375",
     "geom:latitude":43.287172,
     "geom:longitude":20.617928,
@@ -20,25 +20,13 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u4ec0\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Ra\u0161ka"
-    ],
-    "name:dut_x_preferred":[
         "Ra\u0161ka"
     ],
     "name:eng_x_preferred":[
         "Ra\u0161ka"
     ],
     "name:fra_x_preferred":[
-        "Ra\u0161ka"
-    ],
-    "name:fre_x_preferred":[
-        "Ra\u0161ka"
-    ],
-    "name:ger_x_preferred":[
         "Ra\u0161ka"
     ],
     "name:glg_x_preferred":[
@@ -54,9 +42,6 @@
         "\u30e9\u30b7\u30e5\u30ab"
     ],
     "name:lit_x_preferred":[
-        "Ra\u0161ka"
-    ],
-    "name:may_x_preferred":[
         "Ra\u0161ka"
     ],
     "name:mlg_x_preferred":[
@@ -146,7 +131,7 @@
         }
     ],
     "wof:id":101911025,
-    "wof:lastmodified":1553815581,
+    "wof:lastmodified":1561831300,
     "wof:name":"Ra\u00b5ka",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

@@ -18,16 +18,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u0628\u0633\u0643\u0627 \u0633\u0631\u0646\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0580\u057a\u057d\u056f\u0561 \u0551\u0580\u0576\u0575\u0561"
-    ],
     "name:bul_x_preferred":[
         "Srpska Crnja"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Srpska Crnja"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Srpska Crnja"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,7 @@
     "name:epo_x_preferred":[
         "Srpska Crnja"
     ],
-    "name:fre_x_preferred":[
-        "Srpska Crnja"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Srpska Crnja"
     ],
     "name:hrv_x_preferred":[
@@ -48,13 +42,19 @@
     "name:hun_x_preferred":[
         "Szerbcsernye"
     ],
-    "name:may_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054d\u0580\u057a\u057d\u056f\u0561 \u0551\u0580\u0576\u0575\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Srpska Crnja"
+    ],
+    "name:nld_x_preferred":[
         "Srpska Crnja"
     ],
     "name:pol_x_preferred":[
         "Srpska Crnja"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Srpska Crnja"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890477765,
-    "wof:lastmodified":1527727177,
+    "wof:lastmodified":1561831309,
     "wof:name":"Srpska Crnja",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

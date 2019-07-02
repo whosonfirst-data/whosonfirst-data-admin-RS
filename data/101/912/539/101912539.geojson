@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003812,
-    "geom:area_square_m":32681017.247651,
+    "geom:area_square_m":32681017.247659,
     "geom:bbox":"19.5973521292,46.0540361609,19.7178461306,46.1505079534",
     "geom:latitude":46.101763,
     "geom:longitude":19.6646,
@@ -56,10 +56,8 @@
     ],
     "name:deu_x_variant":[
         "Maria-Theresiopel",
-        "Subotiza"
-    ],
-    "name:dut_x_preferred":[
-        "Grad Subotica"
+        "Subotiza",
+        "Op\u0161tina Subotica"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03bc\u03c0\u03cc\u03c4\u03b9\u03c4\u03c3\u03b1"
@@ -78,15 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "Subotica"
-    ],
-    "name:fre_x_preferred":[
-        "Subotica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d1\u10dd\u10e2\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Subotica"
     ],
     "name:glg_x_preferred":[
         "Subotica"
@@ -121,6 +110,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10d1\u10dd\u10e2\u10d8\u10ea\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10e3\u10d1\u10dd\u10e2\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc218\ubcf4\ud2f0\ucc28"
     ],
@@ -141,6 +133,9 @@
     ],
     "name:nld_x_preferred":[
         "Subotica"
+    ],
+    "name:nld_x_variant":[
+        "Grad Subotica"
     ],
     "name:nno_x_preferred":[
         "Subotica"
@@ -359,7 +354,7 @@
         }
     ],
     "wof:id":101912539,
-    "wof:lastmodified":1527653269,
+    "wof:lastmodified":1561831299,
     "wof:name":"Subotica",
     "wof:parent_id":1108810097,
     "wof:placetype":"locality",

@@ -27,20 +27,14 @@
     "name:deu_x_preferred":[
         "Op\u0161tina Pe\u0107inci"
     ],
-    "name:dut_x_preferred":[
-        "Pe\u0107inci"
-    ],
     "name:eng_x_preferred":[
         "Pe\u0107inci"
     ],
     "name:epo_x_preferred":[
         "Pecjinci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pe\u0107inci"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Pe\u0107inci"
     ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Pe\u0107inci"
@@ -66,7 +60,10 @@
     "name:kor_x_preferred":[
         "\ud398\uce5c\uce58"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pe\u0107inci"
+    ],
+    "name:nld_x_preferred":[
         "Pe\u0107inci"
     ],
     "name:pnb_x_preferred":[
@@ -75,7 +72,7 @@
     "name:pol_x_preferred":[
         "Pe\u0107inci"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pe\u0107inci"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +131,7 @@
         }
     ],
     "wof:id":890477039,
-    "wof:lastmodified":1527727181,
+    "wof:lastmodified":1561831312,
     "wof:name":"Pe\u0107inci",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

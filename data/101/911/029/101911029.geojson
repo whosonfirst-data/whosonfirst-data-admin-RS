@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001032,
-    "geom:area_square_m":9121658.277997,
+    "geom:area_square_m":9121658.278001,
     "geom:bbox":"20.9323433667,44.349737196,20.992299026,44.3986930514",
     "geom:latitude":44.370428,
     "geom:longitude":20.962013,
@@ -27,19 +27,10 @@
     "name:ces_x_preferred":[
         "Smederevska Palanka"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6885\u4ee3\u96f7\u6c83\u5e15\u862d\u5361"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u0645\u06ce\u062f\u06ce\u0631\u06ce\u06a4\u0633\u06a9\u0627 \u067e\u0627\u0644\u0627\u0646\u06a9\u0627"
     ],
-    "name:cze_x_preferred":[
-        "Smederevska Palanka"
-    ],
     "name:deu_x_preferred":[
-        "Smederevska Palanka"
-    ],
-    "name:dut_x_preferred":[
         "Smederevska Palanka"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +40,6 @@
         "\u0627\u0633\u0645\u062f\u0631\u0641\u0633\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
-        "Smederevska Palanka"
-    ],
-    "name:fre_x_preferred":[
-        "Smederevska Palanka"
-    ],
-    "name:ger_x_preferred":[
         "Smederevska Palanka"
     ],
     "name:hbs_x_preferred":[
@@ -72,17 +57,11 @@
     "name:kor_x_preferred":[
         "\uc2a4\uba54\ub370\ub808\ube0c\uc2a4\uce74\ud314\ub780\uce74"
     ],
-    "name:may_x_preferred":[
-        "Smederevska Palanka"
-    ],
     "name:msa_x_preferred":[
         "Smederevska Palanka"
     ],
     "name:nld_x_preferred":[
         "Smederevska Palanka"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0645\u062f\u0631\u0641\u0633\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0645\u06cc\u062f\u06cc\u0631\u06cc\u0648\u0633\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
@@ -170,7 +149,7 @@
         }
     ],
     "wof:id":101911029,
-    "wof:lastmodified":1527715548,
+    "wof:lastmodified":1561831300,
     "wof:name":"Smederevska Palanka",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",

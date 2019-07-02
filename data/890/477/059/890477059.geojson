@@ -15,16 +15,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Despotovo"
-    ],
     "name:eng_x_preferred":[
         "Despotovo"
     ],
     "name:epo_x_preferred":[
         "Despotovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Despotovo"
     ],
     "name:hrv_x_preferred":[
@@ -33,7 +30,10 @@
     "name:hun_x_preferred":[
         "\u00darszentiv\u00e1n"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Despotovo"
+    ],
+    "name:nld_x_preferred":[
         "Despotovo"
     ],
     "name:slv_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890477059,
-    "wof:lastmodified":1527727185,
+    "wof:lastmodified":1561831316,
     "wof:name":"Despotovo",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

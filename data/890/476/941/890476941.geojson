@@ -30,9 +30,6 @@
     "name:afr_x_preferred":[
         "Belgrado"
     ],
-    "name:alb_x_preferred":[
-        "Beogradi"
-    ],
     "name:amh_x_preferred":[
         "\u1260\u120d\u130d\u122b\u12f5"
     ],
@@ -41,9 +38,6 @@
     ],
     "name:arg_x_preferred":[
         "Belgrado"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u0563\u0580\u0561\u0564"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0644\u062c\u0631\u0627\u062f"
@@ -63,14 +57,14 @@
     "name:bak_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0440\u0430\u0434"
     ],
-    "name:baq_x_preferred":[
-        "Belgrad"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u044f\u043b\u0433\u0440\u0430\u0434"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u0997\u09cd\u09b0\u09c7\u09a1"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f7a\u0f63\u0f0b\u0f42\u0f7a\u0f0b\u0f62\u0f7a\u0f0b\u0f4c\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Beograd"
@@ -96,9 +90,6 @@
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0440\u0430\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14\u683c\u83b1\u5fb7"
-    ],
     "name:chu_x_preferred":[
         "\u0411\u0463\u043b\u044a \u0413\u0440\u0430\u0434\u044a \u00b7 \u0421\u0440\u044c\u0431\u0457\u0438"
     ],
@@ -114,8 +105,8 @@
     "name:csb_x_preferred":[
         "Belgrad"
     ],
-    "name:cze_x_preferred":[
-        "B\u011blehrad"
+    "name:cym_x_preferred":[
+        "Beograd"
     ],
     "name:dan_x_preferred":[
         "Beograd"
@@ -129,9 +120,6 @@
     "name:dsb_x_preferred":[
         "B\u011b\u0142ogrod"
     ],
-    "name:dut_x_preferred":[
-        "Belgrado"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03b5\u03bb\u03b9\u03b3\u03c1\u03ac\u03b4\u03b9"
     ],
@@ -144,19 +132,22 @@
     "name:est_x_preferred":[
         "Belgrad"
     ],
+    "name:eus_x_preferred":[
+        "Belgrad"
+    ],
     "name:ext_x_preferred":[
         "Belgradu"
     ],
     "name:fao_x_preferred":[
         "Beograd"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06af\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Belgrad"
     ],
     "name:fra_x_preferred":[
-        "Belgrade"
-    ],
-    "name:fre_x_preferred":[
         "Belgrade"
     ],
     "name:frp_x_preferred":[
@@ -171,12 +162,6 @@
     "name:gag_x_preferred":[
         "Belgrad"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10da\u10d2\u10e0\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Belgrad"
-    ],
     "name:gla_x_preferred":[
         "Belgrade"
     ],
@@ -188,9 +173,6 @@
     ],
     "name:glv_x_preferred":[
         "Belgraaid"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b5\u03bb\u03b9\u03b3\u03c1\u03ac\u03b4\u03b9"
     ],
     "name:grn_x_preferred":[
         "Belyrat"
@@ -233,9 +215,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0563\u0580\u0561\u0564"
-    ],
-    "name:ice_x_preferred":[
-        "Belgrad"
     ],
     "name:ido_x_preferred":[
         "Belgrade"
@@ -324,20 +303,11 @@
     "name:lzh_x_preferred":[
         "\u8c9d\u723e\u683c\u52d2"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0440\u0430\u0434"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d46\u0d7d\u0d17\u0d4d\u0d30\u0d47\u0d21\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Belgrade"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0932\u0917\u094d\u0930\u0947\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Belgrade"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0440\u0430\u0434"
@@ -347,6 +317,12 @@
     ],
     "name:mon_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0440\u0430\u0434"
+    ],
+    "name:mri_x_preferred":[
+        "Belgrade"
+    ],
+    "name:msa_x_preferred":[
+        "Belgrade"
     ],
     "name:myv_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0440\u0430\u0434 \u043e\u0448"
@@ -396,9 +372,6 @@
     "name:pap_x_preferred":[
         "Belgrado"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u06af\u0631\u0627\u062f"
-    ],
     "name:pih_x_preferred":[
         "Belgrade"
     ],
@@ -426,9 +399,6 @@
     "name:rue_x_preferred":[
         "\u0411\u0435\u043b\u0435\u0433\u0440\u0430\u0434"
     ],
-    "name:rum_x_preferred":[
-        "Belgrad"
-    ],
     "name:rup_x_preferred":[
         "Biligrad"
     ],
@@ -451,9 +421,6 @@
         "\u0db6\u0dd9\u0dbd\u0dca\u0d9c\u0dca\u200d\u0dbb\u0dda\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Belehrad"
-    ],
-    "name:slo_x_preferred":[
         "Belehrad"
     ],
     "name:slv_x_preferred":[
@@ -519,9 +486,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e25\u0e40\u0e01\u0e23\u0e14"
     ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0f7a\u0f63\u0f0b\u0f42\u0f7a\u0f0b\u0f62\u0f7a\u0f0b\u0f4c\u0f72\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Belgrad"
     ],
@@ -567,9 +531,6 @@
     "name:war_x_preferred":[
         "Belgrade"
     ],
-    "name:wel_x_preferred":[
-        "Beograd"
-    ],
     "name:wol_x_preferred":[
         "Belgrad"
     ],
@@ -587,6 +548,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8c9d\u723e\u683c\u840a\u5fb7"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u683c\u83b1\u5fb7"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Serbia",
@@ -726,7 +690,7 @@
         }
     ],
     "wof:id":890476941,
-    "wof:lastmodified":1562015415,
+    "wof:lastmodified":1562023470,
     "wof:name":"Belgrade",
     "wof:parent_id":1108810063,
     "wof:placetype":"locality",

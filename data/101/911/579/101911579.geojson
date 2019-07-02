@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":6877379.467077,
+    "geom:area_square_m":6877379.467073,
     "geom:bbox":"20.8784895136,43.5882810441,20.9298142302,43.6437086841",
     "geom:latitude":43.622098,
     "geom:longitude":20.899392,
@@ -29,32 +29,17 @@
     "name:ces_x_preferred":[
         "Vrnja\u010dka Banja"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u723e\u5c3c\u4e9e\u5947\u5361\u7926\u6cc9\u93ae"
-    ],
-    "name:cze_x_preferred":[
-        "Vrnja\u010dka Banja"
-    ],
     "name:deu_x_preferred":[
         "Vrnja\u010dka Banja"
     ],
-    "name:dut_x_preferred":[
-        "Vrnja\u010dka Banja"
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03bd\u03b9\u03b1\u03c4\u03c3\u03ba\u03b1 \u039c\u03c0\u03ac\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vrnja\u010dka Banja"
     ],
     "name:fra_x_preferred":[
         "Vrnja\u010dka Banja"
-    ],
-    "name:fre_x_preferred":[
-        "Vrnja\u010dka Banja"
-    ],
-    "name:ger_x_preferred":[
-        "Vrnja\u010dka Banja"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03c1\u03bd\u03b9\u03b1\u03c4\u03c3\u03ba\u03b1 \u039c\u03c0\u03ac\u03bd\u03b9\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Vrnja\u010dka Banja"
@@ -71,10 +56,13 @@
     "name:lit_x_preferred":[
         "Vrnia\u010dka Bania"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Vrnja\u010dka Banja"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
+        "Vrnja\u010dka Banja"
+    ],
+    "name:nld_x_preferred":[
         "Vrnja\u010dka Banja"
     ],
     "name:pnb_x_preferred":[
@@ -154,7 +142,7 @@
         }
     ],
     "wof:id":101911579,
-    "wof:lastmodified":1527715550,
+    "wof:lastmodified":1561831300,
     "wof:name":"Vrnja\u010dka Banja",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

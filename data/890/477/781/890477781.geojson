@@ -18,19 +18,13 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u044a\u0441\u0442\u0435\u043d\u0438\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u96f7\u65af\u5854\u5c3c\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Trstenik"
     ],
     "name:eng_x_preferred":[
         "Trstenik"
     ],
-    "name:fre_x_preferred":[
-        "Trstenik"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Trstenik"
     ],
     "name:heb_x_preferred":[
@@ -51,7 +45,10 @@
     "name:ltz_x_preferred":[
         "Trstenik"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Trstenik"
+    ],
+    "name:nld_x_preferred":[
         "Trstenik"
     ],
     "name:pnb_x_preferred":[
@@ -116,7 +113,7 @@
         }
     ],
     "wof:id":890477781,
-    "wof:lastmodified":1527727187,
+    "wof:lastmodified":1561831317,
     "wof:name":"Trstenik",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

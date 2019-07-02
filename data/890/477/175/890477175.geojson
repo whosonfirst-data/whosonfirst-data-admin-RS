@@ -18,10 +18,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0643\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Be\u0161ka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Be\u0161ka"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:epo_x_preferred":[
         "Be\u015dka"
     ],
-    "name:fre_x_preferred":[
-        "Be\u0161ka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Be\u0161ka"
     ],
     "name:hrv_x_preferred":[
@@ -45,7 +42,10 @@
     "name:ita_x_preferred":[
         "Be\u0161ka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Be\u0161ka"
+    ],
+    "name:nld_x_preferred":[
         "Be\u0161ka"
     ],
     "name:pol_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":890477175,
-    "wof:lastmodified":1527727182,
+    "wof:lastmodified":1561831313,
     "wof:name":"Be\u0161ka",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

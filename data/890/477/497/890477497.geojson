@@ -16,16 +16,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Iland\u017ea"
-    ],
     "name:eng_x_preferred":[
         "Iland\u017ea"
     ],
     "name:epo_x_preferred":[
         "Ilan\u011da"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Iland\u017ea"
     ],
     "name:hrv_x_preferred":[
@@ -37,10 +34,13 @@
     "name:ita_x_preferred":[
         "Iland\u017ea"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Iland\u017ea"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:ron_x_preferred":[
         "Iland\u017ea"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":890477497,
-    "wof:lastmodified":1527727180,
+    "wof:lastmodified":1561831311,
     "wof:name":"Iland\u017ea",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

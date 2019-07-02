@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305485,
-    "geom:area_square_m":2756076058.62646,
+    "geom:area_square_m":2756076058.626482,
     "geom:bbox":"22.117202,42.8628905,23.0063905,43.4027515",
     "geom:latitude":43.144818,
     "geom:longitude":22.559072,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Districte de Pirot"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u7f85\u7279\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Pirot District"
     ],
-    "name:dut_x_preferred":[
-        "Pirot"
+    "name:deu_x_preferred":[
+        "Okrug Pirot"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ba\u03c1\u03bf\u03cd\u03b3\u03ba \u03a0\u03af\u03c1\u03bf\u03c4"
     ],
     "name:eng_x_preferred":[
         "Pirotski upravni okrug"
@@ -53,17 +53,8 @@
     "name:fin_x_preferred":[
         "Pirot"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pirot"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e0\u10dd\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Pirot"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03ba\u03c1\u03bf\u03cd\u03b3\u03ba \u03a0\u03af\u03c1\u03bf\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0ab0\u0ac9\u0a9f \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -89,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc8\u0cb0\u0ccb\u0c9f\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e0\u10dd\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud53c\ub85c\ud2b8 \uad6c"
     ],
@@ -101,11 +95,14 @@
     "name:mar_x_preferred":[
         "\u092a\u093f\u0930\u094b\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pirot District"
     ],
     "name:nan_x_preferred":[
         "Pirotski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Pirot"
     ],
     "name:nob_x_preferred":[
         "Pirot distrikt"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Distrito de Pirot"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Pirot"
     ],
     "name:rus_x_preferred":[
@@ -157,6 +154,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Pirot"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7f85\u7279\u5dde"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a0_lc":"RS0000000",
@@ -223,7 +223,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814896,
+    "wof:lastmodified":1561831275,
     "wof:name":"Pirotski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

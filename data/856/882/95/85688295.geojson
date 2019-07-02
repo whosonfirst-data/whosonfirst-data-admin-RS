@@ -44,20 +44,14 @@
     "name:ces_x_preferred":[
         "Jihoba\u010dsk\u00fd okruh"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5df4\u5947\u5361\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Jihoba\u010dsk\u00fd okruh"
-    ],
     "name:dan_x_preferred":[
         "South Ba\u010dka District"
     ],
     "name:deu_x_preferred":[
         "Okrug Ju\u017ena Ba\u010dka"
     ],
-    "name:dut_x_preferred":[
-        "Zuid-Ba\u010dka"
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03b1 \u039c\u03c0\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "South Backa"
@@ -70,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Ba\u010dka m\u00e9ridionale"
-    ],
-    "name:fre_x_preferred":[
-        "Ba\u010dka m\u00e9ridionale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7-\u10d1\u10d0\u10e9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Ju\u017ena Ba\u010dka"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03c4\u03b9\u03b1 \u039c\u03c0\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0aac\u0abe\u0a95\u0acd\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -110,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccc\u0ca4\u0ccd \u0cac\u0cbe\u0c95\u0ccd\u0c95\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7-\u10d1\u10d0\u10e9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\ubc14\uce58\uce74 \uad6c"
     ],
@@ -122,11 +107,14 @@
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u092c\u093e\u0915\u093e\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "South Backa District"
     ],
     "name:nan_x_preferred":[
         "Ju\u017enoba\u010dki Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Zuid-Ba\u010dka"
     ],
     "name:nob_x_preferred":[
         "S\u00f8r Backa"
@@ -140,7 +128,7 @@
     "name:por_x_preferred":[
         "Distrito Sul de Backa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Ba\u010dka de Sud"
     ],
     "name:rus_x_preferred":[
@@ -152,7 +140,7 @@
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db6\u0d9a\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Juhob\u00e1\u010dsky obvod"
     ],
     "name:spa_x_preferred":[
@@ -188,6 +176,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Nam Backa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5df4\u5947\u5361\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SRB",
@@ -315,7 +306,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550965,
+    "wof:lastmodified":1561831276,
     "wof:name":"Ju\u017enoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

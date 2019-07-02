@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43706,
-    "geom:area_square_m":3856938941.339964,
+    "geom:area_square_m":3856938941.339975,
     "geom:bbox":"21.022154,44.0825085,22.0123505,44.821612",
     "geom:latitude":44.464952,
     "geom:longitude":21.529498,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0631\u0627\u0646\u064a\u062a\u0634\u064a\u0641\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Brani\u010devo barrutia"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0456\u0447\u0430\u045e\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
@@ -44,17 +41,17 @@
     "name:cat_x_preferred":[
         "Districte de Brani\u010devo"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u862d\u5c3c\u5207\u592b\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Brani\u010devsk\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Brani\u010devo District"
     ],
-    "name:dut_x_preferred":[
-        "Brani\u010devo"
+    "name:deu_x_preferred":[
+        "Okrug Brani\u010devo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b1\u03bd\u03b9\u03c4\u03c3\u03ad\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Branicevo District"
@@ -63,20 +60,14 @@
         "Branicevo",
         "Brani\u010devo District"
     ],
+    "name:eus_x_preferred":[
+        "Brani\u010devo barrutia"
+    ],
     "name:fin_x_preferred":[
         "Brani\u010devo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brani\u010devo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10dc\u10d8\u10e9\u10d4\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Okrug Brani\u010devo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b1\u03bd\u03b9\u03c4\u03c3\u03ad\u03b2\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ac7\u0aa8\u0abf\u0ab8\u0acb\u0ab5\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -102,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cbe\u0ca8\u0cbf\u0cb6\u0cc6\u0cb5\u0cca \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10dc\u10d8\u10e9\u10d4\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\ub2c8\uccb4\ubcf4 \uad6c"
     ],
@@ -114,14 +108,17 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0901\u0928\u093f\u090f\u0935\u094d\u0939\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
-        "Branicevo District"
-    ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Branicevo District"
+    ],
     "name:nan_x_preferred":[
         "Brani\u010devski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Brani\u010devo"
     ],
     "name:nob_x_preferred":[
         "Branicevo distrikt"
@@ -135,7 +132,7 @@
     "name:por_x_preferred":[
         "Brani\u010devo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Brani\u010devo"
     ],
     "name:rus_x_preferred":[
@@ -177,6 +174,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Branicevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u862d\u5c3c\u5207\u592b\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SRB",
@@ -304,7 +304,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814895,
+    "wof:lastmodified":1561831276,
     "wof:name":"Brani\u010devski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

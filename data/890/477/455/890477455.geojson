@@ -16,16 +16,16 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Stepojevac"
-    ],
     "name:eng_x_preferred":[
         "Stepojevac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stepojevac"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:nld_x_preferred":[
         "Stepojevac"
     ],
     "name:por_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890477455,
-    "wof:lastmodified":1527727180,
+    "wof:lastmodified":1561831311,
     "wof:name":"Stepojevac",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

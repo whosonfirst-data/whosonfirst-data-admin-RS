@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303274,
-    "geom:area_square_m":2723951238.658892,
+    "geom:area_square_m":2723951238.658841,
     "geom:bbox":"21.461168,43.06188,22.346586,43.8188745",
     "geom:latitude":43.416018,
     "geom:longitude":21.86705,
@@ -41,17 +41,17 @@
     "name:cat_x_preferred":[
         "Districte de Ni\u0161ava"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u6c99\u74e6\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ni\u0161avsk\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Ni\u0161ava District"
     ],
-    "name:dut_x_preferred":[
-        "Ni\u0161ava"
+    "name:deu_x_preferred":[
+        "Ni\u0161avski okrug"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03c3\u03b1\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nisava"
@@ -59,17 +59,8 @@
     "name:fin_x_preferred":[
         "Ni\u0161in piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ni\u0161ava"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10e8\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ni\u0161avski okrug"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03af\u03c3\u03b1\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0ab8\u0abe\u0ab5\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -95,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cbf\u0cb8\u0cb5 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10e8\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub2c8\uc0e4\ubc14 \uad6c"
     ],
@@ -107,14 +101,17 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u0938\u093e\u0935 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
-        "Nisava District"
-    ],
     "name:mon_x_preferred":[
         "\u041d\u0438\u0448\u0430\u0432 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Nisava District"
+    ],
     "name:nan_x_preferred":[
         "Ni\u0161avski Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Ni\u0161ava"
     ],
     "name:nob_x_preferred":[
         "Nisava Distrikt"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Distrito de Nisava"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Ni\u0161ava"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Nisava"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u6c99\u74e6\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SRB",
@@ -297,7 +297,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553814896,
+    "wof:lastmodified":1561831277,
     "wof:name":"Ni\u0161avski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -22,13 +22,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043e\u0447\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u5967\u6b3d"
-    ],
-    "name:cze_x_preferred":[
-        "Beo\u010din"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Beo\u010din"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +31,7 @@
     "name:epo_x_preferred":[
         "Beo\u0109in"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beo\u010din"
     ],
     "name:hrv_x_preferred":[
@@ -52,7 +46,10 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30aa\u30c1\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Beo\u010din"
+    ],
+    "name:nld_x_preferred":[
         "Beo\u010din"
     ],
     "name:pnb_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0435\u043e\u0447\u0438\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5967\u6b3d"
     ],
     "qs:name":"Beo\u010din",
     "qs:name_adm0":"Serbia",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":890477547,
-    "wof:lastmodified":1527727187,
+    "wof:lastmodified":1561831317,
     "wof:name":"Beo\u010din",
     "wof:parent_id":1108809847,
     "wof:placetype":"locality",

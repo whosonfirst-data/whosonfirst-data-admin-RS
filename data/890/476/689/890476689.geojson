@@ -15,25 +15,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Mali Zjam"
-    ],
     "name:eng_x_preferred":[
         "Mali \u017dam"
     ],
     "name:epo_x_preferred":[
         "Mali \u0134am"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mali \u017dam"
     ],
     "name:hun_x_preferred":[
         "Kiszs\u00e1m"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mali \u017dam"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Mali Zjam"
+    ],
+    "name:ron_x_preferred":[
         "Jamu Mic"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":890476689,
-    "wof:lastmodified":1527727148,
+    "wof:lastmodified":1561831304,
     "wof:name":"Mali \u017dam",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

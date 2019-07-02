@@ -16,16 +16,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Grgurevci"
-    ],
     "name:eng_x_preferred":[
         "Grgurevci"
     ],
     "name:epo_x_preferred":[
         "Grgurevci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grgurevci"
     ],
     "name:hrv_x_preferred":[
@@ -34,7 +31,10 @@
     "name:hun_x_preferred":[
         "Grgurevci"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Grgurevci"
+    ],
+    "name:nld_x_preferred":[
         "Grgurevci"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":890477491,
-    "wof:lastmodified":1527727180,
+    "wof:lastmodified":1561831312,
     "wof:name":"Grgurevci",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

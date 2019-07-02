@@ -20,7 +20,7 @@
     "name:cze_x_preferred":[
         "Batajnica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Batajnica"
     ],
     "name:eng_x_preferred":[
@@ -29,10 +29,7 @@
     "name:epo_x_preferred":[
         "Batajnica"
     ],
-    "name:fre_x_preferred":[
-        "Batajnica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Batajnica"
     ],
     "name:hrv_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30bf\u30a4\u30cb\u30c4\u30a1"
+    ],
+    "name:nld_x_preferred":[
+        "Batajnica"
     ],
     "name:slv_x_preferred":[
         "Batajnica"
@@ -70,6 +70,7 @@
     "qs:photos_sr":3,
     "qs:placetype":"Town",
     "qs:pop_sr":"1",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wd:latitude":"44.90222222",
     "wd:longitude":"20.28138889",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":890477699,
-    "wof:lastmodified":1562015387,
+    "wof:lastmodified":1562023472,
     "wof:name":"Batajnica",
     "wof:parent_id":1108810165,
     "wof:placetype":"locality",

@@ -19,13 +19,10 @@
     "name:bul_x_preferred":[
         "\u0423\u043c\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u59c6\u5361"
-    ],
     "name:eng_x_preferred":[
         "Umka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Umka"
     ],
     "name:por_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:srp_x_preferred":[
         "Umka"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u5361"
     ],
     "qs:name":"Umka",
     "qs:name_adm0":"Serbia",
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890477537,
-    "wof:lastmodified":1527727182,
+    "wof:lastmodified":1561831313,
     "wof:name":"Umka",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",

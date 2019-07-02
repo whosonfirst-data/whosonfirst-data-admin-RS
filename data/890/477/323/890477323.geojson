@@ -24,16 +24,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0430 \u0446\u044a\u0440\u043a\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u62c9\u8328\u723e\u514b\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bela Crkva"
     ],
     "name:deu_x_preferred":[
         "Wei\u00dfkirchen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Bela Crkva"
     ],
     "name:eng_x_preferred":[
@@ -42,10 +39,7 @@
     "name:epo_x_preferred":[
         "Bela Crkva"
     ],
-    "name:fre_x_preferred":[
-        "Bela Crkva"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bela Crkva"
     ],
     "name:heb_x_preferred":[
@@ -63,7 +57,10 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30e9\u30fb\u30c4\u30eb\u30af\u30f4\u30a1"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bela Crkva"
+    ],
+    "name:nld_x_preferred":[
         "Bela Crkva"
     ],
     "name:pnb_x_preferred":[
@@ -72,7 +69,7 @@
     "name:pol_x_preferred":[
         "Bela Crkva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Biserica Alb\u0103"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":890477323,
-    "wof:lastmodified":1527727181,
+    "wof:lastmodified":1561831312,
     "wof:name":"Bela Crkva",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

@@ -15,16 +15,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Zasavica I"
-    ],
     "name:eng_x_preferred":[
         "Zasavica I"
     ],
     "name:epo_x_preferred":[
         "Gornja Zasavica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zasavica"
     ],
     "name:hrv_x_preferred":[
@@ -33,7 +30,10 @@
     "name:hun_x_preferred":[
         "Zasavica I"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Zasavica I"
+    ],
+    "name:nld_x_preferred":[
         "Zasavica I"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890477477,
-    "wof:lastmodified":1514500374,
+    "wof:lastmodified":1561831310,
     "wof:name":"Zasavica Prva",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

@@ -15,7 +15,7 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Obrovac"
     ],
     "name:eng_x_preferred":[
@@ -24,10 +24,7 @@
     "name:epo_x_preferred":[
         "Obrovac"
     ],
-    "name:fre_x_preferred":[
-        "Obrovac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Obrovac"
     ],
     "name:hrv_x_preferred":[
@@ -39,7 +36,10 @@
     "name:ita_x_preferred":[
         "Obrovac"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Obrovac"
+    ],
+    "name:nld_x_preferred":[
         "Obrovac"
     ],
     "name:por_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890477609,
-    "wof:lastmodified":1553816410,
+    "wof:lastmodified":1561831317,
     "wof:name":"Obrovac",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

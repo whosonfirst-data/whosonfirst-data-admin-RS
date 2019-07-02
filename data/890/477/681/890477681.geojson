@@ -16,16 +16,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vojvoda Stepa"
-    ],
     "name:eng_x_preferred":[
         "Vojvoda Stepa"
     ],
     "name:epo_x_preferred":[
         "Vojvoda Stepa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vojvoda Stepa"
     ],
     "name:hrv_x_preferred":[
@@ -34,10 +31,13 @@
     "name:hun_x_preferred":[
         "Le\u00f3namajor"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vojvoda Stepa"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Vojvoda Stepa"
+    ],
+    "name:ron_x_preferred":[
         "Vojvoda Stepa"
     ],
     "name:slv_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890477681,
-    "wof:lastmodified":1527727178,
+    "wof:lastmodified":1561831309,
     "wof:name":"Vojvoda Stepa",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",
