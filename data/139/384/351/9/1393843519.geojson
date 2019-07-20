@@ -19,10 +19,19 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "\u017deleznik"
+    ],
     "name:dut_x_preferred":[
         "Zjeleznik"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03bb\u03ad\u03b6\u03bd\u03b9\u03ba \u0392\u03b5\u03bb\u03b9\u03b3\u03c1\u03b1\u03b4\u03af\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
+        "\u017deleznik"
+    ],
+    "name:fra_x_preferred":[
         "\u017deleznik"
     ],
     "name:fre_x_preferred":[
@@ -31,11 +40,18 @@
     "name:gre_x_preferred":[
         "\u0396\u03b5\u03bb\u03ad\u03b6\u03bd\u03b9\u03ba \u0392\u03b5\u03bb\u03b9\u03b3\u03c1\u03b1\u03b4\u03af\u03bf\u03c5"
     ],
+    "name:nld_x_preferred":[
+        "Zjeleznik"
+    ],
     "name:slv_x_preferred":[
         "\u017deleznik"
     ],
     "name:srp_x_preferred":[
         "\u017deleznik"
+    ],
+    "name:srp_x_variant":[
+        "Mala Ciganti",
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
     ],
     "qs:name":"\u017deleznik",
     "qs:name_adm0":"Serbia",
@@ -53,13 +69,13 @@
     "wd:longitude":"20.366666666",
     "wd:wordcount":475,
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843445
+        1393843445,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +101,7 @@
         }
     ],
     "wof:id":1393843519,
-    "wof:lastmodified":1562015377,
+    "wof:lastmodified":1563589010,
     "wof:name":"\u017deleznik",
     "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",

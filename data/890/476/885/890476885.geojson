@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jadranska Le\u0161nica"
+    ],
     "name:eng_x_preferred":[
         "Jadranska Le\u0161nica"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Jadranska Le\u0161nica"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0434\u0440\u0430\u043d\u0441\u043a\u0430 \u041b\u0435\u0448\u043d\u0438\u0446\u0430"
     ],
     "name:urd_x_preferred":[
         "\u062c\u062f\u0631\u0627\u0646\u0633\u06a9\u0627\u0644\u06d2 \u0634\u0646\u06a9\u0627"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890476885,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589179,
     "wof:name":"Jadranska Le\u0161nica",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

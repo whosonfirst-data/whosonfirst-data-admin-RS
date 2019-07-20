@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Uzve\u0107e"
     ],
+    "name:srp_x_variant":[
+        "\u0423\u0437\u0432\u0435\u045b\u0435"
+    ],
     "qs:name":"Uzve\u0107e",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890477229,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589220,
     "wof:name":"Uzve\u0107e",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

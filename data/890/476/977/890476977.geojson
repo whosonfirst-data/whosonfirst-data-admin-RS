@@ -18,7 +18,16 @@
     "name:bos_x_preferred":[
         "Titel"
     ],
+    "name:ceb_x_preferred":[
+        "Titel"
+    ],
     "name:ces_x_preferred":[
+        "Titel"
+    ],
+    "name:cym_x_preferred":[
+        "Titel"
+    ],
+    "name:dan_x_preferred":[
         "Titel"
     ],
     "name:deu_x_preferred":[
@@ -32,6 +41,12 @@
     ],
     "name:fra_x_preferred":[
         "Titel"
+    ],
+    "name:glg_x_preferred":[
+        "Titel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d8\u05dc"
     ],
     "name:hrv_x_preferred":[
         "Titel"
@@ -93,6 +108,9 @@
     "name:tur_x_preferred":[
         "Titel"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0442\u0435\u043b"
+    ],
     "name:unk_x_variant":[
         "Tet\u00f6l"
     ],
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":890476977,
-    "wof:lastmodified":1561831305,
+    "wof:lastmodified":1563589144,
     "wof:name":"Titel",
     "wof:parent_id":1108810111,
     "wof:placetype":"locality",

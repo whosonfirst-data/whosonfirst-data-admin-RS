@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Donja Gorevnica"
+    ],
     "name:eng_x_preferred":[
         "Donja Gorevnica"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890476627,
-    "wof:lastmodified":1561831304,
+    "wof:lastmodified":1563589135,
     "wof:name":"Donja Gorevnica",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

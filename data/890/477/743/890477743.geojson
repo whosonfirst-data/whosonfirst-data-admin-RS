@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Stari Banovci"
+    ],
     "name:ces_x_preferred":[
         "Stari Banovci"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "Stari Banovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0411\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
     "qs:name":"Stari Banovci",
     "qs:photos_9r":0,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477743,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589342,
     "wof:name":"Stari Banovci",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

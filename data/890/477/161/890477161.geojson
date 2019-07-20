@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Krupanj"
     ],
+    "name:ceb_x_preferred":[
+        "Krupanj"
+    ],
     "name:ces_x_preferred":[
         "Krupanj"
     ],
@@ -60,6 +63,9 @@
     "name:slv_x_preferred":[
         "Krupanj"
     ],
+    "name:spa_x_preferred":[
+        "Krupanj"
+    ],
     "name:srp_x_preferred":[
         "Krupanj"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0430\u043d\u044c"
+    ],
+    "name:tur_x_preferred":[
+        "Krupanj"
     ],
     "name:zho_x_preferred":[
         "\u514b\u9b6f\u5e15\u5c3c"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890477161,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589211,
     "wof:name":"Krupanj",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

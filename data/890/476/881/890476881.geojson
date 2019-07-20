@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Radojevo"
+    ],
     "name:eng_x_preferred":[
         "Radojevo"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Radojevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0434\u043e\u0458\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Klary"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890476881,
-    "wof:lastmodified":1561831304,
+    "wof:lastmodified":1563589136,
     "wof:name":"Radojevo",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

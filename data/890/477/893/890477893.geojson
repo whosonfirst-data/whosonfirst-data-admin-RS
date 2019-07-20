@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Dobroti\u0107"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0442\u0438\u045b"
+    ],
     "name:unk_x_variant":[
         "Dobro\u0161i\u0107"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477893,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589254,
     "wof:name":"Dobroti\u0107",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

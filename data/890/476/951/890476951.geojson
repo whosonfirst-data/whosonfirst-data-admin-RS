@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Banatsko Veliko Selo"
     ],
+    "name:ceb_x_preferred":[
+        "Banatsko Veliko Selo"
+    ],
     "name:eng_x_preferred":[
         "Banatsko Veliko Selo"
     ],
@@ -47,6 +50,12 @@
     ],
     "name:srp_x_preferred":[
         "Banatsko Veliko Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e \u0412\u0435\u043b\u0438\u043a\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u044c\u043a\u0435 \u0412\u0435\u043b\u0438\u043a\u0435 \u0421\u0435\u043b\u043e"
     ],
     "name:unk_x_variant":[
         "Charleville"
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890476951,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589170,
     "wof:name":"Banatsko Veliko Selo",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

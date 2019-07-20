@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e \u0431\u043b\u0430\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Belo Blato"
+    ],
     "name:deu_x_preferred":[
         "Belo Blato"
     ],
@@ -57,6 +60,9 @@
     "name:srp_x_preferred":[
         "Belo Blato"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u043e \u0411\u043b\u0430\u0442\u043e"
+    ],
     "name:unk_x_variant":[
         "Elisenheim"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890476943,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589201,
     "wof:name":"Belo Blato",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":7016621.627825,
+    "geom:area_square_m":7016621.62782,
     "geom:bbox":"21.3603946183,43.9026978825,21.3920779707,43.9513142722",
     "geom:latitude":43.92783,
     "geom:longitude":21.376472,
@@ -17,8 +17,14 @@
     "mps:longitude":21.374912,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "\u0106uprija"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0443\u043f\u0440\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0106uprija"
     ],
     "name:ces_x_preferred":[
         "\u0106uprija"
@@ -26,11 +32,17 @@
     "name:ckb_x_preferred":[
         "\u0686\u0648\u067e\u0631\u06cc\u0627"
     ],
+    "name:cym_x_preferred":[
+        "\u0106uprija"
+    ],
     "name:deu_x_preferred":[
         "\u0106uprija"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03bf\u03cd\u03c0\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "\u0106uprija"
     ],
     "name:epo_x_preferred":[
         "\u0106uprija"
@@ -47,17 +59,50 @@
     "name:ita_x_preferred":[
         "\u0106uprija"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30d7\u30ea\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\ud504\ub9ac\uc57c"
+    ],
+    "name:msa_x_preferred":[
+        "\u0106uprija"
+    ],
+    "name:nld_x_preferred":[
+        "\u0106uprija"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u067e\u0631\u0626\u06cc\u0627"
     ],
+    "name:pol_x_preferred":[
+        "\u0106uprija"
+    ],
+    "name:por_x_preferred":[
+        "\u0106uprija"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043f\u0440\u0438\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "\u0106uprija"
+    ],
+    "name:spa_x_preferred":[
+        "\u0106uprija"
     ],
     "name:srp_x_preferred":[
         "\u0106uprija"
     ],
     "name:srp_x_variant":[
         "\u040b\u0443\u043f\u0440\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0106uprija"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0443\u043f\u0440\u0438\u044f"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00f6pr\u00fc"
     ],
     "name:zho_x_preferred":[
         "\u4e18\u666e\u91cc\u4e9a"
@@ -110,7 +155,7 @@
         }
     ],
     "wof:id":101910963,
-    "wof:lastmodified":1527715925,
+    "wof:lastmodified":1563589054,
     "wof:name":"\u010cuprija",
     "wof:parent_id":1108809883,
     "wof:placetype":"locality",

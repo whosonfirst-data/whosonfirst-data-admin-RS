@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Glasovik"
     ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u0430\u0441\u043e\u0432\u0438\u043a"
+    ],
     "qs:name":"Glasovik",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890477251,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589254,
     "wof:name":"Glasovik",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

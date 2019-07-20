@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u0160imanovci"
+    ],
     "name:ces_x_preferred":[
         "\u0160imanovci"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0160imanovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0438\u043c\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
     "qs:name":"\u00c5 imanovci",
     "qs:name_adm0":"Serbia",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477729,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589360,
     "wof:name":"\u00c5 imanovci",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

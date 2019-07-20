@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000613,
-    "geom:area_square_m":5257344.032351,
+    "geom:area_square_m":5257344.03235,
     "geom:bbox":"20.0264755778,46.0467566125,20.0700481121,46.0807091712",
     "geom:latitude":46.062415,
     "geom:longitude":20.048796,
@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Kanji\u017ea"
     ],
+    "name:ceb_x_preferred":[
+        "Kanji\u017ea"
+    ],
     "name:ces_x_preferred":[
         "Kanji\u017ea"
     ],
@@ -29,11 +32,20 @@
     "name:deu_x_variant":[
         "Ungarisch-Kanischa"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kanji\u017ea"
+    ],
     "name:epo_x_preferred":[
         "Kanji\u0135a"
     ],
     "name:fra_x_preferred":[
         "Kanji\u017ea"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e0\u05d9\u05d6'\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Kanji\u017ea"
@@ -47,6 +59,12 @@
     "name:ita_x_preferred":[
         "Kanji\u017ea"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cb\u30b8\u30e3"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u045a\u0438\u0436\u0430"
+    ],
     "name:msa_x_preferred":[
         "Kanji\u017ea"
     ],
@@ -59,14 +77,32 @@
     "name:pol_x_preferred":[
         "Kanji\u017ea"
     ],
+    "name:ron_x_preferred":[
+        "Kanji\u017ea"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0438\u0436\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kanji\u017ea"
+    ],
+    "name:slv_x_preferred":[
+        "Kanji\u017ea"
+    ],
+    "name:spa_x_preferred":[
+        "Kanji\u017ea"
     ],
     "name:srp_x_preferred":[
         "Kanji\u017ea"
     ],
     "name:srp_x_variant":[
         "\u041a\u0430\u045a\u0438\u0436\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u0436\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Kanije"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0456\u0436\u0430"
@@ -130,7 +166,7 @@
         }
     ],
     "wof:id":101912447,
-    "wof:lastmodified":1527653264,
+    "wof:lastmodified":1563589017,
     "wof:name":"Kanji\u017ea",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

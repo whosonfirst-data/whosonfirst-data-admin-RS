@@ -15,8 +15,137 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u0648\u063a\u0648\u0641\u0627\u062a\u0634"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09b2\u09cb\u0997\u09cb\u09ad\u09be\u0995"
+    ],
+    "name:ces_x_preferred":[
+        "Glogovac"
+    ],
+    "name:cym_x_preferred":[
+        "Drenas"
+    ],
+    "name:dan_x_preferred":[
+        "Glogovac"
+    ],
+    "name:deu_x_preferred":[
+        "Gllogoc"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bb\u03cc\u03b3\u03ba\u03bf\u03b2\u03b1\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Glogovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0648\u06af\u0648\u0648\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Glogovac"
+    ],
+    "name:fra_x_preferred":[
+        "Glogovac"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0ab2\u0acb\u0a97\u0acb\u0ab5\u0ac7\u0a95"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0932\u094b\u0917\u094b\u0935\u0948\u0915"
+    ],
+    "name:hrv_x_preferred":[
+        "Glogovac"
+    ],
+    "name:ile_x_preferred":[
+        "Gllogoc"
+    ],
+    "name:ind_x_preferred":[
+        "Glogovac"
+    ],
+    "name:ita_x_preferred":[
+        "Glogovac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ec\u30ca\u30b7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccd\u0cb2\u0ccb\u0c97\u0cca\u0cb5\u0cbe\u0c95\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub4dc\ub808\ub098\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Glogovaca"
+    ],
+    "name:lit_x_preferred":[
+        "Glogovacas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u0932\u094b\u0917\u094b\u090f\u0915"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:msa_x_preferred":[
+        "Glogovac"
+    ],
+    "name:nld_x_preferred":[
+        "Gllogovc"
+    ],
+    "name:nob_x_preferred":[
+        "Gllogoc"
+    ],
+    "name:pol_x_preferred":[
+        "Glogovac"
+    ],
+    "name:por_x_preferred":[
+        "Glogovac"
+    ],
+    "name:ron_x_preferred":[
+        "Glogovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dca\u0dbd\u0ddc\u0d9c\u0ddc\u0dc0\u0d9a\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Glogovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Drenasi"
+    ],
     "name:srp_x_preferred":[
         "Glogovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bcb\u0bb5\u0bbe\u0b95\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c32\u0c4a\u0c17\u0c4b\u0c35\u0c3e\u0c15\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e01\u0e23\u0e42\u0e01\u0e41\u0e27\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Glogova\u00e7"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0648\u062c\u0648\u0648\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Glogovac"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6d1b\u6208\u74e6\u8328"
     ],
     "qs:name":"Glogovac",
     "qs:photos_9r":0,
@@ -53,7 +182,7 @@
         }
     ],
     "wof:id":890477119,
-    "wof:lastmodified":1527727182,
+    "wof:lastmodified":1563589279,
     "wof:name":"Glogovac",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Glu\u0161ci"
+    ],
     "name:eng_x_preferred":[
         "Glu\u0161ci"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Glu\u0161ci"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u0443\u0448\u0446\u0438"
     ],
     "name:unk_x_variant":[
         "Glu\u0161ii"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477053,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589244,
     "wof:name":"Glu\u0161ci",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

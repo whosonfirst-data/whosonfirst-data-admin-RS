@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pocerski Pri\u010dinovi\u0107"
+    ],
     "name:eng_x_preferred":[
         "Pocerski Pri\u010dinovi\u0107"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "Pocerski Pri\u010dinovi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0446\u0435\u0440\u0441\u043a\u0438 \u041f\u0440\u0438\u0447\u0438\u043d\u043e\u0432\u0438\u045b"
     ],
     "qs:name":"Pocerski Pricinovic",
     "qs:name_adm0":"Serbia",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890477697,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589324,
     "wof:name":"Pocerski Pricinovic",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Veliko Sredi\u0161te"
+    ],
     "name:eng_x_preferred":[
         "Veliko Sredi\u0161te"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "Veliko Sredi\u0161te"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0421\u0440\u0435\u0434\u0438\u0448\u0442\u0435"
     ],
     "name:unk_x_variant":[
         "Gross Sredischte"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890477417,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589303,
     "wof:name":"Veliko Sredi\u00b5te",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

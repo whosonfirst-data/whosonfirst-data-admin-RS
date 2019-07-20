@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000925,
-    "geom:area_square_m":8244419.907798,
+    "geom:area_square_m":8244419.9078,
     "geom:bbox":"19.8118484696,43.8379836611,19.868100558,43.8736902131",
     "geom:latitude":43.857238,
     "geom:longitude":19.844372,
@@ -28,6 +28,12 @@
     ],
     "name:bul_x_preferred":[
         "\u0423\u0436\u0438\u0446\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:ceb_x_preferred":[
+        "U\u017eice"
     ],
     "name:ces_x_preferred":[
         "U\u017eice"
@@ -59,16 +65,40 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0698\u06cc\u062a\u0633\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0698\u06cc\u0633\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "U\u017eice"
+    ],
     "name:fra_x_preferred":[
         "U\u017eice"
     ],
     "name:hbs_x_preferred":[
         "U\u017eice"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d6'\u05d9\u05e6\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "U\u017eice"
     ],
+    "name:hsb_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:hun_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u056a\u056b\u0581\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "U\u017eice"
+    ],
     "name:ita_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:jav_x_preferred":[
         "U\u017eice"
     ],
     "name:jpn_x_preferred":[
@@ -83,17 +113,47 @@
     "name:mkd_x_preferred":[
         "\u0423\u0436\u0438\u0446\u0435"
     ],
+    "name:msa_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:nah_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:nld_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:nno_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:nob_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:oci_x_preferred":[
+        "U\u017eice"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0698\u06cc\u0686\u06d2"
     ],
     "name:pol_x_preferred":[
         "U\u017eice"
     ],
+    "name:por_x_preferred":[
+        "U\u017eice"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0436\u0438\u0446\u0435"
     ],
+    "name:sco_x_preferred":[
+        "U\u017eice"
+    ],
     "name:slv_x_preferred":[
         "U\u017eice"
+    ],
+    "name:spa_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:sqi_x_preferred":[
+        "Uzhice"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0436\u0438\u0446\u0435"
@@ -101,11 +161,20 @@
     "name:swe_x_preferred":[
         "U\u017eice"
     ],
+    "name:szl_x_preferred":[
+        "U\u017eice"
+    ],
     "name:tat_x_preferred":[
         "\u0423\u0436\u0438\u0446\u0435"
     ],
+    "name:tat_x_variant":[
+        "\u0423\u0436\u0438\u0442\u0441\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e39\u0e0b\u0e35\u0e15\u0e40\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "U\u017eice"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0436\u0438\u0446\u0435"
@@ -115,6 +184,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0698\u06cc\u062a\u0633\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "U\u017eice"
+    ],
+    "name:war_x_preferred":[
+        "U\u017eice"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u65e5\u7b56"
@@ -163,7 +238,7 @@
         }
     ],
     "wof:id":101912613,
-    "wof:lastmodified":1505338655,
+    "wof:lastmodified":1563589026,
     "wof:name":"Titovo U\u017eice",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

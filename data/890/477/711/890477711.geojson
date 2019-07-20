@@ -34,8 +34,14 @@
     "name:slv_x_preferred":[
         "Ivanje"
     ],
+    "name:sqi_x_preferred":[
+        "Ivaja"
+    ],
     "name:srp_x_preferred":[
         "Ivanje"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0432\u0430\u045a\u0435"
     ],
     "qs:name":"Vranje",
     "qs:name_adm0":"Serbia",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890477711,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589358,
     "wof:name":"Vranje",
     "wof:parent_id":1108809853,
     "wof:placetype":"locality",

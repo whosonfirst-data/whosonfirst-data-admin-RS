@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Dvori\u0161te"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u0432\u043e\u0440\u0438\u0448\u0442\u0435"
+    ],
     "qs:name":"Dvori\u0161te",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890476765,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589124,
     "wof:name":"Dvori\u0161te",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

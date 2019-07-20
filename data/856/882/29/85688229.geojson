@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0645\u0627\u0644 \u0628\u0627\u0643\u0634\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0634\u0645\u0627\u0644 \u0628\u0627\u0643\u0634\u062a\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430-\u0411\u0430\u0446\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:est_x_preferred":[
         "P\u00f5hja-Ba\u010dka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u0686\u06a9\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Pohjois-Ba\u010dka"
@@ -105,6 +111,9 @@
     "name:kor_x_preferred":[
         "\ubd81\ubc14\uce58\uce74 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubd81\ubc14\uce58\uce74\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Zieme\u013cba\u010dkas apgabals"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0925 \u092c\u093e\u0915\u094d\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mon_x_preferred":[
+        "\u0423\u043c\u0430\u0440 \u0411\u0430\u0447\u043a\u0430 \u0430\u0439\u043c\u0430\u0433"
     ],
     "name:msa_x_preferred":[
         "North Backa District"
@@ -152,6 +164,9 @@
     ],
     "name:srp_x_preferred":[
         "Severnoba\u010dki Okrug"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:swe_x_preferred":[
         "Norra Ba\u010dka"
@@ -312,7 +327,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1561831276,
+    "wof:lastmodified":1563588216,
     "wof:name":"Severnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

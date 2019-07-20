@@ -17,6 +17,9 @@
     "mps:longitude":20.238494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ljig"
+    ],
     "name:ces_x_preferred":[
         "Ljig"
     ],
@@ -62,6 +65,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u0433"
     ],
+    "name:spa_x_preferred":[
+        "Ljig"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0409\u0438\u0433"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041b\u0438\u0433"
+    ],
+    "name:tur_x_preferred":[
+        "Ljig"
     ],
     "name:zho_x_preferred":[
         "\u5229\u683c"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":101911607,
-    "wof:lastmodified":1561831300,
+    "wof:lastmodified":1563589049,
     "wof:name":"Ljig",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

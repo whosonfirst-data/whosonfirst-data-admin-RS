@@ -36,8 +36,14 @@
     "name:slv_x_preferred":[
         "Grabovnica"
     ],
+    "name:sqi_x_preferred":[
+        "Grabanica"
+    ],
     "name:srp_x_preferred":[
         "Grabovnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u043d\u0438\u0446\u0430"
     ],
     "qs:name":"Grabovnica",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890476735,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589168,
     "wof:name":"Grabovnica",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

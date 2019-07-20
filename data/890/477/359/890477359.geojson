@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Kisa\u010d"
     ],
+    "name:ceb_x_preferred":[
+        "Kisa\u010d"
+    ],
     "name:ces_x_preferred":[
         "Kys\u00e1\u010d"
     ],
@@ -53,6 +56,12 @@
     ],
     "name:srp_x_preferred":[
         "Kisa\u010d"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0438\u0441\u0430\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0441\u0430\u0447"
     ],
     "name:unk_x_variant":[
         "Kysa\u010d"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890477359,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589282,
     "wof:name":"Kisa\u010d",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Banatski Karlovac"
+    ],
     "name:eng_x_preferred":[
         "Banatski Karlovac"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:srp_x_preferred":[
         "Banatski Karlovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446"
     ],
     "name:unk_x_variant":[
         "Nagyk\u00e1rolyfalva"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890476957,
-    "wof:lastmodified":1561831305,
+    "wof:lastmodified":1563589160,
     "wof:name":"Banatski Karlovac",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

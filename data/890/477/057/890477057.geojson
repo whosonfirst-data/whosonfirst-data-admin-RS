@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Glo\u017ean"
+    ],
     "name:ces_x_preferred":[
         "Glo\u017ean"
     ],
@@ -50,6 +53,12 @@
     ],
     "name:srp_x_preferred":[
         "Glo\u017ean"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u043e\u0436\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u043e\u0436\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Hlo\u017eany"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890477057,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589328,
     "wof:name":"Glo\u017ean",
     "wof:parent_id":1108809831,
     "wof:placetype":"locality",

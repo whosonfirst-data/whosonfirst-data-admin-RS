@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Neuzina"
+    ],
     "name:eng_x_preferred":[
         "Neuzina"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:srp_x_preferred":[
         "Neuzina"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u0443\u0437\u0438\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Hrvatska Neuzina"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890476931,
-    "wof:lastmodified":1561831302,
+    "wof:lastmodified":1563589118,
     "wof:name":"Neuzina",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

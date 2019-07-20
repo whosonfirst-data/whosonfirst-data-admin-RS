@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Obrtince"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u0431\u0440\u0442\u0438\u043d\u0446\u0435"
+    ],
     "name:unk_x_variant":[
         "Obrtinci"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477457,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589331,
     "wof:name":"Obrtince",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Du\u0161anovac"
+    ],
     "name:deu_x_preferred":[
         "Du\u0161anovac"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Du\u0161anovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0448\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
     "qs:name":"Du\u0161anovac",
     "qs:photos_9r":0,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890476709,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589125,
     "wof:name":"Du\u0161anovac",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

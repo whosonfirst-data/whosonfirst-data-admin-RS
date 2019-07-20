@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u010cortanovci"
+    ],
     "name:ces_x_preferred":[
         "\u010cortanovci"
     ],
@@ -51,6 +54,9 @@
     "name:srp_x_preferred":[
         "\u010cortanovci"
     ],
+    "name:srp_x_variant":[
+        "\u0427\u043e\u0440\u0442\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
     "qs:name":"\u010cortanovci",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890476555,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589163,
     "wof:name":"\u010cortanovci",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

@@ -18,6 +18,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0643\u060c \u0628\u064a\u0648\u063a\u0631\u0627\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c1\u03b9\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Bari\u010d"
     ],
@@ -44,6 +53,12 @@
     ],
     "name:srp_x_preferred":[
         "Bari\u010d"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0440\u0438\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Grabovnica"
     ],
     "qs:name":"Bari\u010d",
     "qs:photos_9r":0,
@@ -80,7 +95,7 @@
         }
     ],
     "wof:id":890476531,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589168,
     "wof:name":"Bari\u010d",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

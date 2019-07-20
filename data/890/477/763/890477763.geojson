@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u043e\u0449\u0430\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Velika Mo\u0161tanica"
+    ],
     "name:eng_x_preferred":[
         "Velika Mo\u0161tanica"
     ],
@@ -35,6 +38,12 @@
     ],
     "name:srp_x_preferred":[
         "Velika Mo\u0161tanica"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u043e\u0448\u0442\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160titar"
     ],
     "name:unk_x_variant":[
         "Mo\u0161tanica"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":890477763,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589204,
     "wof:name":"Velika Mo\u0161tanica",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",

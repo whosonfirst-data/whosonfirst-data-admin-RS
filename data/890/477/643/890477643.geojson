@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nikinci"
+    ],
     "name:eng_x_preferred":[
         "Nikinci"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "Nikinci"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0438\u043a\u0438\u043d\u0446\u0438"
     ],
     "qs:name":"Nikinci",
     "qs:name_adm0":"Serbia",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890477643,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589225,
     "wof:name":"Nikinci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

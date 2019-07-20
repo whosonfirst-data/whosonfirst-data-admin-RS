@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Uzdin"
+    ],
     "name:eng_x_preferred":[
         "Uzdin"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Uzdin"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u0437\u0434\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Usdin"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477151,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589220,
     "wof:name":"Uzdin",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

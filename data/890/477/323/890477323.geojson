@@ -24,6 +24,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0430 \u0446\u044a\u0440\u043a\u0432\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Bela Crkva"
+    ],
+    "name:ceb_x_preferred":[
+        "Bela Crkva"
+    ],
     "name:ces_x_preferred":[
         "Bela Crkva"
     ],
@@ -87,6 +93,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u043b\u0430-\u0421\u0440\u043a\u0432\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Aktabya"
+    ],
     "name:unk_x_variant":[
         "Fej\u00e9regyh\u00e1z"
     ],
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":890477323,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589267,
     "wof:name":"Bela Crkva",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

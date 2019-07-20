@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Petkovica"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u0435\u0442\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
     "qs:name":"Petkovica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890477035,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589325,
     "wof:name":"Petkovica",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

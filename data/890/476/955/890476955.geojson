@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Banatsko Kara\u0111or\u0111evo"
+    ],
     "name:eng_x_preferred":[
         "Banatsko Kara\u0111or\u0111evo"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "Banatsko Kara\u0111or\u0111evo"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e \u041a\u0430\u0440\u0430\u0452\u043e\u0440\u0452\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Neu-Zerne"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890476955,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589128,
     "wof:name":"Banatsko Kara\u0111or\u0111evo",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

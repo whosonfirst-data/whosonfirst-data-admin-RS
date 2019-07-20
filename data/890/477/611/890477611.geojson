@@ -63,6 +63,9 @@
     "name:slv_x_preferred":[
         "Mali Zvornik"
     ],
+    "name:spa_x_preferred":[
+        "Mali Zvornik"
+    ],
     "name:srp_x_preferred":[
         "Mali Zvornik"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u0438-\u0417\u0432\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Mali \u0130zvornik"
     ],
     "name:zho_x_preferred":[
         "\u5c0f\u8332\u6c83\u723e\u5c3c\u514b"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890477611,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589237,
     "wof:name":"Mali Zvornik",
     "wof:parent_id":1108809971,
     "wof:placetype":"locality",

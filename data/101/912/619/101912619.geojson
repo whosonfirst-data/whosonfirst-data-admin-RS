@@ -17,6 +17,9 @@
     "mps:longitude":21.182159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pojareva\u00e7"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u0436\u0430\u0440\u0430\u0432\u0430\u0446"
     ],
@@ -30,6 +33,9 @@
         "\u041f\u043e\u0436\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
     "name:cat_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:ceb_x_preferred":[
         "Po\u017earevac"
     ],
     "name:ces_x_preferred":[
@@ -62,7 +68,13 @@
     "name:fas_x_preferred":[
         "\u067e\u0648\u0698\u0627\u0631\u0641\u0627\u0633"
     ],
+    "name:fin_x_preferred":[
+        "Po\u017earevac"
+    ],
     "name:fra_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:glg_x_preferred":[
         "Po\u017earevac"
     ],
     "name:hbs_x_preferred":[
@@ -71,11 +83,17 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d6\u05d0\u05e8\u05d5\u05d5\u05d0\u05e5"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05d6'\u05d0\u05e8\u05d5\u05d5\u05d0\u05e5"
+    ],
     "name:hrv_x_preferred":[
         "Po\u017earevac"
     ],
     "name:hun_x_preferred":[
         "Pozsarev\u00e1c"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056a\u0561\u0580\u0587\u0561\u0581"
     ],
     "name:ind_x_preferred":[
         "Po\u017earevac"
@@ -95,10 +113,16 @@
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
+    "name:msa_x_preferred":[
+        "Po\u017earevac"
+    ],
     "name:nld_x_preferred":[
         "Po\u017earevac"
     ],
     "name:nno_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:nob_x_preferred":[
         "Po\u017earevac"
     ],
     "name:pnb_x_preferred":[
@@ -107,8 +131,23 @@
     "name:pol_x_preferred":[
         "Po\u017carewac"
     ],
+    "name:por_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:ron_x_preferred":[
+        "Po\u017earevac"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0435\u0432\u0430\u0446"
+    ],
+    "name:sco_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:slk_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:slv_x_preferred":[
+        "Po\u017earevac"
     ],
     "name:spa_x_preferred":[
         "Po\u017earevac"
@@ -125,6 +164,9 @@
     "name:tat_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
+    "name:tat_x_variant":[
+        "\u041f\u043e\u0436\u0430\u0440\u0435\u0432\u0430\u0442\u0441"
+    ],
     "name:tur_x_preferred":[
         "Pasarof\u00e7a"
     ],
@@ -136,6 +178,12 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0698\u0627\u0631\u06cc\u0648\u0627\u062a\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Po\u017earevac"
+    ],
+    "name:war_x_preferred":[
+        "Po\u017earevac"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u624e\u96f7\u74e6\u8328"
@@ -188,7 +236,7 @@
         }
     ],
     "wof:id":101912619,
-    "wof:lastmodified":1535390449,
+    "wof:lastmodified":1563589018,
     "wof:name":"Po\u017earevac",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

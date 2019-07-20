@@ -21,6 +21,9 @@
     "name:bos_x_preferred":[
         "\u017dabalj"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dabalj"
+    ],
     "name:ces_x_preferred":[
         "\u017dabalj"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:fra_x_preferred":[
         "\u017dabalj"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d0\u05d1\u05d0\u05dc\u05d9"
     ],
     "name:hrv_x_preferred":[
         "\u017dabalj"
@@ -72,6 +78,9 @@
     "name:slv_x_preferred":[
         "\u017dabalj"
     ],
+    "name:spa_x_preferred":[
+        "\u017dabalj"
+    ],
     "name:srp_x_preferred":[
         "\u017dabalj"
     ],
@@ -79,6 +88,12 @@
         "\u0416\u0430\u0431\u0430\u0459"
     ],
     "name:tat_x_preferred":[
+        "\u0416\u0430\u0431\u0430\u043b\u044c"
+    ],
+    "name:tur_x_preferred":[
+        "\u017dabalj"
+    ],
+    "name:ukr_x_preferred":[
         "\u0416\u0430\u0431\u0430\u043b\u044c"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":890477715,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589271,
     "wof:name":"\u017dabalj",
     "wof:parent_id":1108810155,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003308,
-    "geom:area_square_m":29099609.737735,
+    "geom:area_square_m":29099609.737747,
     "geom:bbox":"20.848704687,44.588344427,21.0003522018,44.698643605",
     "geom:latitude":44.643359,
     "geom:longitude":20.937043,
@@ -17,11 +17,17 @@
     "mps:longitude":20.929862,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u064a\u062f\u064a\u0631\u064a\u0641\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043c\u0435\u0434\u0430\u0440\u0430\u0432\u0430"
     ],
     "name:bel_x_variant":[
         "\u0421\u043c\u044d\u0434\u044d\u0440\u044d\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09ae\u09c7\u09a6\u09c7\u09b0\u09c7\u09ad\u09cb"
     ],
     "name:bos_x_preferred":[
         "Smederevo"
@@ -30,6 +36,9 @@
         "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u043e"
     ],
     "name:cat_x_preferred":[
+        "Smederevo"
+    ],
+    "name:ceb_x_preferred":[
         "Smederevo"
     ],
     "name:ces_x_preferred":[
@@ -56,8 +65,14 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u0645\u062f\u0631\u0641\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Smederevo"
+    ],
     "name:fra_x_preferred":[
         "Smederevo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0aae\u0ac7\u0aa1\u0ac7\u0ab0\u0ac7\u0ab5\u0acb"
     ],
     "name:hbs_x_preferred":[
         "Smederevo"
@@ -65,11 +80,17 @@
     "name:heb_x_preferred":[
         "\u05e1\u05de\u05d3\u05e8\u05d1\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u092e\u0947\u0926\u0947\u0930\u0947\u0935\u094b"
+    ],
     "name:hrv_x_preferred":[
         "Smederevo"
     ],
     "name:hun_x_preferred":[
         "Szendr\u0151"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0574\u0565\u0564\u0565\u0580\u0565\u057e\u0578"
     ],
     "name:ind_x_preferred":[
         "Smederevo"
@@ -83,6 +104,9 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30e1\u30c7\u30ec\u30f4\u30a9"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0cae\u0cc6\u0ca1\u0cc6\u0cb0\u0cc6\u0cb5\u0cca"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10db\u10d4\u10d3\u10d4\u10e0\u10d4\u10d5\u10dd"
     ],
@@ -92,8 +116,14 @@
     "name:lat_x_preferred":[
         "Semendria"
     ],
+    "name:lav_x_preferred":[
+        "Smedereva"
+    ],
     "name:lit_x_preferred":[
         "Smederevas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u092e\u0947\u0926\u0947\u0930\u0947\u0935\u094b"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u043e"
@@ -105,6 +135,9 @@
         "Smederevo"
     ],
     "name:nno_x_preferred":[
+        "Smederevo"
+    ],
+    "name:nob_x_preferred":[
         "Smederevo"
     ],
     "name:nor_x_preferred":[
@@ -131,6 +164,9 @@
     "name:sco_x_preferred":[
         "Smederevo"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0db8\u0dd9\u0daf\u0dd9\u0dbb\u0dd9\u0dc0\u0ddd"
+    ],
     "name:slk_x_preferred":[
         "Smederevo"
     ],
@@ -143,6 +179,9 @@
     "name:spa_x_preferred":[
         "Smederevo"
     ],
+    "name:sqi_x_preferred":[
+        "Smedereva"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u043e"
     ],
@@ -152,8 +191,17 @@
     "name:swe_x_preferred":[
         "Smederevo"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0bae\u0bc6\u0b9f\u0bc6\u0bb0\u0bcd\u0bb5\u0bcb"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u043e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c2e\u0c46\u0c21\u0c46\u0c30\u0c46\u0c35\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e21\u0e35\u0e40\u0e14\u0e2d\u0e40\u0e23\u0e42\u0e27"
     ],
     "name:tur_x_preferred":[
         "Semendire"
@@ -168,6 +216,9 @@
         "\u0633\u0645\u06cc\u062f\u06cc\u0631\u06cc\u0648\u0648"
     ],
     "name:vie_x_preferred":[
+        "Smederevo"
+    ],
+    "name:war_x_preferred":[
         "Smederevo"
     ],
     "name:zho_x_preferred":[
@@ -218,7 +269,7 @@
         }
     ],
     "wof:id":101912529,
-    "wof:lastmodified":1527653268,
+    "wof:lastmodified":1563589022,
     "wof:name":"Smederevo",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

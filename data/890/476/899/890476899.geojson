@@ -18,11 +18,17 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0438\u043d\u0446\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Rajince"
+    ],
     "name:deu_x_preferred":[
         "Rajinca"
     ],
     "name:eng_x_preferred":[
         "Rajnice"
+    ],
+    "name:eng_x_variant":[
+        "Rajince"
     ],
     "name:fra_x_preferred":[
         "Rajince"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890476899,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589188,
     "wof:name":"Rajince",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

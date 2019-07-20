@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tiszahegyes"
+    ],
     "name:eng_x_preferred":[
         "I\u0111o\u0161"
     ],
@@ -50,6 +53,12 @@
     ],
     "name:srp_x_preferred":[
         "I\u0111o\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0452\u043e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0434\u0436\u043e\u0448"
     ],
     "name:unk_x_variant":[
         "Hegyes"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890476953,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589120,
     "wof:name":"Tiszahegyes",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

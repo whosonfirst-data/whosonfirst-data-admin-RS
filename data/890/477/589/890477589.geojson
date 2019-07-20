@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "So\u010dica"
+    ],
     "name:eng_x_preferred":[
         "So\u010dica"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "So\u010dica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043e\u0447\u0438\u0446\u0430"
     ],
     "name:unk_x_variant":[
         "Temessz\u0151l\u0151s"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890477589,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589279,
     "wof:name":"So\u010dica",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

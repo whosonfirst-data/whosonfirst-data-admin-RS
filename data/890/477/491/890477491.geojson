@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Grgurevci"
+    ],
     "name:eng_x_preferred":[
         "Grgurevci"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "Grgurevci"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0433\u0443\u0440\u0435\u0432\u0446\u0438"
     ],
     "qs:name":"Grgurevci",
     "qs:name_adm0":"Serbia",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890477491,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589259,
     "wof:name":"Grgurevci",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

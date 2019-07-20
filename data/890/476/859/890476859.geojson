@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bregovina"
+    ],
     "name:eng_x_preferred":[
         "Bregovina"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Bregovina"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
     ],
     "qs:name":"Bregovina",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890476859,
-    "wof:lastmodified":1561831304,
+    "wof:lastmodified":1563589138,
     "wof:name":"Bregovina",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

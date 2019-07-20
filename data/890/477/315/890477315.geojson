@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kni\u0107anin"
+    ],
     "name:deu_x_preferred":[
         "Kni\u0107anin"
     ],
@@ -54,6 +57,9 @@
     "name:srp_x_preferred":[
         "Kni\u0107anin"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u043d\u0438\u045b\u0430\u043d\u0438\u043d"
+    ],
     "qs:name":"Kni\u0107anin",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890477315,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589269,
     "wof:name":"Kni\u0107anin",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

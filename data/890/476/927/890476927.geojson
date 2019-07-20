@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Nova Crnja"
     ],
+    "name:ceb_x_preferred":[
+        "Nova Crnja"
+    ],
     "name:deu_x_preferred":[
         "Nova Crnja"
     ],
@@ -72,6 +75,12 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0430-\u0421\u0440\u043d\u04d9"
     ],
+    "name:tur_x_preferred":[
+        "Nova Crnja"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8328\u723e\u5c3c\u4e9e"
+    ],
     "qs:name":"Nova Crnja",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890476927,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589192,
     "wof:name":"Nova Crnja",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

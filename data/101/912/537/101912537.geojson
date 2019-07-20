@@ -48,6 +48,9 @@
     "name:eng_x_preferred":[
         "Zrenjanin"
     ],
+    "name:eng_x_variant":[
+        "Zrenjanin City"
+    ],
     "name:epo_x_preferred":[
         "Zrenjanin"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:hun_x_preferred":[
         "Nagybecskerek"
+    ],
+    "name:hun_x_variant":[
+        "Nagybecskerek k\u00f6zs\u00e9g"
     ],
     "name:ile_x_preferred":[
         "Zrenjanin"
@@ -323,7 +329,7 @@
         }
     ],
     "wof:id":101912537,
-    "wof:lastmodified":1561831299,
+    "wof:lastmodified":1563589023,
     "wof:name":"Zrenjanin",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

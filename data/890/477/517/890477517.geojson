@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ba\u010dki Mono\u0161tor"
+    ],
     "name:eng_x_preferred":[
         "Ba\u010dki Mono\u0161tor"
     ],
@@ -48,6 +51,12 @@
     ],
     "name:srp_x_preferred":[
         "Ba\u010dki Mono\u0161tor"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0447\u043a\u0438 \u041c\u043e\u043d\u043e\u0448\u0442\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0446\u044c\u043a\u0438\u0439 \u041c\u043e\u043d\u043e\u0448\u0442\u043e\u0440"
     ],
     "name:unk_x_variant":[
         "Monostorszeg"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":890477517,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589262,
     "wof:name":"Ba\u010dki Mono\u0161tor",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

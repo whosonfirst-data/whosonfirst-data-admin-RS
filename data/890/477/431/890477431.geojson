@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hetin"
+    ],
     "name:deu_x_preferred":[
         "Hetin"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:srp_x_preferred":[
         "Hetin"
+    ],
+    "name:srp_x_variant":[
+        "\u0425\u0435\u0442\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Tam\u00e1sfalva"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890477431,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589252,
     "wof:name":"Hetin",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

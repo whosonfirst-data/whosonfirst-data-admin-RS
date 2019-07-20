@@ -45,6 +45,9 @@
     "name:ces_x_preferred":[
         "Vojvodina"
     ],
+    "name:cym_x_preferred":[
+        "Vojvodina"
+    ],
     "name:dan_x_preferred":[
         "Vojvodina"
     ],
@@ -213,6 +216,9 @@
     "name:swe_x_preferred":[
         "Vojvodina"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bca\u0baf\u0bcd\u0bb5\u0bca\u0ba4\u0bc0\u0ba9\u0bbe"
+    ],
     "name:tgl_x_preferred":[
         "Vojvodina"
     ],
@@ -231,7 +237,13 @@
     "name:urd_x_preferred":[
         "\u0648\u0626\u0648\u0648\u062f\u06cc\u0646\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Voyevodina"
+    ],
     "name:vie_x_preferred":[
+        "Vojvodina"
+    ],
+    "name:war_x_preferred":[
         "Vojvodina"
     ],
     "name:yor_x_preferred":[
@@ -280,7 +292,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589364,
     "wof:name":"Vojvodina",
     "wof:parent_id":85633755,
     "wof:placetype":"macroregion",

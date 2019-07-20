@@ -42,6 +42,12 @@
     "name:srp_x_preferred":[
         "Gardinovci"
     ],
+    "name:srp_x_variant":[
+        "\u0413\u0430\u0440\u0434\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0438\u043d\u0456\u0432\u0446\u0456"
+    ],
     "name:unk_x_variant":[
         "Gardinovaz"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890477769,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589289,
     "wof:name":"Gardinovci",
     "wof:parent_id":1108810111,
     "wof:placetype":"locality",

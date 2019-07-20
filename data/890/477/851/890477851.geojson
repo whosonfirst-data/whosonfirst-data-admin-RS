@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Milutovac"
+    ],
     "name:eng_x_preferred":[
         "Milutovac"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Milutovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043b\u0443\u0442\u043e\u0432\u0430\u0446"
     ],
     "qs:name":"Milutovac",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477851,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589250,
     "wof:name":"Milutovac",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

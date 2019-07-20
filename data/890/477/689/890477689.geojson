@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dobrica"
+    ],
     "name:eng_x_preferred":[
         "Dobrica"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:srp_x_preferred":[
         "Dobrica"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u0438\u0446\u0430"
     ],
     "name:unk_x_variant":[
         "Kevedobra"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890477689,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589231,
     "wof:name":"Dobrica",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

@@ -67,6 +67,9 @@
     "name:tat_x_preferred":[
         "\u041a\u0443\u0447\u0435\u0432\u043e"
     ],
+    "name:tur_x_preferred":[
+        "Ku\u010devo"
+    ],
     "name:zho_x_preferred":[
         "\u5eab\u5207\u6c83"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890477545,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589278,
     "wof:name":"Ku\u010devo",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

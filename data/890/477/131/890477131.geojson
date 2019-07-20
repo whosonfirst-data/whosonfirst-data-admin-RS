@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kozjak"
+    ],
     "name:eng_x_preferred":[
         "Novi Kozjak"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Kozjak"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u0438 \u041a\u043e\u0437\u0458\u0430\u043a"
     ],
     "name:unk_x_variant":[
         "Novi Kozjak"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890477131,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589287,
     "wof:name":"Kozjak",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

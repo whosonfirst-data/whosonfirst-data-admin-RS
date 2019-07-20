@@ -42,6 +42,9 @@
     "name:srp_x_preferred":[
         "De\u0161i\u0161ka"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u0435\u0448\u0438\u0448\u043a\u0430"
+    ],
     "qs:name":"De\u0161i\u0161ka",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477897,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589341,
     "wof:name":"De\u0161i\u0161ka",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Stepojevac"
+    ],
     "name:eng_x_preferred":[
         "Stepojevac"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "Stepojevac"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0435\u043f\u043e\u0458\u0435\u0432\u0430\u0446"
     ],
     "name:unk_x_variant":[
         "Stepajevac"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890477455,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589249,
     "wof:name":"Stepojevac",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

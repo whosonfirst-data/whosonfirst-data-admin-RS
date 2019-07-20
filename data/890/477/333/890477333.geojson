@@ -15,8 +15,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tabanovi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Tabanovi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Tabanovi\u0107"
+    ],
     "name:srp_x_preferred":[
         "Tabanovi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0430\u0431\u0430\u043d\u043e\u0432\u0438\u045b"
     ],
     "qs:name":"Tabanovi\u0107",
     "qs:photos_9r":0,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":890477333,
-    "wof:lastmodified":1527727183,
+    "wof:lastmodified":1563589295,
     "wof:name":"Tabanovi\u0107",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

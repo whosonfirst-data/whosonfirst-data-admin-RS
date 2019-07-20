@@ -19,6 +19,12 @@
     "name:cat_x_preferred":[
         "Selen\u010da"
     ],
+    "name:ceb_x_preferred":[
+        "Selen\u010da"
+    ],
+    "name:cym_x_preferred":[
+        "Selen\u010da"
+    ],
     "name:deu_x_preferred":[
         "Selen\u010da"
     ],
@@ -60,6 +66,12 @@
     ],
     "name:srp_x_preferred":[
         "Selen\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u043b\u0435\u043d\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0435\u043d\u0447\u0430"
     ],
     "name:unk_x_variant":[
         "B\u00e1cs\u00fajfalu"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":890477513,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589348,
     "wof:name":"Selen\u010da",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

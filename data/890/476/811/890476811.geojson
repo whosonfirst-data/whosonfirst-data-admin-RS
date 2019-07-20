@@ -42,6 +42,9 @@
     "name:srp_x_preferred":[
         "Gornje To\u010dane"
     ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0422\u043e\u0447\u0430\u043d\u0435"
+    ],
     "qs:name":"Gornje To\u010dane",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890476811,
-    "wof:lastmodified":1561831304,
+    "wof:lastmodified":1563589130,
     "wof:name":"Gornje To\u010dane",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

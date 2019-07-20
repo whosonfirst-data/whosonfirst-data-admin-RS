@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Supnje"
+    ],
     "name:eng_x_preferred":[
         "Supnje"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Supnje"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0443\u043f\u045a\u0435"
     ],
     "qs:name":"Supnje",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890476831,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589183,
     "wof:name":"Supnje",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

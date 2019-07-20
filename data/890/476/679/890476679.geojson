@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Trbosilje"
+    ],
     "name:eng_x_preferred":[
         "Trbosilje"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Trbosilje"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0431\u043e\u0441\u0438\u0459\u0435"
     ],
     "qs:name":"Trbosilje",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890476679,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589180,
     "wof:name":"Trbosilje",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

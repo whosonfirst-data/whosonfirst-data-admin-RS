@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u0160urjan"
+    ],
     "name:deu_x_preferred":[
         "\u0160urjan"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0160urjan"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0443\u0440\u0458\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Surj\u00e1n"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890476829,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589130,
     "wof:name":"\u0160urjan",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

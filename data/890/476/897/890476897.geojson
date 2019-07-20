@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ravni Topolovac"
+    ],
     "name:deu_x_preferred":[
         "Ravni Topolovac"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Ravni Topolovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0432\u043d\u0438 \u0422\u043e\u043f\u043e\u043b\u043e\u0432\u0430\u0446"
     ],
     "name:unk_x_variant":[
         "Katalinfalva"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890476897,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589189,
     "wof:name":"Ravni Topolovac",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sonta"
+    ],
     "name:deu_x_preferred":[
         "Sonta"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:srp_x_preferred":[
         "Sonta"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043e\u043d\u0442\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0442\u0430"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":890477641,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589316,
     "wof:name":"Sonta",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

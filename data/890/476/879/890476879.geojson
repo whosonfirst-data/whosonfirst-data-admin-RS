@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Toma\u0161evac"
+    ],
     "name:deu_x_preferred":[
         "Toma\u0161evac"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Toma\u0161evac"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u043c\u0430\u0448\u0435\u0432\u0430\u0446"
     ],
     "name:unk_x_variant":[
         "Tomaschewatz"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890476879,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589174,
     "wof:name":"Toma\u0161evac",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

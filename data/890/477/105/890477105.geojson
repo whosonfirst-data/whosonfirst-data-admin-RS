@@ -15,8 +15,224 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:arg_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ast_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:bar_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u044f\u043b\u043e"
+    ],
+    "name:bos_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:bre_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ces_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:cos_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:cym_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:dan_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:deu_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:epo_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:est_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:eus_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:fin_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Staro selo"
+    ],
+    "name:frp_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:fur_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:gla_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:gle_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:glg_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:gsw_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ido_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ile_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ina_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ind_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:isl_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:kon_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:lij_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:lim_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ltz_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:min_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:mlg_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:msa_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:nap_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:nds_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:nld_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:nno_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:nob_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:nrm_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:oci_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:pcd_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:pms_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:por_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:roh_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ron_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:sco_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:slk_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:srd_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:swe_x_preferred":[
+        "Staro Selo"
+    ],
     "name:unk_x_variant":[
         "Gornji Turija"
+    ],
+    "name:vec_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:vie_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:vls_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:vol_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:wln_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:wol_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:zul_x_preferred":[
+        "Staro Selo"
     ],
     "qs:name":"Staro Selo",
     "qs:photos_9r":0,
@@ -53,7 +269,7 @@
         }
     ],
     "wof:id":890477105,
-    "wof:lastmodified":1527727177,
+    "wof:lastmodified":1563589212,
     "wof:name":"Staro Selo",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

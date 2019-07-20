@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Prekadin"
+    ],
     "name:eng_x_preferred":[
         "Prekadin"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Prekadin"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u043a\u0430\u0434\u0438\u043d"
     ],
     "qs:name":"Prekadin",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477841,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589299,
     "wof:name":"Prekadin",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

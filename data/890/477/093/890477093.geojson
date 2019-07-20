@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Novo Selo"
     ],
+    "name:ceb_x_preferred":[
+        "Novo Selo"
+    ],
     "name:ces_x_preferred":[
         "Novo Selo"
     ],
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":890477093,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589337,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

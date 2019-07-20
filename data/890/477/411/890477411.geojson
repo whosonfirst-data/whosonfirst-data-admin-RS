@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Prigrevica"
+    ],
     "name:deu_x_preferred":[
         "Prigrevica"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "Prigrevica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0433\u0440\u0435\u0432\u0438\u0446\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0433\u0440\u0435\u0432\u0438\u0446\u044f"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890477411,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589310,
     "wof:name":"Prigrevica",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

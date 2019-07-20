@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u010cestereg"
+    ],
     "name:eng_x_preferred":[
         "\u010cestereg"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "\u010cestereg"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0435\u0441\u0442\u0435\u0440\u0435\u0433"
     ],
     "name:unk_x_variant":[
         "Tschestereg"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890476557,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589124,
     "wof:name":"\u010cestereg",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

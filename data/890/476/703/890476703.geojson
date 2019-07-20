@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kovin"
+    ],
     "name:ces_x_preferred":[
         "Kovin"
     ],
@@ -87,6 +90,9 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u0432\u0438\u043d"
     ],
+    "name:tur_x_preferred":[
+        "Kovin"
+    ],
     "name:unk_x_variant":[
         "Cubin"
     ],
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":890476703,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589169,
     "wof:name":"Kovin",
     "wof:parent_id":1108809929,
     "wof:placetype":"locality",

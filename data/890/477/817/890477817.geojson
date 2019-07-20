@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pivnice"
+    ],
     "name:ces_x_preferred":[
         "Pivnice"
     ],
@@ -45,8 +48,17 @@
     "name:nld_x_preferred":[
         "Pivnice"
     ],
+    "name:slv_x_preferred":[
+        "Pivnice"
+    ],
     "name:srp_x_preferred":[
         "Pivnice"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0438\u0432\u043d\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0432\u043d\u0438\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Pivnica"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":890477817,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589232,
     "wof:name":"Pivnice",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

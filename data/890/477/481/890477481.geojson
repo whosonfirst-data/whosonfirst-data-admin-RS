@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Kraljeve Vode"
     ],
+    "name:ceb_x_preferred":[
+        "Zlatibor"
+    ],
     "name:deu_x_preferred":[
         "Zlatibor"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890477481,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589306,
     "wof:name":"Zlatibor",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

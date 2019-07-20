@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mokra Gora"
+    ],
     "name:deu_x_preferred":[
         "Mokra Gora"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "Mokra Gora"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u043e\u043a\u0440\u0430 \u0413\u043e\u0440\u0430"
     ],
     "qs:name":"Mokra Gora",
     "qs:photos_9r":0,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890477083,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589229,
     "wof:name":"Mokra Gora",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

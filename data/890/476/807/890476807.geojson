@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gornji Statovac"
+    ],
     "name:eng_x_preferred":[
         "Gornji Statovac"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Gornji Statovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0421\u0442\u0430\u0442\u043e\u0432\u0430\u0446"
     ],
     "qs:name":"Gornji Statovac",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890476807,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589182,
     "wof:name":"Gornji Statovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -60,6 +60,9 @@
     "name:slv_x_preferred":[
         "\u0106i\u0107evac"
     ],
+    "name:spa_x_preferred":[
+        "\u0106i\u0107evac"
+    ],
     "name:srp_x_preferred":[
         "\u0106i\u0107evac"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u0438\u0447\u0435\u0432\u0430\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "\u0106i\u0107evac"
     ],
     "name:zho_x_preferred":[
         "\u5951\u5207\u74e6\u8328"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":890476737,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589121,
     "wof:name":"\u0106i\u0107evac",
     "wof:parent_id":1108809871,
     "wof:placetype":"locality",

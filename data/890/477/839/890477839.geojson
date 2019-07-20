@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Preka\u0161nica"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u043a\u0430\u0448\u043d\u0438\u0446\u0430"
+    ],
     "qs:name":"Preka\u0161nica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890477839,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589332,
     "wof:name":"Preka\u0161nica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

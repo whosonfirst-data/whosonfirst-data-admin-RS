@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "\u0160evi\u0161"
     ],
+    "name:srp_x_variant":[
+        "\u0428\u0435\u0432\u0438\u0448"
+    ],
     "qs:name":"\u0160evi\u0161",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890477921,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589353,
     "wof:name":"\u0160evi\u0161",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

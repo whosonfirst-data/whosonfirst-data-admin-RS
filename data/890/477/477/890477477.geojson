@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zasavica Prva"
+    ],
     "name:eng_x_preferred":[
         "Zasavica I"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890477477,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589230,
     "wof:name":"Zasavica Prva",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

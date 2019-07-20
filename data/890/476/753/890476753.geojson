@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Strmenica"
+    ],
     "name:eng_x_preferred":[
         "Strmenica"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:srp_x_preferred":[
         "Strmenica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0440\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
     "qs:name":"Strmenica",
     "qs:photos_9r":0,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890476753,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589123,
     "wof:name":"Strmenica",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

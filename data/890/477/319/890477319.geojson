@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gudurica"
+    ],
     "name:deu_x_preferred":[
         "Gudurica"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Gudurica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0443\u0434\u0443\u0440\u0438\u0446\u0430"
     ],
     "name:unk_x_variant":[
         "Temiski Kutas"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890477319,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589354,
     "wof:name":"Gudurica",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

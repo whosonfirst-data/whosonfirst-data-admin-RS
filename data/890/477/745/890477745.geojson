@@ -21,7 +21,13 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041f\u0430\u0437\u043e\u0432\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Stara Pazova"
+    ],
     "name:ces_x_preferred":[
+        "Stara Pazova"
+    ],
+    "name:dan_x_preferred":[
         "Stara Pazova"
     ],
     "name:deu_x_preferred":[
@@ -69,6 +75,9 @@
     "name:pol_x_preferred":[
         "Stara Pazova"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u041f\u0430\u0437\u043e\u0432\u0430"
+    ],
     "name:slk_x_preferred":[
         "Star\u00e1 Pazova"
     ],
@@ -89,6 +98,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430-\u041f\u0430\u0437\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041f\u0430\u0437\u043e\u0432\u0430"
     ],
     "name:unk_x_variant":[
         "\u00d3p\u00e1zova"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":890477745,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589356,
     "wof:name":"Stara Pazova",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

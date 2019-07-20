@@ -35,6 +35,9 @@
     "name:hrv_x_preferred":[
         "Srijemska Mitrovica"
     ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1vaszentdemeter v\u00e1ros"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10e0\u10d4\u10db\u10e1\u10d9\u10d0-\u10db\u10d8\u10e2\u10e0\u10dd\u10d5\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101912531,
-    "wof:lastmodified":1561831299,
+    "wof:lastmodified":1563589025,
     "wof:name":"Sremska Mitrovica",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

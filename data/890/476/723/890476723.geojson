@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043f\u0430\u043d\u0447\u0435\u0432\u0430\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Span\u010devac"
+    ],
     "name:eng_x_preferred":[
         "Span\u010devac"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:srp_x_preferred":[
         "Span\u010devac"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043f\u0430\u043d\u0447\u0435\u0432\u0430\u0446"
     ],
     "qs:name":"Span\u010devac",
     "qs:photos_9r":0,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890476723,
-    "wof:lastmodified":1561831305,
+    "wof:lastmodified":1563589154,
     "wof:name":"Span\u010devac",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Donja Beja\u0161nica"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0430 \u0411\u0435\u0458\u0430\u0448\u043d\u0438\u0446\u0430"
+    ],
     "name:unk_x_variant":[
         "Donja Beja\u0161ica"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477891,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589326,
     "wof:name":"Donja Beja\u0161nica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

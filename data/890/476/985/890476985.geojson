@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0443\u0436\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ostru\u017enica"
+    ],
     "name:eng_x_preferred":[
         "Ostru\u017enica"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Ostru\u017enica"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u0442\u0440\u0443\u0436\u043d\u0438\u0446\u0430"
     ],
     "name:zho_x_preferred":[
         "\u5967\u65af\u7279\u9b6f\u8332\u5c3c\u5bdf"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890476985,
-    "wof:lastmodified":1561831305,
+    "wof:lastmodified":1563589153,
     "wof:name":"Ostru\u017enica",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",

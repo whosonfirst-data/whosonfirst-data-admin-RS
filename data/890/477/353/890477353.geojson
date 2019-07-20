@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Metkovi\u0107"
+    ],
     "name:eng_x_preferred":[
         "Metkovi\u0107"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Metkovi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0442\u043a\u043e\u0432\u0438\u045b"
     ],
     "qs:name":"Metkovi\u0107",
     "qs:photos_9r":0,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890477353,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589211,
     "wof:name":"Metkovi\u0107",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

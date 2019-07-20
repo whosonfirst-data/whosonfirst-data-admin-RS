@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001202,
-    "geom:area_square_m":10841364.654958,
+    "geom:area_square_m":10841364.654964,
     "geom:bbox":"20.4555789414,43.1116076849,20.5469618273,43.1738726055",
     "geom:latitude":43.140747,
     "geom:longitude":20.511741,
@@ -20,8 +20,11 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u064a \u0628\u0627\u0632\u0627\u0631"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0456-\u041f\u0430\u0437\u0430\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09ad\u09bf \u09aa\u09be\u099c\u09be\u09b0"
     ],
     "name:bos_x_preferred":[
         "Novi Pazar"
@@ -32,11 +35,17 @@
     "name:cat_x_preferred":[
         "Novi Pazar"
     ],
+    "name:ceb_x_preferred":[
+        "Novi Pazar"
+    ],
     "name:ces_x_preferred":[
         "Novi Pazar"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06c6\u06a4\u06cc \u067e\u0627\u0632\u0627\u0631\u060c \u0633\u0631\u0628\u06cc\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0646\u06c6\u06a4\u06cc \u067e\u0627\u0632\u0627\u0631"
     ],
     "name:dan_x_preferred":[
         "Novi Pazar"
@@ -53,8 +62,14 @@
     "name:fas_x_preferred":[
         "\u0646\u0648\u0648\u06cc \u067e\u0627\u0632\u0627\u0631"
     ],
+    "name:fin_x_preferred":[
+        "Novi Pazar"
+    ],
     "name:fra_x_preferred":[
         "Novi Pazar"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acb\u0ab5\u0ac0 \u0aaa\u0a9d\u0abe\u0ab0"
     ],
     "name:hbs_x_preferred":[
         "Novi Pazar"
@@ -62,11 +77,20 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d1\u05d9 \u05e4\u05d0\u05d6\u05d0\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0935\u0940 \u092a\u091c\u093c\u093e\u0930"
+    ],
     "name:hrv_x_preferred":[
+        "Novi Pazar"
+    ],
+    "name:hsb_x_preferred":[
         "Novi Pazar"
     ],
     "name:hun_x_preferred":[
         "Novi Pazar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u056b \u054a\u0561\u0566\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Novi Pazar"
@@ -80,11 +104,20 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30f4\u30a3\u30fb\u30d1\u30b6\u30eb"
     ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cb5 \u0caa\u0c9d\u0cbe\u0cb0\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ub178\ube44\ud30c\uc790\ub974"
     ],
+    "name:lav_x_preferred":[
+        "Novi Pazara"
+    ],
     "name:lit_x_preferred":[
         "Novi Pazaras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u094b\u0935\u0940 \u092a\u093e\u091d\u0930"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u041f\u0430\u0437\u0430\u0440"
@@ -101,6 +134,9 @@
     "name:nno_x_preferred":[
         "Novi Pazar"
     ],
+    "name:nob_x_preferred":[
+        "Novi Pazar"
+    ],
     "name:nor_x_preferred":[
         "Novi Pazar"
     ],
@@ -113,11 +149,17 @@
     "name:por_x_preferred":[
         "Novi Pazar"
     ],
+    "name:ron_x_preferred":[
+        "Novi Pazar"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0438-\u041f\u0430\u0437\u0430\u0440"
     ],
     "name:sco_x_preferred":[
         "Novi Pazar"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0ddc\u0dc0\u0dd3 \u0db4\u0dc3\u0dcf\u0dbb\u0dca"
     ],
     "name:slk_x_preferred":[
         "Novi Pazar"
@@ -140,8 +182,17 @@
     "name:swe_x_preferred":[
         "Novi Pazar"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bcb\u0bb5\u0bbf \u0baa\u0bbe\u0b9a\u0bbe\u0bb0\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0438-\u041f\u0430\u0437\u0430\u0440"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c4b\u0c35\u0c3f \u0c2a\u0c3e\u0c1c\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e19\u0e27\u0e35 \u0e1b\u0e32\u0e0b\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Yeni Pazar"
@@ -149,10 +200,19 @@
     "name:tur_x_variant":[
         "Yenipazar"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0456 \u041f\u0430\u0437\u0430\u0440"
+    ],
     "name:unk_x_variant":[
         "Yeni Pazar"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u067e\u0627\u0632\u0627\u0631"
+    ],
     "name:vie_x_preferred":[
+        "Novi Pazar"
+    ],
+    "name:war_x_preferred":[
         "Novi Pazar"
     ],
     "name:zho_x_preferred":[
@@ -209,7 +269,7 @@
         }
     ],
     "wof:id":101911021,
-    "wof:lastmodified":1527715548,
+    "wof:lastmodified":1563589048,
     "wof:name":"Novi Pazar",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",
