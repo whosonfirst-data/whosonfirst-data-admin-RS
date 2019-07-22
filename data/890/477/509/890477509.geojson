@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "Klenje"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u043b\u0435\u045a\u0435"
+    ],
     "qs:name":"Klenje",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Machva",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477509,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589294,
     "wof:name":"Klenje",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

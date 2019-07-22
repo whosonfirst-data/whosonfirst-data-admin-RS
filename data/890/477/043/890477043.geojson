@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Krivaja"
+    ],
     "name:eng_x_preferred":[
         "Krivaja"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Krivaja"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0430\u0458\u0430"
     ],
     "qs:name":"Krivaja",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890477043,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589314,
     "wof:name":"Krivaja",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

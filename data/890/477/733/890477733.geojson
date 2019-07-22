@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ri\u0111ake"
+    ],
     "name:eng_x_preferred":[
         "Ri\u0111ake"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Ri\u0111ake"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0452\u0430\u043a\u0435"
     ],
     "name:unk_x_variant":[
         "Rid\u017eake"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477733,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589284,
     "wof:name":"Ri\u0111ake",
     "wof:parent_id":1108810137,
     "wof:placetype":"locality",

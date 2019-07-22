@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jankov Most"
+    ],
     "name:deu_x_preferred":[
         "Jankov Most"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Jankov Most"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u043d\u043a\u043e\u0432 \u041c\u043e\u0441\u0442"
     ],
     "name:unk_x_variant":[
         "Jankahid"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890476851,
-    "wof:lastmodified":1561831304,
+    "wof:lastmodified":1563589141,
     "wof:name":"Jankov Most",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

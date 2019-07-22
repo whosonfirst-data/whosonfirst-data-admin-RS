@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tovrljane"
+    ],
     "name:eng_x_preferred":[
         "Tovrljane"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Tovrljane"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u0432\u0440\u0459\u0430\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Tovrljan"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890476721,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589194,
     "wof:name":"Tovrljane",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

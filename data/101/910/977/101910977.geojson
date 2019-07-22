@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001175,
-    "geom:area_square_m":10227416.538507,
+    "geom:area_square_m":10227416.538509,
     "geom:bbox":"19.3642179909,45.2336560219,19.4327690192,45.2678919503",
     "geom:latitude":45.250559,
     "geom:longitude":19.395899,
@@ -23,11 +23,17 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
     "name:bos_x_preferred":[
         "Ba\u010dka Palanka"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ba\u010dka Palanka"
     ],
     "name:ces_x_preferred":[
         "Ba\u010dka Palanka"
@@ -38,23 +44,71 @@
     "name:deu_x_preferred":[
         "Ba\u010dka Palanka"
     ],
+    "name:eng_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
     "name:epo_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:est_x_preferred":[
         "Ba\u010dka Palanka"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e6\u05e7\u05d4 \u05e4\u05d0\u05dc\u05d0\u05e0\u05e7\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d0\u05e6'\u05e7\u05d4 \u05e4\u05d0\u05dc\u05d0\u05e0\u05e7\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:hun_x_preferred":[
+        "Pal\u00e1nka"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c1\u30e5\u30ab\u30fb\u30d1\u30e9\u30f3\u30ab"
     ],
     "name:kor_x_preferred":[
         "\ubc14\uce58\uce74\ud314\ub780\uce74"
     ],
+    "name:lit_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:nld_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:nob_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
     ],
+    "name:pol_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:por_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:ron_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dka Palanka"
     ],
     "name:spa_x_preferred":[
         "Ba\u010dka Palanka"
@@ -65,11 +119,23 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u0447\u043a\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ba\u00e7ka Palanka"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Plakenburg"
+    ],
+    "name:vie_x_preferred":[
+        "Ba\u010dka Palanka"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5947\u5361\u5e15\u5170\u5361"
@@ -121,7 +187,7 @@
         }
     ],
     "wof:id":101910977,
-    "wof:lastmodified":1505338652,
+    "wof:lastmodified":1563589055,
     "wof:name":"Ba\u010dka Palanka",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

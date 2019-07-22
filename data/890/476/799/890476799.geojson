@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Kru\u0161evica"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0438\u0446\u0430"
+    ],
     "qs:name":"Kru\u0161evica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890476799,
-    "wof:lastmodified":1561831302,
+    "wof:lastmodified":1563589118,
     "wof:name":"Kru\u0161evica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Srednji Statovac"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0440\u0435\u0434\u045a\u0438 \u0421\u0442\u0430\u0442\u043e\u0432\u0430\u0446"
+    ],
     "qs:name":"Srednji Statovac",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890477835,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589248,
     "wof:name":"Srednji Statovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

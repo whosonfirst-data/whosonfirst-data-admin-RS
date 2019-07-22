@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bu\u0111anovci"
+    ],
     "name:eng_x_preferred":[
         "Bu\u0111anovci"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "Bu\u0111anovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0452\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
     "name:unk_x_variant":[
         "Budjanovci"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890477065,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589240,
     "wof:name":"Bu\u0111anovci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

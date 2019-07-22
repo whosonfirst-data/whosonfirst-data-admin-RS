@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "Dobra"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u0430"
+    ],
     "qs:name":"Dobra",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Branichevo",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890477581,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589266,
     "wof:name":"Dobra",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

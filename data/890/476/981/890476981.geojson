@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Samo\u0161"
+    ],
     "name:eng_x_preferred":[
         "Samo\u0161"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Samo\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u043c\u043e\u0448"
     ],
     "name:unk_x_variant":[
         "Sz\u00e1mos"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890476981,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589202,
     "wof:name":"Samo\u0161",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

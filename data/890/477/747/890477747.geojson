@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Riti\u0161evo"
+    ],
     "name:eng_x_preferred":[
         "Riti\u0161evo"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Riti\u0161evo"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0442\u0438\u0448\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Rettisora"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477747,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589267,
     "wof:name":"Riti\u0161evo",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

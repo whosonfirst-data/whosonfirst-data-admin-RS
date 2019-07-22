@@ -21,7 +21,13 @@
     "name:ara_x_preferred":[
         "\u0628\u06cc\u0633\u0646\u062c\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0633\u0646\u062c\u064a"
+    ],
     "name:bos_x_preferred":[
+        "Pe\u0107inci"
+    ],
+    "name:ceb_x_preferred":[
         "Pe\u0107inci"
     ],
     "name:deu_x_preferred":[
@@ -32,6 +38,9 @@
     ],
     "name:epo_x_preferred":[
         "Pecjinci"
+    ],
+    "name:epo_x_variant":[
+        "Pe\u0109inci"
     ],
     "name:fra_x_preferred":[
         "Pe\u0107inci"
@@ -60,6 +69,9 @@
     "name:kor_x_preferred":[
         "\ud398\uce5c\uce58"
     ],
+    "name:lit_x_preferred":[
+        "Pe\u010dinsai"
+    ],
     "name:msa_x_preferred":[
         "Pe\u0107inci"
     ],
@@ -76,6 +88,9 @@
         "Pe\u0107inci"
     ],
     "name:slv_x_preferred":[
+        "Pe\u0107inci"
+    ],
+    "name:spa_x_preferred":[
         "Pe\u0107inci"
     ],
     "name:srp_x_preferred":[
@@ -95,6 +110,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0633\u0646\u062c\u064a"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u6b3d\u9f4a"
     ],
     "qs:name":"Pe\u0107inci",
     "qs:photos_9r":0,
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":890477039,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589260,
     "wof:name":"Pe\u0107inci",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

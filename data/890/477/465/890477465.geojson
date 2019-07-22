@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "Vojlovica"
     ],
+    "name:srp_x_variant":[
+        "\u0412\u043e\u0458\u043b\u043e\u0432\u0438\u0446\u0430"
+    ],
     "qs:name":"Vojlovica",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Juzhni Banat",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890477465,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589259,
     "wof:name":"Vojlovica",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",

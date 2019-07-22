@@ -16,6 +16,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00c5 Etonje"
+    ],
+    "name:ceb_x_variant":[
+        "Kovilj"
+    ],
     "name:ces_x_preferred":[
         "Kovilj"
     ],
@@ -34,6 +40,9 @@
     "name:hun_x_preferred":[
         "Kabol"
     ],
+    "name:ita_x_preferred":[
+        "Kovilj"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f4\u30a3\u30ea"
     ],
@@ -51,6 +60,12 @@
     ],
     "name:srp_x_preferred":[
         "Kovilj"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0432\u0438\u0459"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0432\u0438\u043b\u044c"
     ],
     "name:unk_x_variant":[
         "Als\u00f3kabol"
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":890477573,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589281,
     "wof:name":"Kovilj",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bos_x_preferred":[
         "Ba\u010dka Topola"
     ],
+    "name:ceb_x_preferred":[
+        "Ba\u010dka Topola"
+    ],
     "name:ces_x_preferred":[
         "Ba\u010dka Topola"
     ],
@@ -60,6 +63,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uce58\uce74\ud1a0\ud3f4\ub77c"
     ],
+    "name:lit_x_preferred":[
+        "Ba\u010dka Topola"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430 \u0422\u043e\u043f\u043e\u043b\u0430"
     ],
@@ -81,10 +87,19 @@
     "name:slv_x_preferred":[
         "Ba\u010dka Topola"
     ],
+    "name:spa_x_preferred":[
+        "Ba\u010dka Topola"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430 \u0422\u043e\u043f\u043e\u043b\u0430"
     ],
     "name:tat_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430-\u0422\u043e\u043f\u043e\u043b\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ba\u00e7ka Topola"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430-\u0422\u043e\u043f\u043e\u043b\u0430"
     ],
     "name:unk_x_variant":[
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":890477385,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589270,
     "wof:name":"Ba\u010dka Topola",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

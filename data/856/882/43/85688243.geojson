@@ -56,6 +56,12 @@
     "name:eng_x_preferred":[
         "Rasinski upravni okrug"
     ],
+    "name:eng_x_variant":[
+        "Rasina District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0631\u0627\u0633\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rasina"
     ],
@@ -92,6 +98,9 @@
     "name:kor_x_preferred":[
         "\ub77c\uc2dc\ub098 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uc2dc\ub098\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Rasinas apgabals"
     ],
@@ -100,6 +109,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0930\u0938\u093f\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mon_x_preferred":[
+        "\u0420\u0430\u0441\u0438\u043d \u0430\u0439\u043c\u0430\u0433"
     ],
     "name:msa_x_preferred":[
         "Rasina District"
@@ -229,7 +241,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1561831276,
+    "wof:lastmodified":1563588217,
     "wof:name":"Rasinski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

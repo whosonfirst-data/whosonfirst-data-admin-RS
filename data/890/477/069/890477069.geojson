@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bosut"
+    ],
     "name:eng_x_preferred":[
         "Bosut"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Bosut"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0441\u0443\u0442"
     ],
     "name:swe_x_preferred":[
         "Bosut"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477069,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589334,
     "wof:name":"Bosut",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

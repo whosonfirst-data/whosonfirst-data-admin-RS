@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "Srpska Crnja"
     ],
+    "name:ceb_x_preferred":[
+        "Srpska Crnja"
+    ],
     "name:ces_x_preferred":[
         "Srpska Crnja"
     ],
@@ -66,6 +69,9 @@
     "name:srp_x_preferred":[
         "Srpska Crnja"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0440\u043f\u0441\u043a\u0430 \u0426\u0440\u045a\u0430"
+    ],
     "name:unk_x_variant":[
         "N\u00e9metcsernye"
     ],
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":890477765,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589214,
     "wof:name":"Srpska Crnja",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Nakovo"
     ],
+    "name:ceb_x_preferred":[
+        "Nakovo"
+    ],
     "name:deu_x_preferred":[
         "Nakovo"
     ],
@@ -53,6 +56,12 @@
     ],
     "name:srp_x_preferred":[
         "Nakovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Nakodorf"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890476933,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589173,
     "wof:name":"Nakovo",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

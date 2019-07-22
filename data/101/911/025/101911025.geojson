@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u043a\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Ra\u0161ka"
+    ],
     "name:deu_x_preferred":[
         "Ra\u0161ka"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:glg_x_preferred":[
         "Ra\u0161ka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e9\u05e7\u05d4"
     ],
     "name:hun_x_preferred":[
         "Ra\u0161ka"
@@ -68,6 +74,9 @@
     "name:slv_x_preferred":[
         "Ra\u0161ka"
     ],
+    "name:spa_x_preferred":[
+        "Ra\u0161ka"
+    ],
     "name:srp_x_preferred":[
         "Ra\u0161ka"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0420\u0430\u0448\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ra\u015fka"
     ],
     "name:unk_x_variant":[
         "Rashk\u00eb"
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":101911025,
-    "wof:lastmodified":1561831300,
+    "wof:lastmodified":1563589043,
     "wof:name":"Ra\u00b5ka",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

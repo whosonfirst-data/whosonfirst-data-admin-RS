@@ -33,6 +33,9 @@
     "name:slv_x_preferred":[
         "Piskalje"
     ],
+    "name:sqi_x_preferred":[
+        "Piskala"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0438\u0441\u043a\u0430\u0459\u0435"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890478015,
-    "wof:lastmodified":1561831302,
+    "wof:lastmodified":1563589113,
     "wof:name":"Piskalj",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ba\u010dki Breg"
+    ],
     "name:eng_x_preferred":[
         "Ba\u010dki Breg"
     ],
@@ -57,6 +60,12 @@
     ],
     "name:srp_x_preferred":[
         "Ba\u010dki Breg"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0447\u043a\u0438 \u0411\u0440\u0435\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0446\u044c\u043a\u0438\u0439 \u0411\u0440\u0435\u0433"
     ],
     "name:unk_x_variant":[
         "Berg"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":890477383,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589263,
     "wof:name":"Ba\u010dki Breg",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

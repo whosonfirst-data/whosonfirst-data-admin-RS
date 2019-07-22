@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000294,
-    "geom:area_square_m":2564417.456996,
+    "geom:area_square_m":2564417.456997,
     "geom:bbox":"20.9500549531,45.0659201869,20.9847255644,45.0895673499",
     "geom:latitude":45.079084,
     "geom:longitude":20.965703,
@@ -26,7 +26,13 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0438\u0431\u0443\u043d\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Alibunar"
+    ],
     "name:ces_x_preferred":[
+        "Alibunar"
+    ],
+    "name:eng_x_preferred":[
         "Alibunar"
     ],
     "name:epo_x_preferred":[
@@ -50,6 +56,9 @@
     "name:ita_x_preferred":[
         "Alibunar"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ea\u30d6\u30ca\u30eb"
+    ],
     "name:msa_x_preferred":[
         "Alibunar"
     ],
@@ -71,11 +80,20 @@
     "name:slv_x_preferred":[
         "Alibunar"
     ],
+    "name:sqi_x_preferred":[
+        "Alibunari"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043b\u0438\u0431\u0443\u043d\u0430\u0440"
     ],
     "name:srp_x_variant":[
         "Alibunar"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0438\u0431\u0443\u043d\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Alip\u0131nar"
     ],
     "name:unk_x_variant":[
         "Allibunar"
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":101910971,
-    "wof:lastmodified":1527715930,
+    "wof:lastmodified":1563589056,
     "wof:name":"Alibunar",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

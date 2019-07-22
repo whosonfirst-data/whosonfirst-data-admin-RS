@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Be\u010dmen"
+    ],
     "name:deu_x_preferred":[
         "Be\u010dmen"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Be\u010dmen"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0447\u043c\u0435\u043d"
     ],
     "qs:name":"Be\u010dmen",
     "qs:photos_9r":0,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890477329,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589345,
     "wof:name":"Be\u010dmen",
     "wof:parent_id":1108810099,
     "wof:placetype":"locality",

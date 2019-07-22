@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Progorelica"
+    ],
     "name:eng_x_preferred":[
         "Progorelica"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Progorelica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u043e\u0433\u043e\u0440\u0435\u043b\u0438\u0446\u0430"
     ],
     "qs:name":"Progorelica",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890476841,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589173,
     "wof:name":"Progorelica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

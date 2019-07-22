@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0632\u0641\u064a\u062a\u0634\u0643\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Zve\u010dka"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b2\u03ad\u03c4\u03c3\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Zve\u010dka"
     ],
@@ -38,6 +44,12 @@
     ],
     "name:srp_x_preferred":[
         "Zve\u010dka"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0432\u0435\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0442\u044c\u0454\u0441\u043a\u0430"
     ],
     "qs:name":"Zve\u010dka",
     "qs:photos_9r":0,
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":890476971,
-    "wof:lastmodified":1561831305,
+    "wof:lastmodified":1563589152,
     "wof:name":"Zve\u010dka",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

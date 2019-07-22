@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u043c\u0430\u0447\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kosma\u010da"
+    ],
     "name:eng_x_preferred":[
         "Kosma\u010da"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Kosma\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0441\u043c\u0430\u0447\u0430"
     ],
     "qs:name":"Kosma\u010da",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890476691,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589187,
     "wof:name":"Kosma\u010da",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

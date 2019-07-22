@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vrbica"
+    ],
     "name:eng_x_preferred":[
         "Vrbica"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Vrbica"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0431\u0438\u0446\u0430"
     ],
     "name:unk_x_variant":[
         "Egyh\u00e1zask\u00e9r"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477773,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589351,
     "wof:name":"Vrbica",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

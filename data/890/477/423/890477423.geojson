@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Crepaja"
+    ],
     "name:eng_x_preferred":[
         "Crepaja"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "Crepaja"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u0435\u043f\u0430\u0458\u0430"
     ],
     "name:unk_x_variant":[
         "Czrepaj"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890477423,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589237,
     "wof:name":"Crepaja",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Globoder"
     ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u043e\u0431\u043e\u0434\u0435\u0440"
+    ],
     "qs:name":"Globoder",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890477877,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589303,
     "wof:name":"Globoder",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

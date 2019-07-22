@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u010cajetina"
+    ],
     "name:deu_x_preferred":[
         "\u010cajetina"
     ],
@@ -60,6 +63,9 @@
     "name:slv_x_preferred":[
         "\u010cajetina"
     ],
+    "name:spa_x_preferred":[
+        "\u010cajetina"
+    ],
     "name:srp_x_preferred":[
         "\u010cajetina"
     ],
@@ -68,6 +74,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u0430\u0435\u0442\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u010cajetina"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u8036\u8482\u7d0d"
     ],
     "qs:name":"\u010cajetina",
     "qs:photos_9r":0,
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":890476683,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589181,
     "wof:name":"\u010cajetina",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

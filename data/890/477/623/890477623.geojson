@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Draginje"
+    ],
     "name:eng_x_preferred":[
         "Draginje"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "Draginje"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0430\u0433\u0438\u045a\u0435"
     ],
     "qs:name":"Draginja",
     "qs:name_adm0":"Serbia",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890477623,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589310,
     "wof:name":"Draginja",
     "wof:parent_id":1108809921,
     "wof:placetype":"locality",

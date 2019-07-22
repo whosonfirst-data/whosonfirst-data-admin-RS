@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jelen\u010da"
+    ],
     "name:eng_x_preferred":[
         "Jelen\u010da"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Jelen\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0435\u043b\u0435\u043d\u0447\u0430"
     ],
     "qs:name":"Jelen\u010da",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890477239,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589329,
     "wof:name":"Jelen\u010da",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

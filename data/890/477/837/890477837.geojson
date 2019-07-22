@@ -18,8 +18,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u043e\u043b\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Samoljica"
+    ],
     "name:eng_x_preferred":[
         "Sumulice"
+    ],
+    "name:eng_x_variant":[
+        "Samoljica"
     ],
     "name:fra_x_preferred":[
         "Samoljica"
@@ -44,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "Samoljica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u043c\u043e\u0459\u0438\u0446\u0430"
     ],
     "name:unk_x_variant":[
         "Somaljice"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890477837,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589329,
     "wof:name":"Samoljica",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

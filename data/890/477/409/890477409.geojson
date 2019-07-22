@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Deronje"
+    ],
     "name:eng_x_preferred":[
         "Deronje"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:srp_x_preferred":[
         "Deronje"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0435\u0440\u043e\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0440\u043e\u043d\u044c\u0454"
     ],
     "name:unk_x_variant":[
         "D\u00e9ronya"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890477409,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589250,
     "wof:name":"Deronje",
     "wof:parent_id":1108810009,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mihajlovo"
+    ],
     "name:deu_x_preferred":[
         "Mihajlovo"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Mihajlovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u0445\u0430\u0458\u043b\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Szentmih\u00e1ly"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890476945,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589195,
     "wof:name":"Mihajlovo",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

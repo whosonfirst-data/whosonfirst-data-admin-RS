@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Crna Bara"
+    ],
     "name:eng_x_preferred":[
         "Crna Bara"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "Crna Bara"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u043d\u0430 \u0411\u0430\u0440\u0430"
     ],
     "qs:name":"Crna Bara",
     "qs:name_adm0":"Serbia",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890477443,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589305,
     "wof:name":"Crna Bara",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

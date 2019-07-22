@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
-    "geom:area_square_m":3344032.558836,
+    "geom:area_square_m":3344032.558832,
     "geom:bbox":"19.624655953,43.3709065816,19.6942268887,43.4116005359",
     "geom:latitude":43.392024,
     "geom:longitude":19.650117,
@@ -23,7 +23,19 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0435\u043f\u043e\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Prijepolje"
+    ],
+    "name:ces_x_preferred":[
+        "Prijepolje"
+    ],
     "name:deu_x_preferred":[
+        "Prijepolje"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03b9\u03b5\u03c0\u03cc\u03bb\u03b9\u03b5"
+    ],
+    "name:eng_x_preferred":[
         "Prijepolje"
     ],
     "name:fra_x_preferred":[
@@ -35,11 +47,20 @@
     "name:hbs_x_preferred":[
         "Prijepolje"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d9\u05e4\u05d5\u05dc\u05d9\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Prijepolje"
+    ],
+    "name:hsb_x_preferred":[
         "Prijepolje"
     ],
     "name:ita_x_preferred":[
         "Prijepolje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30a4\u30a7\u30dd\u30ea\u30a7"
     ],
     "name:msa_x_preferred":[
         "Prijepolje"
@@ -48,6 +69,9 @@
         "Prijepolje"
     ],
     "name:pol_x_preferred":[
+        "Prijepolje"
+    ],
+    "name:por_x_preferred":[
         "Prijepolje"
     ],
     "name:rus_x_preferred":[
@@ -62,6 +86,9 @@
     "name:sqi_x_preferred":[
         "Prepoli"
     ],
+    "name:sqi_x_variant":[
+        "Prijepole"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u0458\u0435\u043f\u043e\u0459\u0435"
     ],
@@ -71,11 +98,20 @@
     "name:swe_x_preferred":[
         "Prijepolje"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u043f\u043e\u043b\u0435"
+    ],
     "name:tur_x_preferred":[
         "Akova"
     ],
+    "name:tur_x_variant":[
+        "Prijepolje"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0454\u043f\u043e\u043b\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0456\u0454\u043f\u043e\u043b\u0454"
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u8036\u6ce2\u5217"
@@ -129,7 +165,7 @@
         }
     ],
     "wof:id":101911137,
-    "wof:lastmodified":1527715547,
+    "wof:lastmodified":1563589046,
     "wof:name":"Prijepolje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

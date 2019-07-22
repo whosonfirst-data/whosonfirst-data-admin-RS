@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430 \u0424\u0435\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Kriva Feja"
+    ],
     "name:eng_x_preferred":[
         "Kriva Feja"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477283,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589300,
     "wof:name":"Kriva Feja",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

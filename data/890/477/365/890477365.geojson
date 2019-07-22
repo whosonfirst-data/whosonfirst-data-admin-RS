@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Drenovac"
+    ],
     "name:eng_x_preferred":[
         "Drenovac"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Drenovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
     "qs:name":"Drenovac",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890477365,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589208,
     "wof:name":"Drenovac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

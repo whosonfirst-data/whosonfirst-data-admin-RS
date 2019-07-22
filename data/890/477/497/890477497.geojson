@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Iland\u017ea"
+    ],
     "name:eng_x_preferred":[
         "Iland\u017ea"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:srp_x_preferred":[
         "Iland\u017ea"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u043b\u0430\u043d\u045f\u0430"
     ],
     "name:unk_x_variant":[
         "Il\u00e1ncsa"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890477497,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589246,
     "wof:name":"Iland\u017ea",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

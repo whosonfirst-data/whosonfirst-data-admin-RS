@@ -15,6 +15,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mala Mo\u0161tanica"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bb\u03b1 \u039c\u03bf\u03c3\u03c4\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mala Mo\u0161tanica"
     ],
@@ -35,6 +41,12 @@
     ],
     "name:srp_x_preferred":[
         "Mala Mo\u0161tanica"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0430 \u041c\u043e\u0448\u0442\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7d0d\u7279\u5361\u723e\u6d1b\u74e6\u8328"
     ],
     "qs:name":"Mala Mo\u0161tanica",
     "qs:photos_9r":0,
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":890476995,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589160,
     "wof:name":"Mala Mo\u0161tanica",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

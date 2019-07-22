@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u0160evarice"
+    ],
     "name:eng_x_preferred":[
         "\u0160evarice"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0160evarice"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0435\u0432\u0430\u0440\u0438\u0446\u0435"
     ],
     "qs:name":"\u0160evarice",
     "qs:photos_9r":0,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890477155,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589293,
     "wof:name":"\u0160evarice",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

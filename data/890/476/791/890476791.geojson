@@ -39,6 +39,9 @@
     "name:srp_x_preferred":[
         "Rgaje"
     ],
+    "name:srp_x_variant":[
+        "\u0420\u0433\u0430\u0458\u0435"
+    ],
     "qs:name":"Rgaje",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890476791,
-    "wof:lastmodified":1561831303,
+    "wof:lastmodified":1563589123,
     "wof:name":"Rgaje",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Vreoci"
     ],
+    "name:ceb_x_preferred":[
+        "Vreoci"
+    ],
     "name:ces_x_preferred":[
         "Vreoci"
     ],
@@ -190,6 +193,9 @@
     "name:srp_x_preferred":[
         "Vreoci"
     ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0435\u043e\u0446\u0438"
+    ],
     "name:swa_x_preferred":[
         "Vreoci"
     ],
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":890477627,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589235,
     "wof:name":"Vreoci",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0430\u043d\u0434\u0436\u0435\u043b\u043e\u0432\u0430\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Aran\u0111elovac"
+    ],
     "name:ces_x_preferred":[
         "Aran\u0111elovac"
     ],
@@ -45,6 +48,9 @@
     "name:fra_x_preferred":[
         "Aran\u0111elovac"
     ],
+    "name:hun_x_preferred":[
+        "Aran\u0111elovac"
+    ],
     "name:ita_x_preferred":[
         "Aran\u0111elovac"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:lit_x_preferred":[
         "Arand\u017eelovacas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0453\u0435\u043b\u043e\u0432\u0430\u0446"
     ],
     "name:msa_x_preferred":[
         "Aran\u0111elovac"
@@ -76,6 +85,9 @@
         "\u0410\u0440\u0430\u043d\u0434\u0436\u0435\u043b\u043e\u0432\u0430\u0446"
     ],
     "name:slv_x_preferred":[
+        "Aran\u0111elovac"
+    ],
+    "name:spa_x_preferred":[
         "Aran\u0111elovac"
     ],
     "name:srp_x_preferred":[
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":890477021,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589320,
     "wof:name":"Aran\u0111elovac",
     "wof:parent_id":1108809817,
     "wof:placetype":"locality",

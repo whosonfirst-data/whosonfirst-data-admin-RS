@@ -33,8 +33,14 @@
     "name:slv_x_preferred":[
         "Bresnik"
     ],
+    "name:sqi_x_preferred":[
+        "Brezniku"
+    ],
     "name:srp_x_preferred":[
         "Bresnik"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0435\u0441\u043d\u0438\u043a"
     ],
     "qs:name":"Bresnik",
     "qs:photos_9r":0,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890476855,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589188,
     "wof:name":"Bresnik",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

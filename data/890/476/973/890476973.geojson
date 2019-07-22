@@ -18,17 +18,56 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u064a\u0634\u062a\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:deu_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "\u017diti\u0161te"
+    ],
     "name:epo_x_preferred":[
         "\u0134iti\u015dte"
+    ],
+    "name:fra_x_preferred":[
+        "\u017diti\u0161te"
     ],
     "name:hbs_x_preferred":[
         "\u0416\u0438\u0442\u0438\u0448\u0442\u0435"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05d9\u05e9\u05d8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017diti\u0161te"
+    ],
     "name:hun_x_preferred":[
         "Begaszentgy\u00f6rgy"
     ],
+    "name:hun_x_variant":[
+        "B\u00e9gaszentgy\u00f6rgy"
+    ],
+    "name:ita_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30c6\u30a3\u30b7\u30e5\u30c6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\ud2f0\uc288\ud14c"
+    ],
+    "name:msa_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:nld_x_preferred":[
+        "\u017diti\u0161te"
+    ],
     "name:pnb_x_preferred":[
         "\u0698\u06cc\u062a\u0634\u062a\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "\u017diti\u0161te"
     ],
     "name:ron_x_preferred":[
         "Jiti\u0219te"
@@ -36,11 +75,20 @@
     "name:rus_x_preferred":[
         "\u0416\u0438\u0442\u0438\u0448\u0442\u0435"
     ],
+    "name:slv_x_preferred":[
+        "\u017diti\u0161te"
+    ],
     "name:srp_x_preferred":[
         "\u017diti\u0161te"
     ],
     "name:srp_x_variant":[
         "\u0416\u0438\u0442\u0438\u0448\u0442\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0416\u0438\u0442\u0438\u0448\u0442\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "\u017diti\u0161te"
     ],
     "name:unk_x_variant":[
         "B\u00e9ga-Szent-Gy\u00f6rgy"
@@ -85,7 +133,7 @@
         }
     ],
     "wof:id":890476973,
-    "wof:lastmodified":1527727153,
+    "wof:lastmodified":1563589193,
     "wof:name":"\u017diti\u0161te",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

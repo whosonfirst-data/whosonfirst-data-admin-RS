@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0447\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bor\u010da"
+    ],
     "name:ckb_x_preferred":[
         "\u0628\u06c6\u0631\u0686\u0627"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:hun_x_preferred":[
         "Borcsa"
+    ],
+    "name:ind_x_preferred":[
+        "Bor\u010da"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30c1\u30e3"
     ],
     "name:msa_x_preferred":[
         "Bor\u010da"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":890477393,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589293,
     "wof:name":"Bor\u010da",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

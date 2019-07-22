@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Margita"
+    ],
     "name:eng_x_preferred":[
         "Margita"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:srp_x_preferred":[
         "Margita"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u0433\u0438\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "Gross-Margit"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890476993,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589166,
     "wof:name":"Margita",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

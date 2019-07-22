@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Donja Konju\u0161a"
+    ],
     "name:eng_x_preferred":[
         "Donja Konju\u0161a"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Donja Konju\u0161a"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0430 \u041a\u043e\u045a\u0443\u0448\u0430"
     ],
     "qs:name":"Donja Konju\u0161a",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477889,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589227,
     "wof:name":"Donja Konju\u0161a",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

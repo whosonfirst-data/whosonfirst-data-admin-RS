@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1497288.031756,
+    "geom:area_square_m":1497288.031757,
     "geom:bbox":"19.7919730444,43.4542232155,19.8322177177,43.4640787075",
     "geom:latitude":43.459716,
     "geom:longitude":19.813712,
@@ -22,14 +22,23 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0412\u0430\u0440\u043e\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Nova Varo\u0161"
+    ],
     "name:ces_x_preferred":[
         "Nova Varo\u0161"
     ],
     "name:deu_x_preferred":[
         "Nova Varo\u0161"
     ],
+    "name:eng_x_preferred":[
+        "Nova Varo\u0161"
+    ],
     "name:fra_x_preferred":[
         "Nova Varo\u0161"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d4 \u05d5\u05d0\u05e8\u05d5\u05e9"
     ],
     "name:hrv_x_preferred":[
         "Nova Varo\u0161"
@@ -40,10 +49,28 @@
     "name:ita_x_preferred":[
         "Nova Varo\u0161"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30f4\u30a1\u30fb\u30f4\u30a1\u30ed\u30b7\u30e5"
+    ],
     "name:msa_x_preferred":[
         "Nova Varo\u0161"
     ],
     "name:nld_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:pol_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430-\u0412\u0430\u0440\u043e\u0448"
+    ],
+    "name:slv_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:spa_x_preferred":[
         "Nova Varo\u0161"
     ],
     "name:srp_x_preferred":[
@@ -51,6 +78,12 @@
     ],
     "name:srp_x_variant":[
         "\u041d\u043e\u0432\u0430 \u0412\u0430\u0440\u043e\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Nova Varo\u0161"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0432\u0430-\u0412\u0430\u0440\u043e\u0448"
     ],
     "name:tur_x_preferred":[
         "Yeni Varo\u015f"
@@ -104,7 +137,7 @@
         }
     ],
     "wof:id":101911143,
-    "wof:lastmodified":1527715546,
+    "wof:lastmodified":1563589044,
     "wof:name":"Nova Varo\u00b5",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

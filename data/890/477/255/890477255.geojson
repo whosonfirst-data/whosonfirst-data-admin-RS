@@ -24,7 +24,13 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0438\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Arilje"
+    ],
     "name:ces_x_preferred":[
+        "Arilje"
+    ],
+    "name:dan_x_preferred":[
         "Arilje"
     ],
     "name:eng_x_preferred":[
@@ -69,6 +75,9 @@
     "name:slv_x_preferred":[
         "Arilje"
     ],
+    "name:spa_x_preferred":[
+        "Arilje"
+    ],
     "name:sqi_x_preferred":[
         "Arilje"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0410\u0440\u0438\u043b\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Arilje"
     ],
     "name:zho_x_preferred":[
         "\u963f\u91cc\u5217"
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":890477255,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589338,
     "wof:name":"Arilje",
     "wof:parent_id":1108809821,
     "wof:placetype":"locality",

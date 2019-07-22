@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Silba\u0161"
+    ],
     "name:eng_x_preferred":[
         "Silba\u0161"
     ],
@@ -47,6 +50,12 @@
     ],
     "name:srp_x_preferred":[
         "Silba\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u043b\u0431\u0430\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043b\u0431\u0430\u0448"
     ],
     "name:unk_x_variant":[
         "Silbash"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890476877,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589175,
     "wof:name":"Silba\u0161",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

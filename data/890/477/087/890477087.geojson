@@ -45,6 +45,9 @@
     "name:srp_x_preferred":[
         "Majur"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0458\u0443\u0440"
+    ],
     "qs:name":"Majur",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890477087,
-    "wof:lastmodified":1561831315,
+    "wof:lastmodified":1563589301,
     "wof:name":"Majur",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

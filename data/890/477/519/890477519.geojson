@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ri\u0111ica"
+    ],
     "name:deu_x_preferred":[
         "Ri\u0111ica"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:srp_x_preferred":[
         "Ri\u0111ica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0452\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0434\u0436\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Deutsch-Baja"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890477519,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589265,
     "wof:name":"Ri\u00f0ica",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

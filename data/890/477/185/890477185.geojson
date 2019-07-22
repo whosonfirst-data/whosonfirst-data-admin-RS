@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Debelja\u010da"
+    ],
     "name:eng_x_preferred":[
         "Debelja\u010da"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "Debelja\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0435\u0431\u0435\u0459\u0430\u0447\u0430"
     ],
     "name:unk_x_variant":[
         "Toront\u00e1lv\u00e1s\u00e1rhely"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890477185,
-    "wof:lastmodified":1561831318,
+    "wof:lastmodified":1563589362,
     "wof:name":"Debelja\u010da",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

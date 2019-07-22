@@ -16,6 +16,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zatonje"
+    ],
     "name:eng_x_preferred":[
         "Zatonje"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "Zatonje"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0442\u043e\u045a\u0435"
     ],
     "qs:name":"\u00c5 Etonje",
     "qs:name_adm0":"Serbia",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890477587,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589280,
     "wof:name":"\u00c5 Etonje",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

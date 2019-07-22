@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Konak"
+    ],
     "name:eng_x_preferred":[
         "Konak"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "Konak"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u043d\u0430\u043a"
     ],
     "name:unk_x_variant":[
         "Conak"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890477683,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589318,
     "wof:name":"Konak",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

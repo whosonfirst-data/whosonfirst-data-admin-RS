@@ -32,11 +32,17 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Borski upravni okrug"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Districte de Bor"
+    ],
+    "name:ceb_x_preferred":[
+        "Borski Okrug"
     ],
     "name:ces_x_preferred":[
         "Borsk\u00fd okruh"
@@ -50,6 +56,9 @@
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03c0\u03bf\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03bf\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Borski upravni okrug"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:eus_x_preferred":[
         "Bor barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Borin piirikunta"
@@ -99,6 +111,9 @@
     "name:kor_x_preferred":[
         "\ubcf4\ub974 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubcf4\ub974\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Boras apgabals"
     ],
@@ -107,6 +122,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0930 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u041e \u0411\u043e\u0440"
     ],
     "name:msa_x_preferred":[
         "Bor District"
@@ -143,6 +161,9 @@
     ],
     "name:srp_x_preferred":[
         "Borski Okrug"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:swe_x_preferred":[
         "Bor distriktet"
@@ -297,7 +318,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1561831275,
+    "wof:lastmodified":1563588213,
     "wof:name":"Borski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

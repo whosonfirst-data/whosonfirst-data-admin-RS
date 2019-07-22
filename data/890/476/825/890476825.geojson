@@ -42,6 +42,9 @@
     "name:srp_x_preferred":[
         "Visoka"
     ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Visoko"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890476825,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589180,
     "wof:name":"Visoka",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

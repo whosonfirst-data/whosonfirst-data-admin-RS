@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Plandi\u0161te"
+    ],
     "name:ces_x_preferred":[
         "Plandi\u0161te"
     ],
@@ -66,8 +69,14 @@
     "name:tat_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0434\u0438\u0448\u0442\u0435"
     ],
+    "name:tur_x_preferred":[
+        "Plandi\u0161te"
+    ],
     "name:unk_x_variant":[
         "Mariolana"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u862d\u8fea\u4ec0\u6cf0"
     ],
     "qs:name":"Plandi\u0161te",
     "qs:photos_9r":0,
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":890477297,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589335,
     "wof:name":"Plandi\u0161te",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Jovine Livade"
     ],
+    "name:srp_x_variant":[
+        "\u0408\u043e\u0432\u0438\u043d\u0435 \u041b\u0438\u0432\u0430\u0434\u0435"
+    ],
     "name:unk_x_variant":[
         "Jovina Livada"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890477605,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589244,
     "wof:name":"Jovine Livade",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Temerin"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05de\u05e8\u05d9\u05df"
+    ],
     "name:hrv_x_preferred":[
         "Temerin"
     ],
@@ -100,6 +103,9 @@
     "name:tur_x_preferred":[
         "Temerin"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043c\u0435\u0440\u0456\u043d"
+    ],
     "name:unk_x_variant":[
         "Theresienring"
     ],
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":890477551,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589205,
     "wof:name":"Temerin",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

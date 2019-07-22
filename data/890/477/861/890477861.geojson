@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0447\u0438\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Mari\u010di\u0107e"
+    ],
     "name:eng_x_preferred":[
         "Mari\u010di\u0107e"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Mari\u010di\u0107e"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u0438\u0447\u0438\u045b\u0435"
     ],
     "qs:name":"Mari\u010di\u0107e",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477861,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589242,
     "wof:name":"Mari\u010di\u0107e",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

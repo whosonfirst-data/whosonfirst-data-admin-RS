@@ -19,10 +19,16 @@
     "name:bos_x_preferred":[
         "Peru\u0107ac"
     ],
+    "name:ceb_x_preferred":[
+        "Peru\u0107ac"
+    ],
     "name:eng_x_preferred":[
         "Peru\u0107ac"
     ],
     "name:fra_x_preferred":[
+        "Peru\u0107ac"
+    ],
+    "name:ind_x_preferred":[
         "Peru\u0107ac"
     ],
     "name:msa_x_preferred":[
@@ -42,6 +48,10 @@
     ],
     "name:srp_x_preferred":[
         "Peru\u0107ac"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u0458\u043a\u043e\u0432\u0430\u0446",
+        "\u041f\u0435\u0440\u0443\u045b\u0430\u0446"
     ],
     "qs:name":"Peru\u0107ac",
     "qs:name_adm0":"Serbia",
@@ -85,7 +95,7 @@
         }
     ],
     "wof:id":890477633,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589241,
     "wof:name":"Peru\u0107ac",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

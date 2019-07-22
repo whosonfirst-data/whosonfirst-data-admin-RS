@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Letovica"
+    ],
     "name:eng_x_preferred":[
         "Letovica"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "Letovica"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0442\u043e\u0432\u0438\u0446\u0430"
     ],
     "qs:name":"Letovica",
     "qs:photos_9r":0,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890476793,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589163,
     "wof:name":"Letovica",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

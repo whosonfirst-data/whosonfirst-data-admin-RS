@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tara\u0161"
+    ],
     "name:deu_x_preferred":[
         "Tara\u0161"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Tara\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0430\u0440\u0430\u0448"
     ],
     "name:unk_x_variant":[
         "Tiszatarros"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890476979,
-    "wof:lastmodified":1561831305,
+    "wof:lastmodified":1563589146,
     "wof:name":"Tara\u0161",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "Milanovac"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u0430\u0446"
+    ],
     "name:unk_x_variant":[
         "Magudica"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890477453,
-    "wof:lastmodified":1561831312,
+    "wof:lastmodified":1563589257,
     "wof:name":"Mladenovac",
     "wof:parent_id":1108810159,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09b0\u09c7\u09ae \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Sremski upravni okrug"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
@@ -56,8 +59,14 @@
     "name:eng_x_preferred":[
         "Sremski upravni okrug"
     ],
+    "name:eng_x_variant":[
+        "Srem District"
+    ],
     "name:est_x_preferred":[
         "Sremi ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0631\u0645"
     ],
     "name:fin_x_preferred":[
         "Sremin kaupunginosa"
@@ -80,6 +89,9 @@
     "name:hun_x_preferred":[
         "Szer\u00e9ms\u00e9gi k\u00f6rzet"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0580\u0565\u0574\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Distrik Srem"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ub818 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ub818\uad6c"
     ],
     "name:lav_x_preferred":[
         "Sremas apgabals"
@@ -240,7 +255,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1561831276,
+    "wof:lastmodified":1563588217,
     "wof:name":"Sremski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

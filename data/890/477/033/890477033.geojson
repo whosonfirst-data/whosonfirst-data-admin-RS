@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vi\u0161nji\u0107evo"
+    ],
     "name:eng_x_preferred":[
         "Vi\u0161nji\u0107evo"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Vi\u0161nji\u0107evo"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0448\u045a\u0438\u045b\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Grk"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477033,
-    "wof:lastmodified":1561831316,
+    "wof:lastmodified":1563589330,
     "wof:name":"Vi\u0161nji\u0107evo",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

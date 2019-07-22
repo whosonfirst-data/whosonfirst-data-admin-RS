@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mrovska"
+    ],
     "name:eng_x_preferred":[
         "Mrovska"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Mrovska"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0440\u043e\u0432\u0441\u043a\u0430"
     ],
     "qs:name":"Mrovska",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890477741,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589281,
     "wof:name":"Mrovska",
     "wof:parent_id":1108810137,
     "wof:placetype":"locality",

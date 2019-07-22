@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Parunovac"
+    ],
     "name:eng_x_preferred":[
         "Parunovac"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:srp_x_preferred":[
         "Parunovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u0440\u0443\u043d\u043e\u0432\u0430\u0446"
     ],
     "qs:name":"Parunovac",
     "qs:photos_9r":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890477755,
-    "wof:lastmodified":1561831308,
+    "wof:lastmodified":1563589206,
     "wof:name":"Parunovac",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

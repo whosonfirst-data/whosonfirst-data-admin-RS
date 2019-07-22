@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Brezovica"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u0430"
+    ],
     "qs:name":"Brezovica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890477607,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589336,
     "wof:name":"Brezovica",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

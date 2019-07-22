@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u0648\u0628\u064a\u0646\u062a\u0633\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Golubinci"
+    ],
     "name:eng_x_preferred":[
         "Golubinci"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "Golubinci"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u043b\u0443\u0431\u0438\u043d\u0446\u0438"
     ],
     "name:tur_x_preferred":[
         "Golubinci"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890477501,
-    "wof:lastmodified":1561831314,
+    "wof:lastmodified":1563589284,
     "wof:name":"Golubinci",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Banatska Topola"
+    ],
     "name:eng_x_preferred":[
         "Banatska Topola"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:srp_x_preferred":[
         "Banatska Topola"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0430 \u0422\u043e\u043f\u043e\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u044c\u043a\u0430 \u0422\u043e\u043f\u043e\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Banatska Topla"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890476961,
-    "wof:lastmodified":1561831306,
+    "wof:lastmodified":1563589161,
     "wof:name":"Banatska Topola",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

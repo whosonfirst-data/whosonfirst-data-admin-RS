@@ -15,11 +15,53 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tulare"
+    ],
+    "name:ceb_x_preferred":[
+        "Tulare"
+    ],
+    "name:eng_x_preferred":[
+        "Tulare"
+    ],
+    "name:fra_x_preferred":[
+        "Tulare"
+    ],
+    "name:ita_x_preferred":[
+        "Tulare"
+    ],
+    "name:nld_x_preferred":[
+        "Tulare"
+    ],
+    "name:pol_x_preferred":[
+        "Tulare"
+    ],
+    "name:por_x_preferred":[
+        "Tulare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043b\u0430\u0440\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Tulare"
+    ],
     "name:srp_x_preferred":[
         "Tulare"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u0443\u043b\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Petrovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u0435\u0439\u0440\u0456"
+    ],
     "name:unk_x_variant":[
         "Tulari"
+    ],
+    "name:vol_x_preferred":[
+        "Tulare"
     ],
     "qs:name":"Tulare",
     "qs:photos_9r":0,
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":890476779,
-    "wof:lastmodified":1527727150,
+    "wof:lastmodified":1563589157,
     "wof:name":"Tulare",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

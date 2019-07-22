@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Dublje"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0431\u0459\u0435"
+    ],
     "qs:name":"Dublje",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890477971,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589273,
     "wof:name":"Dublje",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

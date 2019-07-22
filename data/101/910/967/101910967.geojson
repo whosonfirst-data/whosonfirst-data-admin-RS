@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000475,
-    "geom:area_square_m":4140950.342851,
+    "geom:area_square_m":4140950.342852,
     "geom:bbox":"20.6087279893,45.0984298524,20.6439735401,45.122105757",
     "geom:latitude":45.110976,
     "geom:longitude":20.624216,
@@ -20,7 +20,19 @@
     "name:bos_x_preferred":[
         "Kova\u010dica"
     ],
+    "name:cat_x_preferred":[
+        "Kova\u010dica"
+    ],
+    "name:ceb_x_preferred":[
+        "Kovacica"
+    ],
     "name:ces_x_preferred":[
+        "Kova\u010dica"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b2\u03ac\u03c4\u03c3\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
         "Kova\u010dica"
     ],
     "name:epo_x_preferred":[
@@ -34,6 +46,9 @@
     ],
     "name:ita_x_preferred":[
         "Kova\u010dica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d0\u30c1\u30c4\u30a1"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430"
@@ -56,6 +71,12 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Kova\u010dica"
+    ],
+    "name:slv_x_preferred":[
+        "Kova\u010dica"
+    ],
     "name:srp_x_preferred":[
         "Kova\u010dica"
     ],
@@ -64,6 +85,12 @@
     ],
     "name:swe_x_preferred":[
         "Kovacica"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0438\u0442\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Kova\u010dica"
     ],
     "name:unk_x_variant":[
         "Antalfalva"
@@ -119,7 +146,7 @@
         }
     ],
     "wof:id":101910967,
-    "wof:lastmodified":1527715931,
+    "wof:lastmodified":1563589059,
     "wof:name":"Kova\u010dica",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

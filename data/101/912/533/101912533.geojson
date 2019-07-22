@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003072,
-    "geom:area_square_m":26922717.686731,
+    "geom:area_square_m":26922717.686729,
     "geom:bbox":"20.6246663507,44.8248084421,20.698983771,44.9049319672",
     "geom:latitude":44.863998,
     "geom:longitude":20.659901,
@@ -17,11 +17,17 @@
     "mps:longitude":20.656639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u062a\u0634\u064a\u0641\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043d\u0447\u0430\u0432\u0430"
     ],
     "name:bel_x_variant":[
         "\u041f\u0430\u043d\u0447\u0430\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a8\u09b8\u09c7\u09ad\u09cb"
     ],
     "name:bos_x_preferred":[
         "Pan\u010devo"
@@ -29,11 +35,17 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Pan\u010devo"
+    ],
     "name:ces_x_preferred":[
         "Pan\u010devo"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0646\u0686\u06ce\u06a4\u06c6"
+    ],
+    "name:cym_x_preferred":[
+        "Pan\u010devo"
     ],
     "name:dan_x_preferred":[
         "Pan\u010devo"
@@ -50,17 +62,32 @@
     "name:epo_x_preferred":[
         "Pan\u0109evo"
     ],
+    "name:est_x_preferred":[
+        "Pan\u010devo"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0646\u0686\u0641\u0648"
     ],
     "name:fin_x_preferred":[
         "Pan\u010devo"
     ],
+    "name:fra_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0aa8\u0acd\u0a9a\u0ac7\u0ab5\u0acb"
+    ],
     "name:hbs_x_preferred":[
         "Pan\u010devo"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e0\u05e6\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05e0\u05e6'\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0928\u0938\u0947\u0935\u094b"
     ],
     "name:hrv_x_preferred":[
         "Pan\u010devo"
@@ -72,8 +99,26 @@
         "Pancsaly",
         "Pancsova"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0576\u0579\u0587\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:ita_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:jav_x_preferred":[
+        "Pan\u010devo"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f3\u30c1\u30a7\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ca8\u0ccd\u0cb8\u0cc6\u0cb5\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10e9\u10d4\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
@@ -81,8 +126,14 @@
     "name:kor_x_preferred":[
         "\ud310\uccb4\ubcf4"
     ],
+    "name:lav_x_preferred":[
+        "Pan\u010deva"
+    ],
     "name:lit_x_preferred":[
         "Pan\u010devas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0945\u0928\u0938\u0947\u0935\u094b"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
@@ -90,14 +141,41 @@
     "name:mon_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Pancevo"
+    ],
+    "name:nah_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:nld_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:nno_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:nob_x_preferred":[
+        "Pan\u010devo"
+    ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0646\u0686\u06cc\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:por_x_preferred":[
+        "Pan\u010devo"
     ],
     "name:ron_x_preferred":[
         "Panciova"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0db1\u0dca\u0dc3\u0dd2\u0dc0\u0ddd"
     ],
     "name:slv_x_preferred":[
         "Pan\u010devo"
@@ -114,11 +192,35 @@
     "name:swe_x_preferred":[
         "Pan\u010devo"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba9\u0bcd\u0b9a\u0bc6\u0bb5\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c02\u0c38\u0c46\u0c13"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e31\u0e19\u0e40\u0e0b\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Pan\u010devo"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Hertelendyfalva"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u0633\u06cc\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Pan\u010devo"
+    ],
+    "name:war_x_preferred":[
+        "Pan\u010devo"
     ],
     "name:zho_x_preferred":[
         "\u6f58\u5207\u6c83"
@@ -168,7 +270,7 @@
         }
     ],
     "wof:id":101912533,
-    "wof:lastmodified":1527653263,
+    "wof:lastmodified":1563589016,
     "wof:name":"Pan\u010devo",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",

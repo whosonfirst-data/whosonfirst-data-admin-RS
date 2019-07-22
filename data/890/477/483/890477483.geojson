@@ -18,11 +18,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u043e\u043b\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Samoljica"
+    ],
     "name:deu_x_preferred":[
         "Sumulic"
     ],
     "name:eng_x_preferred":[
         "Sumulice"
+    ],
+    "name:eng_x_variant":[
+        "Samoljica"
     ],
     "name:fra_x_preferred":[
         "Samoljica"
@@ -47,6 +53,9 @@
     ],
     "name:srp_x_preferred":[
         "Samojlica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u043c\u043e\u0459\u0438\u0446\u0430"
     ],
     "qs:name":"Sumulic\u00eb",
     "qs:photos_9r":0,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890477483,
-    "wof:lastmodified":1561831310,
+    "wof:lastmodified":1563589231,
     "wof:name":"Sumulic\u00eb",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ravnje"
+    ],
     "name:eng_x_preferred":[
         "Ravnje"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:srp_x_preferred":[
         "Ravnje"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0432\u045a\u0435"
     ],
     "qs:name":"Ravnje",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890477339,
-    "wof:lastmodified":1561831309,
+    "wof:lastmodified":1563589215,
     "wof:name":"Ravnje",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

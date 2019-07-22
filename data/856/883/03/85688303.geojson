@@ -32,6 +32,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b0\u099f \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Pirotski upravni okrug"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u043e\u0442\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
@@ -49,6 +52,12 @@
     ],
     "name:eng_x_preferred":[
         "Pirotski upravni okrug"
+    ],
+    "name:eng_x_variant":[
+        "Pirot District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u06cc\u0631\u0648\u062a"
     ],
     "name:fin_x_preferred":[
         "Pirot"
@@ -86,6 +95,9 @@
     "name:kor_x_preferred":[
         "\ud53c\ub85c\ud2b8 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud53c\ub85c\ud2b8\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Pirotas apgabals"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u093f\u0930\u094b\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442 \u0430\u0439\u043c\u0430\u0433"
     ],
     "name:msa_x_preferred":[
         "Pirot District"
@@ -223,7 +238,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1561831275,
+    "wof:lastmodified":1563588211,
     "wof:name":"Pirotski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

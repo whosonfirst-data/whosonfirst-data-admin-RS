@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Rankova Reka"
     ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0430 \u0420\u0435\u043a\u0430"
+    ],
     "qs:name":"Rankova Reka",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890477923,
-    "wof:lastmodified":1561831313,
+    "wof:lastmodified":1563589269,
     "wof:name":"Rankova Reka",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

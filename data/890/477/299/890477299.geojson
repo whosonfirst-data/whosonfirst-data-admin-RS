@@ -15,11 +15,53 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0433\u0430\u0446\u0456\u043d"
+    ],
+    "name:bos_x_preferred":[
+        "Negotin"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
     ],
+    "name:ces_x_preferred":[
+        "Negotin"
+    ],
+    "name:dan_x_preferred":[
+        "Negotin"
+    ],
+    "name:deu_x_preferred":[
+        "Negotin"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03b3\u03ba\u03bf\u03c4\u03af\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b3\u03ba\u03bf\u03c4\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Negotin"
+    ],
+    "name:fra_x_preferred":[
+        "Negotin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05d5\u05d8\u05d9\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Negotin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0563\u0578\u057f\u056b\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Negotin"
+    ],
+    "name:ita_x_preferred":[
+        "Negotin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30b4\u30c6\u30a3\u30f3"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d4\u10d2\u10dd\u10e2\u10d8\u10dc\u10d8"
@@ -27,17 +69,50 @@
     "name:kor_x_preferred":[
         "\ub124\uace0\ud2f4"
     ],
+    "name:msa_x_preferred":[
+        "Negotin"
+    ],
+    "name:nld_x_preferred":[
+        "Negotin"
+    ],
+    "name:nob_x_preferred":[
+        "Negotin"
+    ],
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u06af\u0648\u062a\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Negotin"
+    ],
+    "name:por_x_preferred":[
+        "Negotin"
+    ],
+    "name:ron_x_preferred":[
+        "Negotin"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Negotin"
+    ],
+    "name:spa_x_preferred":[
+        "Negotin"
     ],
     "name:srp_x_preferred":[
         "Negotin"
     ],
     "name:srp_x_variant":[
         "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Negotin"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Negotin"
     ],
     "name:unk_x_variant":[
         "Negotin Krajinski"
@@ -80,7 +155,7 @@
         }
     ],
     "wof:id":890477299,
-    "wof:lastmodified":1527727186,
+    "wof:lastmodified":1563589340,
     "wof:name":"Negotin",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

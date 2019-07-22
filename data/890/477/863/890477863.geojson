@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lukino Selo"
+    ],
     "name:deu_x_preferred":[
         "Lukino Selo"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:srp_x_preferred":[
         "Lukino Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0443\u043a\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
     ],
     "name:unk_x_variant":[
         "Luk\u00e1csfalva"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890477863,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589339,
     "wof:name":"Lukino Selo",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

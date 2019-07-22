@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mali \u017dam"
+    ],
     "name:eng_x_preferred":[
         "Mali \u017dam"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Mali \u017dam"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0416\u0430\u043c"
     ],
     "name:unk_x_variant":[
         "Zsam-Mik"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890476689,
-    "wof:lastmodified":1561831304,
+    "wof:lastmodified":1563589134,
     "wof:name":"Mali \u017dam",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jarkovci"
+    ],
     "name:eng_x_preferred":[
         "Jarkovci"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "Jarkovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0440\u043a\u043e\u0432\u0446\u0438"
     ],
     "name:unk_x_variant":[
         "Moja Volja"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890476849,
-    "wof:lastmodified":1561831307,
+    "wof:lastmodified":1563589178,
     "wof:name":"Jarkovci",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

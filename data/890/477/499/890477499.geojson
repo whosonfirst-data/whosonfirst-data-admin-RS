@@ -16,6 +16,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0641\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Idvor"
+    ],
     "name:ces_x_preferred":[
         "Idvor"
     ],
@@ -49,6 +55,9 @@
     "name:ron_x_preferred":[
         "Idvor"
     ],
+    "name:rue_x_preferred":[
+        "\u0418\u0434\u0432\u043e\u0440"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0434\u0432\u043e\u0440"
     ],
@@ -58,11 +67,17 @@
     "name:srp_x_preferred":[
         "Idvor"
     ],
+    "name:srp_x_variant":[
+        "\u0418\u0434\u0432\u043e\u0440"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0434\u0432\u043e\u0440"
     ],
     "name:unk_x_variant":[
         "Toront\u00e1ludvar"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5fb7\u4f5b"
     ],
     "qs:name":"Idvor",
     "qs:name_adm0":"Serbia",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":890477499,
-    "wof:lastmodified":1561831311,
+    "wof:lastmodified":1563589247,
     "wof:name":"Idvor",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

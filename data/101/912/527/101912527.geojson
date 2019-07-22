@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00109,
-    "geom:area_square_m":9711538.738617,
+    "geom:area_square_m":9711538.738616,
     "geom:bbox":"22.2436827887,43.8886348848,22.3011803423,43.9268510966",
     "geom:latitude":43.905166,
     "geom:longitude":22.272234,
@@ -35,6 +35,9 @@
     "name:bul_x_variant":[
         "Zaychar"
     ],
+    "name:ceb_x_preferred":[
+        "Zaje\u010dar"
+    ],
     "name:ces_x_preferred":[
         "Zaje\u010dar"
     ],
@@ -50,8 +53,35 @@
     "name:ell_x_preferred":[
         "\u0396\u03ac\u03b3\u03b5\u03c4\u03c3\u03b1\u03c1"
     ],
+    "name:eng_x_preferred":[
+        "Zaje\u010dar"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u06cc\u0686\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:fra_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0947\u091c\u0947\u0915\u093e\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0565\u0579\u0561\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:isl_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ita_x_preferred":[
+        "Zaje\u010dar"
     ],
     "name:jpn_x_preferred":[
         "\u30b6\u30a4\u30a7\u30c1\u30e3\u30eb"
@@ -65,8 +95,23 @@
     "name:mkd_x_preferred":[
         "\u0417\u0430\u0435\u0447\u0430\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:nld_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:nno_x_preferred":[
+        "Zaje\u010dar"
+    ],
     "name:pnb_x_preferred":[
         "\u0632\u0627\u0626\u06cc\u0686\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:por_x_preferred":[
+        "Zaje\u010dar"
     ],
     "name:ron_x_preferred":[
         "Zaiciar"
@@ -77,17 +122,44 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u0435\u0447\u0430\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:slv_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:spa_x_preferred":[
+        "Zaje\u010dar"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u0458\u0435\u0447\u0430\u0440"
     ],
     "name:srp_x_variant":[
         "Zaje\u010dar"
     ],
+    "name:swe_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0435\u0447\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Zaje\u010dar"
+    ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u06cc\u0626\u0686\u0627\u0631"
     ],
+    "name:vie_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:war_x_preferred":[
+        "Zaje\u010dar"
+    ],
     "name:zho_x_preferred":[
         "\u624e\u8036\u67e5\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u672d\u90a3\u67e5\u5c14"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a1":"*Zajecarski upravni okrug",
@@ -136,7 +208,7 @@
         }
     ],
     "wof:id":101912527,
-    "wof:lastmodified":1527653268,
+    "wof:lastmodified":1563589020,
     "wof:name":"Zaje\u010dar",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

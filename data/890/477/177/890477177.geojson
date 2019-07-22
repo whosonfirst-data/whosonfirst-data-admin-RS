@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0443\u0438\u043d\u0446\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dujince"
+    ],
     "name:eng_x_preferred":[
         "\u017dujince"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "\u017dujince"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0443\u0458\u0438\u043d\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "\u017duince"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890477177,
-    "wof:lastmodified":1561831317,
+    "wof:lastmodified":1563589347,
     "wof:name":"\u017dujince",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",
