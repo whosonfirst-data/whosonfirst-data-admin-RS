@@ -26,8 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:ces_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:deu_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:epo_x_preferred":[
+        "Lovcjenac"
+    ],
+    "name:fra_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:hrv_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:hun_x_preferred":[
+        "Szeghegy"
+    ],
+    "name:msa_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:slv_x_preferred":[
+        "Lov\u0107enac"
+    ],
+    "name:spa_x_preferred":[
+        "Lov\u0107enac"
+    ],
     "name:srp_x_preferred":[
         "Lov\u0107enac"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u043e\u0432\u045b\u0435\u043d\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0432\u0447\u0435\u043d\u0430\u0446\u044c"
     ],
     "name:und_x_variant":[
         "Sekitsch",
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1209116157,
-    "wof:lastmodified":1537683934,
+    "wof:lastmodified":1564103787,
     "wof:name":"Lovcenac",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

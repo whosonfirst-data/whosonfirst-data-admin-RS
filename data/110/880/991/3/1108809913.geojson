@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090477,
-    "geom:area_square_m":779915514.464472,
+    "geom:area_square_m":779915514.464434,
     "geom:bbox":"20.1660535,45.60135,20.662833,45.981318",
     "geom:latitude":45.803366,
     "geom:longitude":20.448657,
@@ -21,14 +21,29 @@
     "meso:name_loc":"Kikinda",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u043a\u0456\u043d\u0434\u0430"
+    ],
     "name:bos_x_preferred":[
         "Kikinda"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043a\u0438\u043d\u0434\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Kikinda"
+    ],
+    "name:ceb_x_preferred":[
+        "Kikinda"
+    ],
+    "name:ces_x_preferred":[
+        "Kikinda"
+    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06cc\u06a9\u06cc\u0646\u062f\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Kikinda"
     ],
     "name:deu_x_preferred":[
         "Kikinda"
@@ -39,8 +54,14 @@
     "name:eng_x_preferred":[
         "Kikinda"
     ],
+    "name:epo_x_preferred":[
+        "Kikinda"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u06a9\u06cc\u0646\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kikinda"
     ],
     "name:hbs_x_preferred":[
         "Kikinda"
@@ -54,20 +75,56 @@
     "name:hun_x_preferred":[
         "Nagykikinda"
     ],
+    "name:ind_x_preferred":[
+        "Kikinda"
+    ],
+    "name:ita_x_preferred":[
+        "Kikinda"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30ad\u30f3\u30c0"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ud0a8\ub2e4"
     ],
+    "name:lit_x_preferred":[
+        "Kikinda"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u043a\u0438\u043d\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kikinda"
+    ],
+    "name:nld_x_preferred":[
+        "Kikinda"
+    ],
+    "name:nor_x_preferred":[
+        "Kikinda"
+    ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u06a9\u0646\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kikinda"
+    ],
+    "name:por_x_preferred":[
+        "Kikinda"
     ],
     "name:ron_x_preferred":[
         "Chichinda Mare"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043a\u0438\u043d\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kikinda"
+    ],
+    "name:slv_x_preferred":[
+        "Kikinda"
+    ],
+    "name:spa_x_preferred":[
+        "Kikinda"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u043a\u0438\u043d\u0434\u0430"
@@ -78,6 +135,9 @@
     "name:swe_x_preferred":[
         "Kikinda"
     ],
+    "name:tur_x_preferred":[
+        "Kikinda"
+    ],
     "name:und_x_variant":[
         "Kikinda"
     ],
@@ -86,6 +146,12 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u06a9\u06cc\u0646\u062f\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Kikinda"
+    ],
+    "name:war_x_preferred":[
+        "Kikinda"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u91d1\u8fbe"
@@ -113,7 +179,7 @@
         }
     ],
     "wof:id":1108809913,
-    "wof:lastmodified":1512517089,
+    "wof:lastmodified":1564103924,
     "wof:name":"Kikinda",
     "wof:parent_id":85688257,
     "wof:placetype":"localadmin",

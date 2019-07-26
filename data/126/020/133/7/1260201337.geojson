@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kastrat"
+    ],
+    "name:msa_x_preferred":[
+        "Kastrat"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kastrat"
+    ],
+    "name:por_x_preferred":[
+        "Castrati"
+    ],
     "name:srp_x_preferred":[
+        "Kastrat"
+    ],
+    "name:tur_x_preferred":[
+        "Kastrat"
+    ],
+    "name:vie_x_preferred":[
+        "Kastrat"
+    ],
+    "name:war_x_preferred":[
         "Kastrat"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1260201337,
-    "wof:lastmodified":1537683781,
+    "wof:lastmodified":1564103899,
     "wof:name":"Kastrat",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

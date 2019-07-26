@@ -26,6 +26,15 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vidim"
+    ],
+    "name:ita_x_preferred":[
+        "Vidim"
+    ],
+    "name:swe_x_preferred":[
+        "Vidim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1327149039,
-    "wof:lastmodified":1537086680,
+    "wof:lastmodified":1564102927,
     "wof:name":"Vidim",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

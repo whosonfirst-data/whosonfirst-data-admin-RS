@@ -26,8 +26,14 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u0447\u0430\u0446"
+    ],
     "name:srp_x_preferred":[
         "Ven\u010dac"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043d\u0447\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293019265,
-    "wof:lastmodified":1537683695,
+    "wof:lastmodified":1564103274,
     "wof:name":"Vencac",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

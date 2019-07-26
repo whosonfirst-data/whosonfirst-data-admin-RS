@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vrandol"
+    ],
+    "name:fra_x_preferred":[
+        "Vrandol"
+    ],
+    "name:hun_x_preferred":[
+        "Vrandol"
+    ],
+    "name:msa_x_preferred":[
+        "Vrandol"
+    ],
+    "name:por_x_preferred":[
+        "Vrandol"
+    ],
+    "name:slv_x_preferred":[
+        "Vrandol"
+    ],
     "name:srp_x_preferred":[
         "Vrandol"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u043d\u0434\u043e\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1209825479,
-    "wof:lastmodified":1537683691,
+    "wof:lastmodified":1564103720,
     "wof:name":"Vrandol",
     "wof:parent_id":1108809845,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u042f\u0441\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Mali Jasenovac"
+    ],
+    "name:fra_x_preferred":[
+        "Mali Jasenovac"
+    ],
+    "name:msa_x_preferred":[
+        "Mali Jasenovac"
+    ],
+    "name:por_x_preferred":[
+        "Mali Jasenovac"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Jasenovac"
+    ],
     "name:srp_x_preferred":[
         "Mali Jasenovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0408\u0430\u0441\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293798689,
-    "wof:lastmodified":1537683761,
+    "wof:lastmodified":1564103297,
     "wof:name":"Mali Jasenovac",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

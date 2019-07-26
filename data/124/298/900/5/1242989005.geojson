@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bresni\u010di\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Bresni\u010di\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Bresni\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Bresni\u010di\u0107"
+    ],
+    "name:sqi_x_preferred":[
+        "Brezni\u00e7iqi"
+    ],
     "name:srp_x_preferred":[
         "Bresni\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0435\u0441\u043d\u0438\u0447\u0438\u045b"
     ],
     "name:und_x_variant":[
         "Bresni\u010di\u0107i"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1242989005,
-    "wof:lastmodified":1537683828,
+    "wof:lastmodified":1564104471,
     "wof:name":"Bresnicic",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

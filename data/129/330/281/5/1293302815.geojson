@@ -26,8 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Veprovac"
+    ],
+    "name:deu_x_preferred":[
+        "Kru\u0161\u010di\u0107"
+    ],
+    "name:epo_x_preferred":[
+        "Kru\u015d\u0109icj"
+    ],
+    "name:fra_x_preferred":[
+        "Kru\u0161\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Kru\u0161\u010di\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Vepr\u0151d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0447\u0438\u045c"
+    ],
+    "name:msa_x_preferred":[
+        "Kru\u0161\u010di\u0107"
+    ],
+    "name:ron_x_preferred":[
+        "Kru\u0161\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Kru\u0161\u010di\u0107"
+    ],
     "name:srp_x_preferred":[
         "Kru\u0161\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0443\u0448\u0447\u0438\u045b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0447\u0438\u0447"
     ],
     "name:und_x_variant":[
         "Weprowatz",
@@ -62,7 +98,7 @@
         }
     ],
     "wof:id":1293302815,
-    "wof:lastmodified":1537683936,
+    "wof:lastmodified":1564103243,
     "wof:name":"Veprovac",
     "wof:parent_id":1108809941,
     "wof:placetype":"locality",

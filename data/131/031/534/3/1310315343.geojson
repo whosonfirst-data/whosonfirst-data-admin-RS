@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Stanci"
+    ],
+    "name:slv_x_preferred":[
+        "Stanci"
+    ],
     "name:srp_x_preferred":[
         "Stanci"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u043d\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Stance"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1310315343,
-    "wof:lastmodified":1537683712,
+    "wof:lastmodified":1564104027,
     "wof:name":"Stanci",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

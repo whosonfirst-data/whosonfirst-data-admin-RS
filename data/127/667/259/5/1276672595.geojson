@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lisina"
+    ],
     "name:srp_x_preferred":[
         "Lisina"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276672595,
-    "wof:lastmodified":1537683768,
+    "wof:lastmodified":1564103530,
     "wof:name":"Lisina",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

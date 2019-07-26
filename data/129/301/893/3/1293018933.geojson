@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Crni Kao"
+    ],
+    "name:slv_x_preferred":[
+        "Crni Kao"
+    ],
     "name:srp_x_preferred":[
         "Crni Kao"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u043d\u0438 \u041a\u0430\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293018933,
-    "wof:lastmodified":1537683820,
+    "wof:lastmodified":1564103259,
     "wof:name":"Crni Kao",
     "wof:parent_id":1108809839,
     "wof:placetype":"locality",

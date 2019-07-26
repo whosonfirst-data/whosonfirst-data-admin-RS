@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Konjarnik"
+    ],
+    "name:msa_x_preferred":[
+        "Konjarnik"
+    ],
     "name:srp_x_preferred":[
         "Konjarnik"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u045a\u0430\u0440\u043d\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343780373,
-    "wof:lastmodified":1537683778,
+    "wof:lastmodified":1564103130,
     "wof:name":"Konjarnik",
     "wof:parent_id":1108810169,
     "wof:placetype":"locality",

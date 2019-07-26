@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bela Voda"
+    ],
+    "name:fra_x_preferred":[
+        "Bela Voda"
+    ],
+    "name:msa_x_preferred":[
+        "Bela Voda"
+    ],
+    "name:por_x_preferred":[
+        "Bela Voda"
+    ],
+    "name:slv_x_preferred":[
+        "Bela Voda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0412\u043e\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Bela Voda Mahala",
         "Bela Voda"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1309923857,
-    "wof:lastmodified":1537683912,
+    "wof:lastmodified":1564104248,
     "wof:name":"Bela Voda",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

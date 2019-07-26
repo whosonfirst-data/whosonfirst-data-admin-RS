@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rujkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Rujkovac"
+    ],
+    "name:msa_x_preferred":[
+        "Rujkovac"
+    ],
+    "name:por_x_preferred":[
+        "Rujkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Rujkovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Rukoci"
+    ],
     "name:srp_x_preferred":[
         "Rujkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0443\u0458\u043a\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Runjkovac"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1343373643,
-    "wof:lastmodified":1537683722,
+    "wof:lastmodified":1564103064,
     "wof:name":"Rujkovac",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

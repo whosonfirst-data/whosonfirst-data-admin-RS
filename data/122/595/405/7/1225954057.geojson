@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Bukovica"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Bukovica"
+    ],
     "name:srp_x_preferred":[
         "Gornja Bukovica"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1225954057,
-    "wof:lastmodified":1537683991,
+    "wof:lastmodified":1564104655,
     "wof:name":"Gornja Bukovica",
     "wof:parent_id":1108809959,
     "wof:placetype":"locality",

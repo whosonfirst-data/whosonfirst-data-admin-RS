@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:msa_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:por_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:slv_x_preferred":[
+        "Ora\u0161ac"
+    ],
     "name:srp_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
         "Ora\u0161ac"
     ],
     "src:geom":"geonames",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1260090109,
-    "wof:lastmodified":1537683746,
+    "wof:lastmodified":1564103887,
     "wof:name":"Orasac",
     "wof:parent_id":1108809817,
     "wof:placetype":"locality",

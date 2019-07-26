@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bo\u017eevac"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u017eevac"
+    ],
+    "name:msa_x_preferred":[
+        "Bo\u017eevac"
+    ],
+    "name:por_x_preferred":[
+        "Bo\u017eevac"
+    ],
+    "name:slv_x_preferred":[
+        "Bo\u017eevac"
+    ],
     "name:srp_x_preferred":[
         "Bo\u017eevac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0436\u0435\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Bol\u017eevac"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226352533,
-    "wof:lastmodified":1537683829,
+    "wof:lastmodified":1564104703,
     "wof:name":"Bozevac",
     "wof:parent_id":1108809973,
     "wof:placetype":"locality",

@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pridvorica"
+    ],
+    "name:ceb_x_preferred":[
+        "Pridvorica"
+    ],
+    "name:fra_x_preferred":[
+        "Pridvorica"
+    ],
+    "name:hrv_x_preferred":[
+        "Pridvorica"
+    ],
+    "name:slv_x_preferred":[
+        "Pridvorica"
+    ],
     "name:srp_x_preferred":[
+        "Pridvorica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0434\u0432\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Pridvorica"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1242692441,
-    "wof:lastmodified":1537683734,
+    "wof:lastmodified":1564104395,
     "wof:name":"Pridvorica",
     "wof:parent_id":1108809853,
     "wof:placetype":"locality",

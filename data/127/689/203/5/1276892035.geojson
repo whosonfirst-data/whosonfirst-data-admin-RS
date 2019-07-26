@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lebina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0628\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Lebina"
+    ],
+    "name:msa_x_preferred":[
+        "Lebina"
+    ],
+    "name:por_x_preferred":[
+        "Lebina"
+    ],
+    "name:slv_x_preferred":[
+        "Lebina"
+    ],
     "name:srp_x_preferred":[
         "Lebina"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0431\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276892035,
-    "wof:lastmodified":1537683770,
+    "wof:lastmodified":1564103503,
     "wof:name":"Lebina",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manjak"
+    ],
     "name:srp_x_preferred":[
         "Manjak"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309726849,
-    "wof:lastmodified":1537683759,
+    "wof:lastmodified":1564104283,
     "wof:name":"Manjak",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

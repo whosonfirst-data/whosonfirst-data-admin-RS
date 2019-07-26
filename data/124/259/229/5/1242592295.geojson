@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pajkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Pajkovac"
+    ],
+    "name:msa_x_preferred":[
+        "Pajkovac"
+    ],
+    "name:por_x_preferred":[
+        "Pajkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Pajkovac"
+    ],
     "name:srp_x_preferred":[
         "Pajkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u0458\u043a\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1242592295,
-    "wof:lastmodified":1537683744,
+    "wof:lastmodified":1564104378,
     "wof:name":"Pajkovac",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

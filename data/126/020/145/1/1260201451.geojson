@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Strmenica"
+    ],
+    "name:fra_x_preferred":[
+        "Strmenica"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0580\u0574\u0565\u0576\u056b\u0581\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Strmenica"
+    ],
+    "name:por_x_preferred":[
+        "Strmenica"
+    ],
+    "name:slv_x_preferred":[
+        "Strmenica"
+    ],
+    "name:spa_x_preferred":[
+        "Strmenica"
+    ],
     "name:srp_x_preferred":[
         "Strmenica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0440\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1260201451,
-    "wof:lastmodified":1537683709,
+    "wof:lastmodified":1564103900,
     "wof:name":"Strmenica",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

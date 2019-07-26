@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005799,
-    "geom:area_square_m":50543274.057528,
+    "geom:area_square_m":50543274.057529,
     "geom:bbox":"19.890652,45.145563,20.0191415,45.226368",
     "geom:latitude":45.182326,
     "geom:longitude":19.946933,
@@ -21,8 +21,113 @@
     "meso:name_loc":"Sremski Karlovci",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0440\u044d\u043c\u0441\u043a\u0456-\u041a\u0430\u0440\u043b\u0430\u045e\u0446\u044b"
+    ],
+    "name:bos_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ces_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:dan_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:deu_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c1\u03ad\u03bc\u03c3\u03ba\u03b9 \u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03c4\u03c3\u03b9"
+    ],
+    "name:epo_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:fin_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:fra_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Srijemski Karlovci"
+    ],
+    "name:hun_x_preferred":[
+        "Karl\u00f3ca"
+    ],
+    "name:ita_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ec\u30e0\u30b9\u30ad\u30fb\u30ab\u30eb\u30ed\u30f4\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ub818\uc2a4\ud0a4\uce74\ub97c\ub85c\ube0c\uce58"
+    ],
+    "name:lat_x_preferred":[
+        "Carolovicia"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:nld_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u06cc\u0645\u0633\u06a9\u06cc \u06a9\u0627\u0631\u0644\u0648\u0648\u0686\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:ron_x_preferred":[
+        "Carlovi\u021b"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0456 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:spa_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sremski Karlovci"
+    ],
+    "name:tur_x_preferred":[
+        "Karlof\u00e7a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0456 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Sremski Karlovci"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u96f7\u59c6\u65af\u57fa\u5361\u5c14\u6d1b\u592b\u5947"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +152,7 @@
         }
     ],
     "wof:id":1108810091,
-    "wof:lastmodified":1512517090,
+    "wof:lastmodified":1564103966,
     "wof:name":"Sremski Karlovci",
     "wof:parent_id":85688295,
     "wof:placetype":"localadmin",

@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vlaka"
+    ],
+    "name:ceb_x_preferred":[
+        "Vlaka"
+    ],
+    "name:fra_x_preferred":[
+        "Vlaka"
+    ],
+    "name:hrv_x_preferred":[
+        "Vlaka"
+    ],
+    "name:hun_x_preferred":[
+        "Vlaka"
+    ],
+    "name:nld_x_preferred":[
+        "Vlaka"
+    ],
+    "name:slv_x_preferred":[
+        "Vlaka"
+    ],
     "name:srp_x_preferred":[
         "Vlaka"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vlaka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043b\u0430\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1293501957,
-    "wof:lastmodified":1537684005,
+    "wof:lastmodified":1564103344,
     "wof:name":"Vlaka",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

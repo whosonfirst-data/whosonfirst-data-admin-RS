@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gulijan"
+    ],
+    "name:fra_x_preferred":[
+        "Gulijan"
+    ],
+    "name:msa_x_preferred":[
+        "Gulijan"
+    ],
+    "name:por_x_preferred":[
+        "Gulijan"
+    ],
+    "name:slv_x_preferred":[
+        "Gulijan"
+    ],
     "name:srp_x_preferred":[
         "Gulijan"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0443\u043b\u0438\u0458\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Guljan"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1343575757,
-    "wof:lastmodified":1537683790,
+    "wof:lastmodified":1564103145,
     "wof:name":"Gulijan",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

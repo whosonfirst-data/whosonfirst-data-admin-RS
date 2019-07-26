@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Preme\u0107a"
+    ],
+    "name:fra_x_preferred":[
+        "Preme\u0107a"
+    ],
+    "name:msa_x_preferred":[
+        "Preme\u0107a"
+    ],
+    "name:por_x_preferred":[
+        "Preme\u0107a"
+    ],
+    "name:slv_x_preferred":[
+        "Preme\u0107a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u043c\u0435\u045b\u0430"
+    ],
     "name:und_x_variant":[
         "Preme\u0107a"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310116027,
-    "wof:lastmodified":1537683913,
+    "wof:lastmodified":1564104059,
     "wof:name":"Premeca",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

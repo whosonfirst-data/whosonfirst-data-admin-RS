@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pridvorice"
+    ],
+    "name:fra_x_preferred":[
+        "Pridvorice"
+    ],
+    "name:msa_x_preferred":[
+        "Pridvorice"
+    ],
+    "name:por_x_preferred":[
+        "Pridvorice"
+    ],
+    "name:slv_x_preferred":[
+        "Pridvorice"
+    ],
     "name:srp_x_preferred":[
         "Pridvorice"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0434\u0432\u043e\u0440\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Pridvorica"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293497825,
-    "wof:lastmodified":1537683733,
+    "wof:lastmodified":1564103319,
     "wof:name":"Pridvorice",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",

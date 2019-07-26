@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0441\u0442\u043e\u0432\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Ristovac"
+    ],
+    "name:fra_x_preferred":[
+        "Ristovac"
+    ],
+    "name:msa_x_preferred":[
+        "Ristovac"
+    ],
+    "name:nld_x_preferred":[
+        "Ristovac"
+    ],
+    "name:por_x_preferred":[
+        "Ristovac"
+    ],
+    "name:slv_x_preferred":[
+        "Ristovac"
+    ],
     "name:srp_x_preferred":[
         "Ristovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0441\u0442\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Donji Ristovac",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1260300013,
-    "wof:lastmodified":1537683724,
+    "wof:lastmodified":1564103894,
     "wof:name":"Ristovac",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vojska"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06cc\u0633\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Vojska"
+    ],
+    "name:msa_x_preferred":[
+        "Vojska"
+    ],
+    "name:por_x_preferred":[
+        "Vojska"
+    ],
+    "name:slv_x_preferred":[
+        "Vojska"
+    ],
     "name:srp_x_preferred":[
         "Vojska"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043e\u0458\u0441\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293802359,
-    "wof:lastmodified":1537683691,
+    "wof:lastmodified":1564103425,
     "wof:name":"Vojska",
     "wof:parent_id":1108810103,
     "wof:placetype":"locality",

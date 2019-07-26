@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kumane"
+    ],
+    "name:epo_x_preferred":[
+        "Kumane"
+    ],
+    "name:fra_x_preferred":[
+        "Kumane"
+    ],
+    "name:hrv_x_preferred":[
+        "Kumane"
+    ],
+    "name:hun_x_preferred":[
+        "Kum\u00e1n"
+    ],
+    "name:msa_x_preferred":[
+        "Kumane"
+    ],
+    "name:ron_x_preferred":[
+        "Kumane"
+    ],
+    "name:slv_x_preferred":[
+        "Kumane"
+    ],
     "name:srp_x_preferred":[
         "Kumane"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u043c\u0430\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1310023969,
-    "wof:lastmodified":1537683773,
+    "wof:lastmodified":1564104105,
     "wof:name":"Kumane",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

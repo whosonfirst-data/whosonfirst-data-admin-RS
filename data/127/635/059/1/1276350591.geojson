@@ -26,6 +26,18 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Novi Glog"
+    ],
+    "name:fra_x_preferred":[
+        "Novi Glog"
+    ],
+    "name:hun_x_preferred":[
+        "Novi Glog"
+    ],
+    "name:slv_x_preferred":[
+        "Novi Glog"
+    ],
     "name:srp_x_preferred":[
         "Novi Glog"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276350591,
-    "wof:lastmodified":1537683748,
+    "wof:lastmodified":1564103543,
     "wof:name":"Novi Glog",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

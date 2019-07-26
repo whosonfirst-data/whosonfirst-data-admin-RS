@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u043e\u0440\u0430\u0434\u0436\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Prekora\u0111e"
+    ],
+    "name:msa_x_preferred":[
+        "Prekora\u0111e"
+    ],
+    "name:por_x_preferred":[
+        "Prekora\u0111e"
+    ],
+    "name:slv_x_preferred":[
+        "Prekora\u0111e"
+    ],
+    "name:sqi_x_preferred":[
+        "Prekorogja"
+    ],
     "name:srp_x_preferred":[
         "Prekora\u0111e"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u043a\u043e\u0440\u0430\u0452\u0430"
     ],
     "name:und_x_variant":[
         "Prekoro\u0107e",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1226352455,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564104696,
     "wof:name":"Prekorage",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

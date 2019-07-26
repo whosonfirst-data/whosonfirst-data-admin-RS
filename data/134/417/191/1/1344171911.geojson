@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0423\u0437\u043e\u0432\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Uzovo"
+    ],
+    "name:msa_x_preferred":[
+        "Uzovo"
+    ],
+    "name:por_x_preferred":[
+        "Uzovo"
+    ],
+    "name:slv_x_preferred":[
+        "Uzovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Uzova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0437\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1344171911,
-    "wof:lastmodified":1537572092,
+    "wof:lastmodified":1564103185,
     "wof:name":"Uzovo",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

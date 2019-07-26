@@ -26,7 +26,67 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0430\u0432\u0430\u0446"
+    ],
+    "name:bos_x_preferred":[
+        "Petrovac"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Petrovac"
+    ],
+    "name:deu_x_preferred":[
+        "Petrovac"
+    ],
+    "name:fra_x_preferred":[
+        "Petrovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Petrovac"
+    ],
+    "name:ita_x_preferred":[
+        "Petrovac"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ud2b8\ub85c\ubc14\uce20"
+    ],
+    "name:lit_x_preferred":[
+        "Petrovacas"
+    ],
+    "name:nld_x_preferred":[
+        "Petrovac"
+    ],
+    "name:nor_x_preferred":[
+        "Petrovac"
+    ],
+    "name:pol_x_preferred":[
+        "Petrovac"
+    ],
+    "name:por_x_preferred":[
+        "Petrovac"
+    ],
+    "name:ron_x_preferred":[
+        "Petrovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Petrovac"
+    ],
+    "name:spa_x_preferred":[
+        "Petrovac"
+    ],
     "name:srp_x_preferred":[
+        "Petrovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
         "Petrovac"
     ],
     "name:und_x_variant":[
@@ -57,7 +117,7 @@
         }
     ],
     "wof:id":1293802223,
-    "wof:lastmodified":1537683740,
+    "wof:lastmodified":1564103427,
     "wof:name":"Petrovac",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

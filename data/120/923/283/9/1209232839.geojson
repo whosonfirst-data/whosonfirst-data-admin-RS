@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Se\u010da Reka"
+    ],
+    "name:fra_x_preferred":[
+        "Se\u010da Reka"
+    ],
+    "name:msa_x_preferred":[
+        "Se\u010da Reka"
+    ],
+    "name:nld_x_preferred":[
+        "Se\u010da Reka"
+    ],
+    "name:por_x_preferred":[
+        "Se\u010da Reka"
+    ],
+    "name:slv_x_preferred":[
+        "Se\u010da Reka"
+    ],
     "name:srp_x_preferred":[
         "Se\u010da Reka"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u0447\u0430 \u0420\u0435\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209232839,
-    "wof:lastmodified":1537683925,
+    "wof:lastmodified":1564103709,
     "wof:name":"Seca Reka",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

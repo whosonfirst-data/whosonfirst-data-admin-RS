@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banatska Subotica"
+    ],
+    "name:epo_x_preferred":[
+        "Banatska Subotica"
+    ],
+    "name:fra_x_preferred":[
+        "Banatska Subotica"
+    ],
+    "name:hrv_x_preferred":[
+        "Banatska Subotica"
+    ],
+    "name:hun_x_preferred":[
+        "Krass\u00f3szombat"
+    ],
+    "name:msa_x_preferred":[
+        "Banatska Subotica"
+    ],
+    "name:ron_x_preferred":[
+        "Banatska Subotica"
+    ],
+    "name:slv_x_preferred":[
+        "Banatska Subotica"
+    ],
     "name:srp_x_preferred":[
         "Banatska Subotica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0430 \u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1209530477,
-    "wof:lastmodified":1537683839,
+    "wof:lastmodified":1564103644,
     "wof:name":"Banatska Subotica",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

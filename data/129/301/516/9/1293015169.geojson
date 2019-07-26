@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Parcani"
+    ],
+    "name:fra_x_preferred":[
+        "Parcani"
+    ],
+    "name:msa_x_preferred":[
+        "Parcani"
+    ],
+    "name:nld_x_preferred":[
+        "Parcani"
+    ],
+    "name:por_x_preferred":[
+        "Parcani"
+    ],
+    "name:slv_x_preferred":[
+        "Parcani"
+    ],
     "name:srp_x_preferred":[
         "Parcani"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u0440\u0446\u0430\u043d\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293015169,
-    "wof:lastmodified":1537683743,
+    "wof:lastmodified":1564103262,
     "wof:name":"Parcani",
     "wof:parent_id":1108810083,
     "wof:placetype":"locality",

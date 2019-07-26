@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0414\u0443\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:srp_x_preferred":[
         "\u00d0urakovo"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260201593,
-    "wof:lastmodified":1537683803,
+    "wof:lastmodified":1564103899,
     "wof:name":"Durakovo",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

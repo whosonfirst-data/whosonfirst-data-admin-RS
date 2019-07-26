@@ -29,6 +29,12 @@
     "name:srp_x_preferred":[
         "Plac"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u043b\u0430\u0446"
+    ],
+    "name:szl_x_preferred":[
+        "Plac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688261,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343776763,
-    "wof:lastmodified":1537683853,
+    "wof:lastmodified":1564103112,
     "wof:name":"Plac",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

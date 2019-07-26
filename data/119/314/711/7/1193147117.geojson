@@ -26,7 +26,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gradska"
+    ],
+    "name:ceb_x_preferred":[
+        "Gradska"
+    ],
+    "name:fra_x_preferred":[
+        "Gradska"
+    ],
+    "name:hrv_x_preferred":[
+        "Gradska"
+    ],
     "name:srp_x_preferred":[
+        "Gradska"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0434\u0441\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Gradska"
     ],
     "name:und_x_variant":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1193147117,
-    "wof:lastmodified":1537683792,
+    "wof:lastmodified":1564103860,
     "wof:name":"Gradska",
     "wof:parent_id":1108809877,
     "wof:placetype":"locality",

@@ -25,8 +25,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vranovice"
+    ],
+    "name:ces_x_preferred":[
+        "Vranovice"
+    ],
+    "name:deu_x_preferred":[
+        "Vranovice"
+    ],
+    "name:fra_x_preferred":[
+        "Vranovice"
+    ],
+    "name:ita_x_preferred":[
+        "Vranovice"
+    ],
+    "name:nld_x_preferred":[
+        "Vranovice"
+    ],
+    "name:pol_x_preferred":[
+        "Vranovice"
+    ],
+    "name:slk_x_preferred":[
+        "Vranovice"
+    ],
     "name:srp_x_preferred":[
         "Vranovi\u0107e"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vranovice"
     ],
     "name:und_x_variant":[
         "Drainovi\u0107e",
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1310511451,
-    "wof:lastmodified":1537683807,
+    "wof:lastmodified":1564104122,
     "wof:name":"Vranovice",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

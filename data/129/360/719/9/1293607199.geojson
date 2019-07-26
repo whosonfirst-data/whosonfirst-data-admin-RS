@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dubo\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Dubo\u010dka"
+    ],
+    "name:msa_x_preferred":[
+        "Dubo\u010dka"
+    ],
+    "name:por_x_preferred":[
+        "Dubo\u010dka"
+    ],
+    "name:slv_x_preferred":[
+        "Dubo\u010dka"
+    ],
     "name:srp_x_preferred":[
         "Dubo\u010dka"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0431\u043e\u0447\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293607199,
-    "wof:lastmodified":1537683805,
+    "wof:lastmodified":1564103379,
     "wof:name":"Dubocka",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

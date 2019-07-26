@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01708,
-    "geom:area_square_m":149664747.064223,
+    "geom:area_square_m":149664747.064225,
     "geom:bbox":"20.142398,44.8093085,20.4521075,44.942685",
     "geom:latitude":44.874866,
     "geom:longitude":20.27914,
@@ -21,6 +21,87 @@
     "meso:name_loc":"Zemun",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zemun"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zemun"
+    ],
+    "name:ces_x_preferred":[
+        "Zemun"
+    ],
+    "name:deu_x_preferred":[
+        "Zemun"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03bb\u03af\u03bd\u03bf"
+    ],
+    "name:epo_x_preferred":[
+        "Zemun"
+    ],
+    "name:fra_x_preferred":[
+        "Zemun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Zemun"
+    ],
+    "name:hun_x_preferred":[
+        "Zimony"
+    ],
+    "name:ind_x_preferred":[
+        "Zemun"
+    ],
+    "name:ita_x_preferred":[
+        "Zemun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30e0\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ubb38"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Zemun"
+    ],
+    "name:nld_x_preferred":[
+        "Zemun"
+    ],
+    "name:nor_x_preferred":[
+        "Zemun"
+    ],
+    "name:pol_x_preferred":[
+        "Zemun"
+    ],
+    "name:por_x_preferred":[
+        "Zemun"
+    ],
+    "name:ron_x_preferred":[
+        "Zemun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Zemun"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zemun"
+    ],
+    "name:tur_x_preferred":[
+        "Zemun"
+    ],
     "name:und_x_variant":[
         "Zemun"
     ],
@@ -47,7 +128,7 @@
         }
     ],
     "wof:id":1108810165,
-    "wof:lastmodified":1512517091,
+    "wof:lastmodified":1564103975,
     "wof:name":"Zemun",
     "wof:parent_id":85688279,
     "wof:placetype":"localadmin",

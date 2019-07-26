@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0435\u044f\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Trejak"
+    ],
+    "name:fra_x_preferred":[
+        "Trejak"
+    ],
+    "name:msa_x_preferred":[
+        "Trejak"
+    ],
+    "name:por_x_preferred":[
+        "Trejak"
+    ],
+    "name:slv_x_preferred":[
+        "Trejak"
+    ],
     "name:srp_x_preferred":[
         "Trejak"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0435\u0458\u0430\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209533681,
-    "wof:lastmodified":1537683702,
+    "wof:lastmodified":1564103648,
     "wof:name":"Trejak",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

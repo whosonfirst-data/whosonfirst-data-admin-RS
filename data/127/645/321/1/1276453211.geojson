@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ozrem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632\u0631\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Ozrem"
+    ],
+    "name:msa_x_preferred":[
+        "Ozrem"
+    ],
+    "name:por_x_preferred":[
+        "Ozrem"
+    ],
+    "name:slv_x_preferred":[
+        "Ozrem"
+    ],
     "name:srp_x_preferred":[
         "Ozrem"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0437\u0440\u0435\u043c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276453211,
-    "wof:lastmodified":1537683744,
+    "wof:lastmodified":1564103501,
     "wof:name":"Ozrem",
     "wof:parent_id":1108809897,
     "wof:placetype":"locality",

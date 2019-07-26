@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lausi"
+    ],
+    "name:msa_x_preferred":[
+        "Lausi"
+    ],
+    "name:por_x_preferred":[
+        "Lausi"
+    ],
     "name:srp_x_preferred":[
         "Lau\u0161i"
+    ],
+    "name:tet_x_preferred":[
+        "Lausi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1360199105,
-    "wof:lastmodified":1537683893,
+    "wof:lastmodified":1564104204,
     "wof:name":"Lausi",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

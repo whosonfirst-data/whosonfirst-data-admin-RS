@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Progoreoci"
+    ],
+    "name:fra_x_preferred":[
+        "Progoreoci"
+    ],
+    "name:msa_x_preferred":[
+        "Progoreoci"
+    ],
+    "name:por_x_preferred":[
+        "Progoreoci"
+    ],
+    "name:slv_x_preferred":[
+        "Progoreoci"
+    ],
     "name:srp_x_preferred":[
         "Progoreoci"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u043e\u0433\u043e\u0440\u0435\u043e\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Progorevci"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1225954371,
-    "wof:lastmodified":1537683733,
+    "wof:lastmodified":1564104650,
     "wof:name":"Progoreoci",
     "wof:parent_id":1108809817,
     "wof:placetype":"locality",

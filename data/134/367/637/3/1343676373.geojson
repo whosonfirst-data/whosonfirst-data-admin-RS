@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podosoje"
+    ],
+    "name:fra_x_preferred":[
+        "Podosoje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podosoje"
+    ],
+    "name:hun_x_preferred":[
+        "Podosoje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0441\u043e\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Podosoje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0441\u043e\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "Podosoj",
         "Podosoje"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343676373,
-    "wof:lastmodified":1537684015,
+    "wof:lastmodified":1564103170,
     "wof:name":"Podosoje",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ljuba"
+    ],
+    "name:epo_x_preferred":[
+        "Ljuba"
+    ],
+    "name:fra_x_preferred":[
+        "Ljuba"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljuba"
+    ],
+    "name:hun_x_preferred":[
+        "Liba"
+    ],
+    "name:msa_x_preferred":[
+        "Ljuba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ljuba"
+    ],
     "name:srp_x_preferred":[
         "Ljuba"
+    ],
+    "name:srp_x_variant":[
+        "\u0409\u0443\u0431\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1276137681,
-    "wof:lastmodified":1537683953,
+    "wof:lastmodified":1564103561,
     "wof:name":"Ljuba",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

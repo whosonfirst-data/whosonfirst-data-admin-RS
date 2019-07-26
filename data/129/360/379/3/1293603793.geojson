@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Misina"
+    ],
+    "name:swe_x_preferred":[
+        "Misina"
+    ],
     "name:und_x_variant":[
         "Grujina Mahala",
         "Mi\u0161ina"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293603793,
-    "wof:lastmodified":1537683909,
+    "wof:lastmodified":1564103370,
     "wof:name":"Misina",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

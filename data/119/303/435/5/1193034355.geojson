@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rogljevo"
+    ],
+    "name:deu_x_preferred":[
+        "Rogljevo"
+    ],
+    "name:fra_x_preferred":[
+        "Rogljevo"
+    ],
+    "name:msa_x_preferred":[
+        "Rogljevo"
+    ],
+    "name:por_x_preferred":[
+        "Rogljevo"
+    ],
+    "name:slv_x_preferred":[
+        "Rogljevo"
+    ],
     "name:srp_x_preferred":[
         "Rogljevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u043e\u0433\u0459\u0435\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1193034355,
-    "wof:lastmodified":1537683724,
+    "wof:lastmodified":1564103871,
     "wof:name":"Rogljevo",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

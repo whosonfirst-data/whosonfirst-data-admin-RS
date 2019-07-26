@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornje Brijanje"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Brijanje"
+    ],
+    "name:msa_x_preferred":[
+        "Gornje Brijanje"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Brijanje"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Brijanje"
+    ],
     "name:srp_x_preferred":[
         "Gornje Brijanje"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0411\u0440\u0438\u0458\u0430\u045a\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243077799,
-    "wof:lastmodified":1537683797,
+    "wof:lastmodified":1564104319,
     "wof:name":"Gornje Brijanje",
     "wof:parent_id":1108809853,
     "wof:placetype":"locality",

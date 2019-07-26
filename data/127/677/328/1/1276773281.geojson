@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0431\u0438\u043d\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Ribnice"
+    ],
+    "name:fra_x_preferred":[
+        "Ribnice"
+    ],
+    "name:msa_x_preferred":[
+        "Ribnice"
+    ],
+    "name:nld_x_preferred":[
+        "Ribnice"
+    ],
+    "name:por_x_preferred":[
+        "Ribnice"
+    ],
+    "name:slv_x_preferred":[
+        "Ribnice"
+    ],
+    "name:sqi_x_preferred":[
+        "Ribinca"
+    ],
     "name:srp_x_preferred":[
         "Ribnice"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0431\u0438\u043d\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Ribince"
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1276773281,
-    "wof:lastmodified":1537683725,
+    "wof:lastmodified":1564103613,
     "wof:name":"Ribnice",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

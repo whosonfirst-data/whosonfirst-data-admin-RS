@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jelakci"
+    ],
+    "name:fra_x_preferred":[
+        "Jelakci"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0565\u056c\u0561\u056f\u0581\u056b"
+    ],
+    "name:msa_x_preferred":[
+        "Jelakci"
+    ],
+    "name:por_x_preferred":[
+        "Jelakci"
+    ],
+    "name:slv_x_preferred":[
+        "Jelakci"
+    ],
+    "name:spa_x_preferred":[
+        "Jelakci"
+    ],
     "name:srp_x_preferred":[
         "Jelakci"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0435\u043b\u0430\u043a\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1310519829,
-    "wof:lastmodified":1537683786,
+    "wof:lastmodified":1564104124,
     "wof:name":"Jelakci",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

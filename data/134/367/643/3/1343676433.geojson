@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vu\u010di\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Vu\u010di\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Vu\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Vu\u010di\u0107"
+    ],
     "name:srp_x_preferred":[
         "Vu\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0443\u0447\u0438\u045b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343676433,
-    "wof:lastmodified":1537683688,
+    "wof:lastmodified":1564103161,
     "wof:name":"Vucic",
     "wof:parent_id":1108810047,
     "wof:placetype":"locality",

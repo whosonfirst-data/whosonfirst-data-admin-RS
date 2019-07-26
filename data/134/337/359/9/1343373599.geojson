@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornji Bunibrod"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Bunibrod"
+    ],
+    "name:msa_x_preferred":[
+        "Gornji Bunibrod"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Bunibrod"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Bunibrod"
+    ],
     "name:srp_x_preferred":[
         "Gornji Bunibrod"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0411\u0443\u043d\u0438\u0431\u0440\u043e\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343373599,
-    "wof:lastmodified":1537683795,
+    "wof:lastmodified":1564103067,
     "wof:name":"Gornji Bunibrod",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

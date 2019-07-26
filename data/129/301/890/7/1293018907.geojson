@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vizi\u0107"
+    ],
+    "name:epo_x_preferred":[
+        "Vizicj"
+    ],
+    "name:fra_x_preferred":[
+        "Vizi\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Vizi\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "F\u00fczegy"
+    ],
+    "name:ita_x_preferred":[
+        "Vizi\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Vizi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Vizi\u0107"
+    ],
     "name:srp_x_preferred":[
         "Vizi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0437\u0438\u045b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0437\u0438\u0447"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1293018907,
-    "wof:lastmodified":1537683918,
+    "wof:lastmodified":1564103272,
     "wof:name":"Vizic",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

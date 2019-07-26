@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Budisava"
+    ],
+    "name:epo_x_preferred":[
+        "Budisava"
+    ],
+    "name:fra_x_preferred":[
+        "Budisava"
+    ],
+    "name:hun_x_preferred":[
+        "Tiszak\u00e1lm\u00e1nfalva"
+    ],
+    "name:msa_x_preferred":[
+        "Budisava"
+    ],
+    "name:slv_x_preferred":[
+        "Budisava"
+    ],
     "name:srp_x_preferred":[
         "Budisava"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0434\u0438\u0441\u0430\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u0441\u0430\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Waldneudorf",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1292921677,
-    "wof:lastmodified":1537683947,
+    "wof:lastmodified":1564103288,
     "wof:name":"Budisava",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

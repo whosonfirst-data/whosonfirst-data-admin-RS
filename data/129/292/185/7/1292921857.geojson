@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dake"
+    ],
     "name:srp_x_preferred":[
         "\u00d0ake"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1292921857,
-    "wof:lastmodified":1537683818,
+    "wof:lastmodified":1564103293,
     "wof:name":"Dake",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

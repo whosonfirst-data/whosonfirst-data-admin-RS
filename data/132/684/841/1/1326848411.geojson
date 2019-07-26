@@ -26,8 +26,47 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Korita"
+    ],
+    "name:ceb_x_preferred":[
+        "Korita"
+    ],
+    "name:fra_x_preferred":[
+        "Korita"
+    ],
+    "name:hrv_x_preferred":[
+        "Korita"
+    ],
+    "name:hun_x_preferred":[
+        "Korita"
+    ],
+    "name:nld_x_preferred":[
+        "Korita"
+    ],
+    "name:pol_x_preferred":[
+        "Korita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Korita"
+    ],
+    "name:sqi_x_preferred":[
+        "Korita"
+    ],
     "name:srp_x_preferred":[
         "Korita"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0440\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Korita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1326848411,
-    "wof:lastmodified":1537683892,
+    "wof:lastmodified":1564102992,
     "wof:name":"Korita",
     "wof:parent_id":1108809821,
     "wof:placetype":"locality",

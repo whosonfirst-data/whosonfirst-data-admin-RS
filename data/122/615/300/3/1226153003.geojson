@@ -26,7 +26,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Berava"
+    ],
     "name:srp_x_preferred":[
+        "Berava"
+    ],
+    "name:swe_x_preferred":[
         "Berava"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226153003,
-    "wof:lastmodified":1537684023,
+    "wof:lastmodified":1564104749,
     "wof:name":"Berava",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u0440\u043d\u044f\u0440\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Brnjare"
+    ],
+    "name:fra_x_preferred":[
+        "Brnjare"
+    ],
+    "name:hun_x_preferred":[
+        "Brnjare"
+    ],
+    "name:msa_x_preferred":[
+        "Brnjare"
+    ],
+    "name:por_x_preferred":[
+        "Brnjare"
+    ],
+    "name:slv_x_preferred":[
+        "Brnjare"
+    ],
+    "name:sqi_x_preferred":[
+        "B\u00ebrnjara"
+    ],
     "name:srp_x_preferred":[
         "Brnjare"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u045a\u0430\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1293010419,
-    "wof:lastmodified":1537683827,
+    "wof:lastmodified":1564103255,
     "wof:name":"Brnjare",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

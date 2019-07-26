@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bankovci"
+    ],
+    "name:fra_x_preferred":[
+        "Bankovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Bankovci"
+    ],
+    "name:nld_x_preferred":[
+        "Bankovci"
+    ],
+    "name:slv_x_preferred":[
+        "Bankovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688291,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1242792503,
-    "wof:lastmodified":1536754030,
+    "wof:lastmodified":1564104452,
     "wof:name":"Bankovci",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

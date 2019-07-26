@@ -26,6 +26,33 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Turica"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u06cc\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Turica"
+    ],
+    "name:msa_x_preferred":[
+        "Turica"
+    ],
+    "name:nld_x_preferred":[
+        "Turica"
+    ],
+    "name:por_x_preferred":[
+        "Turica"
+    ],
+    "name:slv_x_preferred":[
+        "Turica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0438\u0446\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0631\u06cc\u06a9\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1344267139,
-    "wof:lastmodified":1537071344,
+    "wof:lastmodified":1564103175,
     "wof:name":"Turica",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

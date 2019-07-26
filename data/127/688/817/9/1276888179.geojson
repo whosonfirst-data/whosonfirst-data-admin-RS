@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornja Vre\u017eina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03c1\u03bd\u03b9\u03b1 \u0392\u03c1\u03ad\u03b6\u03b9\u03bd\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Vre\u017eina"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Vre\u017eina"
+    ],
+    "name:por_x_preferred":[
+        "Gornja Vre\u017eina"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Vre\u017eina"
+    ],
+    "name:sqi_x_preferred":[
+        "Vrazhina e Ep\u00ebrme"
+    ],
     "name:srp_x_preferred":[
         "Gornja Vre\u017eina"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0412\u0440\u0435\u0436\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276888179,
-    "wof:lastmodified":1537683797,
+    "wof:lastmodified":1564103471,
     "wof:name":"Gornja Vrezina",
     "wof:parent_id":1108810021,
     "wof:placetype":"locality",

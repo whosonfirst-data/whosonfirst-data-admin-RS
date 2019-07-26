@@ -27,6 +27,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornja Po\u010dekovina"
+    ],
+    "name:fra_x_preferred":[
+        "Po\u010dekovina"
+    ],
+    "name:msa_x_preferred":[
+        "Po\u010dekovina"
+    ],
+    "name:por_x_preferred":[
+        "Po\u010dekovina"
+    ],
+    "name:slv_x_preferred":[
+        "Po\u010dekovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0447\u0435\u043a\u043e\u0432\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Po\u010dekovina",
         "Gornja Po\u010dekovina"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1343798029,
-    "wof:lastmodified":1537683738,
+    "wof:lastmodified":1564103104,
     "wof:name":"Gornja Pocekovina",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

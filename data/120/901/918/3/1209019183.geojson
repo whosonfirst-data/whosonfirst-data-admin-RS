@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vodanj"
+    ],
+    "name:fra_x_preferred":[
+        "Vodanj"
+    ],
+    "name:msa_x_preferred":[
+        "Vodanj"
+    ],
+    "name:por_x_preferred":[
+        "Vodanj"
+    ],
+    "name:slv_x_preferred":[
+        "Vodanj"
+    ],
     "name:srp_x_preferred":[
         "Vodanj"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043e\u0434\u0430\u045a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209019183,
-    "wof:lastmodified":1537683692,
+    "wof:lastmodified":1564103670,
     "wof:name":"Vodanj",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

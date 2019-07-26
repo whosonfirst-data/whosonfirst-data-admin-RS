@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Batnjik"
+    ],
+    "name:hun_x_preferred":[
+        "Batnjik"
+    ],
+    "name:msa_x_preferred":[
+        "Batnjik"
+    ],
+    "name:nld_x_preferred":[
+        "Batnjik"
+    ],
+    "name:por_x_preferred":[
+        "Batnjik"
+    ],
+    "name:slv_x_preferred":[
+        "Batnjik"
+    ],
     "name:srp_x_preferred":[
         "Batnjik"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0442\u045a\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276773357,
-    "wof:lastmodified":1537683837,
+    "wof:lastmodified":1564103606,
     "wof:name":"Batnjik",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gredine"
+    ],
+    "name:fra_x_preferred":[
+        "Gredine"
+    ],
+    "name:hrv_x_preferred":[
+        "Gredine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u0434\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276128371,
-    "wof:lastmodified":1537051025,
+    "wof:lastmodified":1564103591,
     "wof:name":"Gredine",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

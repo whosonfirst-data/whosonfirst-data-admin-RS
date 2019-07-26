@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Bukovac"
+    ],
+    "name:deu_x_preferred":[
+        "Bukovac"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukovac"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovac"
+    ],
     "name:srp_x_preferred":[
         "Bukovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bukovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1242792437,
-    "wof:lastmodified":1537684005,
+    "wof:lastmodified":1564104452,
     "wof:name":"Bukovac",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

@@ -27,8 +27,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nadalj"
+    ],
+    "name:epo_x_preferred":[
+        "Nadalj"
+    ],
+    "name:fra_x_preferred":[
+        "Nadalj"
+    ],
+    "name:hrv_x_preferred":[
+        "Nadalj"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1dalja"
+    ],
+    "name:msa_x_preferred":[
+        "Nadalj"
+    ],
+    "name:ron_x_preferred":[
+        "Nadalj"
+    ],
+    "name:slv_x_preferred":[
+        "Nadalj"
+    ],
     "name:srp_x_preferred":[
         "Nadalj"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0430\u0434\u0430\u0459"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0434\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
         "N\u00e1daly",
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1259617625,
-    "wof:lastmodified":1537683931,
+    "wof:lastmodified":1564104598,
     "wof:name":"Nadalj",
     "wof:parent_id":1108810085,
     "wof:placetype":"locality",

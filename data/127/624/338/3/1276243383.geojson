@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Slanci"
+    ],
+    "name:fra_x_preferred":[
+        "Slanci"
+    ],
+    "name:msa_x_preferred":[
+        "Slanci"
+    ],
+    "name:por_x_preferred":[
+        "Slanci"
+    ],
+    "name:ron_x_preferred":[
+        "Slanci"
+    ],
+    "name:slv_x_preferred":[
+        "Slanci"
+    ],
     "name:srp_x_preferred":[
         "Slanci"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043b\u0430\u043d\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276243383,
-    "wof:lastmodified":1537683715,
+    "wof:lastmodified":1564103577,
     "wof:name":"Slanci",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

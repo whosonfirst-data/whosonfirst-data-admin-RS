@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ljubera\u0111a"
+    ],
+    "name:fra_x_preferred":[
+        "Ljubera\u0111a"
+    ],
+    "name:hun_x_preferred":[
+        "Ljubera\u0111a"
+    ],
+    "name:msa_x_preferred":[
+        "Ljubera\u0111a"
+    ],
+    "name:por_x_preferred":[
+        "Ljubera\u0111a"
+    ],
+    "name:slv_x_preferred":[
+        "Ljubera\u0111a"
+    ],
     "name:srp_x_preferred":[
         "Ljubera\u0111a"
+    ],
+    "name:srp_x_variant":[
+        "\u0409\u0443\u0431\u0435\u0440\u0430\u0452\u0430"
     ],
     "name:und_x_variant":[
         "Ljuberagja"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1326539905,
-    "wof:lastmodified":1537683767,
+    "wof:lastmodified":1564103017,
     "wof:name":"Ljuberaga",
     "wof:parent_id":1108809823,
     "wof:placetype":"locality",

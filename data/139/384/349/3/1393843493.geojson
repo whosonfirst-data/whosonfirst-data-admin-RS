@@ -30,20 +30,65 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u0436\u0434\u043e\u0432\u0430\u0446"
     ],
+    "name:deu_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:fra_x_preferred":[
+        "Vo\u017edovac"
+    ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Vo\u017edovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:ind_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:ita_x_preferred":[
+        "Vo\u017edovac"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10dd\u10df\u10d3\u10dd\u10d5\u10d0\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d5\u10dd\u10df\u10d3\u10dd\u10d5\u10d0\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc8fc\ub3c4\ubc14\uce20"
+    ],
+    "name:msa_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:nah_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:nld_x_preferred":[
+        "Vo\u017edovac"
+    ],
     "name:nor_x_preferred":[
         "Vozdovac"
+    ],
+    "name:pol_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:por_x_preferred":[
+        "Vo\u017edovac"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0436\u0434\u043e\u0432\u0430\u0446"
     ],
+    "name:spa_x_preferred":[
+        "Vo\u017edovac"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u043e\u0436\u0434\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vo\u017edovac"
+    ],
+    "name:tur_x_preferred":[
+        "Vo\u017edovac"
     ],
     "name:und_x_variant":[
         "Vo\u017edovac",
@@ -54,13 +99,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843427
+        1393843427,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +127,7 @@
         }
     ],
     "wof:id":1393843493,
-    "wof:lastmodified":1562015362,
+    "wof:lastmodified":1564104218,
     "wof:name":"Vozdovac",
     "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",

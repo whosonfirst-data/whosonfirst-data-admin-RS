@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stara Bingula"
+    ],
+    "name:epo_x_preferred":[
+        "Stara Bingula"
+    ],
+    "name:fra_x_preferred":[
+        "Stara Bingula"
+    ],
+    "name:hrv_x_preferred":[
+        "Pi\u0161tinci"
+    ],
+    "name:hun_x_preferred":[
+        "Stara Bingula"
+    ],
+    "name:msa_x_preferred":[
+        "Stara Bingula"
+    ],
+    "name:slv_x_preferred":[
+        "Stara Bingula"
+    ],
     "name:srp_x_preferred":[
         "Stara Bingula"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0411\u0438\u043d\u0433\u0443\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Pi\u0161tinac"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1226549629,
-    "wof:lastmodified":1537683922,
+    "wof:lastmodified":1564104790,
     "wof:name":"Stara Bingula",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

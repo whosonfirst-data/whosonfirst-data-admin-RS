@@ -26,7 +26,34 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ostrovo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Ostrovo"
+    ],
+    "name:fra_x_preferred":[
+        "Ostrovo"
+    ],
+    "name:por_x_preferred":[
+        "Ostrovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Ostrovo"
+    ],
     "name:srp_x_preferred":[
+        "Ostrovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Ostrovo"
     ],
     "name:und_x_variant":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1276133729,
-    "wof:lastmodified":1537683744,
+    "wof:lastmodified":1564103564,
     "wof:name":"Ostrovo",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

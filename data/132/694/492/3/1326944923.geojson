@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u0435\u0442\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Prevetica"
+    ],
+    "name:msa_x_preferred":[
+        "Prevetica"
+    ],
+    "name:por_x_preferred":[
+        "Prevetica"
+    ],
+    "name:slv_x_preferred":[
+        "Prevetica"
+    ],
     "name:srp_x_preferred":[
         "Prevetica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u0432\u0435\u0442\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Pravitica"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326944923,
-    "wof:lastmodified":1537683734,
+    "wof:lastmodified":1564102920,
     "wof:name":"Prevetica",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

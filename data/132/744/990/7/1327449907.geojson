@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pretrkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Pretrkovac"
+    ],
+    "name:msa_x_preferred":[
+        "Pretrkovac"
+    ],
+    "name:por_x_preferred":[
+        "Pretrkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Pretrkovac"
+    ],
     "name:srp_x_preferred":[
         "Pretrkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u0442\u0440\u043a\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1327449907,
-    "wof:lastmodified":1537683734,
+    "wof:lastmodified":1564103033,
     "wof:name":"Pretrkovac",
     "wof:parent_id":1108810055,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Osmakovo"
+    ],
+    "name:fra_x_preferred":[
+        "Osmakova"
+    ],
+    "name:msa_x_preferred":[
+        "Osmakova"
+    ],
+    "name:por_x_preferred":[
+        "Osmakova"
+    ],
+    "name:slv_x_preferred":[
+        "Osmakova"
+    ],
     "name:srp_x_preferred":[
         "Osmakovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u043c\u0430\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Osmakova"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226352279,
-    "wof:lastmodified":1537683745,
+    "wof:lastmodified":1564104696,
     "wof:name":"Osmakovo",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

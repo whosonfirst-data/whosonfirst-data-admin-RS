@@ -26,11 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Turekovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u06a9\u0648\u0627\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Turekovac"
+    ],
+    "name:msa_x_preferred":[
+        "Turekovac"
+    ],
+    "name:por_x_preferred":[
+        "Turekovac"
+    ],
+    "name:slv_x_preferred":[
+        "Turekovac"
+    ],
     "name:srp_x_preferred":[
         "Turekovac"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u0443\u0440\u0435\u043a\u043e\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Turekovc"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0631\u06a9\u0648\u0627\u0686"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1327144433,
-    "wof:lastmodified":1537683700,
+    "wof:lastmodified":1564102927,
     "wof:name":"Turekovac",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0438\u043d \u0434\u0435\u043b"
+    ],
+    "name:fra_x_preferred":[
+        "Bojin Del"
+    ],
+    "name:msa_x_preferred":[
+        "Bojin Del"
+    ],
+    "name:por_x_preferred":[
+        "Bojin Del"
+    ],
+    "name:slv_x_preferred":[
+        "Bojin Del"
+    ],
     "name:srp_x_preferred":[
         "Bojin Del"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0458\u0438\u043d \u0414\u0435\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259989409,
-    "wof:lastmodified":1537683831,
+    "wof:lastmodified":1564104530,
     "wof:name":"Bojin Del",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

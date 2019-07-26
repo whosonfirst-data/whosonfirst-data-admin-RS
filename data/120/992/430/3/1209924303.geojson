@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:fra_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:hun_x_preferred":[
+        "Wekerlefalva"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:msa_x_preferred":[
+        "Nova Gajdobra"
+    ],
+    "name:slv_x_preferred":[
+        "Nova Gajdobra"
+    ],
     "name:srp_x_preferred":[
         "Nova Gajdobra"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u0430 \u0413\u0430\u0458\u0434\u043e\u0431\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0413\u0430\u0439\u0434\u043e\u0431\u0440\u0430"
     ],
     "name:und_x_variant":[
         "Wekerle",
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":1209924303,
-    "wof:lastmodified":1537683931,
+    "wof:lastmodified":1564103744,
     "wof:name":"Nova Gajdobra",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

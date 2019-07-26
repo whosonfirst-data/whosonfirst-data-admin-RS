@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160u\u0161eoka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0634\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160u\u0161eoka"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160u\u0161eoka"
+    ],
+    "name:por_x_preferred":[
+        "\u0160u\u0161eoka"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160u\u0161eoka"
+    ],
     "name:srp_x_preferred":[
         "\u0160u\u0161eoka"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0443\u0448\u0435\u043e\u043a\u0430"
     ],
     "name:und_x_variant":[
         "\u0160u\u0161coka"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1343473663,
-    "wof:lastmodified":1537683707,
+    "wof:lastmodified":1564103123,
     "wof:name":"Suseoka",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

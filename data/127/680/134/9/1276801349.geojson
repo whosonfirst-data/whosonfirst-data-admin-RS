@@ -27,8 +27,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beloinje"
+    ],
+    "name:fra_x_preferred":[
+        "Beloinje"
+    ],
+    "name:msa_x_preferred":[
+        "Beloinje"
+    ],
+    "name:por_x_preferred":[
+        "Beloinje"
+    ],
+    "name:slv_x_preferred":[
+        "Beloinje"
+    ],
     "name:srp_x_preferred":[
         "Beloinje"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0438\u045a\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1276801349,
-    "wof:lastmodified":1537683835,
+    "wof:lastmodified":1564103509,
     "wof:name":"Beloinje",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

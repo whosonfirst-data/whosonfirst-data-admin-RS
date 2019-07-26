@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lipovac"
+    ],
+    "name:fra_x_preferred":[
+        "Lipovac"
+    ],
+    "name:msa_x_preferred":[
+        "Lipovac"
+    ],
+    "name:por_x_preferred":[
+        "Lipovac"
+    ],
+    "name:slv_x_preferred":[
+        "Lipovac"
+    ],
     "name:srp_x_preferred":[
         "Lipovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209625247,
-    "wof:lastmodified":1537683768,
+    "wof:lastmodified":1564103660,
     "wof:name":"Lipovac",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

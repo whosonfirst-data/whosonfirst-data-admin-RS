@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jasenovik"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03c3\u03ad\u03bd\u03bf\u03b2\u03b9\u03ba"
+    ],
+    "name:fra_x_preferred":[
+        "Jasenovik"
+    ],
+    "name:msa_x_preferred":[
+        "Jasenovik"
+    ],
+    "name:por_x_preferred":[
+        "Jasenovik"
+    ],
+    "name:slv_x_preferred":[
+        "Jasenovik"
+    ],
     "name:srp_x_preferred":[
         "Jasenovik"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0441\u0435\u043d\u043e\u0432\u0438\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0633\u0646\u0648\u0648\u06cc\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276562957,
-    "wof:lastmodified":1537683786,
+    "wof:lastmodified":1564103518,
     "wof:name":"Jasenovik",
     "wof:parent_id":1108810021,
     "wof:placetype":"locality",

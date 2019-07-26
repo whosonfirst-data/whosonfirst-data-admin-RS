@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rlica"
+    ],
+    "name:msa_x_preferred":[
+        "Rlica"
+    ],
+    "name:por_x_preferred":[
+        "Rlica"
+    ],
+    "name:slv_x_preferred":[
+        "Rlica"
+    ],
     "name:srp_x_preferred":[
         "Rlica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u043b\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293404771,
-    "wof:lastmodified":1537683724,
+    "wof:lastmodified":1564103326,
     "wof:name":"Rlica",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

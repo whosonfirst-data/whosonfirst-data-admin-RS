@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010cadinje"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cadinje"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cadinje"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cadinje"
+    ],
+    "name:por_x_preferred":[
+        "\u010cadinje"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cadinje"
+    ],
     "name:srp_x_preferred":[
         "\u010cadinje"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0430\u0434\u0438\u045a\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343780329,
-    "wof:lastmodified":1537684015,
+    "wof:lastmodified":1564103135,
     "wof:name":"Cadinje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

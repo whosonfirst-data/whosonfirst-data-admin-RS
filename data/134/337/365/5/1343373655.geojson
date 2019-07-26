@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u017dabljane"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dabljane"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dabljane"
+    ],
+    "name:por_x_preferred":[
+        "\u017dabljane"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dabljane"
+    ],
     "name:srp_x_preferred":[
         "\u017dabljane"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0430\u0431\u0459\u0430\u043d\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u0628\u0644\u062c\u0627\u0646\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343373655,
-    "wof:lastmodified":1537683687,
+    "wof:lastmodified":1564103060,
     "wof:name":"Zabljane",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

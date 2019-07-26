@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gospo\u0111inci"
+    ],
+    "name:fra_x_preferred":[
+        "Gospo\u0111inci"
+    ],
+    "name:hrv_x_preferred":[
+        "Gospo\u0111inci"
+    ],
+    "name:hun_x_preferred":[
+        "Boldogasszonyfalva"
+    ],
+    "name:msa_x_preferred":[
+        "Gospo\u0111inci"
+    ],
+    "name:slv_x_preferred":[
+        "Gospo\u0111inci"
+    ],
     "name:srp_x_preferred":[
         "Gospo\u0111inci"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0441\u043f\u043e\u0452\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0441\u043f\u043e\u0434\u0438\u043d\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Boldogasszonyfalva",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1327351819,
-    "wof:lastmodified":1537683941,
+    "wof:lastmodified":1564102966,
     "wof:name":"Gospoginci",
     "wof:parent_id":1108810155,
     "wof:placetype":"locality",

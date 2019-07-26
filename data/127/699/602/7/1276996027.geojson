@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160alinac"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160alinac"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160alinac"
+    ],
+    "name:por_x_preferred":[
+        "\u0160alinac"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160alinac"
+    ],
     "name:srp_x_preferred":[
         "\u0160alinac"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0430\u043b\u0438\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276996027,
-    "wof:lastmodified":1537683721,
+    "wof:lastmodified":1564103625,
     "wof:name":"Salinac",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

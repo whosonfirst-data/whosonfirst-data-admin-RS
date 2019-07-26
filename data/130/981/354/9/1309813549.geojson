@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vlaole"
+    ],
+    "name:deu_x_preferred":[
+        "Vlaole"
+    ],
+    "name:fra_x_preferred":[
+        "Vlaole"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043b\u0430\u043e\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Vlaole"
+    ],
+    "name:por_x_preferred":[
+        "Vlaole"
+    ],
+    "name:slv_x_preferred":[
+        "Vlaole"
+    ],
     "name:srp_x_preferred":[
         "Vlaole"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u043e\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1309813549,
-    "wof:lastmodified":1537683693,
+    "wof:lastmodified":1564104261,
     "wof:name":"Vlaole",
     "wof:parent_id":1108809967,
     "wof:placetype":"locality",

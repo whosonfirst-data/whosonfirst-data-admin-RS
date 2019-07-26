@@ -26,11 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u043b\u0431\u043e\u0442\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Jalbotina"
+    ],
+    "name:fra_x_preferred":[
+        "Jalbotina"
+    ],
+    "name:msa_x_preferred":[
+        "Jalbotina"
+    ],
+    "name:por_x_preferred":[
+        "Jalbotina"
+    ],
+    "name:slv_x_preferred":[
+        "Jalbotina"
+    ],
     "name:srp_x_preferred":[
         "Jalbotina"
     ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u043b\u0431\u043e\u0442\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Talbotina"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0628\u0648\u0679\u06cc\u0646\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1327148975,
-    "wof:lastmodified":1537683787,
+    "wof:lastmodified":1564102931,
     "wof:name":"Jalbotina",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

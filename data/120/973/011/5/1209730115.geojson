@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bo\u017einovac"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u017einovac"
+    ],
+    "name:msa_x_preferred":[
+        "Bo\u017einovac"
+    ],
+    "name:por_x_preferred":[
+        "Bo\u017einovac"
+    ],
+    "name:slv_x_preferred":[
+        "Bo\u017einovac"
+    ],
     "name:srp_x_preferred":[
         "Bo\u017einovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0436\u0438\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209730115,
-    "wof:lastmodified":1537683829,
+    "wof:lastmodified":1564103798,
     "wof:name":"Bozinovac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

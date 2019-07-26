@@ -15,8 +15,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bo\u0161njane"
+    ],
+    "name:hrv_x_preferred":[
+        "Bo\u0161njane"
+    ],
+    "name:slv_x_preferred":[
+        "Bo\u0161njane"
+    ],
     "name:srp_x_preferred":[
         "Bo\u0161njane"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0448\u045a\u0430\u043d\u0435"
     ],
     "qs:name":"Bo\u0161njane",
     "qs:photos_9r":0,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":890476861,
-    "wof:lastmodified":1505343723,
+    "wof:lastmodified":1564104289,
     "wof:name":"Bo\u0161njane",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

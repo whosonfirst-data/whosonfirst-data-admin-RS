@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rajno Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Rajno Polje"
+    ],
+    "name:msa_x_preferred":[
+        "Rajno Polje"
+    ],
+    "name:por_x_preferred":[
+        "Rajno Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Rajno Polje"
+    ],
     "name:srp_x_preferred":[
         "Rajno Polje"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0458\u043d\u043e \u041f\u043e\u0459\u0435"
     ],
     "name:und_x_variant":[
         "Rajino Polje"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276461989,
-    "wof:lastmodified":1537683730,
+    "wof:lastmodified":1564103595,
     "wof:name":"Rajno Polje",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

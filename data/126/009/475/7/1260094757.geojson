@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krnule"
+    ],
+    "name:fra_x_preferred":[
+        "Krnule"
+    ],
+    "name:msa_x_preferred":[
+        "Krnule"
+    ],
+    "name:nld_x_preferred":[
+        "Krnule"
+    ],
+    "name:por_x_preferred":[
+        "Krnule"
+    ],
+    "name:slv_x_preferred":[
+        "Krnule"
+    ],
     "name:srp_x_preferred":[
         "Krnule"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u043d\u0443\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1260094757,
-    "wof:lastmodified":1537683936,
+    "wof:lastmodified":1564103886,
     "wof:name":"Krnule",
     "wof:parent_id":1108810137,
     "wof:placetype":"locality",

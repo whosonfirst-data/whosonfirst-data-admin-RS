@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vojilovo"
+    ],
+    "name:fra_x_preferred":[
+        "Vojilovo"
+    ],
+    "name:msa_x_preferred":[
+        "Vojilovo"
+    ],
+    "name:por_x_preferred":[
+        "Vojilovo"
+    ],
+    "name:slv_x_preferred":[
+        "Vojilovo"
+    ],
     "name:srp_x_preferred":[
         "Vojilovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043e\u0458\u0438\u043b\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276781947,
-    "wof:lastmodified":1537683692,
+    "wof:lastmodified":1564103565,
     "wof:name":"Vojilovo",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

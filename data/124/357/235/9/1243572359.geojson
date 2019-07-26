@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kupinovo"
+    ],
+    "name:epo_x_preferred":[
+        "Kupinovo"
+    ],
+    "name:fra_x_preferred":[
+        "Kupinovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kupinovo"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6lp\u00e9ny"
+    ],
+    "name:msa_x_preferred":[
+        "Kupinovo"
+    ],
+    "name:slv_x_preferred":[
+        "Kupinovo"
+    ],
     "name:srp_x_preferred":[
         "Kupinovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u043f\u0438\u043d\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1243572359,
-    "wof:lastmodified":1537683849,
+    "wof:lastmodified":1564104431,
     "wof:name":"Kupinovo",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lenci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343776753,
-    "wof:lastmodified":1536787823,
+    "wof:lastmodified":1564103105,
     "wof:name":"Lenci",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

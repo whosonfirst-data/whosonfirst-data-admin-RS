@@ -26,6 +26,15 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ograde"
+    ],
+    "name:fra_x_preferred":[
+        "Ograde"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0433\u0440\u0430\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344166959,
-    "wof:lastmodified":1536722169,
+    "wof:lastmodified":1564103192,
     "wof:name":"Ograde",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aleksine"
+    ],
+    "name:msa_x_preferred":[
+        "Aleksine"
+    ],
+    "name:por_x_preferred":[
+        "Aleksine"
+    ],
+    "name:slv_x_preferred":[
+        "Aleksine"
+    ],
     "name:srp_x_preferred":[
         "Aleksine"
+    ],
+    "name:srp_x_variant":[
+        "\u0410\u043b\u0435\u043a\u0441\u0438\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276557779,
-    "wof:lastmodified":1537683870,
+    "wof:lastmodified":1564103616,
     "wof:name":"Aleksine",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

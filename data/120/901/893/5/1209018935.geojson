@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160utci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u062a\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160utci"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160utci"
+    ],
+    "name:por_x_preferred":[
+        "\u0160utci"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160utci"
+    ],
     "name:srp_x_preferred":[
         "\u0160utci"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0443\u0442\u0446\u0438"
     ],
     "name:und_x_variant":[
         "\u0160utce"
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209018935,
-    "wof:lastmodified":1537683706,
+    "wof:lastmodified":1564103664,
     "wof:name":"Sutci",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

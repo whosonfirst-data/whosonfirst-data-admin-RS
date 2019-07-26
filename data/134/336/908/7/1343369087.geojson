@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Oreovac"
+    ],
+    "name:slv_x_preferred":[
+        "Oreovac"
+    ],
     "name:srp_x_preferred":[
         "Oreovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0440\u0435\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343369087,
-    "wof:lastmodified":1537683746,
+    "wof:lastmodified":1564103049,
     "wof:name":"Oreovac",
     "wof:parent_id":1108809845,
     "wof:placetype":"locality",

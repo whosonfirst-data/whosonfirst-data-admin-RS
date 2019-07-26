@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Savinac"
+    ],
     "name:srp_x_preferred":[
         "Savinac"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226057335,
-    "wof:lastmodified":1537683720,
+    "wof:lastmodified":1564104690,
     "wof:name":"Savinac",
     "wof:parent_id":1108809857,
     "wof:placetype":"locality",

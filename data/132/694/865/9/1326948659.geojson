@@ -25,10 +25,85 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0631\u06cc\u06a9\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Karika"
+    ],
+    "name:cat_x_preferred":[
+        "Carica"
+    ],
+    "name:ceb_x_preferred":[
+        "Carica"
+    ],
+    "name:dan_x_preferred":[
+        "Melontr\u00e6-sl\u00e6gten"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0628\u0632\u0647 \u062f\u0631\u062e\u062a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Papaijat"
+    ],
+    "name:fra_x_preferred":[
+        "Carica"
+    ],
+    "name:glg_x_preferred":[
+        "Carica"
+    ],
+    "name:hrv_x_preferred":[
+        "Papaja"
+    ],
+    "name:hsb_x_preferred":[
+        "Papajowc"
+    ],
+    "name:ita_x_preferred":[
+        "Carica"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ud30c\uc57c\uc18d"
+    ],
+    "name:lit_x_preferred":[
+        "Melionmedis"
+    ],
+    "name:nno_x_preferred":[
+        "Carica"
+    ],
+    "name:pol_x_preferred":[
+        "Melonowiec"
+    ],
+    "name:por_x_preferred":[
+        "Carica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u043d\u043d\u043e\u0435 \u0434\u0435\u0440\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Carica"
+    ],
+    "name:swe_x_preferred":[
+        "Carica"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e01\u0e38\u0e25\u0e21\u0e30\u0e25\u0e30\u0e01\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Carica"
+    ],
     "name:und_x_variant":[
         "Gornja Carica Mahala",
         "Tzaritza",
         "Carica"
+    ],
+    "name:war_x_preferred":[
+        "Carica"
+    ],
+    "name:zho_x_preferred":[
+        "\u756a\u6728\u74dc\u5c5e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +130,7 @@
         }
     ],
     "wof:id":1326948659,
-    "wof:lastmodified":1537683909,
+    "wof:lastmodified":1564102919,
     "wof:name":"Carica",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

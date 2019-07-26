@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u0438\u0441\u0443\u0440\u0438\u0446\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03b5\u03b9\u03c3\u03bf\u03c5\u03c1\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Klisurica"
+    ],
+    "name:hrv_x_preferred":[
+        "Klisurica"
+    ],
+    "name:slv_x_preferred":[
+        "Klisurica"
+    ],
     "name:srp_x_preferred":[
         "Klisurica"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043b\u0438\u0441\u0443\u0440\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1293705223,
-    "wof:lastmodified":1537683780,
+    "wof:lastmodified":1564103316,
     "wof:name":"Klisurica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

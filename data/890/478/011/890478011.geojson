@@ -15,6 +15,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Barice"
+    ],
+    "name:ceb_x_preferred":[
+        "Barice"
+    ],
+    "name:fra_x_preferred":[
+        "Barice"
+    ],
+    "name:hrv_x_preferred":[
+        "Barice"
+    ],
+    "name:slv_x_preferred":[
+        "Barice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Barice"
+    ],
     "qs:name":"Barice",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":890478011,
-    "wof:lastmodified":1527727121,
+    "wof:lastmodified":1564104287,
     "wof:name":"Barice",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

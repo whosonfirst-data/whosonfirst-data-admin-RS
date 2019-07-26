@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gr\u010dac"
+    ],
+    "name:fra_x_preferred":[
+        "Gr\u010dac"
+    ],
+    "name:msa_x_preferred":[
+        "Gr\u010dac"
+    ],
+    "name:por_x_preferred":[
+        "Gr\u010dac"
+    ],
+    "name:slv_x_preferred":[
+        "Gr\u010dac"
+    ],
     "name:srp_x_preferred":[
         "Gr\u010dac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0447\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209229409,
-    "wof:lastmodified":1537683891,
+    "wof:lastmodified":1564103729,
     "wof:name":"Grcac",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

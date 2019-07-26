@@ -26,8 +26,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
+    "name:deu_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
+    "name:epo_x_preferred":[
+        "Ba\u0109ki Brestovac"
+    ],
+    "name:fra_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
+    "name:hun_x_preferred":[
+        "Szilberek"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
+    "name:ron_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dki Brestovac"
+    ],
     "name:srp_x_preferred":[
         "Ba\u010dki Brestovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0447\u043a\u0438 \u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0446\u044c\u043a\u0438\u0439 \u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:und_x_variant":[
         "Ulmenau",
@@ -62,7 +95,7 @@
         }
     ],
     "wof:id":1243564663,
-    "wof:lastmodified":1537683952,
+    "wof:lastmodified":1564104447,
     "wof:name":"Backi Brestovac",
     "wof:parent_id":1108810009,
     "wof:placetype":"locality",

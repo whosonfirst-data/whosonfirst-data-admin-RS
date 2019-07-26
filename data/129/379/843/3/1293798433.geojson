@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0441\u043a\u043e\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Gradskovo"
+    ],
+    "name:deu_x_preferred":[
+        "Gradskovo"
+    ],
+    "name:fra_x_preferred":[
+        "Gradskovo"
+    ],
+    "name:msa_x_preferred":[
+        "Gradskovo"
+    ],
+    "name:por_x_preferred":[
+        "Gradskovo"
+    ],
+    "name:slv_x_preferred":[
+        "Gradskovo"
+    ],
     "name:srp_x_preferred":[
         "Gradskovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0434\u0441\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Gradskov"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1293798433,
-    "wof:lastmodified":1537683792,
+    "wof:lastmodified":1564103296,
     "wof:name":"Gradskovo",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

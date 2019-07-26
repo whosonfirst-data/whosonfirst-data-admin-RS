@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rastovnica"
+    ],
+    "name:msa_x_preferred":[
+        "Rastovnica"
+    ],
+    "name:por_x_preferred":[
+        "Rastovnica"
+    ],
+    "name:slv_x_preferred":[
+        "Rastovnica"
+    ],
+    "name:sqi_x_preferred":[
+        "Rastavica"
+    ],
     "name:srp_x_preferred":[
         "Rastovnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0441\u0442\u043e\u0432\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1344272053,
-    "wof:lastmodified":1537683728,
+    "wof:lastmodified":1564103197,
     "wof:name":"Rastovnica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

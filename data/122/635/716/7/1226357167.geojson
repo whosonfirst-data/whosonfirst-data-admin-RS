@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vratna"
+    ],
+    "name:deu_x_preferred":[
+        "Vratna"
+    ],
+    "name:fra_x_preferred":[
+        "Vratna"
+    ],
+    "name:msa_x_preferred":[
+        "Vratna"
+    ],
+    "name:por_x_preferred":[
+        "Vratna"
+    ],
+    "name:slv_x_preferred":[
+        "Vratna"
+    ],
     "name:srp_x_preferred":[
         "Vratna"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u0442\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226357167,
-    "wof:lastmodified":1537683690,
+    "wof:lastmodified":1564104705,
     "wof:name":"Vratna",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

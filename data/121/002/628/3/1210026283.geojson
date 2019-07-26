@@ -26,6 +26,30 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tavnik"
+    ],
+    "name:fra_x_preferred":[
+        "Tavnik"
+    ],
+    "name:hun_x_preferred":[
+        "Tavnik"
+    ],
+    "name:msa_x_preferred":[
+        "Tavnik"
+    ],
+    "name:nld_x_preferred":[
+        "Tavnik"
+    ],
+    "name:por_x_preferred":[
+        "Tavnik"
+    ],
+    "name:slv_x_preferred":[
+        "Tavnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0432\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688273,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1210026283,
-    "wof:lastmodified":1537572094,
+    "wof:lastmodified":1564103836,
     "wof:name":"Tavnik",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

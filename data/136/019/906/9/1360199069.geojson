@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marenovo"
+    ],
+    "name:fra_x_preferred":[
+        "Marenovo"
+    ],
+    "name:msa_x_preferred":[
+        "Marenovo"
+    ],
+    "name:por_x_preferred":[
+        "Marenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Marenovo"
+    ],
     "name:srp_x_preferred":[
         "Marenovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1360199069,
-    "wof:lastmodified":1537683759,
+    "wof:lastmodified":1564104190,
     "wof:name":"Marenovo",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

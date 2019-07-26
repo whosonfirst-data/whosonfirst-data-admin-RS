@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vitanovac"
+    ],
+    "name:fra_x_preferred":[
+        "Vitanovac"
+    ],
+    "name:hun_x_preferred":[
+        "Vitanovac"
+    ],
+    "name:msa_x_preferred":[
+        "Vitanovac"
+    ],
+    "name:nld_x_preferred":[
+        "Vitanovac"
+    ],
+    "name:por_x_preferred":[
+        "Vitanovac"
+    ],
+    "name:slv_x_preferred":[
+        "Vitanovac"
+    ],
     "name:srp_x_preferred":[
         "Vitanovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0442\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1209833789,
-    "wof:lastmodified":1537683694,
+    "wof:lastmodified":1564103686,
     "wof:name":"Vitanovac",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

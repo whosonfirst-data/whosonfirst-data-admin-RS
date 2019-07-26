@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vrbovski"
+    ],
+    "name:ron_x_preferred":[
+        "Vrbovski"
+    ],
     "name:und_x_variant":[
         "Ekonomija Vrbovski",
         "Vrbovski"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1293108779,
-    "wof:lastmodified":1537683898,
+    "wof:lastmodified":1564103434,
     "wof:name":"Vrbovski",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

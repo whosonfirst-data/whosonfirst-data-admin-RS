@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ivanovci"
+    ],
+    "name:fra_x_preferred":[
+        "Ivanovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Ivanovci"
+    ],
+    "name:nld_x_preferred":[
+        "Ivanovci"
+    ],
+    "name:slv_x_preferred":[
+        "Ivanovci"
+    ],
     "name:srp_x_preferred":[
         "Ivanovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1242884105,
-    "wof:lastmodified":1537683789,
+    "wof:lastmodified":1564104364,
     "wof:name":"Ivanovci",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zeoke"
+    ],
+    "name:hrv_x_preferred":[
+        "Zeoke"
+    ],
+    "name:slv_x_preferred":[
+        "Zeoke"
+    ],
     "name:srp_x_preferred":[
         "Zeoke"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0435\u043e\u043a\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243278681,
-    "wof:lastmodified":1537683685,
+    "wof:lastmodified":1564104502,
     "wof:name":"Zeoke",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

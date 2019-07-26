@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bri\u010devlje"
+    ],
+    "name:fra_x_preferred":[
+        "Bri\u010devlje"
+    ],
+    "name:msa_x_preferred":[
+        "Bri\u010devlje"
+    ],
+    "name:por_x_preferred":[
+        "Bri\u010devlje"
+    ],
+    "name:slv_x_preferred":[
+        "Bri\u010devlje"
+    ],
     "name:srp_x_preferred":[
         "Bri\u010devlje"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0438\u0447\u0435\u0432\u0459\u0435"
     ],
     "name:und_x_variant":[
         "Bri\u010devje"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1360203001,
-    "wof:lastmodified":1537683827,
+    "wof:lastmodified":1564104167,
     "wof:name":"Bricevlje",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

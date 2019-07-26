@@ -26,6 +26,42 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:ces_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:deu_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:epo_x_preferred":[
+        "Slankamena\u0109ki Vinogradi"
+    ],
+    "name:fra_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:hrv_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:hun_x_preferred":[
+        "Szal\u00e1nkem\u00e9nsz\u0151l\u0151s"
+    ],
+    "name:msa_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u043d\u043a\u0430\u043c\u0435\u043d\u0430\u0447\u043a\u0438-\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Slankamensk\u00e9 Vinohrady"
+    ],
+    "name:slv_x_preferred":[
+        "Slankamena\u010dki Vinogradi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u043d\u043a\u0430\u043c\u0435\u043d\u0430\u0447\u043a\u0438 \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
+    ],
     "name:und_x_variant":[
         "Slankamen Vinogradi",
         "Slankamena\u010dki Vinogradi"
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1209332671,
-    "wof:lastmodified":1537683915,
+    "wof:lastmodified":1564103779,
     "wof:name":"Slankamenacki Vinogradi",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

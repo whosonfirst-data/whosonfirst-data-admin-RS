@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u041d\u0435\u0432\u043b\u044f"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Nevlja"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Nevlja"
+    ],
+    "name:por_x_preferred":[
+        "Gornja Nevlja"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Nevlja"
+    ],
     "name:srp_x_preferred":[
         "Gornja Nevlja"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u041d\u0435\u0432\u0459\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1292913263,
-    "wof:lastmodified":1537683798,
+    "wof:lastmodified":1564103395,
     "wof:name":"Gornja Nevlja",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Studena"
+    ],
+    "name:ceb_x_preferred":[
+        "Studena"
+    ],
+    "name:eus_x_preferred":[
+        "Studena"
+    ],
+    "name:fra_x_preferred":[
+        "Studena"
+    ],
+    "name:hrv_x_preferred":[
+        "Studena"
+    ],
+    "name:slv_x_preferred":[
+        "Studena"
+    ],
     "name:srp_x_preferred":[
+        "Studena"
+    ],
+    "name:swe_x_preferred":[
         "Studena"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1277092545,
-    "wof:lastmodified":1537683708,
+    "wof:lastmodified":1564103468,
     "wof:name":"Studena",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

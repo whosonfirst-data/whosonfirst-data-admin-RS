@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Piroman"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03c1\u03bf\u03bc\u03b1\u03bd"
+    ],
+    "name:fra_x_preferred":[
+        "Piroman"
+    ],
+    "name:msa_x_preferred":[
+        "Piroman"
+    ],
+    "name:por_x_preferred":[
+        "Piroman"
+    ],
+    "name:slv_x_preferred":[
+        "Piroman"
+    ],
     "name:srp_x_preferred":[
         "Piroman"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0438\u0440\u043e\u043c\u0430\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276888207,
-    "wof:lastmodified":1537683740,
+    "wof:lastmodified":1564103470,
     "wof:name":"Piroman",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

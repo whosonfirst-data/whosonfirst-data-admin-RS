@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0438\u043d\u044f"
+    ],
+    "name:fra_x_preferred":[
+        "Slavinja"
+    ],
+    "name:msa_x_preferred":[
+        "Slavinja"
+    ],
+    "name:por_x_preferred":[
+        "Slavinja"
+    ],
+    "name:slv_x_preferred":[
+        "Slavinja"
+    ],
     "name:srp_x_preferred":[
         "Slavinja"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043b\u0430\u0432\u0438\u045a\u0430"
     ],
     "name:und_x_variant":[
         "Slavinje"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1259693959,
-    "wof:lastmodified":1537683715,
+    "wof:lastmodified":1564104621,
     "wof:name":"Slavinja",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

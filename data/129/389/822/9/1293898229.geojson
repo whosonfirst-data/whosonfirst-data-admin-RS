@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Glogovica"
+    ],
+    "name:msa_x_preferred":[
+        "Glogovica"
+    ],
+    "name:por_x_preferred":[
+        "Glogovica"
+    ],
+    "name:slv_x_preferred":[
+        "Glogovica"
+    ],
     "name:srp_x_preferred":[
         "Glogovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293898229,
-    "wof:lastmodified":1537683800,
+    "wof:lastmodified":1564103418,
     "wof:name":"Glogovica",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

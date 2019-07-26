@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guberevce"
+    ],
+    "name:fra_x_preferred":[
+        "Guberevac"
+    ],
+    "name:msa_x_preferred":[
+        "Guberevac"
+    ],
+    "name:por_x_preferred":[
+        "Guberevac"
+    ],
+    "name:slv_x_preferred":[
+        "Guberevac"
+    ],
     "name:srp_x_preferred":[
         "Guberevce"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0443\u0431\u0435\u0440\u0435\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Guberevac"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209233037,
-    "wof:lastmodified":1537683790,
+    "wof:lastmodified":1564103708,
     "wof:name":"Guberevce",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

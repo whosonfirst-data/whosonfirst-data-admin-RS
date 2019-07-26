@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mali Crljeni"
+    ],
+    "name:fra_x_preferred":[
+        "Mali Crljeni"
+    ],
+    "name:msa_x_preferred":[
+        "Mali Crljeni"
+    ],
+    "name:por_x_preferred":[
+        "Mali Crljeni"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Crljeni"
+    ],
     "name:srp_x_preferred":[
         "Mali Crljeni"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0426\u0440\u0459\u0435\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Crljeni",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276557963,
-    "wof:lastmodified":1537683761,
+    "wof:lastmodified":1564103615,
     "wof:name":"Mali Crljeni",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

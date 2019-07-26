@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lipar"
+    ],
+    "name:epo_x_preferred":[
+        "Lipar"
+    ],
+    "name:fra_x_preferred":[
+        "Lipar"
+    ],
+    "name:hrv_x_preferred":[
+        "Lipar"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1csistenseg\u00edts"
+    ],
+    "name:msa_x_preferred":[
+        "Lipar"
+    ],
+    "name:ron_x_preferred":[
+        "Lipar"
+    ],
+    "name:slv_x_preferred":[
+        "Lipar"
+    ],
     "name:srp_x_preferred":[
         "Lipar"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0438\u043f\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u0430\u0440"
     ],
     "name:und_x_variant":[
         "Emusitz",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1293794071,
-    "wof:lastmodified":1537683935,
+    "wof:lastmodified":1564103298,
     "wof:name":"Lipar",
     "wof:parent_id":1108809941,
     "wof:placetype":"locality",

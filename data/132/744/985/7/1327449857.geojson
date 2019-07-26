@@ -26,7 +26,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kukavice"
+    ],
+    "name:ceb_x_preferred":[
+        "Kukavice"
+    ],
+    "name:fra_x_preferred":[
+        "Kukavice"
+    ],
+    "name:hrv_x_preferred":[
+        "Kukavice"
+    ],
     "name:srp_x_preferred":[
+        "Kukavice"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Kukavice"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1327449857,
-    "wof:lastmodified":1537683888,
+    "wof:lastmodified":1564103038,
     "wof:name":"Kukavice",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donji Petrovci"
+    ],
+    "name:epo_x_preferred":[
+        "Donji Petrovci"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Petrovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Petrovci"
+    ],
+    "name:hun_x_preferred":[
+        "Donji Petrovci"
+    ],
+    "name:msa_x_preferred":[
+        "Donji Petrovci"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Petrovci"
+    ],
     "name:srp_x_preferred":[
         "Donji Petrovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0438 \u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Petrovci"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1209924231,
-    "wof:lastmodified":1537683944,
+    "wof:lastmodified":1564103743,
     "wof:name":"Donji Petrovci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

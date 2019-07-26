@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kamenare"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenare"
+    ],
+    "name:msa_x_preferred":[
+        "Kamenare"
+    ],
+    "name:por_x_preferred":[
+        "Kamenare"
+    ],
+    "name:slv_x_preferred":[
+        "Kamenare"
+    ],
     "name:srp_x_preferred":[
         "Kamenare"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u043c\u0435\u043d\u0430\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1327348207,
-    "wof:lastmodified":1537683783,
+    "wof:lastmodified":1564102955,
     "wof:name":"Kamenare",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

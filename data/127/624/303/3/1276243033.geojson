@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Lebet"
+    ],
+    "name:fra_x_preferred":[
+        "Lebet"
+    ],
+    "name:msa_x_preferred":[
+        "Lebet"
+    ],
+    "name:por_x_preferred":[
+        "Lebet"
+    ],
+    "name:slv_x_preferred":[
+        "Lebet"
+    ],
     "name:srp_x_preferred":[
         "Lebet"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0431\u0435\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276243033,
-    "wof:lastmodified":1537683872,
+    "wof:lastmodified":1564103581,
     "wof:name":"Lebet",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

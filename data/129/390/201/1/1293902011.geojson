@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Burdimo"
+    ],
+    "name:fra_x_preferred":[
+        "Burdimo"
+    ],
+    "name:msa_x_preferred":[
+        "Burdimo"
+    ],
+    "name:por_x_preferred":[
+        "Burdimo"
+    ],
+    "name:slv_x_preferred":[
+        "Burdimo"
+    ],
     "name:srp_x_preferred":[
         "Burdimo"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0440\u0434\u0438\u043c\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293902011,
-    "wof:lastmodified":1537683824,
+    "wof:lastmodified":1564103285,
     "wof:name":"Burdimo",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

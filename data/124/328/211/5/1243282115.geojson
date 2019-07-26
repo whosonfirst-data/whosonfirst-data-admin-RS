@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mala Remeta"
+    ],
+    "name:epo_x_preferred":[
+        "Mala Remeta"
+    ],
+    "name:fra_x_preferred":[
+        "Mala Remeta"
+    ],
+    "name:hun_x_preferred":[
+        "Kisremete"
+    ],
+    "name:msa_x_preferred":[
+        "Mala Remeta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430-\u0420\u0435\u043c\u0435\u0442\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Mala Remeta"
+    ],
     "name:srp_x_preferred":[
         "Mala Remeta"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0430 \u0420\u0435\u043c\u0435\u0442\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1243282115,
-    "wof:lastmodified":1537683933,
+    "wof:lastmodified":1564104514,
     "wof:name":"Mala Remeta",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

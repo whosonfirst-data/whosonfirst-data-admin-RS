@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lucina"
+    ],
+    "name:ces_x_preferred":[
+        "Lucina"
+    ],
+    "name:deu_x_preferred":[
+        "Lucina"
+    ],
+    "name:fra_x_preferred":[
+        "Lucina"
+    ],
+    "name:hun_x_preferred":[
+        "Lucina"
+    ],
+    "name:ita_x_preferred":[
+        "Lucina"
+    ],
+    "name:nds_x_preferred":[
+        "Lucina"
+    ],
+    "name:nor_x_preferred":[
+        "Lucina"
+    ],
+    "name:ron_x_preferred":[
+        "Lucina"
+    ],
     "name:srp_x_preferred":[
         "Lu\u010dina"
+    ],
+    "name:swe_x_preferred":[
+        "Lucina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1242787567,
-    "wof:lastmodified":1537683765,
+    "wof:lastmodified":1564104466,
     "wof:name":"Lucina",
     "wof:parent_id":1108809871,
     "wof:placetype":"locality",

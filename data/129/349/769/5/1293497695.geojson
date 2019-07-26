@@ -26,6 +26,48 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Crvenka"
+    ],
+    "name:ces_x_preferred":[
+        "Crvenka"
+    ],
+    "name:deu_x_preferred":[
+        "Crvenka"
+    ],
+    "name:epo_x_preferred":[
+        "Crvenka"
+    ],
+    "name:fra_x_preferred":[
+        "Crvenka"
+    ],
+    "name:hrv_x_preferred":[
+        "Crvenka"
+    ],
+    "name:hun_x_preferred":[
+        "Cservenka"
+    ],
+    "name:msa_x_preferred":[
+        "Crvenka"
+    ],
+    "name:pol_x_preferred":[
+        "Crvenka"
+    ],
+    "name:slv_x_preferred":[
+        "Crvenka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Crvenka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u8328\u723e\u6587\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688279,
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1293497695,
-    "wof:lastmodified":1536772874,
+    "wof:lastmodified":1564103320,
     "wof:name":"Crvenka",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

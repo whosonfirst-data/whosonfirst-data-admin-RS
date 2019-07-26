@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loznac"
+    ],
+    "name:deu_x_preferred":[
+        "Loznac"
+    ],
+    "name:fra_x_preferred":[
+        "Loznac"
+    ],
+    "name:msa_x_preferred":[
+        "Loznac"
+    ],
+    "name:por_x_preferred":[
+        "Loznac"
+    ],
+    "name:slv_x_preferred":[
+        "Loznac"
+    ],
     "name:srp_x_preferred":[
         "Loznac"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u043e\u0437\u043d\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Losnac"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1276557995,
-    "wof:lastmodified":1537683766,
+    "wof:lastmodified":1564103615,
     "wof:name":"Loznac",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kostur"
+    ],
+    "name:fra_x_preferred":[
+        "Kostur"
+    ],
+    "name:msa_x_preferred":[
+        "Kostur"
+    ],
+    "name:por_x_preferred":[
+        "Kostur"
+    ],
+    "name:slv_x_preferred":[
+        "Kostur"
+    ],
     "name:srp_x_preferred":[
         "Kostur"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0441\u0442\u0443\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225863145,
-    "wof:lastmodified":1537572051,
+    "wof:lastmodified":1564104721,
     "wof:name":"Kostur",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

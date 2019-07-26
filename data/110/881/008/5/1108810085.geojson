@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032443,
-    "geom:area_square_m":280822835.011741,
+    "geom:area_square_m":280822835.011713,
     "geom:bbox":"19.7052645,45.468561,19.965677,45.694442",
     "geom:latitude":45.571085,
     "geom:longitude":19.819322,
@@ -21,8 +21,74 @@
     "meso:name_loc":"Srbobran",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u044a\u0440\u0431\u043e\u0431\u0440\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Srbobran"
+    ],
+    "name:ces_x_preferred":[
+        "Srbobran"
+    ],
+    "name:deu_x_preferred":[
+        "Srbobran"
+    ],
+    "name:epo_x_preferred":[
+        "Srbobran"
+    ],
+    "name:fra_x_preferred":[
+        "Srbobran"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Tomo"
+    ],
+    "name:hun_x_preferred":[
+        "Szenttam\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Srbobran"
+    ],
+    "name:msa_x_preferred":[
+        "Srbobran"
+    ],
+    "name:nld_x_preferred":[
+        "Srbobran"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u0628\u0648\u0628\u0631\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Srbobran"
+    ],
+    "name:ron_x_preferred":[
+        "Srbobran"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0431\u043e\u0431\u0440\u0430\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Srbobran"
+    ],
+    "name:spa_x_preferred":[
+        "Srbobran"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0431\u043e\u0431\u0440\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Srbobran"
+    ],
+    "name:tur_x_preferred":[
+        "Srbobran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0431\u043e\u0431\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Srbobran"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u723e\u535a\u5e03\u862d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +113,7 @@
         }
     ],
     "wof:id":1108810085,
-    "wof:lastmodified":1512517090,
+    "wof:lastmodified":1564103970,
     "wof:name":"Srbobran",
     "wof:parent_id":85688295,
     "wof:placetype":"localadmin",

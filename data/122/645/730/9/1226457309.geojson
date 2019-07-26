@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nozrina"
+    ],
+    "name:fra_x_preferred":[
+        "Nozrina"
+    ],
+    "name:msa_x_preferred":[
+        "Nozrina"
+    ],
+    "name:por_x_preferred":[
+        "Nozrina"
+    ],
+    "name:slv_x_preferred":[
+        "Nozrina"
+    ],
     "name:srp_x_preferred":[
         "Nozrina"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0437\u0440\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Vozrina"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226457309,
-    "wof:lastmodified":1537683748,
+    "wof:lastmodified":1564104667,
     "wof:name":"Nozrina",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

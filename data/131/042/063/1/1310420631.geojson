@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gojna Gora"
+    ],
+    "name:fra_x_preferred":[
+        "Gojna Gora"
+    ],
+    "name:msa_x_preferred":[
+        "Gojna Gora"
+    ],
+    "name:por_x_preferred":[
+        "Gojna Gora"
+    ],
+    "name:slv_x_preferred":[
+        "Gojna Gora"
+    ],
     "name:srp_x_preferred":[
         "Gojna Gora"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0458\u043d\u0430 \u0413\u043e\u0440\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310420631,
-    "wof:lastmodified":1537683853,
+    "wof:lastmodified":1564104050,
     "wof:name":"Gojna Gora",
     "wof:parent_id":1108809897,
     "wof:placetype":"locality",

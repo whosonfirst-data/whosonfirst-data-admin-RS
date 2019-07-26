@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vukovina"
+    ],
+    "name:ceb_x_preferred":[
+        "Vukovina"
+    ],
+    "name:hrv_x_preferred":[
+        "Vukovina"
+    ],
+    "name:hun_x_preferred":[
+        "Vukovina"
+    ],
+    "name:slv_x_preferred":[
+        "Vukovina"
+    ],
     "name:srp_x_preferred":[
         "Vukovina"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0443\u043a\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vukovina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1326639765,
-    "wof:lastmodified":1537684018,
+    "wof:lastmodified":1564103015,
     "wof:name":"Vukovina",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

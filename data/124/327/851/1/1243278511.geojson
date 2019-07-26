@@ -26,8 +26,53 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Borja"
+    ],
+    "name:cat_x_preferred":[
+        "Borja"
+    ],
+    "name:ceb_x_preferred":[
+        "Borja"
+    ],
+    "name:deu_x_preferred":[
+        "Borja"
+    ],
+    "name:fra_x_preferred":[
+        "Borja"
+    ],
+    "name:hrv_x_preferred":[
+        "Borja"
+    ],
+    "name:ita_x_preferred":[
+        "Borja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30cf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\ud558"
+    ],
+    "name:pol_x_preferred":[
+        "Borja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0445\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Borja"
+    ],
     "name:srp_x_preferred":[
         "Borja"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0440\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Borja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0445\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +99,7 @@
         }
     ],
     "wof:id":1243278511,
-    "wof:lastmodified":1537684025,
+    "wof:lastmodified":1564104503,
     "wof:name":"Borja",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

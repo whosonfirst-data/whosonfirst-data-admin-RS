@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lovci"
+    ],
+    "name:slv_x_preferred":[
+        "Lovci"
+    ],
     "name:srp_x_preferred":[
         "Lovci"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u043e\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Lovce"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1260192979,
-    "wof:lastmodified":1537683766,
+    "wof:lastmodified":1564103919,
     "wof:name":"Lovci",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

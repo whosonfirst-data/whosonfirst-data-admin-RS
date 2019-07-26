@@ -26,7 +26,34 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sastavci"
+    ],
+    "name:ces_x_preferred":[
+        "Sastavci"
+    ],
+    "name:deu_x_preferred":[
+        "Sastavci"
+    ],
+    "name:fra_x_preferred":[
+        "Sastavci"
+    ],
+    "name:ita_x_preferred":[
+        "Sastavci"
+    ],
+    "name:pol_x_preferred":[
+        "Sastavci"
+    ],
+    "name:slk_x_preferred":[
+        "Sastavci"
+    ],
     "name:srp_x_preferred":[
+        "Sastavci"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u0441\u0442\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Sastavci"
     ],
     "src:geom":"geonames",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1344171665,
-    "wof:lastmodified":1537683849,
+    "wof:lastmodified":1564103180,
     "wof:name":"Sastavci",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

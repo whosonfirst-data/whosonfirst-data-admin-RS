@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mu\u017einac"
+    ],
+    "name:deu_x_preferred":[
+        "Mu\u017einac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03b6\u03b9\u03bd\u03b1\u03c4\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Mu\u017einac"
+    ],
+    "name:msa_x_preferred":[
+        "Mu\u017einac"
+    ],
+    "name:por_x_preferred":[
+        "Mu\u017einac"
+    ],
+    "name:slv_x_preferred":[
+        "Mu\u017einac"
+    ],
     "name:srp_x_preferred":[
         "Mu\u017einac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0443\u0436\u0438\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1225859501,
-    "wof:lastmodified":1537683751,
+    "wof:lastmodified":1564104806,
     "wof:name":"Muzinac",
     "wof:parent_id":1108810079,
     "wof:placetype":"locality",

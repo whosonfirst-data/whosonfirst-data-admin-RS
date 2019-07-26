@@ -27,11 +27,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Martono\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Martono\u015d"
+    ],
+    "name:est_x_preferred":[
+        "Martono\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Martono\u0161"
+    ],
     "name:hun_x_preferred":[
         "Martonos"
     ],
+    "name:msa_x_preferred":[
+        "Martono\u0161"
+    ],
+    "name:ron_x_preferred":[
+        "Martono\u0161"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u043e\u043d\u043e\u0448"
+    ],
+    "name:slv_x_preferred":[
+        "Martono\u0161"
+    ],
     "name:srp_x_preferred":[
         "Martono\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u0442\u043e\u043d\u043e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u043e\u043d\u043e\u0448"
     ],
     "name:und_x_variant":[
         "B\u00e1csmartonos",
@@ -64,7 +94,7 @@
         }
     ],
     "wof:id":1276373183,
-    "wof:lastmodified":1537683759,
+    "wof:lastmodified":1564103641,
     "wof:name":"Martonos",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

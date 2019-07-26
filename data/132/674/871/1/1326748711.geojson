@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bjeloti\u0107i"
+    ],
+    "name:deu_x_preferred":[
+        "Bjeloti\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Bjeloti\u0107i"
+    ],
+    "name:msa_x_preferred":[
+        "Bjeloti\u0107i"
+    ],
+    "name:por_x_preferred":[
+        "Bjeloti\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Bjeloti\u0107i"
+    ],
     "name:srp_x_preferred":[
         "Bjeloti\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0458\u0435\u043b\u043e\u0442\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
         "Beloti\u0107i"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1326748711,
-    "wof:lastmodified":1537683949,
+    "wof:lastmodified":1564102896,
     "wof:name":"Bjelotici",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

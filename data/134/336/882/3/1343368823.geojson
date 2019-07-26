@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donje \u0160tiplje"
+    ],
+    "name:fra_x_preferred":[
+        "Donje \u0160tiplje"
+    ],
+    "name:msa_x_preferred":[
+        "Donje \u0160tiplje"
+    ],
+    "name:por_x_preferred":[
+        "Donje \u0160tiplje"
+    ],
+    "name:slv_x_preferred":[
+        "Donje \u0160tiplje"
+    ],
     "name:srp_x_preferred":[
         "Donje \u0160tiplje"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435 \u0428\u0442\u0438\u043f\u0459\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343368823,
-    "wof:lastmodified":1537683810,
+    "wof:lastmodified":1564103052,
     "wof:name":"Donje Stiplje",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prekonoga"
+    ],
+    "name:deu_x_preferred":[
+        "Prekonoga"
+    ],
+    "name:fra_x_preferred":[
+        "Prekonoga"
+    ],
+    "name:msa_x_preferred":[
+        "Prekonoga"
+    ],
+    "name:por_x_preferred":[
+        "Prekonoga"
+    ],
+    "name:slv_x_preferred":[
+        "Prekonoga"
+    ],
     "name:srp_x_preferred":[
         "Prekonoga"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u043a\u043e\u043d\u043e\u0433\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226452461,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564104673,
     "wof:name":"Prekonoga",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

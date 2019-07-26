@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dolovi"
+    ],
+    "name:ceb_x_preferred":[
+        "Dolovi"
+    ],
+    "name:fra_x_preferred":[
+        "Dolovi"
+    ],
+    "name:hrv_x_preferred":[
+        "Dolovi"
+    ],
+    "name:slv_x_preferred":[
+        "Dolovi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043e\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dolovi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1360199057,
-    "wof:lastmodified":1536781659,
+    "wof:lastmodified":1564104197,
     "wof:name":"Dolovi",
     "wof:parent_id":1108809821,
     "wof:placetype":"locality",

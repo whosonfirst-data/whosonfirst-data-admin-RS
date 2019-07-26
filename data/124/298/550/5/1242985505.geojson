@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Barice"
+    ],
+    "name:ceb_x_preferred":[
+        "Barice"
+    ],
+    "name:fra_x_preferred":[
+        "Barice"
+    ],
+    "name:hrv_x_preferred":[
+        "Barice"
+    ],
+    "name:slv_x_preferred":[
+        "Barice"
+    ],
     "name:srp_x_preferred":[
+        "Barice"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0440\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Barice"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1242985505,
-    "wof:lastmodified":1537684014,
+    "wof:lastmodified":1564104473,
     "wof:name":"Barice",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

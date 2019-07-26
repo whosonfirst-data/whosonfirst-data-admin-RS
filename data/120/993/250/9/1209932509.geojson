@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taskovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Taskovi\u0107i"
+    ],
+    "name:msa_x_preferred":[
+        "Taskovi\u0107i"
+    ],
+    "name:por_x_preferred":[
+        "Taskovi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Taskovi\u0107i"
+    ],
     "name:srp_x_preferred":[
         "Taskovi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0430\u0441\u043a\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
         "Dra\u0161kova Kutina"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1209932509,
-    "wof:lastmodified":1537683705,
+    "wof:lastmodified":1564103764,
     "wof:name":"Taskovici",
     "wof:parent_id":1108809893,
     "wof:placetype":"locality",

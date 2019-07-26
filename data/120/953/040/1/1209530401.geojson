@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Velere\u010d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0631\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Velere\u010d"
+    ],
+    "name:msa_x_preferred":[
+        "Velere\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Velere\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Velere\u010d"
+    ],
     "name:srp_x_preferred":[
         "Velere\u010d"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0435\u0440\u0435\u0447"
     ],
     "name:und_x_variant":[
         "Velerije\u010d"
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209530401,
-    "wof:lastmodified":1537683698,
+    "wof:lastmodified":1564103643,
     "wof:name":"Velerec",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

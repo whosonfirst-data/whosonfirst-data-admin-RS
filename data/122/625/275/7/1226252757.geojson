@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c1\u03bf\u03cd\u03b3\u03ba\u03bf\u03b2\u03b1\u03c4\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Drugovac"
+    ],
+    "name:msa_x_preferred":[
+        "Drugovac"
+    ],
+    "name:por_x_preferred":[
+        "Drugovac"
+    ],
+    "name:slv_x_preferred":[
+        "Drugovac"
+    ],
     "name:srp_x_preferred":[
         "Drugovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0443\u0433\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226252757,
-    "wof:lastmodified":1537683806,
+    "wof:lastmodified":1564104730,
     "wof:name":"Drugovac",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

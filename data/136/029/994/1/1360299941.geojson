@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Darkovce"
+    ],
+    "name:fra_x_preferred":[
+        "Darkovce"
+    ],
+    "name:hun_x_preferred":[
+        "Darkovce"
+    ],
+    "name:msa_x_preferred":[
+        "Darkovce"
+    ],
+    "name:por_x_preferred":[
+        "Darkovce"
+    ],
+    "name:slv_x_preferred":[
+        "Darkovce"
+    ],
     "name:srp_x_preferred":[
         "Darkovce"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0430\u0440\u043a\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Darkovac"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1360299941,
-    "wof:lastmodified":1537683817,
+    "wof:lastmodified":1564104179,
     "wof:name":"Darkovce",
     "wof:parent_id":1108809877,
     "wof:placetype":"locality",

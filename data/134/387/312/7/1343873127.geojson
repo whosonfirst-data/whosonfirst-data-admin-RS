@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kovizla"
+    ],
+    "name:msa_x_preferred":[
+        "Kovizla"
+    ],
+    "name:nld_x_preferred":[
+        "Kovizla"
+    ],
+    "name:por_x_preferred":[
+        "Kovizla"
+    ],
+    "name:slv_x_preferred":[
+        "Kovizla"
+    ],
     "name:srp_x_preferred":[
         "Kovizla"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0432\u0438\u0437\u043b\u0435"
     ],
     "name:und_x_variant":[
         "Kovizle"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1343873127,
-    "wof:lastmodified":1537683776,
+    "wof:lastmodified":1564103216,
     "wof:name":"Kovizla",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010ce\u0161ljeva Bara"
+    ],
+    "name:fra_x_preferred":[
+        "\u010ce\u0161ljeva Bara"
+    ],
+    "name:msa_x_preferred":[
+        "\u010ce\u0161ljeva Bara"
+    ],
+    "name:por_x_preferred":[
+        "\u010ce\u0161ljeva Bara"
+    ],
+    "name:slv_x_preferred":[
+        "\u010ce\u0161ljeva Bara"
+    ],
     "name:srp_x_preferred":[
         "\u010ce\u0161ljeva Bara"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0435\u0448\u0459\u0435\u0432\u0430 \u0411\u0430\u0440\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1309923955,
-    "wof:lastmodified":1537683822,
+    "wof:lastmodified":1564104248,
     "wof:name":"Cesljeva Bara",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ba\u010dko Du\u0161anovo"
+    ],
+    "name:epo_x_preferred":[
+        "Ba\u0109ko Du\u015danovo"
+    ],
+    "name:fra_x_preferred":[
+        "Ba\u010dko Du\u0161anovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u010dko Du\u0161anovo"
+    ],
+    "name:hun_x_preferred":[
+        "Zenta\u00f6rs"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u010dko Du\u0161anovo"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dko Du\u0161anovo"
+    ],
     "name:srp_x_preferred":[
         "Ba\u010dko Du\u0161anovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0447\u043a\u043e \u0414\u0443\u0448\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0446\u044c\u043a\u0435 \u0414\u0443\u0448\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Du\u0161anovac",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1343780111,
-    "wof:lastmodified":1537683943,
+    "wof:lastmodified":1564103132,
     "wof:name":"Backo Dusanovo",
     "wof:parent_id":1108810097,
     "wof:placetype":"locality",

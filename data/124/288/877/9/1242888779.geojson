@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vlak\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Vlak\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Vlak\u010da"
+    ],
+    "name:por_x_preferred":[
+        "Vlak\u010da"
+    ],
+    "name:slv_x_preferred":[
+        "Vlak\u010da"
+    ],
     "name:srp_x_preferred":[
         "Vlak\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u043a\u0447\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1242888779,
-    "wof:lastmodified":1537683693,
+    "wof:lastmodified":1564104364,
     "wof:name":"Vlakca",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

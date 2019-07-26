@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gibarac"
+    ],
+    "name:epo_x_preferred":[
+        "Gibarac"
+    ],
+    "name:fra_x_preferred":[
+        "Gibarac"
+    ],
+    "name:hrv_x_preferred":[
+        "Gibarac"
+    ],
+    "name:hun_x_preferred":[
+        "Gibarac"
+    ],
+    "name:msa_x_preferred":[
+        "Gibarac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0431\u0430\u0440\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Gibarac"
+    ],
     "name:srp_x_preferred":[
         "Gibarac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0438\u0431\u0430\u0440\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1343368831,
-    "wof:lastmodified":1537683942,
+    "wof:lastmodified":1564103052,
     "wof:name":"Gibarac",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

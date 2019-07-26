@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lesenovci"
+    ],
+    "name:fra_x_preferred":[
+        "Lesenovci"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u057d\u0565\u0576\u0578\u057e\u0581\u056b"
+    ],
+    "name:msa_x_preferred":[
+        "Lesenovci"
+    ],
+    "name:por_x_preferred":[
+        "Lesenovci"
+    ],
+    "name:slv_x_preferred":[
+        "Lesenovci"
+    ],
+    "name:spa_x_preferred":[
+        "Lesenovci"
+    ],
     "name:srp_x_preferred":[
         "Lesenovci"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0441\u0435\u043d\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1242989021,
-    "wof:lastmodified":1537683770,
+    "wof:lastmodified":1564104481,
     "wof:name":"Lesenovci",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

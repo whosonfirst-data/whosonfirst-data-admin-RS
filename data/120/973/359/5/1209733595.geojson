@@ -26,7 +26,37 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Javorje"
+    ],
+    "name:ceb_x_preferred":[
+        "Javorje"
+    ],
+    "name:fra_x_preferred":[
+        "Javorje"
+    ],
+    "name:hrv_x_preferred":[
+        "Javorje"
+    ],
+    "name:hun_x_preferred":[
+        "Javorje"
+    ],
+    "name:nld_x_preferred":[
+        "Javorje"
+    ],
+    "name:pol_x_preferred":[
+        "Javorje"
+    ],
+    "name:slv_x_preferred":[
+        "Javorje"
+    ],
     "name:srp_x_preferred":[
+        "Javorje"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0432\u043e\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Javorje"
     ],
     "src:geom":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1209733595,
-    "wof:lastmodified":1537684016,
+    "wof:lastmodified":1564103796,
     "wof:name":"Javorje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

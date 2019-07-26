@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skorica"
+    ],
+    "name:fra_x_preferred":[
+        "Skorica"
+    ],
+    "name:msa_x_preferred":[
+        "Skorica"
+    ],
+    "name:por_x_preferred":[
+        "Skorica"
+    ],
+    "name:slv_x_preferred":[
+        "Skorica"
+    ],
     "name:srp_x_preferred":[
         "Skorica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043a\u043e\u0440\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226554435,
-    "wof:lastmodified":1537683716,
+    "wof:lastmodified":1564104772,
     "wof:name":"Skorica",
     "wof:parent_id":1108810055,
     "wof:placetype":"locality",

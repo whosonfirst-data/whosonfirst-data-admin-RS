@@ -26,7 +26,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Miletina"
+    ],
+    "name:ceb_x_preferred":[
+        "Miletina"
+    ],
+    "name:fra_x_preferred":[
+        "Miletina"
+    ],
+    "name:hrv_x_preferred":[
+        "Miletina"
+    ],
     "name:srp_x_preferred":[
+        "Miletina"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043b\u0435\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Miletina"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1344071643,
-    "wof:lastmodified":1537683959,
+    "wof:lastmodified":1564103096,
     "wof:name":"Miletina",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

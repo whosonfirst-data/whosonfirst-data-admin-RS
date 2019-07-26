@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sikole"
+    ],
+    "name:deu_x_preferred":[
+        "Sikole"
+    ],
+    "name:fra_x_preferred":[
+        "Sikole"
+    ],
+    "name:msa_x_preferred":[
+        "Sikole"
+    ],
+    "name:por_x_preferred":[
+        "Sikole"
+    ],
+    "name:slv_x_preferred":[
+        "Sikole"
+    ],
     "name:srp_x_preferred":[
         "Sikole"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u043a\u043e\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1242687997,
-    "wof:lastmodified":1537683717,
+    "wof:lastmodified":1564104368,
     "wof:name":"Sikole",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

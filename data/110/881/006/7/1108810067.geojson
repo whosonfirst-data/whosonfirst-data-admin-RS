@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034089,
-    "geom:area_square_m":293369652.334502,
+    "geom:area_square_m":293369652.334505,
     "geom:bbox":"19.7887815,45.810795,20.1379795,45.9874555",
     "geom:latitude":45.894647,
     "geom:longitude":19.965576,
@@ -21,8 +21,83 @@
     "meso:name_loc":"Senta",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Senta"
+    ],
+    "name:cat_x_preferred":[
+        "Senta"
+    ],
+    "name:ceb_x_preferred":[
+        "Senta"
+    ],
+    "name:ces_x_preferred":[
+        "Senta"
+    ],
+    "name:deu_x_preferred":[
+        "Senta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bd\u03c4\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Senta"
+    ],
+    "name:est_x_preferred":[
+        "Senta"
+    ],
+    "name:fra_x_preferred":[
+        "Senta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Senta"
+    ],
+    "name:hun_x_preferred":[
+        "Zenta"
+    ],
+    "name:ita_x_preferred":[
+        "Senta"
+    ],
+    "name:msa_x_preferred":[
+        "Senta"
+    ],
+    "name:nld_x_preferred":[
+        "Senta"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u06cc\u0646\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Senta"
+    ],
+    "name:ron_x_preferred":[
+        "Zenta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Senta"
+    ],
+    "name:spa_x_preferred":[
+        "Senta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Zenta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Senta"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d6\u05e2\u05e0\u05d8\u05d0"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +122,7 @@
         }
     ],
     "wof:id":1108810067,
-    "wof:lastmodified":1512517090,
+    "wof:lastmodified":1564103972,
     "wof:name":"Senta",
     "wof:parent_id":85688257,
     "wof:placetype":"localadmin",

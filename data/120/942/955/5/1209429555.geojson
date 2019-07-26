@@ -26,6 +26,15 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Vitos"
+    ],
+    "name:deu_x_preferred":[
+        "Vitos"
+    ],
+    "name:spa_x_preferred":[
+        "Vitos"
+    ],
     "name:srp_x_preferred":[
         "Vitos"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209429555,
-    "wof:lastmodified":1537683851,
+    "wof:lastmodified":1564103803,
     "wof:name":"Vitos",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

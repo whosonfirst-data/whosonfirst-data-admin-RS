@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ra\u0161anac"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161anac"
+    ],
+    "name:msa_x_preferred":[
+        "Ra\u0161anac"
+    ],
+    "name:por_x_preferred":[
+        "Ra\u0161anac"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u0161anac"
+    ],
     "name:srp_x_preferred":[
         "Ra\u0161anac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0448\u0430\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310423951,
-    "wof:lastmodified":1537683728,
+    "wof:lastmodified":1564104051,
     "wof:name":"Rasanac",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

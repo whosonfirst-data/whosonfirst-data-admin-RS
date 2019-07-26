@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donje Jaru\u0161ice"
+    ],
+    "name:fra_x_preferred":[
+        "Donje Jaru\u0161ice"
+    ],
+    "name:msa_x_preferred":[
+        "Donje Jaru\u0161ice"
+    ],
+    "name:por_x_preferred":[
+        "Donje Jaru\u0161ice"
+    ],
+    "name:slv_x_preferred":[
+        "Donje Jaru\u0161ice"
+    ],
     "name:srp_x_preferred":[
         "Donje Jaru\u0161ice"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435 \u0408\u0430\u0440\u0443\u0448\u0438\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259400863,
-    "wof:lastmodified":1537683811,
+    "wof:lastmodified":1564104581,
     "wof:name":"Donje Jarusice",
     "wof:parent_id":1108810047,
     "wof:placetype":"locality",

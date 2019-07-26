@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Milentija"
+    ],
+    "name:fra_x_preferred":[
+        "Milentija"
+    ],
+    "name:msa_x_preferred":[
+        "Milentija"
+    ],
+    "name:nld_x_preferred":[
+        "Milentija"
+    ],
+    "name:por_x_preferred":[
+        "Milentija"
+    ],
+    "name:slv_x_preferred":[
+        "Milentija"
+    ],
     "name:srp_x_preferred":[
         "Milentija"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043b\u0435\u043d\u0442\u0438\u0458\u0430"
     ],
     "name:und_x_variant":[
         "Melentija"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1327343467,
-    "wof:lastmodified":1537683755,
+    "wof:lastmodified":1564102958,
     "wof:name":"Milentija",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

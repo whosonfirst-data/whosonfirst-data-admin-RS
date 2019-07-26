@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Mahala"
+    ],
     "name:und_x_variant":[
         "Doljna Mahala",
         "Donja Mahala"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276133741,
-    "wof:lastmodified":1537683904,
+    "wof:lastmodified":1564103562,
     "wof:name":"Donja Mahala",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

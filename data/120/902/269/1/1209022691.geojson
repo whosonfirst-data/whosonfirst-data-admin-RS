@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:fra_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:hrv_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:hun_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:msa_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:nld_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:por_x_preferred":[
+        "Kovanluk"
+    ],
+    "name:slv_x_preferred":[
+        "Kovanluk"
+    ],
     "name:srp_x_preferred":[
         "Kovanluk"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0432\u0430\u043d\u043b\u0443\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1209022691,
-    "wof:lastmodified":1537683880,
+    "wof:lastmodified":1564103772,
     "wof:name":"Kovanluk",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

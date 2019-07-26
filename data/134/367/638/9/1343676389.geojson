@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belanovica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Belanovica"
+    ],
+    "name:msa_x_preferred":[
+        "Belanovica"
+    ],
+    "name:por_x_preferred":[
+        "Belanovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Belanovica"
+    ],
     "name:srp_x_preferred":[
         "Belanovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u0430\u043d\u043e\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1343676389,
-    "wof:lastmodified":1537683836,
+    "wof:lastmodified":1564103171,
     "wof:name":"Belanovica",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

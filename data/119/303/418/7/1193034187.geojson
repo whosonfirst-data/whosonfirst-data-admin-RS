@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ovsinjinac"
+    ],
+    "name:fra_x_preferred":[
+        "Ovsinjinac"
+    ],
+    "name:msa_x_preferred":[
+        "Ovsinjinac"
+    ],
+    "name:por_x_preferred":[
+        "Ovsinjinac"
+    ],
+    "name:slv_x_preferred":[
+        "Ovsinjinac"
+    ],
     "name:srp_x_preferred":[
         "Ovsinjinac"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0432\u0441\u0438\u045a\u0438\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1193034187,
-    "wof:lastmodified":1537683744,
+    "wof:lastmodified":1564103869,
     "wof:name":"Ovsinjinac",
     "wof:parent_id":1108809893,
     "wof:placetype":"locality",

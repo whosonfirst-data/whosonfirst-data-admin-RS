@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Veljkovo"
+    ],
+    "name:deu_x_preferred":[
+        "Veljkovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Veljkovo"
+    ],
+    "name:msa_x_preferred":[
+        "Veljkovo"
+    ],
+    "name:por_x_preferred":[
+        "Veljkovo"
+    ],
+    "name:slv_x_preferred":[
+        "Veljkovo"
+    ],
     "name:srp_x_preferred":[
         "Veljkovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u0459\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Bljuvanovac"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1276996157,
-    "wof:lastmodified":1537683695,
+    "wof:lastmodified":1564103634,
     "wof:name":"Veljkovo",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

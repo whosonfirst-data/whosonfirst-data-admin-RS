@@ -26,7 +26,19 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pridoli"
+    ],
+    "name:fra_x_preferred":[
+        "Pridoli"
+    ],
     "name:srp_x_preferred":[
+        "Pridoli"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0434\u043e\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Pridoli"
     ],
     "src:geom":"geonames",
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209429673,
-    "wof:lastmodified":1537683928,
+    "wof:lastmodified":1564103808,
     "wof:name":"Pridoli",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Stance"
+    ],
     "name:srp_x_preferred":[
         "Stance"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326648355,
-    "wof:lastmodified":1537683712,
+    "wof:lastmodified":1564103004,
     "wof:name":"Stance",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

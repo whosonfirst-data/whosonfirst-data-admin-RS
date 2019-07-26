@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tribrode"
+    ],
+    "name:fra_x_preferred":[
+        "Tribrode"
+    ],
+    "name:msa_x_preferred":[
+        "Tribrode"
+    ],
+    "name:por_x_preferred":[
+        "Tribrode"
+    ],
+    "name:slv_x_preferred":[
+        "Tribrode"
+    ],
     "name:srp_x_preferred":[
         "Tribrode"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0438\u0431\u0440\u043e\u0434\u0435"
     ],
     "name:und_x_variant":[
         "Tribrod"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327144369,
-    "wof:lastmodified":1537683702,
+    "wof:lastmodified":1564102924,
     "wof:name":"Tribrode",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

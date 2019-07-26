@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urovica"
+    ],
+    "name:deu_x_preferred":[
+        "Urovica"
+    ],
+    "name:fra_x_preferred":[
+        "Urovica"
+    ],
+    "name:msa_x_preferred":[
+        "Urovica"
+    ],
+    "name:por_x_preferred":[
+        "Urovica"
+    ],
+    "name:slv_x_preferred":[
+        "Urovica"
+    ],
     "name:srp_x_preferred":[
         "Urovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u0440\u043e\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226257665,
-    "wof:lastmodified":1537683699,
+    "wof:lastmodified":1564104735,
     "wof:name":"Urovica",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kotline"
+    ],
+    "name:ron_x_preferred":[
+        "Kotline"
+    ],
+    "name:slv_x_preferred":[
+        "Kotline"
+    ],
     "name:srp_x_preferred":[
         "Kotline"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0442\u043b\u0438\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310420261,
-    "wof:lastmodified":1537683956,
+    "wof:lastmodified":1564104055,
     "wof:name":"Kotline",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

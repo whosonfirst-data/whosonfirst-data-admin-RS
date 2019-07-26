@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160u\u0161ara"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160u\u0161ara"
+    ],
+    "name:epo_x_preferred":[
+        "\u015cu\u015dara"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160u\u0161ara"
+    ],
+    "name:hun_x_preferred":[
+        "Fej\u00e9rtelep"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160u\u0161ara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0448\u0430\u0440\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160u\u0161ara"
+    ],
     "name:srp_x_preferred":[
         "\u0160u\u0161ara"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0443\u0448\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
         "Feh\u00e9rtelep",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1276999853,
-    "wof:lastmodified":1537683707,
+    "wof:lastmodified":1564103628,
     "wof:name":"Susara",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

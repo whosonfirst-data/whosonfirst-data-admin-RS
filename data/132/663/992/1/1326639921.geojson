@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ko\u017eetin"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u017eetin"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056a\u0565\u057f\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Ko\u017eetin"
+    ],
+    "name:msa_x_preferred":[
+        "Ko\u017eetin"
+    ],
+    "name:por_x_preferred":[
+        "Ko\u017eetin"
+    ],
+    "name:slv_x_preferred":[
+        "Ko\u017eetin"
+    ],
+    "name:spa_x_preferred":[
+        "Ko\u017eetin"
+    ],
     "name:srp_x_preferred":[
         "Ko\u017eetin"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0436\u0435\u0442\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1326639921,
-    "wof:lastmodified":1537683776,
+    "wof:lastmodified":1564103015,
     "wof:name":"Kozetin",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

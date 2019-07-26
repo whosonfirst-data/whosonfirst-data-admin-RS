@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Stara Brezovica"
+    ],
+    "name:msa_x_preferred":[
+        "Stara Brezovica"
+    ],
+    "name:por_x_preferred":[
+        "Stara Brezovica"
+    ],
+    "name:slv_x_preferred":[
+        "Stara Brezovica"
+    ],
     "name:srp_x_preferred":[
         "Stara Brezovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Brezovica"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1343671895,
-    "wof:lastmodified":1537683711,
+    "wof:lastmodified":1564103166,
     "wof:name":"Stara Brezovica",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

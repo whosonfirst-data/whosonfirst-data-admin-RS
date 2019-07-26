@@ -26,6 +26,33 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zasavica Druga"
+    ],
+    "name:epo_x_preferred":[
+        "Donja Zasavica"
+    ],
+    "name:fra_x_preferred":[
+        "Zasavica"
+    ],
+    "name:hrv_x_preferred":[
+        "Zasavica"
+    ],
+    "name:hun_x_preferred":[
+        "Zasavica"
+    ],
+    "name:msa_x_preferred":[
+        "Zasavica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Zasavica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Donja Zasavica",
         "Zasavica II",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1243564757,
-    "wof:lastmodified":1537683965,
+    "wof:lastmodified":1564104444,
     "wof:name":"Zasavica Druga",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

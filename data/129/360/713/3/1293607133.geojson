@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u044a\u043d\u0441\u043a\u0438 \u041e\u0434\u043e\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Trnski Odorovci"
+    ],
+    "name:fra_x_preferred":[
+        "Trnski Odorovci"
+    ],
+    "name:msa_x_preferred":[
+        "Trnski Odorovci"
+    ],
+    "name:por_x_preferred":[
+        "Trnski Odorovci"
+    ],
+    "name:slv_x_preferred":[
+        "Trnski Odorovci"
+    ],
     "name:srp_x_preferred":[
         "Trnski Odorovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u043d\u0441\u043a\u0438 \u041e\u0434\u043e\u0440\u043e\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Odorovci",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1293607133,
-    "wof:lastmodified":1537683701,
+    "wof:lastmodified":1564103370,
     "wof:name":"Trnski Odorovci",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Isakovo"
+    ],
+    "name:deu_x_preferred":[
+        "Isakovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Isakovo"
+    ],
+    "name:msa_x_preferred":[
+        "Isakovo"
+    ],
+    "name:por_x_preferred":[
+        "Isakovo"
+    ],
+    "name:slv_x_preferred":[
+        "Isakovo"
+    ],
     "name:srp_x_preferred":[
         "Isakovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0441\u0430\u043a\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1225962301,
-    "wof:lastmodified":1537683789,
+    "wof:lastmodified":1564104726,
     "wof:name":"Isakovo",
     "wof:parent_id":1108809883,
     "wof:placetype":"locality",

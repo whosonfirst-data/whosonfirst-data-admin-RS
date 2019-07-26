@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Du\u0161anovo"
+    ],
+    "name:fra_x_preferred":[
+        "Du\u0161anovo"
+    ],
+    "name:msa_x_preferred":[
+        "Du\u0161anovo"
+    ],
+    "name:por_x_preferred":[
+        "Du\u0161anovo"
+    ],
+    "name:slv_x_preferred":[
+        "Du\u0161anovo"
+    ],
     "name:srp_x_preferred":[
         "Du\u0161anovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0448\u0430\u043d\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293113255,
-    "wof:lastmodified":1537683803,
+    "wof:lastmodified":1564103405,
     "wof:name":"Dusanovo",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

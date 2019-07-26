@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vrane"
+    ],
+    "name:fra_x_preferred":[
+        "Vrane"
+    ],
+    "name:msa_x_preferred":[
+        "Vrane"
+    ],
+    "name:nld_x_preferred":[
+        "Vrane"
+    ],
+    "name:por_x_preferred":[
+        "Vrane"
+    ],
+    "name:slv_x_preferred":[
+        "Vrane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1243082445,
-    "wof:lastmodified":1536832132,
+    "wof:lastmodified":1564104345,
     "wof:name":"Vrane",
     "wof:parent_id":1108809923,
     "wof:placetype":"locality",

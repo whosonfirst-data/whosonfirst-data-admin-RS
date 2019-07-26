@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Konatice"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03ac\u03c4\u03b9\u03c4\u03c3\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Konatice"
+    ],
+    "name:msa_x_preferred":[
+        "Konatice"
+    ],
+    "name:por_x_preferred":[
+        "Konatice"
+    ],
+    "name:slv_x_preferred":[
+        "Konatice"
+    ],
     "name:srp_x_preferred":[
         "Konatice"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u043d\u0430\u0442\u0438\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1210026315,
-    "wof:lastmodified":1537683778,
+    "wof:lastmodified":1564103840,
     "wof:name":"Konatice",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

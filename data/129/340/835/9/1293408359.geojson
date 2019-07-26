@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0438\u0434\u0436\u0435\u0440\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Ali\u0111erce"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u062f\u0631\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Ali\u0111erce"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0438\u045f\u0435\u0440\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Ali\u0111erce"
+    ],
+    "name:por_x_preferred":[
+        "Ali\u0111erce"
+    ],
+    "name:slv_x_preferred":[
+        "Ali\u0111erce"
+    ],
+    "name:sqi_x_preferred":[
+        "Geraj"
+    ],
     "name:srp_x_preferred":[
         "Ali\u0111erce"
+    ],
+    "name:srp_x_variant":[
+        "\u0410\u043b\u0438\u0452\u0435\u0440\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1293408359,
-    "wof:lastmodified":1537683842,
+    "wof:lastmodified":1564103329,
     "wof:name":"Aligerce",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

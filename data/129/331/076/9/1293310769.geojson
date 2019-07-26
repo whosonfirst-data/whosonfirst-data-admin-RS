@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornje Rataje"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Rataje"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0580\u0576\u0575\u0565 \u054c\u0561\u057f\u0561\u0575\u0565"
+    ],
+    "name:msa_x_preferred":[
+        "Gornje Rataje"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Rataje"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Rataje"
+    ],
+    "name:spa_x_preferred":[
+        "Gornje Rataje"
+    ],
     "name:srp_x_preferred":[
         "Gornje Rataje"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0420\u0430\u0442\u0430\u0458\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1293310769,
-    "wof:lastmodified":1537683876,
+    "wof:lastmodified":1564103235,
     "wof:name":"Gornje Rataje",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

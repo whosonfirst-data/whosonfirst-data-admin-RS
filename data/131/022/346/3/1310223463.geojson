@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rtari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u062a\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Rtari"
+    ],
+    "name:msa_x_preferred":[
+        "Rtari"
+    ],
+    "name:por_x_preferred":[
+        "Rtari"
+    ],
+    "name:slv_x_preferred":[
+        "Rtari"
+    ],
     "name:srp_x_preferred":[
         "Rtari"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0442\u0430\u0440\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1310223463,
-    "wof:lastmodified":1537683723,
+    "wof:lastmodified":1564104005,
     "wof:name":"Rtari",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

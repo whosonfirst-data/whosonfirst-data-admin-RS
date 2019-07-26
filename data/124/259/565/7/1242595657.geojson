@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Srednji Bu\u010dumet"
+    ],
+    "name:fra_x_preferred":[
+        "Srednji Bu\u010dumet"
+    ],
+    "name:msa_x_preferred":[
+        "Srednji Bu\u010dumet"
+    ],
+    "name:por_x_preferred":[
+        "Srednji Bu\u010dumet"
+    ],
+    "name:slv_x_preferred":[
+        "Srednji Bu\u010dumet"
+    ],
     "name:srp_x_preferred":[
         "Srednji Bu\u010dumet"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0440\u0435\u0434\u045a\u0438 \u0411\u0443\u0447\u0443\u043c\u0435\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1242595657,
-    "wof:lastmodified":1537683713,
+    "wof:lastmodified":1564104382,
     "wof:name":"Srednji Bucumet",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

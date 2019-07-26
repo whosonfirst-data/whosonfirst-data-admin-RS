@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dev\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Dev\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Dev\u010da"
+    ],
+    "name:por_x_preferred":[
+        "Dev\u010da"
+    ],
+    "name:slv_x_preferred":[
+        "Dev\u010da"
+    ],
+    "name:sqi_x_preferred":[
+        "Dev\u00e7a"
+    ],
     "name:srp_x_preferred":[
         "Dev\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0435\u0432\u0447\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343676575,
-    "wof:lastmodified":1537683816,
+    "wof:lastmodified":1564103164,
     "wof:name":"Devca",
     "wof:parent_id":1108809979,
     "wof:placetype":"locality",

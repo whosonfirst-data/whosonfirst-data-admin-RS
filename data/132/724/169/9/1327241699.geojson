@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Okruglica"
+    ],
+    "name:ceb_x_preferred":[
+        "Okruglica"
+    ],
+    "name:fra_x_preferred":[
+        "Okruglica"
+    ],
+    "name:hrv_x_preferred":[
+        "Okruglica"
+    ],
+    "name:slv_x_preferred":[
+        "Okruglica"
+    ],
     "name:srp_x_preferred":[
+        "Okruglica"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043a\u0440\u0443\u0433\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Okruglica"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1327241699,
-    "wof:lastmodified":1537683747,
+    "wof:lastmodified":1564102941,
     "wof:name":"Okruglica",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

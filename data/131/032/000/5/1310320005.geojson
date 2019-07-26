@@ -26,14 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mali Pesak"
+    ],
+    "name:epo_x_preferred":[
+        "Mali Pesak"
+    ],
+    "name:fra_x_preferred":[
+        "Mali Pesak"
+    ],
+    "name:hrv_x_preferred":[
+        "Mali Pesak"
+    ],
     "name:hun_x_preferred":[
         "Kishomok"
+    ],
+    "name:msa_x_preferred":[
+        "Mali Pesak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u041f\u0435\u0441\u0430\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Pesak"
     ],
     "name:srp_x_preferred":[
         "Mali Pesak"
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u043b\u0438 \u041f\u0435\u0441\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u0439 \u041f\u0435\u0441\u0430\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1310320005,
-    "wof:lastmodified":1537683933,
+    "wof:lastmodified":1564104080,
     "wof:name":"Mali Pesak",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

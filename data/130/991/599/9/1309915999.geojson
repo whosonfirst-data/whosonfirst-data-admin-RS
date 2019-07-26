@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vito\u0161e"
+    ],
+    "name:msa_x_preferred":[
+        "Vito\u0161e"
+    ],
+    "name:nld_x_preferred":[
+        "Vito\u0161e"
+    ],
+    "name:por_x_preferred":[
+        "Vito\u0161e"
+    ],
+    "name:slv_x_preferred":[
+        "Vito\u0161e"
+    ],
+    "name:spa_x_preferred":[
+        "Vito\u0161e"
+    ],
     "name:srp_x_preferred":[
         "Vito\u0161e"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0442\u043e\u0448\u0435"
     ],
     "name:und_x_variant":[
         "Vitos"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1309915999,
-    "wof:lastmodified":1537683693,
+    "wof:lastmodified":1564104229,
     "wof:name":"Vitose",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

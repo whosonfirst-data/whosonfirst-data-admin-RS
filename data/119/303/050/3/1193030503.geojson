@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u044a\u043c\u043a\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Trmka"
+    ],
+    "name:msa_x_preferred":[
+        "Trmka"
+    ],
+    "name:por_x_preferred":[
+        "Trmka"
+    ],
+    "name:slv_x_preferred":[
+        "Trmka"
+    ],
+    "name:sqi_x_preferred":[
+        "T\u00ebrmkolli"
+    ],
     "name:srp_x_preferred":[
         "Trmka"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u043c\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1193030503,
-    "wof:lastmodified":1537683702,
+    "wof:lastmodified":1564103870,
     "wof:name":"Trmka",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

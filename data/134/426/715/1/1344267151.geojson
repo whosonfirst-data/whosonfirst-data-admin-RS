@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toponica"
+    ],
+    "name:fra_x_preferred":[
+        "Toponica"
+    ],
+    "name:msa_x_preferred":[
+        "Toponica"
+    ],
+    "name:por_x_preferred":[
+        "Toponica"
+    ],
+    "name:slv_x_preferred":[
+        "Toponica"
+    ],
     "name:srp_x_preferred":[
         "Toponica"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u043f\u043e\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1344267151,
-    "wof:lastmodified":1537683703,
+    "wof:lastmodified":1564103176,
     "wof:name":"Toponica",
     "wof:parent_id":1108809973,
     "wof:placetype":"locality",

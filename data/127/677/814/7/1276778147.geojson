@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0442\u0438\u043d\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Pretina"
+    ],
+    "name:msa_x_preferred":[
+        "Pretina"
+    ],
+    "name:por_x_preferred":[
+        "Pretina"
+    ],
+    "name:slv_x_preferred":[
+        "Pretina"
+    ],
+    "name:sqi_x_preferred":[
+        "Pretina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0442\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Pretin",
         "Pretina"
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1276778147,
-    "wof:lastmodified":1537683903,
+    "wof:lastmodified":1564103608,
     "wof:name":"Pretina",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

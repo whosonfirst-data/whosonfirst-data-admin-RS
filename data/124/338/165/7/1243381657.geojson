@@ -26,14 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banatsko Aran\u0111elovo"
+    ],
+    "name:deu_x_preferred":[
+        "Banatsko Aran\u0111elovo"
+    ],
+    "name:epo_x_preferred":[
+        "Banatsko Arandjelovo"
+    ],
+    "name:fra_x_preferred":[
+        "Banatsko Aran\u0111elovo"
+    ],
     "name:hun_x_preferred":[
         "Oroszl\u00e1mos"
     ],
     "name:hun_x_variant":[
         "Oroszl\u00e1nos"
     ],
+    "name:msa_x_preferred":[
+        "Banatsko Aran\u0111elovo"
+    ],
+    "name:ron_x_preferred":[
+        "Banatsko Aran\u0111elovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e-\u0410\u0440\u0430\u043d\u0434\u0436\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Banatsko Aran\u0111elovo"
+    ],
     "name:srp_x_preferred":[
         "Banatsko Aran\u0111elovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e \u0410\u0440\u0430\u043d\u0452\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u044c\u043a\u0435 \u0410\u0440\u0430\u043d\u0434\u0436\u0435\u043b\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Veliko Arand\u017eelovo",
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1243381657,
-    "wof:lastmodified":1537683839,
+    "wof:lastmodified":1564104326,
     "wof:name":"Banatsko Arangelovo",
     "wof:parent_id":1108810001,
     "wof:placetype":"locality",

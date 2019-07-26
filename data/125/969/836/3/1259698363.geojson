@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0430\u0442\u043e\u0432\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Izatovci"
+    ],
+    "name:msa_x_preferred":[
+        "Izatovci"
+    ],
+    "name:por_x_preferred":[
+        "Izatovci"
+    ],
+    "name:slv_x_preferred":[
+        "Izatovci"
+    ],
     "name:srp_x_preferred":[
         "Izatovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0437\u0430\u0442\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259698363,
-    "wof:lastmodified":1537683788,
+    "wof:lastmodified":1564104623,
     "wof:name":"Izatovci",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

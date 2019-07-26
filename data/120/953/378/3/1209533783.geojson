@@ -26,6 +26,18 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lubnica"
+    ],
+    "name:pol_x_preferred":[
+        "Lubnica"
+    ],
+    "name:por_x_preferred":[
+        "Lubnica"
+    ],
+    "name:sqi_x_preferred":[
+        "Lubnica"
+    ],
     "name:srp_x_preferred":[
         "Lubnica"
     ],
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209533783,
-    "wof:lastmodified":1537683765,
+    "wof:lastmodified":1564103647,
     "wof:name":"Lubnica",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

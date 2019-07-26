@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stanjevo"
+    ],
+    "name:fra_x_preferred":[
+        "Stanjevo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0561\u0576\u0587\u0578"
+    ],
+    "name:msa_x_preferred":[
+        "Stanjevo"
+    ],
+    "name:por_x_preferred":[
+        "Stanjevo"
+    ],
+    "name:slv_x_preferred":[
+        "Stanjevo"
+    ],
+    "name:spa_x_preferred":[
+        "Stanjevo"
+    ],
     "name:srp_x_preferred":[
         "Stanjevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u045a\u0435\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276676513,
-    "wof:lastmodified":1537683875,
+    "wof:lastmodified":1564103530,
     "wof:name":"Stanjevo",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

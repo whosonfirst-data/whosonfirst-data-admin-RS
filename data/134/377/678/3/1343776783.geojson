@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Donji Rinj"
+    ],
+    "name:msa_x_preferred":[
+        "Donji Rinj"
+    ],
+    "name:por_x_preferred":[
+        "Donji Rinj"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Rinj"
+    ],
     "name:srp_x_preferred":[
         "Donji Rinj"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0438 \u0420\u0438\u045a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343776783,
-    "wof:lastmodified":1537683809,
+    "wof:lastmodified":1564103113,
     "wof:name":"Donji Rinj",
     "wof:parent_id":1108809845,
     "wof:placetype":"locality",

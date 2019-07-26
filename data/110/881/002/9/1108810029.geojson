@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136426,
-    "geom:area_square_m":1229645254.060815,
+    "geom:area_square_m":1229645254.060893,
     "geom:bbox":"22.386942,42.973479,22.9097795,43.4027515",
     "geom:latitude":43.203876,
     "geom:longitude":22.639732,
@@ -21,11 +21,26 @@
     "meso:name_loc":"Pirot",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Pirot"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u043e\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Pirot"
+    ],
+    "name:ceb_x_preferred":[
+        "Pirot"
+    ],
+    "name:ces_x_preferred":[
+        "Pirot"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u06cc\u0631\u06c6\u062a"
+    ],
+    "name:dan_x_preferred":[
+        "Pirot"
     ],
     "name:deu_x_preferred":[
         "Pirot"
@@ -48,11 +63,38 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e8\u05d5\u05d8"
     ],
+    "name:hrv_x_preferred":[
+        "Pirot"
+    ],
+    "name:hun_x_preferred":[
+        "Pirot"
+    ],
+    "name:ind_x_preferred":[
+        "Pirot"
+    ],
+    "name:isl_x_preferred":[
+        "Pirot"
+    ],
+    "name:ita_x_preferred":[
+        "Pirot"
+    ],
     "name:jpn_x_preferred":[
         "\u30d4\u30ed\u30c8"
     ],
     "name:kor_x_preferred":[
         "\ud53c\ub85c\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Pirotas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Pirot"
+    ],
+    "name:nld_x_preferred":[
+        "Pirot"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0631\u0648\u062a"
@@ -60,8 +102,26 @@
     "name:pol_x_preferred":[
         "Pirot"
     ],
+    "name:por_x_preferred":[
+        "Pirot"
+    ],
+    "name:ron_x_preferred":[
+        "Pirot"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Pirot"
+    ],
+    "name:slv_x_preferred":[
+        "Pirot"
+    ],
+    "name:spa_x_preferred":[
+        "Pirot"
+    ],
+    "name:sqi_x_preferred":[
+        "Pirot"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0438\u0440\u043e\u0442"
@@ -72,14 +132,29 @@
     "name:swe_x_preferred":[
         "Pirot"
     ],
+    "name:szl_x_preferred":[
+        "Pirot"
+    ],
+    "name:tgl_x_preferred":[
+        "Pirot"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0440\u043e\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0438\u0440\u043e\u0442"
     ],
     "name:und_x_variant":[
         "Pirot"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0631\u0648\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Pirot"
+    ],
+    "name:war_x_preferred":[
+        "Pirot"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u7f57\u7279"
@@ -107,7 +182,7 @@
         }
     ],
     "wof:id":1108810029,
-    "wof:lastmodified":1512517090,
+    "wof:lastmodified":1564103984,
     "wof:name":"Pirot",
     "wof:parent_id":85688303,
     "wof:placetype":"localadmin",

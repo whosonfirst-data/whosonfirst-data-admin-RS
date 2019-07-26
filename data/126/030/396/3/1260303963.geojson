@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0435\u0434\u0435\u0442\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Gredetin"
+    ],
+    "name:fra_x_preferred":[
+        "Gredetin"
+    ],
+    "name:msa_x_preferred":[
+        "Gredetin"
+    ],
+    "name:por_x_preferred":[
+        "Gredetin"
+    ],
+    "name:slv_x_preferred":[
+        "Gredetin"
+    ],
     "name:srp_x_preferred":[
         "Gredetin"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0435\u0434\u0435\u0442\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Gradetin"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1260303963,
-    "wof:lastmodified":1537683852,
+    "wof:lastmodified":1564103891,
     "wof:name":"Gredetin",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0106irikovac"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106irikovac"
+    ],
+    "name:msa_x_preferred":[
+        "\u0106irikovac"
+    ],
+    "name:por_x_preferred":[
+        "\u0106irikovac"
+    ],
+    "name:ron_x_preferred":[
+        "\u0106irikovac"
+    ],
+    "name:slv_x_preferred":[
+        "\u0106irikovac"
+    ],
     "name:srp_x_preferred":[
         "\u0106irikovac"
+    ],
+    "name:srp_x_variant":[
+        "\u040b\u0438\u0440\u0438\u043a\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "\u0106irkovac"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1242687747,
-    "wof:lastmodified":1537683821,
+    "wof:lastmodified":1564104376,
     "wof:name":"Cirikovac",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:fra_x_preferred":[
+        "Gabrovac"
+    ],
+    "name:msa_x_preferred":[
+        "Gabrovac"
+    ],
+    "name:por_x_preferred":[
+        "Gabrovac"
+    ],
+    "name:slv_x_preferred":[
+        "Gabrovac"
+    ],
     "name:srp_x_preferred":[
         "Gabrovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0430\u0431\u0440\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226460943,
-    "wof:lastmodified":1537683802,
+    "wof:lastmodified":1564104766,
     "wof:name":"Gabrovac",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

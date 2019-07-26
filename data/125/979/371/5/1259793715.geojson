@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornji Adrovac"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Adrovac"
+    ],
+    "name:msa_x_preferred":[
+        "Gornji Adrovac"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Adrovac"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Adrovac"
+    ],
     "name:srp_x_preferred":[
         "Gornji Adrovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0410\u0434\u0440\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259793715,
-    "wof:lastmodified":1537683795,
+    "wof:lastmodified":1564104569,
     "wof:name":"Gornji Adrovac",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

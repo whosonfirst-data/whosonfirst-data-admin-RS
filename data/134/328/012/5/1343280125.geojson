@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010cokonjar"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cokonjar"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cokonjar"
+    ],
+    "name:por_x_preferred":[
+        "\u010cokonjar"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cokonjar"
+    ],
     "name:srp_x_preferred":[
         "\u010cokonjar"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u043e\u043a\u043e\u045a\u0430\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343280125,
-    "wof:lastmodified":1537683821,
+    "wof:lastmodified":1564103222,
     "wof:name":"Cokonjar",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

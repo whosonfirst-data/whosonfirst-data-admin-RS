@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vitovnica"
+    ],
+    "name:fra_x_preferred":[
+        "Vitovnica"
+    ],
+    "name:msa_x_preferred":[
+        "Vitovnica"
+    ],
+    "name:por_x_preferred":[
+        "Vitovnica"
+    ],
+    "name:slv_x_preferred":[
+        "Vitovnica"
+    ],
     "name:srp_x_preferred":[
         "Vitovnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0442\u043e\u0432\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310511655,
-    "wof:lastmodified":1537683693,
+    "wof:lastmodified":1564104125,
     "wof:name":"Vitovnica",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

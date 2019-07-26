@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dragu\u0161ica"
+    ],
+    "name:fra_x_preferred":[
+        "Dragu\u0161ica"
+    ],
+    "name:msa_x_preferred":[
+        "Dragu\u0161ica"
+    ],
+    "name:por_x_preferred":[
+        "Dragu\u0161ica"
+    ],
+    "name:slv_x_preferred":[
+        "Dragu\u0161ica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Dragu\u0161ica"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1260303739,
-    "wof:lastmodified":1537683914,
+    "wof:lastmodified":1564103897,
     "wof:name":"Dragusica",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

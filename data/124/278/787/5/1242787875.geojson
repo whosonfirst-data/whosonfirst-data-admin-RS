@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kukujevci"
+    ],
+    "name:epo_x_preferred":[
+        "Kukujevci"
+    ],
+    "name:fra_x_preferred":[
+        "Kukujevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Kukujevci"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00fcke"
+    ],
+    "name:msa_x_preferred":[
+        "Kukujevci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0435\u0432\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Kukujevci"
+    ],
     "name:srp_x_preferred":[
         "Kukujevci"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u043a\u0443\u0458\u0435\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1242787875,
-    "wof:lastmodified":1537683935,
+    "wof:lastmodified":1564104469,
     "wof:name":"Kukujevci",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beranje"
+    ],
+    "name:fra_x_preferred":[
+        "Beranje"
+    ],
+    "name:msa_x_preferred":[
+        "Beranje"
+    ],
+    "name:por_x_preferred":[
+        "Beranje"
+    ],
+    "name:ron_x_preferred":[
+        "Beranje"
+    ],
+    "name:slv_x_preferred":[
+        "Beranje"
+    ],
     "name:srp_x_preferred":[
         "Beranje"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0440\u0430\u045a\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1260098477,
-    "wof:lastmodified":1537683834,
+    "wof:lastmodified":1564103886,
     "wof:name":"Beranje",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

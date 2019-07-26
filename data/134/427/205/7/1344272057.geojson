@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Kamenica"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Kamenica"
+    ],
+    "name:msa_x_preferred":[
+        "Donja Kamenica"
+    ],
+    "name:por_x_preferred":[
+        "Donja Kamenica"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Kamenica"
+    ],
     "name:srp_x_preferred":[
         "Donja Kamenica"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Doljna Kamenica"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1344272057,
-    "wof:lastmodified":1537683813,
+    "wof:lastmodified":1564103196,
     "wof:name":"Donja Kamenica",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

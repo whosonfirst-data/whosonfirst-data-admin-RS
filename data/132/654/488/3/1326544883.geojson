@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u043e\u0432\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Vladovce"
+    ],
+    "name:msa_x_preferred":[
+        "Vladovce"
+    ],
+    "name:por_x_preferred":[
+        "Vladovce"
+    ],
+    "name:slv_x_preferred":[
+        "Vladovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u043e\u0432\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1326544883,
-    "wof:lastmodified":1537572092,
+    "wof:lastmodified":1564103023,
     "wof:name":"Vladovce",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

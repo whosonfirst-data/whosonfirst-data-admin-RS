@@ -26,6 +26,54 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Uvac"
+    ],
+    "name:ceb_x_preferred":[
+        "Uvac"
+    ],
+    "name:ces_x_preferred":[
+        "Uvac"
+    ],
+    "name:deu_x_preferred":[
+        "Uvac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03b2\u03b1\u03c4\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0648\u0627\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Uvac"
+    ],
+    "name:hrv_x_preferred":[
+        "Uvac"
+    ],
+    "name:hun_x_preferred":[
+        "Uvac"
+    ],
+    "name:ita_x_preferred":[
+        "Uvac"
+    ],
+    "name:nno_x_preferred":[
+        "Uvac"
+    ],
+    "name:pol_x_preferred":[
+        "Uvac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0432\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0432\u0430\u0446"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0423\u0432\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u74e6\u514b\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +99,7 @@
         }
     ],
     "wof:id":1210030927,
-    "wof:lastmodified":1536388602,
+    "wof:lastmodified":1564103833,
     "wof:name":"Uvac",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043f\u0438\u0442\u0430\u0440\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Kopitarce"
+    ],
+    "name:msa_x_preferred":[
+        "Kopitarce"
+    ],
+    "name:por_x_preferred":[
+        "Kopitarce"
+    ],
+    "name:slv_x_preferred":[
+        "Kopitarce"
+    ],
     "name:srp_x_preferred":[
         "Kopitarce"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u043f\u0438\u0442\u0430\u0440\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209932725,
-    "wof:lastmodified":1537683778,
+    "wof:lastmodified":1564103764,
     "wof:name":"Kopitarce",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

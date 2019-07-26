@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zloku\u0107ane"
+    ],
+    "name:deu_x_preferred":[
+        "Zloku\u0107ane"
+    ],
+    "name:fra_x_preferred":[
+        "Zloku\u0107ane"
+    ],
+    "name:msa_x_preferred":[
+        "Zloku\u0107ane"
+    ],
+    "name:por_x_preferred":[
+        "Zloku\u0107ane"
+    ],
+    "name:slv_x_preferred":[
+        "Zloku\u0107ane"
+    ],
     "name:srp_x_preferred":[
         "Zloku\u0107ane"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u043b\u043e\u043a\u0443\u045b\u0430\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1243381539,
-    "wof:lastmodified":1537683683,
+    "wof:lastmodified":1564104325,
     "wof:name":"Zlokucane",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

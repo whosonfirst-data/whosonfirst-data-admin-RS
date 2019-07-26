@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Virine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0631\u06cc\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Virine"
+    ],
+    "name:msa_x_preferred":[
+        "Virine"
+    ],
+    "name:por_x_preferred":[
+        "Virine"
+    ],
+    "name:slv_x_preferred":[
+        "Virine"
+    ],
     "name:srp_x_preferred":[
         "Virine"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0440\u0438\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1260098327,
-    "wof:lastmodified":1537683694,
+    "wof:lastmodified":1564103882,
     "wof:name":"Virine",
     "wof:parent_id":1108809883,
     "wof:placetype":"locality",

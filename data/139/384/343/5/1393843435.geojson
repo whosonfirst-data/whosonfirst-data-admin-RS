@@ -17,6 +17,87 @@
     "mps:longitude":20.375221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zemun"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zemun"
+    ],
+    "name:ces_x_preferred":[
+        "Zemun"
+    ],
+    "name:deu_x_preferred":[
+        "Zemun"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03bb\u03af\u03bd\u03bf"
+    ],
+    "name:epo_x_preferred":[
+        "Zemun"
+    ],
+    "name:fra_x_preferred":[
+        "Zemun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Zemun"
+    ],
+    "name:hun_x_preferred":[
+        "Zimony"
+    ],
+    "name:ind_x_preferred":[
+        "Zemun"
+    ],
+    "name:ita_x_preferred":[
+        "Zemun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30e0\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ubb38"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Zemun"
+    ],
+    "name:nld_x_preferred":[
+        "Zemun"
+    ],
+    "name:nor_x_preferred":[
+        "Zemun"
+    ],
+    "name:pol_x_preferred":[
+        "Zemun"
+    ],
+    "name:por_x_preferred":[
+        "Zemun"
+    ],
+    "name:ron_x_preferred":[
+        "Zemun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Zemun"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zemun"
+    ],
+    "name:tur_x_preferred":[
+        "Zemun"
+    ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -44,7 +125,7 @@
         }
     ],
     "wof:id":1393843435,
-    "wof:lastmodified":1562015299,
+    "wof:lastmodified":1564104225,
     "wof:name":"Zemun",
     "wof:parent_id":890476941,
     "wof:placetype":"borough",

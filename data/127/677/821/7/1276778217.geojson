@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donji Katun"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Katun"
+    ],
+    "name:msa_x_preferred":[
+        "Donji Katun"
+    ],
+    "name:por_x_preferred":[
+        "Donji Katun"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Katun"
+    ],
     "name:srp_x_preferred":[
         "Donji Katun"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0438 \u041a\u0430\u0442\u0443\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276778217,
-    "wof:lastmodified":1537683809,
+    "wof:lastmodified":1564103603,
     "wof:name":"Donji Katun",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

@@ -26,7 +26,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Oborci"
+    ],
+    "name:ceb_x_preferred":[
+        "Oborci"
+    ],
+    "name:fra_x_preferred":[
+        "Oborci"
+    ],
+    "name:hrv_x_preferred":[
+        "Oborci"
+    ],
     "name:srp_x_preferred":[
+        "Oborci"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0431\u043e\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Oborci"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1360303667,
-    "wof:lastmodified":1537684017,
+    "wof:lastmodified":1564104162,
     "wof:name":"Oborci",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

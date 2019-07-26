@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bobova"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bc\u03c0\u03bf\u03b2\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Bobova"
+    ],
+    "name:msa_x_preferred":[
+        "Bobova"
+    ],
+    "name:nld_x_preferred":[
+        "Bobova"
+    ],
+    "name:por_x_preferred":[
+        "Bobova"
+    ],
+    "name:slv_x_preferred":[
+        "Bobova"
+    ],
     "name:srp_x_preferred":[
         "Bobova"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0431\u043e\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Bobov"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1242687927,
-    "wof:lastmodified":1537683949,
+    "wof:lastmodified":1564104373,
     "wof:name":"Bobova",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

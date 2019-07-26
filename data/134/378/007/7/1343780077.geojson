@@ -26,6 +26,42 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:deu_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:epo_x_preferred":[
+        "Knicjanin"
+    ],
+    "name:fra_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:hrv_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:hun_x_preferred":[
+        "Rezs\u0151h\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:msa_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:ron_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u0438\u0447\u0430\u043d\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Kni\u0107anin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043d\u0438\u045b\u0430\u043d\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Kni\u0107anin"
     ],
@@ -55,7 +91,7 @@
         }
     ],
     "wof:id":1343780077,
-    "wof:lastmodified":1537683915,
+    "wof:lastmodified":1564103129,
     "wof:name":"Knicanin",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bali\u010devac"
+    ],
+    "name:fra_x_preferred":[
+        "Bali\u010devac"
+    ],
+    "name:msa_x_preferred":[
+        "Bali\u010devac"
+    ],
+    "name:por_x_preferred":[
+        "Bali\u010devac"
+    ],
+    "name:slv_x_preferred":[
+        "Bali\u010devac"
+    ],
     "name:srp_x_preferred":[
         "Bali\u010devac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043b\u0438\u0447\u0435\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259898069,
-    "wof:lastmodified":1537683840,
+    "wof:lastmodified":1564104641,
     "wof:name":"Balicevac",
     "wof:parent_id":1108809979,
     "wof:placetype":"locality",

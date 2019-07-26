@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vinji\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Vinji\u0161te"
+    ],
+    "name:msa_x_preferred":[
+        "Vinji\u0161te"
+    ],
+    "name:por_x_preferred":[
+        "Vinji\u0161te"
+    ],
+    "name:slv_x_preferred":[
+        "Vinji\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u045a\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Vinji\u0161te"
     ],
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209429789,
-    "wof:lastmodified":1537683915,
+    "wof:lastmodified":1564103806,
     "wof:name":"Vinjiste",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

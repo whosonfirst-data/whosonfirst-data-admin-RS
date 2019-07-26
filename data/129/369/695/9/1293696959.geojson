@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malo Kr\u010dmare"
+    ],
+    "name:fra_x_preferred":[
+        "Malo Kr\u010dmare"
+    ],
+    "name:msa_x_preferred":[
+        "Malo Kr\u010dmare"
+    ],
+    "name:por_x_preferred":[
+        "Malo Kr\u010dmare"
+    ],
+    "name:slv_x_preferred":[
+        "Malo Kr\u010dmare"
+    ],
     "name:srp_x_preferred":[
         "Malo Kr\u010dmare"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u043e \u041a\u0440\u0447\u043c\u0430\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293696959,
-    "wof:lastmodified":1537683760,
+    "wof:lastmodified":1564103361,
     "wof:name":"Malo Krcmare",
     "wof:parent_id":1108810047,
     "wof:placetype":"locality",

@@ -26,7 +26,31 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zasavica"
+    ],
+    "name:ceb_x_preferred":[
+        "Zasavica"
+    ],
+    "name:fra_x_preferred":[
+        "Zasavica"
+    ],
+    "name:hrv_x_preferred":[
+        "Zasavica"
+    ],
+    "name:hun_x_preferred":[
+        "Zasavica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430"
+    ],
     "name:srp_x_preferred":[
+        "Zasavica"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Zasavica"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1310716567,
-    "wof:lastmodified":1537683976,
+    "wof:lastmodified":1564104016,
     "wof:name":"Zasavica",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

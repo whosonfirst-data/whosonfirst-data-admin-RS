@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Usije"
+    ],
+    "name:fra_x_preferred":[
+        "Usije"
+    ],
+    "name:msa_x_preferred":[
+        "Usije"
+    ],
+    "name:por_x_preferred":[
+        "Usije"
+    ],
+    "name:slv_x_preferred":[
+        "Usije"
+    ],
     "name:srp_x_preferred":[
         "Usije"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u0441\u0438\u0458\u0435"
     ],
     "name:und_x_variant":[
         "Usje"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276991225,
-    "wof:lastmodified":1537683699,
+    "wof:lastmodified":1564103638,
     "wof:name":"Usije",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

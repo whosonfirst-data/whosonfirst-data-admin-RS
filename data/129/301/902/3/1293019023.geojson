@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0106u\u0161tica"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106u\u0161tica"
+    ],
+    "name:msa_x_preferred":[
+        "\u0106u\u0161tica"
+    ],
+    "name:por_x_preferred":[
+        "\u0106u\u0161tica"
+    ],
+    "name:slv_x_preferred":[
+        "\u0106u\u0161tica"
+    ],
     "name:srp_x_preferred":[
         "\u0106u\u0161tica"
+    ],
+    "name:srp_x_variant":[
+        "\u040b\u0443\u0448\u0442\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Tio\u0161tica"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293019023,
-    "wof:lastmodified":1537683818,
+    "wof:lastmodified":1564103266,
     "wof:name":"Custica",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

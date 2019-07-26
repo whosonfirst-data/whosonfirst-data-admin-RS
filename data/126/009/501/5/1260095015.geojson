@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donje Krnjino"
+    ],
+    "name:fra_x_preferred":[
+        "Donje Krnjino"
+    ],
+    "name:hun_x_preferred":[
+        "Donje Krnjino"
+    ],
+    "name:msa_x_preferred":[
+        "Donje Krnjino"
+    ],
+    "name:por_x_preferred":[
+        "Donje Krnjino"
+    ],
+    "name:slv_x_preferred":[
+        "Donje Krnjino"
+    ],
     "name:srp_x_preferred":[
         "Donje Krnjino"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435 \u041a\u0440\u045a\u0438\u043d\u043e"
     ],
     "name:und_x_variant":[
         "Krnjino",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1260095015,
-    "wof:lastmodified":1537683811,
+    "wof:lastmodified":1564103884,
     "wof:name":"Donje Krnjino",
     "wof:parent_id":1108809823,
     "wof:placetype":"locality",

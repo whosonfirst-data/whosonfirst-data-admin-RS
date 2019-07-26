@@ -25,8 +25,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0440\u0437\u0430\u0440"
+    ],
+    "name:fra_x_preferred":[
+        "Verzar"
+    ],
+    "name:hun_x_preferred":[
+        "Verzar"
+    ],
+    "name:msa_x_preferred":[
+        "Verzar"
+    ],
+    "name:por_x_preferred":[
+        "Verzar"
+    ],
+    "name:slv_x_preferred":[
+        "Verzar"
+    ],
     "name:srp_x_preferred":[
         "Verzar"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u0440\u0437\u0430\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209830123,
-    "wof:lastmodified":1537683695,
+    "wof:lastmodified":1564103683,
     "wof:name":"Verzar",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

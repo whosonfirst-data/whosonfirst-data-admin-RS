@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Osredak"
+    ],
+    "name:ceb_x_preferred":[
+        "Osredak"
+    ],
+    "name:fra_x_preferred":[
+        "Osredak"
+    ],
+    "name:hrv_x_preferred":[
+        "Osredak"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0440\u0435\u0434\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Osredak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688309,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1226558013,
-    "wof:lastmodified":1536979744,
+    "wof:lastmodified":1564104776,
     "wof:name":"Osredak",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

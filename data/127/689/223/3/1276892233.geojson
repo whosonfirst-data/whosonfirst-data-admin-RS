@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160ljivovo"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ljivovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056c\u0575\u056b\u057e\u0578\u057e\u0578"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160ljivovo"
+    ],
+    "name:por_x_preferred":[
+        "\u0160ljivovo"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ljivovo"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160ljivovo"
+    ],
     "name:srp_x_preferred":[
         "\u0160ljivovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0459\u0438\u0432\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276892233,
-    "wof:lastmodified":1537683714,
+    "wof:lastmodified":1564103505,
     "wof:name":"Sljivovo",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

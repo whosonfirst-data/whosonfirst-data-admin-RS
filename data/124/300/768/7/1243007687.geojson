@@ -27,8 +27,47 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:ces_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:epo_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:fra_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e8\u05d4 \u05de\u05d5\u05e8\u05d0\u05d1\u05d9\u05e6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1cskossuthfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:msa_x_preferred":[
+        "Stara Moravica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u041c\u043e\u0440\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Stara Moravica"
+    ],
     "name:srp_x_preferred":[
         "Stara Moravica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041c\u043e\u0440\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041c\u043e\u0440\u0430\u0432\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
         "Kosutfalva",
@@ -65,7 +104,7 @@
         }
     ],
     "wof:id":1243007687,
-    "wof:lastmodified":1537683922,
+    "wof:lastmodified":1564104330,
     "wof:name":"Stara Moravica",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

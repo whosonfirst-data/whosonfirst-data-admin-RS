@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ostrozub"
+    ],
+    "name:fra_x_preferred":[
+        "Ostrozub"
+    ],
+    "name:msa_x_preferred":[
+        "Ostrozub"
+    ],
     "name:srp_x_preferred":[
         "Ostrozub"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u0442\u0440\u043e\u0437\u0443\u0431"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226357341,
-    "wof:lastmodified":1537683744,
+    "wof:lastmodified":1564104700,
     "wof:name":"Ostrozub",
     "wof:parent_id":1108809877,
     "wof:placetype":"locality",

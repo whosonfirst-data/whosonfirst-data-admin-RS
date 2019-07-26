@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malo Laole"
+    ],
+    "name:fra_x_preferred":[
+        "Malo Laole"
+    ],
+    "name:msa_x_preferred":[
+        "Malo Laole"
+    ],
+    "name:por_x_preferred":[
+        "Malo Laole"
+    ],
+    "name:slv_x_preferred":[
+        "Malo Laole"
+    ],
     "name:srp_x_preferred":[
         "Malo Laole"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u043e \u041b\u0430\u043e\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276247227,
-    "wof:lastmodified":1537683760,
+    "wof:lastmodified":1564103579,
     "wof:name":"Malo Laole",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

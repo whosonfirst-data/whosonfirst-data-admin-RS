@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mrati\u0161i\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Mrati\u0161i\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Mrati\u0161i\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Mrati\u0161i\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Mrati\u0161i\u0107"
+    ],
     "name:srp_x_preferred":[
         "Mrati\u0161i\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0440\u0430\u0442\u0438\u0448\u0438\u045b"
     ],
     "name:und_x_variant":[
         "Mrati\u0161i\u0107i"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310420465,
-    "wof:lastmodified":1537683932,
+    "wof:lastmodified":1564104046,
     "wof:name":"Mratisic",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

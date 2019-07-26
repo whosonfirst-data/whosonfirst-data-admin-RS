@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vilju\u0161a"
+    ],
+    "name:fra_x_preferred":[
+        "Vilju\u0161a"
+    ],
+    "name:msa_x_preferred":[
+        "Vilju\u0161a"
+    ],
+    "name:por_x_preferred":[
+        "Vilju\u0161a"
+    ],
+    "name:slv_x_preferred":[
+        "Vilju\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0459\u0443\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Vilju\u0161a"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276991279,
-    "wof:lastmodified":1537683913,
+    "wof:lastmodified":1564103628,
     "wof:name":"Viljusa",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

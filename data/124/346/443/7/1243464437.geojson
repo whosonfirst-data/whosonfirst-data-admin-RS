@@ -26,6 +26,21 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Erde\u010d"
+    ],
+    "name:msa_x_preferred":[
+        "Erde\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Erde\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Erde\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0440\u0434\u0435\u0447"
+    ],
     "name:und_x_variant":[
         "Erde\u010d"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243464437,
-    "wof:lastmodified":1537683915,
+    "wof:lastmodified":1564104415,
     "wof:name":"Erdec",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

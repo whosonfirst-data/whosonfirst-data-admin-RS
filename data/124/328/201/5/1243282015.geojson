@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sumorovac"
+    ],
+    "name:fra_x_preferred":[
+        "Sumorovac"
+    ],
+    "name:msa_x_preferred":[
+        "Sumorovac"
+    ],
+    "name:por_x_preferred":[
+        "Sumorovac"
+    ],
+    "name:slv_x_preferred":[
+        "Sumorovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u043c\u043e\u0440\u043e\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Sumarov",
         "Sumorovac"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1243282015,
-    "wof:lastmodified":1537683915,
+    "wof:lastmodified":1564104518,
     "wof:name":"Sumorovac",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

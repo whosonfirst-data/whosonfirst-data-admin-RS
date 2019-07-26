@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornja Mutnica"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Mutnica"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Mutnica"
+    ],
+    "name:por_x_preferred":[
+        "Gornja Mutnica"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Mutnica"
+    ],
     "name:srp_x_preferred":[
         "Gornja Mutnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u041c\u0443\u0442\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226061055,
-    "wof:lastmodified":1537683798,
+    "wof:lastmodified":1564104777,
     "wof:name":"Gornja Mutnica",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

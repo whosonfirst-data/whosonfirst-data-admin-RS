@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bingula"
+    ],
+    "name:epo_x_preferred":[
+        "Bingula"
+    ],
+    "name:fra_x_preferred":[
+        "Bingula"
+    ],
+    "name:hrv_x_preferred":[
+        "Bingula"
+    ],
+    "name:hun_x_preferred":[
+        "Bingula"
+    ],
+    "name:msa_x_preferred":[
+        "Bingula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u0433\u0443\u043b\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Bingula"
+    ],
     "name:srp_x_preferred":[
         "Bingula"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0438\u043d\u0433\u0443\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Bingola"
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1293108593,
-    "wof:lastmodified":1537683949,
+    "wof:lastmodified":1564103432,
     "wof:name":"Bingula",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

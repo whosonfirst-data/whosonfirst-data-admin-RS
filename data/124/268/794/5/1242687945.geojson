@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Poljanice"
+    ],
+    "name:fra_x_preferred":[
+        "Poljanice"
+    ],
+    "name:hrv_x_preferred":[
+        "Poljanice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0438\u0446\u0435"
+    ],
     "name:srp_x_preferred":[
         "Poljanice"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0459\u0430\u043d\u0438\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1242687945,
-    "wof:lastmodified":1537684027,
+    "wof:lastmodified":1564104372,
     "wof:name":"Poljanice",
     "wof:parent_id":1108809841,
     "wof:placetype":"locality",

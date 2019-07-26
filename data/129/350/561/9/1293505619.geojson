@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u043c\u0431\u0438\u044f"
+    ],
+    "name:fra_x_preferred":[
+        "Dumbija"
+    ],
+    "name:msa_x_preferred":[
+        "Dumbija"
+    ],
+    "name:por_x_preferred":[
+        "Dumbija"
+    ],
+    "name:slv_x_preferred":[
+        "Dumbija"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043c\u0431\u0438\u0458\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293505619,
-    "wof:lastmodified":1537572093,
+    "wof:lastmodified":1564103345,
     "wof:name":"Dumbija",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

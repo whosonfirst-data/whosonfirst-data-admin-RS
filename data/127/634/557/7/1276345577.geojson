@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mali \u0160enj"
+    ],
+    "name:msa_x_preferred":[
+        "Mali \u0160enj"
+    ],
+    "name:por_x_preferred":[
+        "Mali \u0160enj"
+    ],
+    "name:slv_x_preferred":[
+        "Mali \u0160enj"
+    ],
     "name:srp_x_preferred":[
         "Mali \u0160enj"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0428\u0435\u045a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276345577,
-    "wof:lastmodified":1537683760,
+    "wof:lastmodified":1564103510,
     "wof:name":"Mali Senj",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

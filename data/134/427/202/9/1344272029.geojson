@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0441\u0438\u0434\u043e\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasidol"
+    ],
+    "name:fra_x_preferred":[
+        "Kasidol"
+    ],
+    "name:msa_x_preferred":[
+        "Kasidol"
+    ],
+    "name:por_x_preferred":[
+        "Kasidol"
+    ],
+    "name:ron_x_preferred":[
+        "Kasidol"
+    ],
+    "name:slv_x_preferred":[
+        "Kasidol"
+    ],
     "name:srp_x_preferred":[
         "Kasidol"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u0441\u0438\u0434\u043e\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1344272029,
-    "wof:lastmodified":1537683781,
+    "wof:lastmodified":1564103196,
     "wof:name":"Kasidol",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

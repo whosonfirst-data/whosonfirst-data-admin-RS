@@ -30,23 +30,54 @@
     "name:bul_x_preferred":[
         "\u0416\u0430\u0431\u0430\u0440\u0438"
     ],
+    "name:fra_x_preferred":[
+        "\u017dabari"
+    ],
     "name:hbs_x_preferred":[
         "Op\u0161tina \u017dabari"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dabari"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dabari"
     ],
     "name:kat_x_preferred":[
         "\u10df\u10d0\u10d1\u10d0\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10df\u10d0\u10d1\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dabari"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dabari"
+    ],
     "name:pnb_x_preferred":[
         "\u0632\u0627\u0628\u0627\u0631\u06cc"
     ],
+    "name:por_x_preferred":[
+        "\u017dabari"
+    ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u0431\u0430\u0440\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dabari"
+    ],
+    "name:spa_x_preferred":[
+        "\u017dabari"
     ],
     "name:srp_x_preferred":[
         "\u017dabari"
     ],
     "name:srp_x_variant":[
-        "\u0416\u0430\u0431\u0430\u0440\u0438"
+        "\u0416\u0430\u0431\u0430\u0440\u0438",
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0416\u0430\u0431\u0430\u0440\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u017dabari"
     ],
     "name:und_x_variant":[
         "Zabar",
@@ -54,6 +85,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u0628\u0627\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5df4\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +115,7 @@
         }
     ],
     "wof:id":1309746019,
-    "wof:lastmodified":1537683687,
+    "wof:lastmodified":1564104261,
     "wof:name":"Zabari",
     "wof:parent_id":1108810157,
     "wof:placetype":"locality",

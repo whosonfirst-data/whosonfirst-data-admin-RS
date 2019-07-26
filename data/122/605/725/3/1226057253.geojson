@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ribare"
+    ],
+    "name:fra_x_preferred":[
+        "Ribare"
+    ],
+    "name:msa_x_preferred":[
+        "Ribare"
+    ],
+    "name:por_x_preferred":[
+        "Ribare"
+    ],
+    "name:slv_x_preferred":[
+        "Ribare"
+    ],
     "name:srp_x_preferred":[
         "Ribare"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0431\u0430\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226057253,
-    "wof:lastmodified":1537683725,
+    "wof:lastmodified":1564104689,
     "wof:name":"Ribare",
     "wof:parent_id":1108810159,
     "wof:placetype":"locality",

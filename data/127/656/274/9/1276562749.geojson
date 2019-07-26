@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043f\u043b\u0438 \u0434\u043e\u043b"
+    ],
+    "name:fra_x_preferred":[
+        "Topli Dol"
+    ],
+    "name:msa_x_preferred":[
+        "Topli Dol"
+    ],
+    "name:por_x_preferred":[
+        "Topli Dol"
+    ],
+    "name:slv_x_preferred":[
+        "Topli Dol"
+    ],
     "name:srp_x_preferred":[
         "Topli Dol"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u043f\u043b\u0438 \u0414\u043e\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276562749,
-    "wof:lastmodified":1537683703,
+    "wof:lastmodified":1564103516,
     "wof:name":"Topli Dol",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

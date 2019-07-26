@@ -26,8 +26,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0449\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ne\u0161tin"
+    ],
+    "name:epo_x_preferred":[
+        "Ne\u015dtin"
+    ],
+    "name:fra_x_preferred":[
+        "Ne\u0161tin"
+    ],
+    "name:hrv_x_preferred":[
+        "Ne\u0161tin"
+    ],
+    "name:hun_x_preferred":[
+        "Neszt"
+    ],
+    "name:ita_x_preferred":[
+        "Ne\u0161tin"
+    ],
+    "name:msa_x_preferred":[
+        "Ne\u0161tin"
+    ],
+    "name:slv_x_preferred":[
+        "Ne\u0161tin"
+    ],
     "name:srp_x_preferred":[
         "Ne\u0161tin"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u0448\u0442\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0448\u0442\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1327040227,
-    "wof:lastmodified":1537683953,
+    "wof:lastmodified":1564102974,
     "wof:name":"Nestin",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

@@ -26,7 +26,31 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stubica"
+    ],
+    "name:ceb_x_preferred":[
+        "Stubica"
+    ],
+    "name:fra_x_preferred":[
+        "Stubica"
+    ],
+    "name:hrv_x_preferred":[
+        "Stubica"
+    ],
+    "name:hun_x_preferred":[
+        "Stubica"
+    ],
+    "name:slv_x_preferred":[
+        "Stubica"
+    ],
     "name:srp_x_preferred":[
+        "Stubica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0443\u0431\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Stubica"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1310420373,
-    "wof:lastmodified":1537683709,
+    "wof:lastmodified":1564104050,
     "wof:name":"Stubica",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

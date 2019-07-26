@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Orljane"
+    ],
+    "name:fra_x_preferred":[
+        "Orljane"
+    ],
+    "name:msa_x_preferred":[
+        "Orljane"
+    ],
+    "name:por_x_preferred":[
+        "Orljane"
+    ],
+    "name:slv_x_preferred":[
+        "Orljane"
+    ],
+    "name:sqi_x_preferred":[
+        "Orlana"
+    ],
     "name:srp_x_preferred":[
         "Orljane"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0440\u0459\u0430\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293018935,
-    "wof:lastmodified":1537683746,
+    "wof:lastmodified":1564103259,
     "wof:name":"Orljane",
     "wof:parent_id":1108809889,
     "wof:placetype":"locality",
