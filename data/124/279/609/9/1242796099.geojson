@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vla\u0161ko Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Vla\u0161ko Polje"
+    ],
+    "name:msa_x_preferred":[
+        "Vla\u0161ko Polje"
+    ],
+    "name:por_x_preferred":[
+        "Vla\u0161ko Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Vla\u0161ko Polje"
+    ],
     "name:srp_x_preferred":[
         "Vla\u0161ko Polje"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u0448\u043a\u043e \u041f\u043e\u0459\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1242796099,
-    "wof:lastmodified":1537683692,
+    "wof:lastmodified":1564104461,
     "wof:name":"Vlasko Polje",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

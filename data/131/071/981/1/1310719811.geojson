@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ugljarevo"
+    ],
+    "name:fra_x_preferred":[
+        "Ugljarevo"
+    ],
+    "name:msa_x_preferred":[
+        "Ugljarevo"
+    ],
+    "name:por_x_preferred":[
+        "Ugljarevo"
+    ],
+    "name:slv_x_preferred":[
+        "Ugljarevo"
+    ],
     "name:srp_x_preferred":[
         "Ugljarevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u0433\u0459\u0430\u0440\u0435\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310719811,
-    "wof:lastmodified":1537683699,
+    "wof:lastmodified":1564104026,
     "wof:name":"Ugljarevo",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

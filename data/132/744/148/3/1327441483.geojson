@@ -26,6 +26,84 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0627\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Kraj"
+    ],
+    "name:aze_x_preferred":[
+        "Diyar"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0439"
+    ],
+    "name:bre_x_preferred":[
+        "Kraj"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0439"
+    ],
+    "name:ces_x_preferred":[
+        "Kraj"
+    ],
+    "name:dan_x_preferred":[
+        "Kraj"
+    ],
+    "name:deu_x_preferred":[
+        "Kraj"
+    ],
+    "name:eus_x_preferred":[
+        "Kraj"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u06cc"
+    ],
+    "name:glg_x_preferred":[
+        "Kraj"
+    ],
+    "name:hye_x_preferred":[
+        "\u0535\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Kraj"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Kraj"
+    ],
+    "name:nor_x_preferred":[
+        "Kraj"
+    ],
+    "name:pol_x_preferred":[
+        "Kraj"
+    ],
+    "name:por_x_preferred":[
+        "Kraj"
+    ],
+    "name:ron_x_preferred":[
+        "Kraj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0439"
+    ],
+    "name:sah_x_preferred":[
+        "\u041a\u044b\u0442\u044b\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Kraj"
+    ],
+    "name:swe_x_preferred":[
+        "Kraj"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688225,
@@ -51,7 +129,7 @@
         }
     ],
     "wof:id":1327441483,
-    "wof:lastmodified":1536667636,
+    "wof:lastmodified":1564103046,
     "wof:name":"Kraj",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

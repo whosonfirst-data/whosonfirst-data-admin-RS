@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Podvr\u0161ka"
+    ],
+    "name:deu_x_preferred":[
+        "Podvr\u0161ka"
+    ],
+    "name:fra_x_preferred":[
+        "Podvr\u0161ka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0440\u0448\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Podvr\u0161ka"
+    ],
+    "name:por_x_preferred":[
+        "Podvr\u0161ka"
+    ],
+    "name:slv_x_preferred":[
+        "Podvr\u0161ka"
+    ],
     "name:srp_x_preferred":[
         "Podvr\u0161ka"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0434\u0432\u0440\u0448\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1243564473,
-    "wof:lastmodified":1537683738,
+    "wof:lastmodified":1564104436,
     "wof:name":"Podvrska",
     "wof:parent_id":1108809915,
     "wof:placetype":"locality",

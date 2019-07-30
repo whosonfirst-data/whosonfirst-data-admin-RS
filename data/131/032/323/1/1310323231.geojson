@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Domi\u0161evina"
+    ],
+    "name:fra_x_preferred":[
+        "Domi\u0161evina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0574\u056b\u0577\u0587\u056b\u0576\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Domi\u0161evina"
+    ],
+    "name:nld_x_preferred":[
+        "Domi\u0161evina"
+    ],
+    "name:por_x_preferred":[
+        "Domi\u0161evina"
+    ],
+    "name:slv_x_preferred":[
+        "Domi\u0161evina"
+    ],
     "name:srp_x_preferred":[
         "Domi\u0161evina"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u043c\u0438\u0448\u0435\u0432\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Domi\u0161ane"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1310323231,
-    "wof:lastmodified":1537683813,
+    "wof:lastmodified":1564104081,
     "wof:name":"Domisevina",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

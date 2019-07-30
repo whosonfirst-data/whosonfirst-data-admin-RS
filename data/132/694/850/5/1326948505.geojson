@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Trebotin"
+    ],
+    "name:fra_x_preferred":[
+        "Trebotin"
+    ],
+    "name:msa_x_preferred":[
+        "Trebotin"
+    ],
+    "name:por_x_preferred":[
+        "Trebotin"
+    ],
+    "name:slv_x_preferred":[
+        "Trebotin"
+    ],
     "name:srp_x_preferred":[
         "Trebotin"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0435\u0431\u043e\u0442\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Trebotinj"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326948505,
-    "wof:lastmodified":1537683702,
+    "wof:lastmodified":1564102908,
     "wof:name":"Trebotin",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

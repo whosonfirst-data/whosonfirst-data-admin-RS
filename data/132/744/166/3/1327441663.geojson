@@ -26,6 +26,15 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podlipnik"
+    ],
+    "name:fra_x_preferred":[
+        "Podlipnik"
+    ],
+    "name:pol_x_preferred":[
+        "Podlipnik"
+    ],
     "name:srp_x_preferred":[
         "Podlipnik"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327441663,
-    "wof:lastmodified":1537683970,
+    "wof:lastmodified":1564103031,
     "wof:name":"Podlipnik",
     "wof:parent_id":1108809959,
     "wof:placetype":"locality",

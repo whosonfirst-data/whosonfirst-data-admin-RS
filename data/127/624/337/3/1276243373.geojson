@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krajkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Krajkovac"
+    ],
+    "name:msa_x_preferred":[
+        "Krajkovac"
+    ],
+    "name:por_x_preferred":[
+        "Krajkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Krajkovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Krajkoci"
+    ],
     "name:srp_x_preferred":[
         "Krajkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0430\u0458\u043a\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276243373,
-    "wof:lastmodified":1537683776,
+    "wof:lastmodified":1564103577,
     "wof:name":"Krajkovac",
     "wof:parent_id":1108809979,
     "wof:placetype":"locality",

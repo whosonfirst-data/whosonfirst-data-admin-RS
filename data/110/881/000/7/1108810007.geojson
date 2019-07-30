@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046499,
-    "geom:area_square_m":409319470.246196,
+    "geom:area_square_m":409319470.246203,
     "geom:bbox":"19.975504,44.504472,20.3321185,44.7145875",
     "geom:latitude":44.610979,
     "geom:longitude":20.143362,
@@ -21,8 +21,92 @@
     "meso:name_loc":"Obrenovac",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Obrenova\u00e7"
+    ],
+    "name:bos_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:ces_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06c6\u0628\u0631\u06ce\u0646\u06c6\u06a4\u0627\u062a\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03c0\u03c1\u03ad\u03bd\u03bf\u03b2\u03b1\u03c4\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0631\u0646\u0648\u0648\u0627\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:ind_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:ita_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ube0c\ub808\ub178\ubc14\uce20"
+    ],
+    "name:lit_x_preferred":[
+        "Obrenovacas"
+    ],
+    "name:msa_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:nld_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:nor_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:pol_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:por_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:slv_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:spa_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:tur_x_preferred":[
+        "Obrenovac"
+    ],
     "name:und_x_variant":[
         "Obrenovac"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0628\u0631\u06cc\u0646\u0648\u0648\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Obrenovac"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5e03\u96f7\u8afe\u74e6\u8328"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +131,7 @@
         }
     ],
     "wof:id":1108810007,
-    "wof:lastmodified":1512517090,
+    "wof:lastmodified":1564103962,
     "wof:name":"Obrenovac",
     "wof:parent_id":85688279,
     "wof:placetype":"localadmin",

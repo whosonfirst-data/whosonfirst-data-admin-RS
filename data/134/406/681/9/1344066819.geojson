@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
+    "name:epo_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
+    "name:fra_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Srijemski Mihaljevci"
+    ],
+    "name:hun_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
+    "name:msa_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
+    "name:slv_x_preferred":[
+        "Sremski Mihaljevci"
+    ],
     "name:srp_x_preferred":[
         "Sremski Mihaljevci"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041c\u0438\u0445\u0430\u0459\u0435\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Mihaljevci"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1344066819,
-    "wof:lastmodified":1537683713,
+    "wof:lastmodified":1564103085,
     "wof:name":"Sremski Mihaljevci",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

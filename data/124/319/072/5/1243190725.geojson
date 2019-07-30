@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u044a\u0441\u043e\u0432\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Rsovci"
+    ],
+    "name:msa_x_preferred":[
+        "Rsovci"
+    ],
+    "name:por_x_preferred":[
+        "Rsovci"
+    ],
+    "name:slv_x_preferred":[
+        "Rsovci"
+    ],
     "name:srp_x_preferred":[
         "Rsovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0441\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243190725,
-    "wof:lastmodified":1537683723,
+    "wof:lastmodified":1564104522,
     "wof:name":"Rsovci",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

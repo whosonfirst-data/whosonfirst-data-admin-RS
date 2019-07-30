@@ -26,6 +26,75 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Glogovac"
+    ],
+    "name:ces_x_preferred":[
+        "Glogovac"
+    ],
+    "name:cym_x_preferred":[
+        "Drenas"
+    ],
+    "name:deu_x_preferred":[
+        "Drenas"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0648\u06af\u0648\u0648\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Gllogoc"
+    ],
+    "name:hrv_x_preferred":[
+        "Glogovac"
+    ],
+    "name:ile_x_preferred":[
+        "Gllogoc"
+    ],
+    "name:ita_x_preferred":[
+        "Glogovac"
+    ],
+    "name:kor_x_preferred":[
+        "\ub4dc\ub808\ub098\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Glogovacas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Gllogovc"
+    ],
+    "name:nor_x_preferred":[
+        "Gllogoc"
+    ],
+    "name:pol_x_preferred":[
+        "Glogovac"
+    ],
+    "name:por_x_preferred":[
+        "Glogovac"
+    ],
+    "name:ron_x_preferred":[
+        "Glogovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Drenasi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Glogovac"
+    ],
+    "name:tur_x_preferred":[
+        "Glogova\u00e7"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6d1b\u6208\u74e6\u8328"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688335,
@@ -51,7 +120,7 @@
         }
     ],
     "wof:id":1309915783,
-    "wof:lastmodified":1536773097,
+    "wof:lastmodified":1564104232,
     "wof:name":"Glogovac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

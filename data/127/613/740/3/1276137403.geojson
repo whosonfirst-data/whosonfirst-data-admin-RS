@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ko\u017eelj"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u017eelj"
+    ],
+    "name:msa_x_preferred":[
+        "Ko\u017eelj"
+    ],
+    "name:por_x_preferred":[
+        "Ko\u017eelj"
+    ],
+    "name:slv_x_preferred":[
+        "Ko\u017eelj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0436\u0435\u0459"
+    ],
     "name:und_x_variant":[
         "Ko\u017eelj"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276137403,
-    "wof:lastmodified":1537683899,
+    "wof:lastmodified":1564103556,
     "wof:name":"Kozelj",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

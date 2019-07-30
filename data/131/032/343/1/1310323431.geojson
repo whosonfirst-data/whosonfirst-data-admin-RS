@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160etka"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160etka"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160etka"
+    ],
+    "name:por_x_preferred":[
+        "\u0160etka"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160etka"
+    ],
     "name:srp_x_preferred":[
         "\u0160etka"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0435\u0442\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310323431,
-    "wof:lastmodified":1537683718,
+    "wof:lastmodified":1564104086,
     "wof:name":"Setka",
     "wof:parent_id":1108810055,
     "wof:placetype":"locality",

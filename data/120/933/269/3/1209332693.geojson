@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Prekope\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Prekope\u010da"
+    ],
+    "name:por_x_preferred":[
+        "Prekope\u010da"
+    ],
+    "name:slv_x_preferred":[
+        "Prekope\u010da"
+    ],
     "name:srp_x_preferred":[
         "Prekope\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u043a\u043e\u043f\u0435\u0447\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209332693,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564103780,
     "wof:name":"Prekopeca",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

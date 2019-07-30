@@ -27,14 +27,56 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:deu_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:fra_x_preferred":[
+        "Mero\u0161ina"
+    ],
     "name:hbs_x_preferred":[
         "\u041c\u0435\u0440\u043e\u0448\u0438\u043d\u0430"
+    ],
+    "name:hrv_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:ita_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:msa_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:nld_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:pol_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:por_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:slv_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:spa_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:sqi_x_preferred":[
+        "Meroshina"
     ],
     "name:srp_x_preferred":[
         "Mero\u0161ina"
     ],
     "name:srp_x_variant":[
         "\u041c\u0435\u0440\u043e\u0448\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Mero\u0161ina"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u7f85\u5e0c\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +104,7 @@
         }
     ],
     "wof:id":1226682687,
-    "wof:lastmodified":1537683756,
+    "wof:lastmodified":1564104718,
     "wof:name":"Merosina",
     "wof:parent_id":1108809979,
     "wof:placetype":"locality",

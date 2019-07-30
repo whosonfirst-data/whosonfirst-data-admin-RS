@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobrovodica"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrovodica"
+    ],
+    "name:msa_x_preferred":[
+        "Dobrovodica"
+    ],
+    "name:por_x_preferred":[
+        "Dobrovodica"
+    ],
+    "name:slv_x_preferred":[
+        "Dobrovodica"
+    ],
     "name:srp_x_preferred":[
         "Dobrovodica"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043e\u0434\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259392735,
-    "wof:lastmodified":1537683814,
+    "wof:lastmodified":1564104539,
     "wof:name":"Dobrovodica",
     "wof:parent_id":1108809839,
     "wof:placetype":"locality",

@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krupac"
+    ],
+    "name:ceb_x_preferred":[
+        "Krupac"
+    ],
+    "name:fra_x_preferred":[
+        "Krupac"
+    ],
+    "name:hrv_x_preferred":[
+        "Krupac"
+    ],
+    "name:slv_x_preferred":[
+        "Krupac"
+    ],
     "name:srp_x_preferred":[
+        "Krupac"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0443\u043f\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
         "Krupac"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209733699,
-    "wof:lastmodified":1537683774,
+    "wof:lastmodified":1564103797,
     "wof:name":"Krupac",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

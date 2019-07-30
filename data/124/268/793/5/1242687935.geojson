@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kambelevac"
+    ],
+    "name:fra_x_preferred":[
+        "Kambelevci"
+    ],
+    "name:hun_x_preferred":[
+        "Kambelevci"
+    ],
+    "name:msa_x_preferred":[
+        "Kambelevci"
+    ],
+    "name:por_x_preferred":[
+        "Kambelevci"
+    ],
+    "name:slv_x_preferred":[
+        "Kambelevci"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0431\u0435\u043b\u0435\u0432\u0430\u0446"
     ],
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1242687935,
-    "wof:lastmodified":1537683783,
+    "wof:lastmodified":1564104372,
     "wof:name":"Kambelevac",
     "wof:parent_id":1108809823,
     "wof:placetype":"locality",

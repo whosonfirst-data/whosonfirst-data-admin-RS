@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zminac"
+    ],
+    "name:ron_x_preferred":[
+        "Zminac"
+    ],
+    "name:slv_x_preferred":[
+        "Zminac"
+    ],
     "name:srp_x_preferred":[
         "Zminac"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u043c\u0438\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310020753,
-    "wof:lastmodified":1537683877,
+    "wof:lastmodified":1564104112,
     "wof:name":"Zminac",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

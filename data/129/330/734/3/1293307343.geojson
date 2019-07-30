@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zalogovac"
+    ],
+    "name:fra_x_preferred":[
+        "Zalogovac"
+    ],
+    "name:msa_x_preferred":[
+        "Zalogovac"
+    ],
+    "name:por_x_preferred":[
+        "Zalogovac"
+    ],
+    "name:slv_x_preferred":[
+        "Zalogovac"
+    ],
     "name:srp_x_preferred":[
         "Zalogovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u043b\u043e\u0433\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293307343,
-    "wof:lastmodified":1537683686,
+    "wof:lastmodified":1564103248,
     "wof:name":"Zalogovac",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

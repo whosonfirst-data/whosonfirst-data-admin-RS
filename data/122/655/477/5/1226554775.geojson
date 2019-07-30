@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010cu\u010dale"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cu\u010dale"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cu\u010dale"
+    ],
+    "name:por_x_preferred":[
+        "\u010cu\u010dale"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cu\u010dale"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7y\u00e7alla"
+    ],
     "name:srp_x_preferred":[
         "\u010cu\u010dale"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0443\u0447\u0430\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226554775,
-    "wof:lastmodified":1537683819,
+    "wof:lastmodified":1564104768,
     "wof:name":"Cucale",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

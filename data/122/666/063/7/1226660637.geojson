@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Balajnac"
+    ],
+    "name:slv_x_preferred":[
+        "Balajnac"
+    ],
     "name:srp_x_preferred":[
         "Balajnac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043b\u0430\u0458\u043d\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Balajinac"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226660637,
-    "wof:lastmodified":1537683840,
+    "wof:lastmodified":1564104711,
     "wof:name":"Balajnac",
     "wof:parent_id":1108809885,
     "wof:placetype":"locality",

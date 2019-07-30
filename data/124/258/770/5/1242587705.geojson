@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bankovac"
+    ],
+    "name:fra_x_preferred":[
+        "Bankovac"
+    ],
+    "name:msa_x_preferred":[
+        "Bankovac"
+    ],
+    "name:por_x_preferred":[
+        "Bankovac"
+    ],
+    "name:slv_x_preferred":[
+        "Bankovac"
+    ],
     "name:srp_x_preferred":[
         "Bankovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u043a\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Beli Breg"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1242587705,
-    "wof:lastmodified":1537683838,
+    "wof:lastmodified":1564104389,
     "wof:name":"Bankovac",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

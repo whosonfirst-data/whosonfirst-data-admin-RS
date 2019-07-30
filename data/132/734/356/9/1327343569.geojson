@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornji Mu\u0161i\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Mu\u0161i\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Gornji Mu\u0161i\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Mu\u0161i\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Mu\u0161i\u0107"
+    ],
     "name:srp_x_preferred":[
         "Gornji Mu\u0161i\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041c\u0443\u0448\u0438\u045b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1327343569,
-    "wof:lastmodified":1537683794,
+    "wof:lastmodified":1564102961,
     "wof:name":"Gornji Music",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

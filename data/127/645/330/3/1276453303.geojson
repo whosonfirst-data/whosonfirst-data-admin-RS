@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katrga"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062a\u0631\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Katrga"
+    ],
+    "name:msa_x_preferred":[
+        "Katrga"
+    ],
+    "name:por_x_preferred":[
+        "Katrga"
+    ],
+    "name:slv_x_preferred":[
+        "Katrga"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0442\u0440\u0433\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688225,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276453303,
-    "wof:lastmodified":1537572094,
+    "wof:lastmodified":1564103487,
     "wof:name":"Katrga",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

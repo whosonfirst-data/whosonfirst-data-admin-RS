@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Drvnik"
+    ],
+    "name:msa_x_preferred":[
+        "Drvnik"
+    ],
+    "name:por_x_preferred":[
+        "Drvnik"
+    ],
+    "name:slv_x_preferred":[
+        "Drvnik"
+    ],
     "name:srp_x_preferred":[
         "Drvnik"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0432\u043d\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1277000005,
-    "wof:lastmodified":1537683806,
+    "wof:lastmodified":1564103469,
     "wof:name":"Drvnik",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

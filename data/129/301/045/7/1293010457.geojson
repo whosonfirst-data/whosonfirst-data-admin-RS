@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dra\u017emirovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0698\u0645\u06cc\u0631\u0648\u0648\u0627\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Dra\u017emirovac"
+    ],
+    "name:msa_x_preferred":[
+        "Dra\u017emirovac"
+    ],
+    "name:por_x_preferred":[
+        "Dra\u017emirovac"
+    ],
+    "name:slv_x_preferred":[
+        "Dra\u017emirovac"
+    ],
     "name:srp_x_preferred":[
         "Dra\u017emirovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0430\u0436\u043c\u0438\u0440\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293010457,
-    "wof:lastmodified":1537683806,
+    "wof:lastmodified":1564103267,
     "wof:name":"Drazmirovac",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

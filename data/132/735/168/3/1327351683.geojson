@@ -26,11 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:deu_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:fra_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u0441\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:nld_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:por_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:ron_x_preferred":[
+        "Jasikovo"
+    ],
+    "name:slv_x_preferred":[
+        "Jasikovo"
+    ],
     "name:srp_x_preferred":[
         "Jasikovo"
     ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0441\u0438\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Veliki Jasikovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0633\u06a9\u0648\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1327351683,
-    "wof:lastmodified":1537683786,
+    "wof:lastmodified":1564102964,
     "wof:name":"Jasikovo",
     "wof:parent_id":1108809967,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guri\u0161evci"
+    ],
+    "name:fra_x_preferred":[
+        "Guri\u0161evci"
+    ],
+    "name:msa_x_preferred":[
+        "Guri\u0161evci"
+    ],
+    "name:por_x_preferred":[
+        "Guri\u0161evci"
+    ],
+    "name:slv_x_preferred":[
+        "Guri\u0161evci"
+    ],
     "name:srp_x_preferred":[
         "Guri\u0161evci"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0443\u0440\u0438\u0448\u0435\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209324831,
-    "wof:lastmodified":1537683789,
+    "wof:lastmodified":1564103754,
     "wof:name":"Gurisevci",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

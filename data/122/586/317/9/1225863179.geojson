@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0441\u0438\u043d\u0430 \u041e\u043a\u0440\u0443\u0433\u043b\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Vlasina Okruglica"
+    ],
+    "name:fra_x_preferred":[
+        "Vlasina Okruglica"
+    ],
+    "name:hun_x_preferred":[
+        "Vlasina Okruglica"
+    ],
+    "name:msa_x_preferred":[
+        "Vlasina Okruglica"
+    ],
+    "name:nld_x_preferred":[
+        "Vlasina Okruglica"
+    ],
+    "name:por_x_preferred":[
+        "Vlasina Okruglica"
+    ],
+    "name:slv_x_preferred":[
+        "Vlasina Okruglica"
+    ],
     "name:srp_x_preferred":[
         "Vlasina Okruglica"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u0441\u0438\u043d\u0430 \u041e\u043a\u0440\u0443\u0433\u043b\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1225863179,
-    "wof:lastmodified":1537683692,
+    "wof:lastmodified":1564104723,
     "wof:name":"Vlasina Okruglica",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

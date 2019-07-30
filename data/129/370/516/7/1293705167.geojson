@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160uvaji\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160uvaji\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160uvaji\u0107"
+    ],
+    "name:por_x_preferred":[
+        "\u0160uvaji\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160uvaji\u0107"
+    ],
     "name:srp_x_preferred":[
         "\u0160uvaji\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0443\u0432\u0430\u0458\u0438\u045b"
     ],
     "name:und_x_variant":[
         "\u0160uvaji\u0107i"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293705167,
-    "wof:lastmodified":1537683706,
+    "wof:lastmodified":1564103312,
     "wof:name":"Suvajic",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043b\u044f\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Meljak"
+    ],
+    "name:fra_x_preferred":[
+        "Meljak"
+    ],
+    "name:msa_x_preferred":[
+        "Meljak"
+    ],
+    "name:nld_x_preferred":[
+        "Meljak"
+    ],
+    "name:por_x_preferred":[
+        "Meljak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u044f\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Meljak"
+    ],
     "name:srp_x_preferred":[
         "Meljak"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0459\u0430\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1259897993,
-    "wof:lastmodified":1537683757,
+    "wof:lastmodified":1564104632,
     "wof:name":"Meljak",
     "wof:parent_id":1108809835,
     "wof:placetype":"locality",

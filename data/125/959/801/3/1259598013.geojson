@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0440\u043b\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Surlica"
+    ],
+    "name:msa_x_preferred":[
+        "Surlica"
+    ],
+    "name:por_x_preferred":[
+        "Surlica"
+    ],
+    "name:slv_x_preferred":[
+        "Surlica"
+    ],
     "name:srp_x_preferred":[
         "Surlica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0443\u0440\u043b\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259598013,
-    "wof:lastmodified":1537683707,
+    "wof:lastmodified":1564104605,
     "wof:name":"Surlica",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Brajkovac"
+    ],
+    "name:deu_x_preferred":[
+        "Brajkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Brajkovac"
+    ],
+    "name:msa_x_preferred":[
+        "Brajkovac"
+    ],
+    "name:por_x_preferred":[
+        "Brajkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Brajkovac"
+    ],
     "name:srp_x_preferred":[
         "Brajkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0430\u0458\u043a\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276667697,
-    "wof:lastmodified":1537683829,
+    "wof:lastmodified":1564103551,
     "wof:name":"Brajkovac",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jarsenovo"
+    ],
+    "name:fra_x_preferred":[
+        "Jarsenovo"
+    ],
+    "name:msa_x_preferred":[
+        "Jarsenovo"
+    ],
+    "name:por_x_preferred":[
+        "Jarsenovo"
+    ],
+    "name:slv_x_preferred":[
+        "Jarsenovo"
+    ],
     "name:srp_x_preferred":[
         "Jarsenovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0440\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u0633\u0646\u0648\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327249461,
-    "wof:lastmodified":1537683787,
+    "wof:lastmodified":1564102942,
     "wof:name":"Jarsenovo",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

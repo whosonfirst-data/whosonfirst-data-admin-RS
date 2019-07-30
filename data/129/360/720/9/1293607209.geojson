@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Stajkovce"
+    ],
+    "name:msa_x_preferred":[
+        "Stajkovce"
+    ],
+    "name:por_x_preferred":[
+        "Stajkovce"
+    ],
+    "name:slv_x_preferred":[
+        "Stajkovce"
+    ],
     "name:srp_x_preferred":[
         "Stajkovce"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0458\u043a\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Stajkovac"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1293607209,
-    "wof:lastmodified":1537683712,
+    "wof:lastmodified":1564103381,
     "wof:name":"Stajkovce",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

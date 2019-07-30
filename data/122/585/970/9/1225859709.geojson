@@ -26,8 +26,47 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slivnica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Slivnica"
+    ],
+    "name:fra_x_preferred":[
+        "Slivnica"
+    ],
+    "name:hun_x_preferred":[
+        "Slivnica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Sliwnica"
+    ],
+    "name:ron_x_preferred":[
+        "Slivni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Slivnica"
+    ],
     "name:srp_x_preferred":[
         "Slivnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Slivnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1225859709,
-    "wof:lastmodified":1537683715,
+    "wof:lastmodified":1564104805,
     "wof:name":"Slivnica",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

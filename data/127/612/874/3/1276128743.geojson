@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuzmin"
+    ],
+    "name:epo_x_preferred":[
+        "Kuzmin"
+    ],
+    "name:fra_x_preferred":[
+        "Kuzmin"
+    ],
+    "name:hrv_x_preferred":[
+        "Kuzmin"
+    ],
+    "name:hun_x_preferred":[
+        "Kozmadamj\u00e1n"
+    ],
+    "name:msa_x_preferred":[
+        "Kuzmin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Kuzmin"
+    ],
     "name:srp_x_preferred":[
         "Kuzmin"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u0437\u043c\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1276128743,
-    "wof:lastmodified":1537683935,
+    "wof:lastmodified":1564103587,
     "wof:name":"Kuzmin",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

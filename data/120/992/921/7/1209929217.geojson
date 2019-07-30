@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Veliki Popovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u067e\u067e\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Veliki Popovac"
+    ],
+    "name:msa_x_preferred":[
+        "Veliki Popovac"
+    ],
+    "name:por_x_preferred":[
+        "Veliki Popovac"
+    ],
+    "name:slv_x_preferred":[
+        "Veliki Popovac"
+    ],
     "name:srp_x_preferred":[
         "Veliki Popovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u041f\u043e\u043f\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1209929217,
-    "wof:lastmodified":1537683697,
+    "wof:lastmodified":1564103752,
     "wof:name":"Veliki Popovac",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

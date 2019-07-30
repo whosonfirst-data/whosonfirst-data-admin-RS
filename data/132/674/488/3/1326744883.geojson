@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Be\u010devica"
+    ],
+    "name:fra_x_preferred":[
+        "Be\u010devica"
+    ],
+    "name:msa_x_preferred":[
+        "Be\u010devica"
+    ],
+    "name:por_x_preferred":[
+        "Be\u010devica"
+    ],
+    "name:slv_x_preferred":[
+        "Be\u010devica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0447\u0435\u0432\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Be\u010devica"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326744883,
-    "wof:lastmodified":1537683914,
+    "wof:lastmodified":1564102895,
     "wof:name":"Becevica",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

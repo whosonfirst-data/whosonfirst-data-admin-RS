@@ -26,7 +26,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rajkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Rajkovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Rajkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Rajkovac"
+    ],
     "name:srp_x_preferred":[
+        "Rajkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0458\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
         "Rajkovac"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1310120491,
-    "wof:lastmodified":1537683893,
+    "wof:lastmodified":1564103988,
     "wof:name":"Rajkovac",
     "wof:parent_id":1108809985,
     "wof:placetype":"locality",

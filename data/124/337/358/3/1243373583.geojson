@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kla\u0161ni\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Kla\u0161ni\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Kla\u0161ni\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Kla\u0161ni\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Kla\u0161ni\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u043d\u0438\u045b"
+    ],
     "name:und_x_variant":[
         "Kla\u0161ni\u0107"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243373583,
-    "wof:lastmodified":1537683899,
+    "wof:lastmodified":1564104338,
     "wof:name":"Klasnic",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

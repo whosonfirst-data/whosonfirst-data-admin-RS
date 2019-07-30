@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Privina Glava"
+    ],
+    "name:epo_x_preferred":[
+        "Privina Glava"
+    ],
+    "name:fra_x_preferred":[
+        "Privina Glava"
+    ],
+    "name:hrv_x_preferred":[
+        "Privina Glava"
+    ],
+    "name:hun_x_preferred":[
+        "Privina Glava"
+    ],
+    "name:msa_x_preferred":[
+        "Privina Glava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u0438\u043d\u0430-\u0413\u043b\u0430\u0432\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Privina Glava"
+    ],
     "name:srp_x_preferred":[
         "Privina Glava"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0432\u0438\u043d\u0430 \u0413\u043b\u0430\u0432\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1209329129,
-    "wof:lastmodified":1537683928,
+    "wof:lastmodified":1564103756,
     "wof:name":"Privina Glava",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

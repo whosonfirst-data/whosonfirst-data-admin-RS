@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mala Mlaka"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala Mlaka"
+    ],
+    "name:nld_x_preferred":[
+        "Mala Mlaka"
+    ],
+    "name:pol_x_preferred":[
+        "Mala Mlaka"
+    ],
+    "name:slv_x_preferred":[
+        "Mala Mlaka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u041c\u043b\u0430\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u041c\u043b\u0430\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688279,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1209929185,
-    "wof:lastmodified":1536393499,
+    "wof:lastmodified":1564103751,
     "wof:name":"Mala Mlaka",
     "wof:parent_id":1108810083,
     "wof:placetype":"locality",

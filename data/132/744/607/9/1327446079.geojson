@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zaglavica"
+    ],
+    "name:fra_x_preferred":[
+        "Zaglavica"
+    ],
     "name:srp_x_preferred":[
         "Zaglavica"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0433\u043b\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06af\u0644\u0648\u06cc\u06a9\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1327446079,
-    "wof:lastmodified":1537684013,
+    "wof:lastmodified":1564103044,
     "wof:name":"Zaglavica",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

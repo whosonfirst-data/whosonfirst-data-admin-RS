@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karlov\u010di\u0107"
+    ],
+    "name:epo_x_preferred":[
+        "Karlov\u0109icj"
+    ],
+    "name:fra_x_preferred":[
+        "Karlov\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Karlov\u010di\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Karlov\u010di\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Karlov\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Karlov\u010di\u0107"
+    ],
     "name:srp_x_preferred":[
         "Karlov\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0447\u0438\u045b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1327152653,
-    "wof:lastmodified":1537683781,
+    "wof:lastmodified":1564102937,
     "wof:name":"Karlovcic",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

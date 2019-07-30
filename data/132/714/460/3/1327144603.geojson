@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0441\u0438\u043d\u0430 \u0421\u0442\u043e\u0439\u043a\u043e\u0432\u0438\u0447\u0435\u0432\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Vlasina Stojkovi\u0107eva"
+    ],
+    "name:hun_x_preferred":[
+        "Vlasina Stojkovi\u0107eva"
+    ],
+    "name:msa_x_preferred":[
+        "Vlasina Stojkovi\u0107eva"
+    ],
+    "name:por_x_preferred":[
+        "Vlasina Stojkovi\u0107eva"
+    ],
+    "name:slv_x_preferred":[
+        "Vlasina Stojkovi\u0107eva"
+    ],
     "name:srp_x_preferred":[
         "Vlasina Stojkovi\u0107eva"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u0430\u0441\u0438\u043d\u0430 \u0421\u0442\u043e\u0458\u043a\u043e\u0432\u0438\u045b\u0435\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Stojkovi\u0107a Mahala"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1327144603,
-    "wof:lastmodified":1537683692,
+    "wof:lastmodified":1564102929,
     "wof:name":"Vlasina Stojkoviceva",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

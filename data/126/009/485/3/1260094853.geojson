@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mrkovica"
+    ],
+    "name:msa_x_preferred":[
+        "Mrkovica"
+    ],
+    "name:por_x_preferred":[
+        "Mrkovica"
+    ],
+    "name:slv_x_preferred":[
+        "Mrkovica"
+    ],
     "name:srp_x_preferred":[
         "Mrkovica"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0440\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Markovica"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1260094853,
-    "wof:lastmodified":1537683752,
+    "wof:lastmodified":1564103879,
     "wof:name":"Mrkovica",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

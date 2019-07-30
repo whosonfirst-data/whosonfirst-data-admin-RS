@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nova Bo\u017eurna"
+    ],
+    "name:fra_x_preferred":[
+        "Nova Bo\u017eurna"
+    ],
+    "name:msa_x_preferred":[
+        "Nova Bo\u017eurna"
+    ],
+    "name:por_x_preferred":[
+        "Nova Bo\u017eurna"
+    ],
+    "name:slv_x_preferred":[
+        "Nova Bo\u017eurna"
+    ],
     "name:srp_x_preferred":[
         "Nova Bo\u017eurna"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u0430 \u0411\u043e\u0436\u0443\u0440\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Nova Bo\u017eurnja"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326944713,
-    "wof:lastmodified":1537683749,
+    "wof:lastmodified":1564102903,
     "wof:name":"Nova Bozurna",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

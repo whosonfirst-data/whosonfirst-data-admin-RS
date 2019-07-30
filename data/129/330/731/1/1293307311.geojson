@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Haluge"
+    ],
+    "name:fra_x_preferred":[
+        "Haluge"
+    ],
+    "name:hrv_x_preferred":[
+        "Haluge"
+    ],
     "name:srp_x_preferred":[
         "Haluge"
+    ],
+    "name:srp_x_variant":[
+        "\u0425\u0430\u043b\u0443\u0433\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293307311,
-    "wof:lastmodified":1537684020,
+    "wof:lastmodified":1564103241,
     "wof:name":"Haluge",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

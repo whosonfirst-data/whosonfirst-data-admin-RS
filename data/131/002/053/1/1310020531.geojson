@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Podrimce"
+    ],
+    "name:fra_x_preferred":[
+        "Podrimce"
+    ],
+    "name:msa_x_preferred":[
+        "Podrimce"
+    ],
+    "name:por_x_preferred":[
+        "Podrimce"
+    ],
+    "name:slv_x_preferred":[
+        "Podrimce"
+    ],
+    "name:sqi_x_preferred":[
+        "Podrinca"
+    ],
     "name:srp_x_preferred":[
         "Podrimce"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0434\u0440\u0438\u043c\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Podrince"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1310020531,
-    "wof:lastmodified":1537683738,
+    "wof:lastmodified":1564104109,
     "wof:name":"Podrimce",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

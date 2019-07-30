@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ilinci"
+    ],
+    "name:epo_x_preferred":[
+        "Ilinci"
+    ],
+    "name:fra_x_preferred":[
+        "Ilinci"
+    ],
+    "name:hrv_x_preferred":[
+        "Ilinci"
+    ],
+    "name:hun_x_preferred":[
+        "Ilinci"
+    ],
+    "name:msa_x_preferred":[
+        "Ilinci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Ilinci"
+    ],
     "name:srp_x_preferred":[
         "Ilinci"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u043b\u0438\u043d\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1343272065,
-    "wof:lastmodified":1537683940,
+    "wof:lastmodified":1564103208,
     "wof:name":"Ilinci",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

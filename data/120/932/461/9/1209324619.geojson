@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u041e\u0442\u0443\u043b\u044f"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Otulja"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Otulja"
+    ],
+    "name:nld_x_preferred":[
+        "Gornja Otulja"
+    ],
+    "name:por_x_preferred":[
+        "Gornja Otulja"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Otulja"
+    ],
     "name:srp_x_preferred":[
         "Gornja Otulja"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u041e\u0442\u0443\u0459\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209324619,
-    "wof:lastmodified":1537683797,
+    "wof:lastmodified":1564103760,
     "wof:name":"Gornja Otulja",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

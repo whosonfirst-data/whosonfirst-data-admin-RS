@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sinji Vir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0626\u06cc \u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sinji Vir"
+    ],
+    "name:msa_x_preferred":[
+        "Sinji Vir"
+    ],
+    "name:por_x_preferred":[
+        "Sinji Vir"
+    ],
+    "name:slv_x_preferred":[
+        "Sinji Vir"
+    ],
     "name:srp_x_preferred":[
         "Sinji Vir"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u045a\u0438 \u0412\u0438\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226660655,
-    "wof:lastmodified":1537683717,
+    "wof:lastmodified":1564104708,
     "wof:name":"Sinji Vir",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

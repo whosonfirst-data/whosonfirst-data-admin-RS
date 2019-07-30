@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074405,
-    "geom:area_square_m":669256298.639718,
+    "geom:area_square_m":669256298.639709,
     "geom:bbox":"20.3561095,43.2036205,20.85376,43.460009",
     "geom:latitude":43.329228,
     "geom:longitude":20.638429,
@@ -21,6 +21,9 @@
     "meso:name_loc":"Ra\u0161ka",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Raska"
+    ],
     "name:und_x_variant":[
         "Ra\u0161ka"
     ],
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108810051,
-    "wof:lastmodified":1512517090,
+    "wof:lastmodified":1564103983,
     "wof:name":"Raska",
     "wof:parent_id":85688273,
     "wof:placetype":"localadmin",

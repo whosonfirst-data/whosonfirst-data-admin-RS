@@ -26,8 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:ces_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:epo_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:hun_x_preferred":[
+        "Zentagunaras"
+    ],
+    "name:ita_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:msa_x_preferred":[
+        "Novo Orahovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u041e\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Novo Orahovo"
+    ],
     "name:srp_x_preferred":[
         "Novo Orahovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u043e \u041e\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u041e\u0440\u0430\u0445\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Orahovo",
@@ -60,7 +96,7 @@
         }
     ],
     "wof:id":1360303633,
-    "wof:lastmodified":1537683931,
+    "wof:lastmodified":1564104157,
     "wof:name":"Novo Orahovo",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

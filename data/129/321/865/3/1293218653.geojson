@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zoljevo"
+    ],
+    "name:fra_x_preferred":[
+        "Zoljevo"
+    ],
+    "name:msa_x_preferred":[
+        "Zoljevo"
+    ],
+    "name:por_x_preferred":[
+        "Zoljevo"
+    ],
+    "name:slv_x_preferred":[
+        "Zoljevo"
+    ],
     "name:srp_x_preferred":[
         "Zoljevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u043e\u0459\u0435\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293218653,
-    "wof:lastmodified":1537683683,
+    "wof:lastmodified":1564103451,
     "wof:name":"Zoljevo",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

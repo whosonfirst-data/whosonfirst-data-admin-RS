@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pri\u010devac"
+    ],
+    "name:msa_x_preferred":[
+        "Pri\u010devac"
+    ],
+    "name:por_x_preferred":[
+        "Pri\u010devac"
+    ],
+    "name:slv_x_preferred":[
+        "Pri\u010devac"
+    ],
     "name:srp_x_preferred":[
         "Pri\u010devac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0447\u0435\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Pri\u010devci"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1226252699,
-    "wof:lastmodified":1537683734,
+    "wof:lastmodified":1564104732,
     "wof:name":"Pricevac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kolari"
+    ],
+    "name:fra_x_preferred":[
+        "Kolari"
+    ],
+    "name:msa_x_preferred":[
+        "Kolari"
+    ],
+    "name:por_x_preferred":[
+        "Kolari"
+    ],
+    "name:slv_x_preferred":[
+        "Kolari"
+    ],
     "name:srp_x_preferred":[
         "Kolari"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u043b\u0430\u0440\u0438"
     ],
     "name:und_x_variant":[
         "Kolare"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326940393,
-    "wof:lastmodified":1537683779,
+    "wof:lastmodified":1564102911,
     "wof:name":"Kolari",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobrodol"
+    ],
+    "name:epo_x_preferred":[
+        "Dobrodol"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrodol"
+    ],
+    "name:hun_x_preferred":[
+        "Dobrad\u00f3"
+    ],
+    "name:msa_x_preferred":[
+        "Dobrodol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0434\u043e\u043b"
+    ],
+    "name:slv_x_preferred":[
+        "Dobrodol"
+    ],
     "name:srp_x_preferred":[
         "Dobrodol"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0434\u043e\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276137395,
-    "wof:lastmodified":1537683953,
+    "wof:lastmodified":1564103554,
     "wof:name":"Dobrodol",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

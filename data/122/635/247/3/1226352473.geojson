@@ -26,8 +26,17 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tijovac"
+    ],
+    "name:slv_x_preferred":[
+        "Tijovac"
+    ],
     "name:srp_x_preferred":[
         "Tijovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0438\u0458\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226352473,
-    "wof:lastmodified":1537683704,
+    "wof:lastmodified":1564104701,
     "wof:name":"Tijovac",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

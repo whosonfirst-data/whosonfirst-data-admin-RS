@@ -26,11 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0422\u044a\u0440\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Mali Trnovac"
+    ],
+    "name:fra_x_preferred":[
+        "Mali Trnovac"
+    ],
+    "name:msa_x_preferred":[
+        "Mali Trnovac"
+    ],
+    "name:por_x_preferred":[
+        "Mali Trnovac"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Trnovac"
+    ],
     "name:sqi_x_preferred":[
         "Mal T\u00ebrnovci"
     ],
     "name:srp_x_preferred":[
         "Mali Trnovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0422\u0440\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1327343399,
-    "wof:lastmodified":1537683902,
+    "wof:lastmodified":1564102954,
     "wof:name":"Mali Trnovac",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

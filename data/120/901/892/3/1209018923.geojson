@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Porodin"
+    ],
+    "name:fra_x_preferred":[
+        "Porodin"
+    ],
+    "name:msa_x_preferred":[
+        "Porodin"
+    ],
+    "name:por_x_preferred":[
+        "Porodin"
+    ],
+    "name:slv_x_preferred":[
+        "Porodin"
+    ],
     "name:srp_x_preferred":[
         "Porodin"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0440\u043e\u0434\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209018923,
-    "wof:lastmodified":1537683736,
+    "wof:lastmodified":1564103663,
     "wof:name":"Porodin",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

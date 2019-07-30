@@ -26,7 +26,31 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Crni vrh"
+    ],
+    "name:ceb_x_preferred":[
+        "Crni Vrh"
+    ],
+    "name:deu_x_preferred":[
+        "Crni Vrh"
+    ],
+    "name:fra_x_preferred":[
+        "Crni Vrh"
+    ],
+    "name:hrv_x_preferred":[
+        "Crni Vrh"
+    ],
+    "name:slv_x_preferred":[
+        "Crni Vrh"
+    ],
     "name:srp_x_preferred":[
+        "Crni Vrh"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u043d\u0438 \u0412\u0440\u0445"
+    ],
+    "name:swe_x_preferred":[
         "Crni Vrh"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1260295099,
-    "wof:lastmodified":1537683878,
+    "wof:lastmodified":1564103909,
     "wof:name":"Crni Vrh",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160ogolj"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ogolj"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160ogolj"
+    ],
+    "name:por_x_preferred":[
+        "\u0160ogolj"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ogolj"
+    ],
     "name:srp_x_preferred":[
         "\u0160ogolj"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u043e\u0433\u043e\u0459"
     ],
     "name:und_x_variant":[
         "Sogolje"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226660703,
-    "wof:lastmodified":1537683714,
+    "wof:lastmodified":1564104707,
     "wof:name":"Sogolj",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

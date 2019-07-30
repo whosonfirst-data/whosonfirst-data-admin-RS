@@ -26,7 +26,13 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Komadine"
+    ],
     "name:srp_x_preferred":[
+        "Komadine"
+    ],
+    "name:swe_x_preferred":[
         "Komadine"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360004093,
-    "wof:lastmodified":1537684030,
+    "wof:lastmodified":1564104136,
     "wof:name":"Komadine",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornji Ra\u010dnik"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Ra\u010dnik"
+    ],
+    "name:msa_x_preferred":[
+        "Gornji Ra\u010dnik"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Ra\u010dnik"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Ra\u010dnik"
+    ],
     "name:srp_x_preferred":[
         "Gornji Ra\u010dnik"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0420\u0430\u0447\u043d\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226757745,
-    "wof:lastmodified":1537683794,
+    "wof:lastmodified":1564104662,
     "wof:name":"Gornji Racnik",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Bukovica"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Bukovica"
+    ],
     "name:srp_x_preferred":[
         "Donja Bukovica"
     ],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209022501,
-    "wof:lastmodified":1537683945,
+    "wof:lastmodified":1564103769,
     "wof:name":"Donja Bukovica",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

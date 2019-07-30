@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0440\u0438\u043d\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Garinje"
+    ],
+    "name:msa_x_preferred":[
+        "Garinje"
+    ],
+    "name:por_x_preferred":[
+        "Garinje"
+    ],
+    "name:slv_x_preferred":[
+        "Garinje"
+    ],
     "name:srp_x_preferred":[
         "Garinje"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0430\u0440\u0438\u045a\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276350387,
-    "wof:lastmodified":1537683801,
+    "wof:lastmodified":1564103539,
     "wof:name":"Garinje",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

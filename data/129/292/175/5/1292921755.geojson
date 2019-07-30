@@ -26,6 +26,33 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rez"
+    ],
+    "name:fra_x_preferred":[
+        "Rez"
+    ],
+    "name:hun_x_preferred":[
+        "Rez"
+    ],
+    "name:ita_x_preferred":[
+        "Rez"
+    ],
+    "name:jpn_x_preferred":[
+        "Rez"
+    ],
+    "name:pol_x_preferred":[
+        "Rez"
+    ],
+    "name:rus_x_preferred":[
+        "Rez"
+    ],
+    "name:spa_x_preferred":[
+        "Rez"
+    ],
+    "name:swe_x_preferred":[
+        "Rez"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688261,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1292921755,
-    "wof:lastmodified":1536605536,
+    "wof:lastmodified":1564103289,
     "wof:name":"Rez",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u017dabare"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dabare"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dabare"
+    ],
+    "name:por_x_preferred":[
+        "\u017dabare"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dabare"
+    ],
     "name:srp_x_preferred":[
         "\u017dabare"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0430\u0431\u0430\u0440\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0698\u0627\u0628\u0627\u0631\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276133747,
-    "wof:lastmodified":1537683687,
+    "wof:lastmodified":1564103562,
     "wof:name":"Zabare",
     "wof:parent_id":1108810113,
     "wof:placetype":"locality",

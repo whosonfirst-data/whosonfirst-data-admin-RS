@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jabukovik"
+    ],
+    "name:hun_x_preferred":[
+        "Jabukovik"
+    ],
+    "name:msa_x_preferred":[
+        "Jabukovik"
+    ],
+    "name:por_x_preferred":[
+        "Jabukovik"
+    ],
+    "name:slv_x_preferred":[
+        "Jabukovik"
+    ],
     "name:srp_x_preferred":[
         "Jabukovik"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0431\u0443\u043a\u043e\u0432\u0438\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u06a9\u0648\u0648\u06cc\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1360103223,
-    "wof:lastmodified":1537683787,
+    "wof:lastmodified":1564104184,
     "wof:name":"Jabukovik",
     "wof:parent_id":1108809877,
     "wof:placetype":"locality",

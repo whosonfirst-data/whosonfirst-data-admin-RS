@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Volj\u010dince"
+    ],
+    "name:fra_x_preferred":[
+        "Volj\u010dince"
+    ],
+    "name:msa_x_preferred":[
+        "Volj\u010dince"
+    ],
+    "name:por_x_preferred":[
+        "Volj\u010dince"
+    ],
+    "name:slv_x_preferred":[
+        "Volj\u010dince"
+    ],
     "name:srp_x_preferred":[
         "Volj\u010dince"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043e\u0459\u0447\u0438\u043d\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Volj\u010di\u0161te"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1259392519,
-    "wof:lastmodified":1537683691,
+    "wof:lastmodified":1564104541,
     "wof:name":"Voljcince",
     "wof:parent_id":1108810169,
     "wof:placetype":"locality",

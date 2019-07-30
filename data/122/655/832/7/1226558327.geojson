@@ -25,8 +25,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalu\u0111erovo"
+    ],
+    "name:epo_x_preferred":[
+        "Kalu\u011derovo"
+    ],
+    "name:fra_x_preferred":[
+        "Kalu\u0111erovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kalu\u0111erovo"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u0151l\u0151shegy"
+    ],
+    "name:msa_x_preferred":[
+        "Kalu\u0111erovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u0434\u0436\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Kalu\u0111erovo"
+    ],
     "name:srp_x_preferred":[
         "Kalu\u0111erovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u043b\u0443\u0452\u0435\u0440\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Regenberg",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1226558327,
-    "wof:lastmodified":1537683783,
+    "wof:lastmodified":1564104771,
     "wof:name":"Kaluderovo",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

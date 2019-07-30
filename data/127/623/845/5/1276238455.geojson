@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mezgraja"
+    ],
+    "name:fra_x_preferred":[
+        "Mezgraja"
+    ],
+    "name:slv_x_preferred":[
+        "Mezgraja"
+    ],
     "name:srp_x_preferred":[
         "Mezgraja"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0437\u0433\u0440\u0430\u0458\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276238455,
-    "wof:lastmodified":1537683756,
+    "wof:lastmodified":1564103573,
     "wof:name":"Mezgraja",
     "wof:parent_id":1108809823,
     "wof:placetype":"locality",

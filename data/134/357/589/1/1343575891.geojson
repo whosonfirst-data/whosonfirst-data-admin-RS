@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0441\u043a\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Iskrovci"
+    ],
+    "name:msa_x_preferred":[
+        "Iskrovci"
+    ],
+    "name:por_x_preferred":[
+        "Iskrovci"
+    ],
+    "name:slv_x_preferred":[
+        "Iskrovci"
+    ],
     "name:srp_x_preferred":[
         "Iskrovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u0441\u043a\u0440\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343575891,
-    "wof:lastmodified":1537683789,
+    "wof:lastmodified":1564103148,
     "wof:name":"Iskrovci",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

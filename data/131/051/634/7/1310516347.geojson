@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prlita"
+    ],
+    "name:fra_x_preferred":[
+        "Prlita"
+    ],
+    "name:msa_x_preferred":[
+        "Prlita"
+    ],
+    "name:por_x_preferred":[
+        "Prlita"
+    ],
+    "name:slv_x_preferred":[
+        "Prlita"
+    ],
     "name:srp_x_preferred":[
         "Prlita"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u043b\u0438\u0442\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310516347,
-    "wof:lastmodified":1537683733,
+    "wof:lastmodified":1564104120,
     "wof:name":"Prlita",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

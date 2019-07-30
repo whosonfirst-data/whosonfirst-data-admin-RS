@@ -26,11 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jagli\u010dje"
+    ],
+    "name:msa_x_preferred":[
+        "Jagli\u010dje"
+    ],
+    "name:por_x_preferred":[
+        "Jagli\u010dje"
+    ],
+    "name:slv_x_preferred":[
+        "Jagli\u010dje"
+    ],
     "name:srp_x_preferred":[
         "Jagli\u010dje"
     ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0433\u043b\u0438\u0447\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "Jagli\u010de"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06af\u0644\u06cc\u0686\u062c\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1209730073,
-    "wof:lastmodified":1537683787,
+    "wof:lastmodified":1564103792,
     "wof:name":"Jaglicje",
     "wof:parent_id":1108809893,
     "wof:placetype":"locality",

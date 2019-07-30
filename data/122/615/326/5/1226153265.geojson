@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Radova\u0161nica"
+    ],
+    "name:fra_x_preferred":[
+        "Radova\u0161nica"
+    ],
+    "name:msa_x_preferred":[
+        "Radova\u0161nica"
+    ],
+    "name:por_x_preferred":[
+        "Radova\u0161nica"
+    ],
+    "name:slv_x_preferred":[
+        "Radova\u0161nica"
+    ],
     "name:srp_x_preferred":[
         "Radova\u0161nica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0434\u043e\u0432\u0430\u0448\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226153265,
-    "wof:lastmodified":1537683978,
+    "wof:lastmodified":1564104759,
     "wof:name":"Radovasnica",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

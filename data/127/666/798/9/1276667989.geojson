@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donja Studena"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bd\u03b9\u03b1 \u03a3\u03c4\u03bf\u03cd\u03bd\u03c4\u03b5\u03bd\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Studena"
+    ],
+    "name:msa_x_preferred":[
+        "Donja Studena"
+    ],
+    "name:por_x_preferred":[
+        "Donja Studena"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Studena"
+    ],
     "name:srp_x_preferred":[
         "Donja Studena"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0430 \u0421\u0442\u0443\u0434\u0435\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276667989,
-    "wof:lastmodified":1537683812,
+    "wof:lastmodified":1564103547,
     "wof:name":"Donja Studena",
     "wof:parent_id":1108809989,
     "wof:placetype":"locality",

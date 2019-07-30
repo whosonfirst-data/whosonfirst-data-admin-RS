@@ -26,8 +26,14 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Starcevo"
+    ],
     "name:srp_x_preferred":[
         "Star\u010devo"
+    ],
+    "name:swe_x_preferred":[
+        "Starcevo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310511293,
-    "wof:lastmodified":1537683711,
+    "wof:lastmodified":1564104123,
     "wof:name":"Starcevo",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

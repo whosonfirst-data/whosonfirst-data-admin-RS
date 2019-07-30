@@ -27,8 +27,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Veliko Laole"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0648 \u0644\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Laole"
+    ],
+    "name:msa_x_preferred":[
+        "Veliko Laole"
+    ],
+    "name:por_x_preferred":[
+        "Veliko Laole"
+    ],
+    "name:slv_x_preferred":[
+        "Veliko Laole"
+    ],
     "name:srp_x_preferred":[
         "Veliko Laole"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u041b\u0430\u043e\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1360320159,
-    "wof:lastmodified":1537683696,
+    "wof:lastmodified":1564104205,
     "wof:name":"Veliko Laole",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

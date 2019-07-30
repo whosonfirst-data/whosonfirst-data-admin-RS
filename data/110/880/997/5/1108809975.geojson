@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001211,
-    "geom:area_square_m":10899326.512619,
+    "geom:area_square_m":10899326.512622,
     "geom:bbox":"21.883255,43.304461,21.977771,43.32863",
     "geom:latitude":43.316651,
     "geom:longitude":21.933833,
@@ -21,6 +21,33 @@
     "meso:name_loc":"Medijana",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u044f\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Ni\u0161-Medijana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03bd\u03c4\u03b9\u03b1\u03bd\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Medijana"
+    ],
+    "name:hrv_x_preferred":[
+        "Medijana"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d3\u10d8\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Medijana"
+    ],
+    "name:por_x_preferred":[
+        "Medijana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Medijana"
     ],
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1108809975,
-    "wof:lastmodified":1512517089,
+    "wof:lastmodified":1564103927,
     "wof:name":"Medijana",
     "wof:parent_id":85688285,
     "wof:placetype":"localadmin",

@@ -17,6 +17,54 @@
     "mps:longitude":20.453651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0432\u0441\u043a\u0438 \u0412\u0435\u043d\u0430\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:fra_x_preferred":[
+        "Savski venac"
+    ],
+    "name:hrv_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:ind_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:ita_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10e1\u10d9\u10d8-\u10d5\u10d4\u10dc\u10d0\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ube0c\uc2a4\ud0a4\ubca0\ub098\uce20"
+    ],
+    "name:nld_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:nor_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:pol_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:por_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0441\u043a\u0438-\u0412\u0435\u043d\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0432\u0441\u043a\u0438 \u0432\u0435\u043d\u0430\u0446"
+    ],
+    "name:tur_x_preferred":[
+        "Savski Venac"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u592b\u65af\u57fa\u97cb\u7d0d\u8328"
+    ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -44,7 +92,7 @@
         }
     ],
     "wof:id":1393843463,
-    "wof:lastmodified":1562015313,
+    "wof:lastmodified":1564104215,
     "wof:name":"Savski Venac",
     "wof:parent_id":890476941,
     "wof:placetype":"borough",

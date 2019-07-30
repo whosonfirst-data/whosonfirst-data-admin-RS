@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0646\u0642\u062a\u0633\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0646\u06af\u062a\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Brenica"
+    ],
     "name:srp_x_preferred":[
         "Brenica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u0438\u0446\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1360003883,
-    "wof:lastmodified":1537683828,
+    "wof:lastmodified":1564104139,
     "wof:name":"Brenica",
     "wof:parent_id":1108810021,
     "wof:placetype":"locality",

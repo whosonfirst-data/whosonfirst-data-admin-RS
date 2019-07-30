@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zukve"
+    ],
+    "name:fra_x_preferred":[
+        "Zukve"
+    ],
+    "name:msa_x_preferred":[
+        "Zukve"
+    ],
+    "name:nld_x_preferred":[
+        "Zukve"
+    ],
+    "name:por_x_preferred":[
+        "Zukve"
+    ],
+    "name:slv_x_preferred":[
+        "Zukve"
+    ],
     "name:srp_x_preferred":[
         "Zukve"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0443\u043a\u0432\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1310015803,
-    "wof:lastmodified":1537683916,
+    "wof:lastmodified":1564104040,
     "wof:name":"Zukve",
     "wof:parent_id":1108809921,
     "wof:placetype":"locality",

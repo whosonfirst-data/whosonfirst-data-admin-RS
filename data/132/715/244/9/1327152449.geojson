@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u043b\u043a\u043e\u0432\u0438\u044f"
+    ],
+    "name:fra_x_preferred":[
+        "Vlkovija"
+    ],
+    "name:hun_x_preferred":[
+        "Vlkovija"
+    ],
+    "name:msa_x_preferred":[
+        "Vlkovija"
+    ],
+    "name:por_x_preferred":[
+        "Vlkovija"
+    ],
+    "name:slv_x_preferred":[
+        "Vlkovija"
+    ],
     "name:srp_x_preferred":[
         "Vlkovija"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u043b\u043a\u043e\u0432\u0438\u0458\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327152449,
-    "wof:lastmodified":1537683692,
+    "wof:lastmodified":1564102933,
     "wof:name":"Vlkovija",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

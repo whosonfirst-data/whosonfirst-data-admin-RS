@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:ces_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:deu_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:fin_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:fra_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:hrv_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:hun_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:ita_x_preferred":[
+        "Pre\u0161evo"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ec\u30b7\u30a7\u30f4\u30a9"
     ],
@@ -39,8 +60,26 @@
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:nld_x_preferred":[
+        "Pre\u0161evo"
+    ],
     "name:pnb_x_preferred":[
         "\u067e\u0631\u06cc\u0634\u06cc\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:por_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:slv_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:spa_x_preferred":[
+        "Pre\u0161evo"
     ],
     "name:sqi_x_preferred":[
         "Preshev\u00eb"
@@ -53,6 +92,12 @@
     ],
     "name:srp_x_variant":[
         "\u041f\u0440\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pre\u0161evo"
+    ],
+    "name:tur_x_preferred":[
+        "Pre\u015fova"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0448\u0435\u0432\u043e"
@@ -89,7 +134,7 @@
         }
     ],
     "wof:id":1242715047,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564104470,
     "wof:name":"Presevo",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

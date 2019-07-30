@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stublina"
+    ],
+    "name:fra_x_preferred":[
+        "Stublina"
+    ],
+    "name:msa_x_preferred":[
+        "Stublina"
+    ],
+    "name:por_x_preferred":[
+        "Stublina"
+    ],
+    "name:slv_x_preferred":[
+        "Stublina"
+    ],
     "name:srp_x_preferred":[
         "Stublina"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0443\u0431\u043b\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209730163,
-    "wof:lastmodified":1537683708,
+    "wof:lastmodified":1564103799,
     "wof:name":"Stublina",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kudre\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Kudre\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Kudre\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Kudre\u0161"
+    ],
+    "name:slv_x_preferred":[
+        "Kudre\u0161"
+    ],
     "name:srp_x_preferred":[
         "Kudre\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u0434\u0440\u0435\u0448"
     ],
     "name:und_x_variant":[
         "Kudre\u010d",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276892319,
-    "wof:lastmodified":1537683773,
+    "wof:lastmodified":1564103507,
     "wof:name":"Kudres",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rosica"
+    ],
+    "name:msa_x_preferred":[
+        "Rosica"
+    ],
+    "name:por_x_preferred":[
+        "Rosica"
+    ],
+    "name:slv_x_preferred":[
+        "Rosica"
+    ],
     "name:srp_x_preferred":[
         "Rosica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u043e\u0441\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276888339,
-    "wof:lastmodified":1537683724,
+    "wof:lastmodified":1564103474,
     "wof:name":"Rosica",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

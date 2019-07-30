@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rovine"
+    ],
+    "name:ceb_x_preferred":[
+        "Rovine"
+    ],
+    "name:fra_x_preferred":[
+        "Rovine"
+    ],
+    "name:ita_x_preferred":[
+        "Rovine"
+    ],
+    "name:slv_x_preferred":[
+        "Rovine"
+    ],
     "name:srp_x_preferred":[
+        "Rovine"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u043e\u0432\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Rovine"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293497503,
-    "wof:lastmodified":1537683724,
+    "wof:lastmodified":1564103321,
     "wof:name":"Rovine",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

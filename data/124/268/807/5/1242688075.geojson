@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nikojevi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Nikojevi\u0107i"
+    ],
+    "name:msa_x_preferred":[
+        "Nikojevi\u0107i"
+    ],
+    "name:nld_x_preferred":[
+        "Nikojevi\u0107i"
+    ],
+    "name:por_x_preferred":[
+        "Nikojevi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Nikojevi\u0107i"
+    ],
     "name:srp_x_preferred":[
         "Nikojevi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0438\u043a\u043e\u0458\u0435\u0432\u0438\u045b\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1242688075,
-    "wof:lastmodified":1537683931,
+    "wof:lastmodified":1564104374,
     "wof:name":"Nikojevici",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

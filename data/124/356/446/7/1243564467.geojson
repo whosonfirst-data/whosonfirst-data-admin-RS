@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Um\u010dari"
+    ],
+    "name:fra_x_preferred":[
+        "Um\u010dari"
+    ],
+    "name:msa_x_preferred":[
+        "Um\u010dari"
+    ],
+    "name:nld_x_preferred":[
+        "Um\u010dari"
+    ],
+    "name:por_x_preferred":[
+        "Um\u010dari"
+    ],
+    "name:slv_x_preferred":[
+        "Um\u010dari"
+    ],
     "name:srp_x_preferred":[
         "Um\u010dari"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u043c\u0447\u0430\u0440\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1243564467,
-    "wof:lastmodified":1537683699,
+    "wof:lastmodified":1564104438,
     "wof:name":"Umcari",
     "wof:parent_id":1108809899,
     "wof:placetype":"locality",

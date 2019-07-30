@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u041d\u0435\u0440\u0430\u0434\u043e\u0432\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Neradovac"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Neradovac"
+    ],
+    "name:msa_x_preferred":[
+        "Gornji Neradovac"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Neradovac"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Neradovac"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Neradovac"
+    ],
     "name:srp_x_preferred":[
         "Gornji Neradovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041d\u0435\u0440\u0430\u0434\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Neradovac (1)",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276676663,
-    "wof:lastmodified":1537683794,
+    "wof:lastmodified":1564103531,
     "wof:name":"Gornji Neradovac",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

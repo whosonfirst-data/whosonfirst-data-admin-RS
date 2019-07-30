@@ -26,8 +26,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ravna"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ravna"
+    ],
+    "name:fra_x_preferred":[
+        "Ravna"
+    ],
+    "name:hrv_x_preferred":[
+        "Ravna"
+    ],
+    "name:ron_x_preferred":[
+        "Ravna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ravna"
+    ],
     "name:srp_x_preferred":[
         "Ravna"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0432\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ravna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1276354505,
-    "wof:lastmodified":1537683990,
+    "wof:lastmodified":1564103544,
     "wof:name":"Ravna",
     "wof:parent_id":1108809959,
     "wof:placetype":"locality",

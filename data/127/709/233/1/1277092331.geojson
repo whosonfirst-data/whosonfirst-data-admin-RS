@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sedlari"
+    ],
+    "name:ceb_x_preferred":[
+        "Sedlari"
+    ],
+    "name:fra_x_preferred":[
+        "Sedlari"
+    ],
+    "name:hrv_x_preferred":[
+        "Sedlari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u043b\u0430\u0440\u0438"
+    ],
     "name:srp_x_preferred":[
+        "Sedlari"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u0434\u043b\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Sedlari"
     ],
     "name:und_x_variant":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1277092331,
-    "wof:lastmodified":1537683925,
+    "wof:lastmodified":1564103466,
     "wof:name":"Sedlari",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u043e\u043f\u0441\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Stropsko"
+    ],
+    "name:fra_x_preferred":[
+        "Stropsko"
+    ],
+    "name:msa_x_preferred":[
+        "Stropsko"
+    ],
+    "name:por_x_preferred":[
+        "Stropsko"
+    ],
+    "name:slv_x_preferred":[
+        "Stropsko"
+    ],
+    "name:sqi_x_preferred":[
+        "Stopska"
+    ],
     "name:srp_x_preferred":[
         "Stropsko"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0440\u043e\u043f\u0441\u043a\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1259493473,
-    "wof:lastmodified":1537683709,
+    "wof:lastmodified":1564104587,
     "wof:name":"Stropsko",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

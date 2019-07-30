@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u044a\u0440\u043d\u0435\u0447\u0438 \u0434\u043e\u043b"
+    ],
+    "name:fra_x_preferred":[
+        "Srne\u0107i Dol"
+    ],
+    "name:msa_x_preferred":[
+        "Srne\u0107i Dol"
+    ],
+    "name:por_x_preferred":[
+        "Srne\u0107i Dol"
+    ],
+    "name:slv_x_preferred":[
+        "Srne\u0107i Dol"
+    ],
     "name:srp_x_preferred":[
         "Srne\u0107i Dol"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0440\u043d\u0435\u045b\u0438 \u0414\u043e\u043b"
     ],
     "name:und_x_variant":[
         "Srne\u0111i Dol"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1360103051,
-    "wof:lastmodified":1537683712,
+    "wof:lastmodified":1564104185,
     "wof:name":"Srneci Dol",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

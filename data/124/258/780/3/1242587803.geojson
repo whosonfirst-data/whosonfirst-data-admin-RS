@@ -26,6 +26,33 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrelo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0435\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrelo"
+    ],
+    "name:fra_x_preferred":[
+        "Vrelo"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrelo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0435\u043b\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Vrelo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vrelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688277,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1242587803,
-    "wof:lastmodified":1537046885,
+    "wof:lastmodified":1564104392,
     "wof:name":"Vrelo",
     "wof:parent_id":1108810079,
     "wof:placetype":"locality",

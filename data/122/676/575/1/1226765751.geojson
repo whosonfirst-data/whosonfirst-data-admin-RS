@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vrlane"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0644\u0627\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Vrlane"
+    ],
+    "name:msa_x_preferred":[
+        "Vrlane"
+    ],
+    "name:por_x_preferred":[
+        "Vrlane"
+    ],
+    "name:slv_x_preferred":[
+        "Vrlane"
+    ],
     "name:srp_x_preferred":[
         "Vrlane"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u043b\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Vrlan"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1226765751,
-    "wof:lastmodified":1537683689,
+    "wof:lastmodified":1564104743,
     "wof:name":"Vrlane",
     "wof:parent_id":1108810103,
     "wof:placetype":"locality",

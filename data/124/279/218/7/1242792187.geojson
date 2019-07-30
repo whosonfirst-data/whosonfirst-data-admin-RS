@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Slivje"
+    ],
+    "name:fra_x_preferred":[
+        "Slivje"
+    ],
+    "name:msa_x_preferred":[
+        "Slivje"
+    ],
+    "name:por_x_preferred":[
+        "Slivje"
+    ],
+    "name:slv_x_preferred":[
+        "Slivje"
+    ],
     "name:srp_x_preferred":[
         "Slivje"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043b\u0438\u0432\u0458\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1242792187,
-    "wof:lastmodified":1537683715,
+    "wof:lastmodified":1564104450,
     "wof:name":"Slivje",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

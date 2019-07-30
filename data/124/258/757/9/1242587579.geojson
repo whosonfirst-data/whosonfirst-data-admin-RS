@@ -26,6 +26,30 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rupe"
+    ],
+    "name:ceb_x_preferred":[
+        "Rupe"
+    ],
+    "name:deu_x_preferred":[
+        "Rupe"
+    ],
+    "name:nld_x_preferred":[
+        "Rupe"
+    ],
+    "name:pol_x_preferred":[
+        "Rupe"
+    ],
+    "name:slv_x_preferred":[
+        "Rupe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rupe"
+    ],
     "name:und_x_variant":[
         "Rupe Mahala",
         "Rupe"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1242587579,
-    "wof:lastmodified":1537683908,
+    "wof:lastmodified":1564104390,
     "wof:name":"Rupe",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

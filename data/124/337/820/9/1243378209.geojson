@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Me\u0111uvr\u0161je"
+    ],
+    "name:msa_x_preferred":[
+        "Me\u0111uvr\u0161je"
+    ],
+    "name:por_x_preferred":[
+        "Me\u0111uvr\u0161je"
+    ],
+    "name:slv_x_preferred":[
+        "Me\u0111uvr\u0161je"
+    ],
     "name:srp_x_preferred":[
         "Me\u0111uvr\u0161je"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0452\u0443\u0432\u0440\u0448\u0458\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243378209,
-    "wof:lastmodified":1537683890,
+    "wof:lastmodified":1564104332,
     "wof:name":"Meguvrsje",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

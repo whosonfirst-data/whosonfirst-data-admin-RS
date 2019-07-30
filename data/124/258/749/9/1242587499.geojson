@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043c\u0441\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Temska"
+    ],
+    "name:fra_x_preferred":[
+        "Temska"
+    ],
+    "name:msa_x_preferred":[
+        "Temska"
+    ],
+    "name:por_x_preferred":[
+        "Temska"
+    ],
+    "name:slv_x_preferred":[
+        "Temska"
+    ],
     "name:srp_x_preferred":[
         "Temska"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0435\u043c\u0441\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1242587499,
-    "wof:lastmodified":1537683704,
+    "wof:lastmodified":1564104389,
     "wof:name":"Temska",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

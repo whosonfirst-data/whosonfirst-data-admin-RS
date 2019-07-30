@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bu\u010dum"
+    ],
+    "name:fra_x_preferred":[
+        "Bu\u010dum"
+    ],
+    "name:msa_x_preferred":[
+        "Bu\u010dum"
+    ],
+    "name:por_x_preferred":[
+        "Bu\u010dum"
+    ],
+    "name:slv_x_preferred":[
+        "Bu\u010dum"
+    ],
     "name:srp_x_preferred":[
         "Bu\u010dum"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0447\u0443\u043c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243572463,
-    "wof:lastmodified":1537683825,
+    "wof:lastmodified":1564104432,
     "wof:name":"Bucum",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bojince"
+    ],
+    "name:fra_x_preferred":[
+        "Bojince"
+    ],
+    "name:msa_x_preferred":[
+        "Bojince"
+    ],
+    "name:por_x_preferred":[
+        "Bojince"
+    ],
+    "name:slv_x_preferred":[
+        "Bojince"
+    ],
     "name:srp_x_preferred":[
         "Bojince"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0458\u0438\u043d\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Bojinci"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1259693815,
-    "wof:lastmodified":1537683831,
+    "wof:lastmodified":1564104625,
     "wof:name":"Bojince",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

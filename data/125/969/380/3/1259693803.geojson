@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gru\u017ea"
+    ],
+    "name:fra_x_preferred":[
+        "Gru\u017ea"
+    ],
+    "name:msa_x_preferred":[
+        "Gru\u017ea"
+    ],
+    "name:por_x_preferred":[
+        "Gru\u017ea"
+    ],
+    "name:slv_x_preferred":[
+        "Gru\u017ea"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0443\u0436\u0430"
+    ],
     "name:und_x_variant":[
         "Gru\u017ea"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259693803,
-    "wof:lastmodified":1537683915,
+    "wof:lastmodified":1564104625,
     "wof:name":"Gruza",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

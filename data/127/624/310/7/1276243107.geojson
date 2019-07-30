@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jaruge"
+    ],
+    "name:hrv_x_preferred":[
+        "Jaruge"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c1rki"
+    ],
+    "name:slv_x_preferred":[
+        "Jaruge"
+    ],
     "name:srp_x_preferred":[
         "Jaruge"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0440\u0443\u0433\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u0443\u0433\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u0648\u06af\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1276243107,
-    "wof:lastmodified":1537683876,
+    "wof:lastmodified":1564103586,
     "wof:name":"Jaruge",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

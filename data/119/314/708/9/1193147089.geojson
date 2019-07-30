@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stri\u017ea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u06cc\u0698\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Stri\u017ea"
+    ],
+    "name:msa_x_preferred":[
+        "Stri\u017ea"
+    ],
+    "name:por_x_preferred":[
+        "Stri\u017ea"
+    ],
+    "name:slv_x_preferred":[
+        "Stri\u017ea"
+    ],
     "name:srp_x_preferred":[
         "Stri\u017ea"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0440\u0438\u0436\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1193147089,
-    "wof:lastmodified":1537683709,
+    "wof:lastmodified":1564103855,
     "wof:name":"Striza",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

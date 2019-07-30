@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Trska"
+    ],
+    "name:fra_x_preferred":[
+        "Trska"
+    ],
+    "name:msa_x_preferred":[
+        "Trska"
+    ],
+    "name:por_x_preferred":[
+        "Trska"
+    ],
+    "name:slv_x_preferred":[
+        "Trska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688319,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226460829,
-    "wof:lastmodified":1537572091,
+    "wof:lastmodified":1564104760,
     "wof:name":"Trska",
     "wof:parent_id":1108810047,
     "wof:placetype":"locality",

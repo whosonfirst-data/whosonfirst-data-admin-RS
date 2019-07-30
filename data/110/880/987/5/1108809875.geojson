@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037277,
-    "geom:area_square_m":320667630.636316,
+    "geom:area_square_m":320667630.636335,
     "geom:bbox":"20.0574745,45.784322,20.40543,46.0414135",
     "geom:latitude":45.917383,
     "geom:longitude":20.209176,
@@ -21,6 +21,12 @@
     "meso:name_loc":"\u010coka",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Coka"
+    ],
+    "name:swe_x_preferred":[
+        "Coka"
+    ],
     "name:und_x_variant":[
         "\u010coka"
     ],
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1108809875,
-    "wof:lastmodified":1512517088,
+    "wof:lastmodified":1564103944,
     "wof:name":"Coka",
     "wof:parent_id":85688257,
     "wof:placetype":"localadmin",

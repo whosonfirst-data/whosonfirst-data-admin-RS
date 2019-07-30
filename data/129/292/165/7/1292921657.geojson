@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160uljam"
+    ],
+    "name:epo_x_preferred":[
+        "\u015culjam"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160uljam"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160uljam"
+    ],
+    "name:hun_x_preferred":[
+        "Sulyom"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160uljam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043b\u044f\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160uljam"
+    ],
     "name:srp_x_preferred":[
         "\u0160uljam"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0443\u0459\u0430\u043c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1292921657,
-    "wof:lastmodified":1537683921,
+    "wof:lastmodified":1564103290,
     "wof:name":"Suljam",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

@@ -33,17 +33,65 @@
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u0447\u0438\u043d \u0445\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:ces_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:deu_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:fra_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:hrv_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:hun_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:ita_x_preferred":[
+        "Vladi\u010din Han"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u0447\u0438\u043d \u0425\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:nld_x_preferred":[
+        "Vladi\u010din Han"
+    ],
     "name:pnb_x_preferred":[
         "\u0648\u0644\u0627\u062f\u06cc\u0686\u0646 \u06c1\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:por_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:slv_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:spa_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:sqi_x_preferred":[
+        "Vlladi\u00e7in Han"
     ],
     "name:srp_x_preferred":[
         "Vladi\u010din Han"
     ],
     "name:srp_x_variant":[
         "\u0412\u043b\u0430\u0434\u0438\u0447\u0438\u043d \u0425\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vladi\u010din Han"
+    ],
+    "name:tur_x_preferred":[
+        "Vladi\u00e7in Han"
     ],
     "name:und_x_variant":[
         "Vladicki Han",
@@ -78,7 +126,7 @@
         }
     ],
     "wof:id":1310241293,
-    "wof:lastmodified":1537683693,
+    "wof:lastmodified":1564103985,
     "wof:name":"Vladicin Han",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

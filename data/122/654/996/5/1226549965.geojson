@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Koprivna"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Koprivna"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Koprivna"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Koprivna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Koprivna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1226549965,
-    "wof:lastmodified":1536991054,
+    "wof:lastmodified":1564104790,
     "wof:name":"Donja Koprivna",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

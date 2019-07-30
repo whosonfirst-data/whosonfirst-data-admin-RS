@@ -27,8 +27,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tornjo\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Tornjo\u015d"
+    ],
+    "name:fra_x_preferred":[
+        "Tornjo\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Tornyos"
+    ],
+    "name:msa_x_preferred":[
+        "Tornjo\u0161"
+    ],
+    "name:ron_x_preferred":[
+        "Tornjo\u0161"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0451\u0448"
+    ],
+    "name:slv_x_preferred":[
+        "Tornjo\u0161"
+    ],
     "name:srp_x_preferred":[
         "Tornjo\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u0440\u045a\u043e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u044c\u043e\u0448"
     ],
     "name:und_x_variant":[
         "Tornyos",
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1226273381,
-    "wof:lastmodified":1537683920,
+    "wof:lastmodified":1564104681,
     "wof:name":"Tornjos",
     "wof:parent_id":1108810067,
     "wof:placetype":"locality",

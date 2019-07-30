@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Veliki Drenovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u062f\u0631\u0646\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Veliki Drenovac"
+    ],
+    "name:msa_x_preferred":[
+        "Veliki Drenovac"
+    ],
+    "name:por_x_preferred":[
+        "Veliki Drenovac"
+    ],
+    "name:slv_x_preferred":[
+        "Veliki Drenovac"
+    ],
     "name:srp_x_preferred":[
         "Veliki Drenovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0414\u0440\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226664433,
-    "wof:lastmodified":1537683697,
+    "wof:lastmodified":1564104713,
     "wof:name":"Veliki Drenovac",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

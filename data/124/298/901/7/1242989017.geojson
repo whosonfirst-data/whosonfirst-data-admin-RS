@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bukovska"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovska"
+    ],
+    "name:msa_x_preferred":[
+        "Bukovska"
+    ],
+    "name:por_x_preferred":[
+        "Bukovska"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovska"
+    ],
     "name:srp_x_preferred":[
         "Bukovska"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0441\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Bukovsko"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1242989017,
-    "wof:lastmodified":1537683824,
+    "wof:lastmodified":1564104472,
     "wof:name":"Bukovska",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

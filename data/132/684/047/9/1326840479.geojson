@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mala Plana"
+    ],
+    "name:ceb_x_preferred":[
+        "Mala Plana"
+    ],
+    "name:fra_x_preferred":[
+        "Mala Plana"
+    ],
+    "name:hun_x_preferred":[
+        "Mala Plana"
+    ],
+    "name:slv_x_preferred":[
+        "Mala Plana"
+    ],
     "name:srp_x_preferred":[
+        "Mala Plana"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0430 \u041f\u043b\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Mala Plana"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326840479,
-    "wof:lastmodified":1537683762,
+    "wof:lastmodified":1564102987,
     "wof:name":"Mala Plana",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

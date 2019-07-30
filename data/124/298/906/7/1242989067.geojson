@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0437\u044a\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0432\u0440\u0434\u0438\u043d\u0430 \u041a\u043e\u0437\u043d\u0438\u043a"
+    ],
+    "name:nno_x_preferred":[
+        "Koznik"
+    ],
     "name:srp_x_preferred":[
         "Koznik"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0432\u0440\u0452\u0430\u0432\u0430 \u041a\u043e\u0437\u043d\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242989067,
-    "wof:lastmodified":1537683874,
+    "wof:lastmodified":1564104472,
     "wof:name":"Koznik",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

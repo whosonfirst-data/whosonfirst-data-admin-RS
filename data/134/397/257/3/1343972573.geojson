@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Drainac"
+    ],
+    "name:fra_x_preferred":[
+        "Drajinac"
+    ],
+    "name:msa_x_preferred":[
+        "Drajinac"
+    ],
+    "name:por_x_preferred":[
+        "Drajinac"
+    ],
+    "name:slv_x_preferred":[
+        "Drajinac"
+    ],
     "name:srp_x_preferred":[
         "Drainac"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0430\u0458\u0438\u043d\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Drajinac",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343972573,
-    "wof:lastmodified":1537683807,
+    "wof:lastmodified":1564103074,
     "wof:name":"Drainac",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

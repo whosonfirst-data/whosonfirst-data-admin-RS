@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0440\u0434\u0430\u0440\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Merdare"
+    ],
+    "name:deu_x_preferred":[
+        "Merdare"
+    ],
+    "name:fra_x_preferred":[
+        "Merdare"
+    ],
+    "name:msa_x_preferred":[
+        "Merdare"
+    ],
+    "name:por_x_preferred":[
+        "Merdare"
+    ],
+    "name:slv_x_preferred":[
+        "Merdare"
+    ],
+    "name:sqi_x_preferred":[
+        "Merdari"
+    ],
     "name:srp_x_preferred":[
         "Merdare"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0440\u0434\u0430\u0440\u0435"
     ],
     "name:und_x_variant":[
         "Mrdare",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1259693733,
-    "wof:lastmodified":1537683757,
+    "wof:lastmodified":1564104624,
     "wof:name":"Merdare",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

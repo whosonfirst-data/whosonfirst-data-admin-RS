@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Konopnica"
+    ],
+    "name:por_x_preferred":[
+        "Konopnica"
+    ],
+    "name:slv_x_preferred":[
+        "Konopnica"
+    ],
     "name:srp_x_preferred":[
         "Konopnica"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u043d\u043e\u043f\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1327343537,
-    "wof:lastmodified":1537683778,
+    "wof:lastmodified":1564102954,
     "wof:name":"Konopnica",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

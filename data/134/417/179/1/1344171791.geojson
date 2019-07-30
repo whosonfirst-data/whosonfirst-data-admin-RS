@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Radobi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Radobi\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Radobi\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Radobi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Radobi\u0107"
+    ],
     "name:srp_x_preferred":[
         "Radobi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0434\u043e\u0431\u0438\u045b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1344171791,
-    "wof:lastmodified":1537683731,
+    "wof:lastmodified":1564103187,
     "wof:name":"Radobic",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

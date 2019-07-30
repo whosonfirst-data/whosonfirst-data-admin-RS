@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Glibovac"
+    ],
+    "name:msa_x_preferred":[
+        "Glibovac"
+    ],
+    "name:por_x_preferred":[
+        "Glibovac"
+    ],
+    "name:slv_x_preferred":[
+        "Glibovac"
+    ],
     "name:srp_x_preferred":[
         "Glibovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u0438\u0431\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1344071695,
-    "wof:lastmodified":1537683801,
+    "wof:lastmodified":1564103092,
     "wof:name":"Glibovac",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",

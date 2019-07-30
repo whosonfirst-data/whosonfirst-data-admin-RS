@@ -26,6 +26,24 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zao\u010dani"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dao\u010dani"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dao\u010dani"
+    ],
+    "name:por_x_preferred":[
+        "\u017dao\u010dani"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dao\u010dani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043e\u0447\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Zao\u010dani"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310223391,
-    "wof:lastmodified":1537683913,
+    "wof:lastmodified":1564104004,
     "wof:name":"Zaocani",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

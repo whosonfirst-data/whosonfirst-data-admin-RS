@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bukorovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u0631\u0648\u0648\u0627\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Bukorovac"
+    ],
+    "name:msa_x_preferred":[
+        "Bukorovac"
+    ],
+    "name:por_x_preferred":[
+        "Bukorovac"
+    ],
+    "name:slv_x_preferred":[
+        "Bukorovac"
+    ],
     "name:srp_x_preferred":[
         "Bukorovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0440\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209833945,
-    "wof:lastmodified":1537683825,
+    "wof:lastmodified":1564103688,
     "wof:name":"Bukorovac",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

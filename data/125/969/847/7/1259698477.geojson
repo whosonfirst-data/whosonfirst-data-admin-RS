@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sepci"
+    ],
+    "name:fra_x_preferred":[
+        "Sepci"
+    ],
+    "name:msa_x_preferred":[
+        "Sepci"
+    ],
+    "name:por_x_preferred":[
+        "Sepci"
+    ],
+    "name:slv_x_preferred":[
+        "Sepci"
+    ],
     "name:srp_x_preferred":[
         "Sepci"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u043f\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259698477,
-    "wof:lastmodified":1537683718,
+    "wof:lastmodified":1564104621,
     "wof:name":"Sepci",
     "wof:parent_id":1108810047,
     "wof:placetype":"locality",

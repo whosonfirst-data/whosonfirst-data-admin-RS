@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0422\u044a\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Trnica"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Trnica"
+    ],
+    "name:por_x_preferred":[
+        "Gornja Trnica"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Trnica"
+    ],
     "name:srp_x_preferred":[
         "Gornja Trnica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0422\u0440\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225954155,
-    "wof:lastmodified":1537683797,
+    "wof:lastmodified":1564104647,
     "wof:name":"Gornja Trnica",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

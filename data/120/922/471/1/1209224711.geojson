@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stari \u017dednik"
+    ],
+    "name:deu_x_preferred":[
+        "Stari \u017dednik"
+    ],
+    "name:epo_x_preferred":[
+        "Stari \u0134ednik"
+    ],
+    "name:fra_x_preferred":[
+        "Stari \u017dednik"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dednik"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyf\u00e9ny"
+    ],
+    "name:msa_x_preferred":[
+        "Stari \u017dednik"
+    ],
+    "name:slv_x_preferred":[
+        "Stari \u017dednik"
+    ],
     "name:srp_x_preferred":[
         "Stari \u017dednik"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0416\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0416\u0435\u0434\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
         "\u017dednik"
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1209224711,
-    "wof:lastmodified":1537683954,
+    "wof:lastmodified":1564103722,
     "wof:name":"Stari Zednik",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

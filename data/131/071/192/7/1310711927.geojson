@@ -29,11 +29,35 @@
     "name:bul_x_preferred":[
         "\u042f\u0431\u0443\u043a\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Jabuka"
+    ],
+    "name:epo_x_preferred":[
+        "Jabuka"
+    ],
+    "name:fra_x_preferred":[
+        "Jabuka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05d1\u05d5\u05e7\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Jabuka"
+    ],
+    "name:hun_x_preferred":[
+        "Toront\u00e1lalm\u00e1s"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u0431\u0443\u043a\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Jabuka"
+    ],
     "name:ron_x_preferred":[
         "Iabuca"
+    ],
+    "name:slv_x_preferred":[
+        "Jabuka"
     ],
     "name:srp_x_preferred":[
         "Jabuka"
@@ -74,7 +98,7 @@
         }
     ],
     "wof:id":1310711927,
-    "wof:lastmodified":1537683788,
+    "wof:lastmodified":1564104010,
     "wof:name":"Jabuka",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",

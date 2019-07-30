@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mu\u017elja"
+    ],
+    "name:hun_x_preferred":[
+        "Muzslya"
+    ],
+    "name:ron_x_preferred":[
+        "Mu\u017elja"
+    ],
+    "name:slv_x_preferred":[
+        "Mu\u017elja"
+    ],
     "name:srp_x_preferred":[
         "Mu\u017elja"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0443\u0436\u0459\u0430"
     ],
     "name:und_x_variant":[
         "Gornja Mu\u017elja",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1326539921,
-    "wof:lastmodified":1537683751,
+    "wof:lastmodified":1564103018,
     "wof:name":"Muzlja",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

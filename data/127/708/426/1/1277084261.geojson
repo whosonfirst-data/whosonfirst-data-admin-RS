@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ka\u0161evar"
+    ],
+    "name:fra_x_preferred":[
+        "Ka\u0161evar"
+    ],
+    "name:msa_x_preferred":[
+        "Ka\u0161evar"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161evar"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161evar"
+    ],
     "name:srp_x_preferred":[
         "Ka\u0161evar"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u0448\u0435\u0432\u0430\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1277084261,
-    "wof:lastmodified":1537683781,
+    "wof:lastmodified":1564103459,
     "wof:name":"Kasevar",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0429\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160tava"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160tava"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160tava"
+    ],
+    "name:por_x_preferred":[
+        "\u0160tava"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160tava"
+    ],
     "name:srp_x_preferred":[
         "\u0160tava"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0442\u0430\u0432\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1310116083,
-    "wof:lastmodified":1537683711,
+    "wof:lastmodified":1564104062,
     "wof:name":"Stava",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

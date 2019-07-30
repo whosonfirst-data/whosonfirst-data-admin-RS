@@ -26,8 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rataje"
+    ],
+    "name:ces_x_preferred":[
+        "Rataje"
+    ],
+    "name:deu_x_preferred":[
+        "Rataje"
+    ],
+    "name:fra_x_preferred":[
+        "Rataje"
+    ],
+    "name:ita_x_preferred":[
+        "Rataje"
+    ],
+    "name:nld_x_preferred":[
+        "Rataje"
+    ],
+    "name:oci_x_preferred":[
+        "Rataje"
+    ],
+    "name:pol_x_preferred":[
+        "Rataje"
+    ],
+    "name:slk_x_preferred":[
+        "Rataje"
+    ],
     "name:srp_x_preferred":[
         "Rataje"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0442\u0430\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rataje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0442\u0430\u0454"
     ],
     "name:und_x_variant":[
         "Rataji"
@@ -57,7 +93,7 @@
         }
     ],
     "wof:id":1310519653,
-    "wof:lastmodified":1537683728,
+    "wof:lastmodified":1564104116,
     "wof:name":"Rataje",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

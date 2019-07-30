@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Du\u010dina"
+    ],
+    "name:fra_x_preferred":[
+        "Du\u010dina"
+    ],
+    "name:msa_x_preferred":[
+        "Du\u010dina"
+    ],
+    "name:nld_x_preferred":[
+        "Du\u010dina"
+    ],
+    "name:por_x_preferred":[
+        "Du\u010dina"
+    ],
+    "name:slv_x_preferred":[
+        "Du\u010dina"
+    ],
     "name:srp_x_preferred":[
         "Du\u010dina"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0447\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1344075305,
-    "wof:lastmodified":1537683804,
+    "wof:lastmodified":1564103095,
     "wof:name":"Ducina",
     "wof:parent_id":1108810083,
     "wof:placetype":"locality",

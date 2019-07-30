@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paklje"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Paklje"
+    ],
+    "name:msa_x_preferred":[
+        "Paklje"
+    ],
+    "name:nld_x_preferred":[
+        "Paklje"
+    ],
+    "name:por_x_preferred":[
+        "Paklje"
+    ],
+    "name:slv_x_preferred":[
+        "Paklje"
+    ],
     "name:srp_x_preferred":[
         "Paklje"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u043a\u0459\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1326544709,
-    "wof:lastmodified":1537683992,
+    "wof:lastmodified":1564103020,
     "wof:name":"Paklje",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

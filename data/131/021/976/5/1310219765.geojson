@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mramorac"
+    ],
+    "name:fra_x_preferred":[
+        "Mramorac"
+    ],
+    "name:msa_x_preferred":[
+        "Mramorac"
+    ],
+    "name:por_x_preferred":[
+        "Mramorac"
+    ],
+    "name:slv_x_preferred":[
+        "Mramorac"
+    ],
     "name:srp_x_preferred":[
         "Mramorac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0440\u0430\u043c\u043e\u0440\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310219765,
-    "wof:lastmodified":1537683752,
+    "wof:lastmodified":1564104070,
     "wof:name":"Mramorac",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",

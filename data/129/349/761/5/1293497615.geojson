@@ -26,7 +26,34 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prijevor"
+    ],
+    "name:ceb_x_preferred":[
+        "Prijevor"
+    ],
+    "name:fra_x_preferred":[
+        "Prijevor"
+    ],
+    "name:hrv_x_preferred":[
+        "Prijevor"
+    ],
+    "name:hun_x_preferred":[
+        "Prijevor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u0432\u043e\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Prijevor"
+    ],
     "name:srp_x_preferred":[
+        "Prijevor"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0438\u0458\u0435\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
         "Prijevor"
     ],
     "src:geom":"geonames",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1293497615,
-    "wof:lastmodified":1537683733,
+    "wof:lastmodified":1564103321,
     "wof:name":"Prijevor",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

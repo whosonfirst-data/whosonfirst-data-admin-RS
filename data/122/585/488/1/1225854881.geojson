@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nesvrta"
+    ],
+    "name:hrv_x_preferred":[
+        "Nesvrta"
+    ],
+    "name:slv_x_preferred":[
+        "Nesvrta"
+    ],
     "name:srp_x_preferred":[
         "Nesvrta"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u0441\u0432\u0440\u0442\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1225854881,
-    "wof:lastmodified":1537683750,
+    "wof:lastmodified":1564104810,
     "wof:name":"Nesvrta",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

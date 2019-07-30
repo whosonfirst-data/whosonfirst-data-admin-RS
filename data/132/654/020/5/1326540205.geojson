@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u0447\u043a\u0430 \u0420\u0436\u0430\u043d\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Viso\u010dka R\u017eana"
+    ],
+    "name:msa_x_preferred":[
+        "Viso\u010dka R\u017eana"
+    ],
+    "name:por_x_preferred":[
+        "Viso\u010dka R\u017eana"
+    ],
+    "name:slv_x_preferred":[
+        "Viso\u010dka R\u017eana"
+    ],
     "name:srp_x_preferred":[
         "Viso\u010dka R\u017eana"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0441\u043e\u0447\u043a\u0430 \u0420\u0436\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Visoka R\u017eana"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326540205,
-    "wof:lastmodified":1537683694,
+    "wof:lastmodified":1564103023,
     "wof:name":"Visocka Rzana",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

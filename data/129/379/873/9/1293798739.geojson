@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Balinac"
+    ],
+    "name:fra_x_preferred":[
+        "Balinac"
+    ],
+    "name:msa_x_preferred":[
+        "Balinac"
+    ],
+    "name:por_x_preferred":[
+        "Balinac"
+    ],
+    "name:slv_x_preferred":[
+        "Balinac"
+    ],
     "name:srp_x_preferred":[
         "Balinac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043b\u0438\u043d\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Balinci"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293798739,
-    "wof:lastmodified":1537683840,
+    "wof:lastmodified":1564103295,
     "wof:name":"Balinac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

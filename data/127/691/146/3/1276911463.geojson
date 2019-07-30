@@ -27,8 +27,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badince"
+    ],
+    "name:fra_x_preferred":[
+        "Badince"
+    ],
+    "name:msa_x_preferred":[
+        "Badince"
+    ],
+    "name:por_x_preferred":[
+        "Badince"
+    ],
+    "name:slv_x_preferred":[
+        "Badince"
+    ],
     "name:srp_x_preferred":[
         "Badince"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0434\u0438\u043d\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1276911463,
-    "wof:lastmodified":1537683840,
+    "wof:lastmodified":1564103641,
     "wof:name":"Badince",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Borin Dol"
+    ],
+    "name:fra_x_preferred":[
+        "Borin Do"
+    ],
+    "name:msa_x_preferred":[
+        "Borin Do"
+    ],
+    "name:por_x_preferred":[
+        "Borin Do"
+    ],
+    "name:slv_x_preferred":[
+        "Borin Do"
+    ],
     "name:srp_x_preferred":[
         "Borin Dol"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0440\u0438\u043d \u0414\u043e"
     ],
     "name:und_x_variant":[
         "Borin Do"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226360631,
-    "wof:lastmodified":1537683831,
+    "wof:lastmodified":1564104797,
     "wof:name":"Borin Dol",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

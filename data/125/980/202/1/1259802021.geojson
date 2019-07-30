@@ -26,8 +26,14 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Praca"
+    ],
     "name:srp_x_preferred":[
         "Pra\u010da"
+    ],
+    "name:swe_x_preferred":[
+        "Praca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259802021,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564104627,
     "wof:name":"Praca",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

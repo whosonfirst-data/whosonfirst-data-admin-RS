@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornje Trudovo"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Trudovo"
+    ],
+    "name:msa_x_preferred":[
+        "Gornje Trudovo"
+    ],
+    "name:nld_x_preferred":[
+        "Gornje Trudovo"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Trudovo"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Trudovo"
+    ],
     "name:srp_x_preferred":[
         "Gornje Trudovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0422\u0440\u0443\u0434\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Jasenova\u010dko Trudovo"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1259793751,
-    "wof:lastmodified":1537683941,
+    "wof:lastmodified":1564104575,
     "wof:name":"Gornje Trudovo",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rudovci"
+    ],
+    "name:fra_x_preferred":[
+        "Rudovci"
+    ],
+    "name:msa_x_preferred":[
+        "Rudovci"
+    ],
+    "name:por_x_preferred":[
+        "Rudovci"
+    ],
+    "name:slv_x_preferred":[
+        "Rudovci"
+    ],
     "name:srp_x_preferred":[
         "Rudovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0443\u0434\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293404675,
-    "wof:lastmodified":1537683722,
+    "wof:lastmodified":1564103334,
     "wof:name":"Rudovci",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

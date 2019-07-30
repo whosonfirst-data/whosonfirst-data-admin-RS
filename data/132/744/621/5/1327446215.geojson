@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Radonjica"
+    ],
+    "name:fra_x_preferred":[
+        "Radonjica"
+    ],
+    "name:msa_x_preferred":[
+        "Radonjica"
+    ],
+    "name:por_x_preferred":[
+        "Radonjica"
+    ],
+    "name:slv_x_preferred":[
+        "Radonjica"
+    ],
     "name:srp_x_preferred":[
         "Radonjica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0434\u043e\u045a\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Radonjice"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327446215,
-    "wof:lastmodified":1537683731,
+    "wof:lastmodified":1564103035,
     "wof:name":"Radonjica",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

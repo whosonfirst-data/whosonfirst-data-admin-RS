@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vrutci"
+    ],
+    "name:msa_x_preferred":[
+        "Vrutci"
+    ],
+    "name:nld_x_preferred":[
+        "Vrutci"
+    ],
+    "name:por_x_preferred":[
+        "Vrutci"
+    ],
+    "name:slv_x_preferred":[
+        "Vrutci"
+    ],
     "name:srp_x_preferred":[
         "Vrutci"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0443\u0442\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343776605,
-    "wof:lastmodified":1537683917,
+    "wof:lastmodified":1564103108,
     "wof:name":"Vrutci",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

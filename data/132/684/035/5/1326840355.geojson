@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u044a\u043a\u043b\u0435\u0449\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Pakle\u0161tica"
+    ],
+    "name:msa_x_preferred":[
+        "Pakle\u0161tica"
+    ],
+    "name:por_x_preferred":[
+        "Pakle\u0161tica"
+    ],
+    "name:slv_x_preferred":[
+        "Pakle\u0161tica"
+    ],
     "name:srp_x_preferred":[
         "Pakle\u0161tica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u043a\u043b\u0435\u0448\u0442\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326840355,
-    "wof:lastmodified":1537683744,
+    "wof:lastmodified":1564102997,
     "wof:name":"Paklestica",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

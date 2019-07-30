@@ -15,8 +15,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bo\u0161kovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u0161kovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Bo\u0161kovi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
     "name:srp_x_preferred":[
         "Boskovici"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0448\u043a\u043e\u0432\u0438\u045b\u0438"
     ],
     "qs:name":"Boskovici",
     "qs:photos_9r":0,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":890476755,
-    "wof:lastmodified":1527727146,
+    "wof:lastmodified":1564104287,
     "wof:name":"Boskovici",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

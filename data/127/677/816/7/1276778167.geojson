@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jelenac"
+    ],
+    "name:fra_x_preferred":[
+        "Jelenac"
+    ],
+    "name:msa_x_preferred":[
+        "Jelenac"
+    ],
+    "name:por_x_preferred":[
+        "Jelenac"
+    ],
+    "name:slv_x_preferred":[
+        "Jelenac"
+    ],
     "name:srp_x_preferred":[
         "Jelenac"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0435\u043b\u0435\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276778167,
-    "wof:lastmodified":1537683786,
+    "wof:lastmodified":1564103601,
     "wof:name":"Jelenac",
     "wof:parent_id":1108810113,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nanomir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u0648\u0645\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Nanomir"
+    ],
+    "name:msa_x_preferred":[
+        "Nanomir"
+    ],
+    "name:por_x_preferred":[
+        "Nanomir"
+    ],
+    "name:slv_x_preferred":[
+        "Nanomir"
+    ],
     "name:srp_x_preferred":[
         "Nanomir"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0430\u043d\u043e\u043c\u0438\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276883303,
-    "wof:lastmodified":1537683751,
+    "wof:lastmodified":1564103470,
     "wof:name":"Nanomir",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

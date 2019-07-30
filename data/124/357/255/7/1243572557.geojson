@@ -26,8 +26,407 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:als_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:amh_x_preferred":[
+        "\u1292\u12ae\u120b \u1270\u1235\u120b"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u0644\u0627 \u062a\u0633\u0644\u0627"
+    ],
+    "name:arc_x_preferred":[
+        "\u0722\u071d\u0729\u0718\u0720\u0710 \u071b\u0723\u0720\u0710"
+    ],
+    "name:arg_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u0644\u0627 \u062a\u064a\u0633\u0644\u0627"
+    ],
+    "name:asm_x_preferred":[
+        "\u09a8\u09bf\u0995'\u09b2\u09be \u099f\u09c7\u099b\u09b2\u09be"
+    ],
+    "name:ast_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:aym_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0644\u0627 \u062a\u0633\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u0430 \u0422\u044d\u0441\u043b\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0995\u09cb\u09b2\u09be \u099f\u09c7\u09b8\u09b2\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0932\u093e \u091f\u0947\u0938\u094d\u0932\u093e"
+    ],
+    "name:bos_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:bre_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ces_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:chv_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06cc\u06a9\u06c6\u0644\u0627 \u062a\u06ce\u0633\u0644\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:dan_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:deu_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03ba\u03bf\u03bb\u03b1 \u03a4\u03ad\u03c3\u03bb\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:est_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:eus_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:fao_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0644\u0627 \u062a\u0633\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:fra_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:fry_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:gan_x_preferred":[
+        "\u5c3c\u54e5\u62c9\u00b7\u7279\u65af\u62c9"
+    ],
+    "name:gle_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:glg_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:hat_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5\u05dc\u05d4 \u05d8\u05e1\u05dc\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0932\u093e \u091f\u0947\u0938\u094d\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:hun_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u056c\u0561 \u054f\u0565\u057d\u056c\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0546\u056b\u0584\u0578\u056c\u0561 \u0539\u0565\u057d\u056c\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ilo_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ina_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ind_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:isl_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ita_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:jam_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30b3\u30e9\u30fb\u30c6\u30b9\u30e9"
+    ],
+    "name:kaa_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cbf\u0c95\u0ccb\u0cb2\u0cbe \u0c9f\u0cc6\u0cb8\u0ccd\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d9\u10dd\u10da\u10d0 \u10e2\u10d4\u10e1\u10da\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ucf5c\ub77c \ud14c\uc2ac\ub77c"
+    ],
+    "name:kur_x_preferred":[
+        "N\u00eekola Tesla"
+    ],
+    "name:lat_x_preferred":[
+        "Nicolaus Tesla"
+    ],
+    "name:lav_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:lez_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:lij_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:lim_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:lit_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:lmo_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d33 \u0d1f\u0d46\u0d38\u0d4d\u200c\u0d32"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0932\u093e \u091f\u0947\u0938\u0932\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u102e\u1000\u102d\u102f\u101c\u102c \u1010\u1000\u103a\u1005\u101c\u102c"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0932\u093e \u091f\u0947\u0938\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0932\u093e \u091f\u0947\u0938\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:nno_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:nor_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:oci_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:olo_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b28\u0b3f\u0b15\u0b4b\u0b32\u0b3e \u0b1f\u0b47\u0b38\u0b4d\u200c\u0b32\u0b3e"
+    ],
+    "name:orm_x_preferred":[
+        "Nikolaa Teslaa"
+    ],
+    "name:pam_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a3f\u0a15\u0a4b\u0a32\u0a3e \u0a1f\u0a48\u0a38\u0a32\u0a3e"
+    ],
+    "name:pfl_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:pms_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u06a9\u0648\u0644\u0627 \u0679\u06cc\u0633\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:por_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:que_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:ron_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0932\u093e \u091f\u0947\u0938\u094d\u0932\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c64\u1c60\u1c5a\u1c5e\u1c5f \u1c74\u1c6e\u1c65\u1c5e\u1c5f"
+    ],
+    "name:scn_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:sco_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd2\u0d9a\u0ddc\u0dbd\u0dcf \u0da7\u0dd9\u0dc3\u0dca\u0dbd\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:slv_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:spa_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:sqi_x_preferred":[
+        "Nikola Tesla"
+    ],
     "name:srp_x_preferred":[
         "Nikola Tesla"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Nikola T\u00e9sla"
+    ],
+    "name:swa_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:swe_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0bb2\u0bbe \u0ba4\u0bc6\u0bb8\u0bcd\u0bb2\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3f\u0c15\u0c4b\u0c32\u0c3e \u0c1f\u0c46\u0c38\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e34\u0e42\u0e04\u0e25\u0e32 \u0e40\u0e17\u0e2a\u0e25\u0e32"
+    ],
+    "name:tuk_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:tur_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:twi_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u0430 \u0422\u0435\u0441\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06a9\u0648\u0644\u0627 \u0679\u06cc\u0633\u0644\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:vep_x_preferred":[
+        "Tesla Nikola"
+    ],
+    "name:vie_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:vol_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:war_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u53e4\u62c9\u00b7\u7279\u65af\u62c9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d8\u10d9\u10dd\u10da\u10d0 \u10e2\u10d4\u10e1\u10da\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d0\u05dc\u05d0 \u05d8\u05e2\u05e1\u05dc\u05d0"
+    ],
+    "name:yor_x_preferred":[
+        "Nikola Tesla"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u53e4\u62c9\u00b7\u7279\u65af\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +453,7 @@
         }
     ],
     "wof:id":1243572557,
-    "wof:lastmodified":1537683847,
+    "wof:lastmodified":1564104435,
     "wof:name":"Nikola Tesla",
     "wof:parent_id":1108809989,
     "wof:placetype":"locality",

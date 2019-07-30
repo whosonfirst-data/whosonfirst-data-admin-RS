@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043a\u0430\u0439\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440 \u041f\u043e\u043a\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688267,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326948467,
-    "wof:lastmodified":1537572090,
+    "wof:lastmodified":1564102912,
     "wof:name":"Pokajnica",
     "wof:parent_id":1108810131,
     "wof:placetype":"locality",

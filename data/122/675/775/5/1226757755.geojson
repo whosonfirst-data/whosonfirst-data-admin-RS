@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Riljac"
+    ],
+    "name:fra_x_preferred":[
+        "Riljac"
+    ],
+    "name:msa_x_preferred":[
+        "Riljac"
+    ],
+    "name:por_x_preferred":[
+        "Riljac"
+    ],
+    "name:slv_x_preferred":[
+        "Riljac"
+    ],
     "name:srp_x_preferred":[
         "Riljac"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0438\u0459\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226757755,
-    "wof:lastmodified":1537683724,
+    "wof:lastmodified":1564104661,
     "wof:name":"Riljac",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

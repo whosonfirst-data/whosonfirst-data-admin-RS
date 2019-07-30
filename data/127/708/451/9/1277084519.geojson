@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belasica"
+    ],
+    "name:deu_x_preferred":[
+        "Belasica"
+    ],
+    "name:fra_x_preferred":[
+        "Belasica"
+    ],
+    "name:msa_x_preferred":[
+        "Belasica"
+    ],
+    "name:por_x_preferred":[
+        "Belasica"
+    ],
+    "name:slv_x_preferred":[
+        "Belasica"
+    ],
     "name:srp_x_preferred":[
         "Belasica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277084519,
-    "wof:lastmodified":1537683836,
+    "wof:lastmodified":1564103461,
     "wof:name":"Belasica",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

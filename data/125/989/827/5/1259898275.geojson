@@ -26,7 +26,43 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Batrovci"
+    ],
+    "name:ces_x_preferred":[
+        "Batrovci"
+    ],
+    "name:deu_x_preferred":[
+        "Batrovci"
+    ],
+    "name:epo_x_preferred":[
+        "Batrovci"
+    ],
+    "name:fra_x_preferred":[
+        "Batrovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Batrovci"
+    ],
+    "name:hun_x_preferred":[
+        "Batrovci"
+    ],
+    "name:msa_x_preferred":[
+        "Batrovci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Batrovci"
+    ],
     "name:srp_x_preferred":[
+        "Batrovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0442\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Batrovci"
     ],
     "src:geom":"geonames",
@@ -55,7 +91,7 @@
         }
     ],
     "wof:id":1259898275,
-    "wof:lastmodified":1537683950,
+    "wof:lastmodified":1564104633,
     "wof:name":"Batrovci",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

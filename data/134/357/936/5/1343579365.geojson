@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jug-Bogdanovac"
+    ],
+    "name:fra_x_preferred":[
+        "Jug Bogdanovac"
+    ],
+    "name:msa_x_preferred":[
+        "Jug Bogdanovac"
+    ],
+    "name:por_x_preferred":[
+        "Jug Bogdanovac"
+    ],
+    "name:slv_x_preferred":[
+        "Jug Bogdanovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Bugarinoci"
+    ],
     "name:srp_x_preferred":[
         "Jug-Bogdanovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0443\u0433 \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343579365,
-    "wof:lastmodified":1537683784,
+    "wof:lastmodified":1564103141,
     "wof:name":"Jug-Bogdanovac",
     "wof:parent_id":1108809979,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ra\u0161ica"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161ica"
+    ],
+    "name:msa_x_preferred":[
+        "Ra\u0161ica"
+    ],
+    "name:por_x_preferred":[
+        "Ra\u0161ica"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u0161ica"
+    ],
     "name:srp_x_preferred":[
         "Ra\u0161i\u0107a"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0448\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Rasic"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1360003969,
-    "wof:lastmodified":1537683728,
+    "wof:lastmodified":1564104135,
     "wof:name":"Rasica",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

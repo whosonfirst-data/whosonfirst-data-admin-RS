@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gle\u0111ica"
+    ],
+    "name:fra_x_preferred":[
+        "Gle\u0111ica"
+    ],
+    "name:msa_x_preferred":[
+        "Gle\u0111ica"
+    ],
+    "name:por_x_preferred":[
+        "Gle\u0111ica"
+    ],
+    "name:slv_x_preferred":[
+        "Gle\u0111ica"
+    ],
     "name:srp_x_preferred":[
         "Gle\u0111ica"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043b\u0435\u0452\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Gledjica"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226052529,
-    "wof:lastmodified":1537683801,
+    "wof:lastmodified":1564104693,
     "wof:name":"Glegica",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

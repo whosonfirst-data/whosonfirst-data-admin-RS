@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dre\u010dinovac"
+    ],
+    "name:msa_x_preferred":[
+        "Dre\u010dinovac"
+    ],
+    "name:por_x_preferred":[
+        "Dre\u010dinovac"
+    ],
+    "name:slv_x_preferred":[
+        "Dre\u010dinovac"
+    ],
     "name:srp_x_preferred":[
         "Dre\u010dinovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0435\u0447\u0438\u043d\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Dra\u010dinovac"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1327441655,
-    "wof:lastmodified":1537683806,
+    "wof:lastmodified":1564103039,
     "wof:name":"Drecinovac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

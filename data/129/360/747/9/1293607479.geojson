@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0435\u0447\u0430\u043a"
+    ],
+    "name:fra_x_preferred":[
+        "Tre\u0107ak"
+    ],
+    "name:msa_x_preferred":[
+        "Tre\u0107ak"
+    ],
+    "name:por_x_preferred":[
+        "Tre\u0107ak"
+    ],
+    "name:slv_x_preferred":[
+        "Tre\u0107ak"
+    ],
+    "name:sqi_x_preferred":[
+        "Treqaku"
+    ],
     "name:srp_x_preferred":[
         "Tre\u0107ak"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0435\u045b\u0430\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293607479,
-    "wof:lastmodified":1537683702,
+    "wof:lastmodified":1564103372,
     "wof:name":"Trecak",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

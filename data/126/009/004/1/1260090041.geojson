@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Miokovci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0648\u06a9\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Miokovci"
+    ],
+    "name:msa_x_preferred":[
+        "Miokovci"
+    ],
+    "name:por_x_preferred":[
+        "Miokovci"
+    ],
+    "name:slv_x_preferred":[
+        "Miokovci"
+    ],
     "name:srp_x_preferred":[
         "Miokovci"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043e\u043a\u043e\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Mijokovci"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1260090041,
-    "wof:lastmodified":1537683754,
+    "wof:lastmodified":1564103888,
     "wof:name":"Miokovci",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

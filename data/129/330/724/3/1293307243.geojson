@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Babica"
+    ],
+    "name:deu_x_preferred":[
+        "Babica"
+    ],
+    "name:hrv_x_preferred":[
+        "Babica"
+    ],
+    "name:nld_x_preferred":[
+        "Babica"
+    ],
+    "name:pol_x_preferred":[
+        "Babica"
+    ],
+    "name:slv_x_preferred":[
+        "Babica"
+    ],
     "name:srp_x_preferred":[
         "Babica"
+    ],
+    "name:swe_x_preferred":[
+        "Babica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u0446\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1293307243,
-    "wof:lastmodified":1537683841,
+    "wof:lastmodified":1564103246,
     "wof:name":"Babica",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

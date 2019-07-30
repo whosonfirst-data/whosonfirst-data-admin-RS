@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Liplje"
+    ],
+    "name:fra_x_preferred":[
+        "Liplje"
+    ],
+    "name:msa_x_preferred":[
+        "Liplje"
+    ],
+    "name:por_x_preferred":[
+        "Liplje"
+    ],
+    "name:slv_x_preferred":[
+        "Liplje"
+    ],
     "name:srp_x_preferred":[
         "Liplje"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0438\u043f\u0459\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276128709,
-    "wof:lastmodified":1537683769,
+    "wof:lastmodified":1564103589,
     "wof:name":"Liplje",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

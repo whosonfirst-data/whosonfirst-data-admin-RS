@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pejkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Pejkovac"
+    ],
+    "name:msa_x_preferred":[
+        "Pejkovac"
+    ],
+    "name:por_x_preferred":[
+        "Pejkovac"
+    ],
+    "name:slv_x_preferred":[
+        "Pejkovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Pejkoci"
+    ],
     "name:srp_x_preferred":[
         "Pejkovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0435\u0458\u043a\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327343555,
-    "wof:lastmodified":1537683741,
+    "wof:lastmodified":1564102954,
     "wof:name":"Pejkovac",
     "wof:parent_id":1108810169,
     "wof:placetype":"locality",

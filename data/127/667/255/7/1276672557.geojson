@@ -26,6 +26,18 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Lomnica"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Lomnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Lomnica"
+    ],
+    "name:hun_x_preferred":[
+        "Gornja Lomnica"
+    ],
     "name:srp_x_preferred":[
         "Mala Lomnica"
     ],
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1276672557,
-    "wof:lastmodified":1537683798,
+    "wof:lastmodified":1564103536,
     "wof:name":"Mala Lomnica",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

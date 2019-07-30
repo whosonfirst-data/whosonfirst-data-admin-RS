@@ -26,14 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zagajica"
+    ],
+    "name:epo_x_preferred":[
+        "Zagajica"
+    ],
+    "name:fra_x_preferred":[
+        "Zagajica"
+    ],
+    "name:hun_x_preferred":[
+        "F\u00fcrjes"
+    ],
+    "name:msa_x_preferred":[
+        "Zagajica"
+    ],
+    "name:ron_x_preferred":[
+        "Zagajica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u0430\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Zagajica"
+    ],
     "name:srp_x_preferred":[
         "Zagajica"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0433\u0430\u0458\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "F\u00fcrjes",
         "Sagaitza",
         "Zagaicze",
         "Zagajcza"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06af\u062c\u06cc\u06a9\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1209429589,
-    "wof:lastmodified":1537683687,
+    "wof:lastmodified":1564103809,
     "wof:name":"Zagajica",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

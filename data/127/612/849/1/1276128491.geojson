@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Le\u0161tane"
+    ],
+    "name:fra_x_preferred":[
+        "Le\u0161tane"
+    ],
+    "name:msa_x_preferred":[
+        "Le\u0161tane"
+    ],
+    "name:nld_x_preferred":[
+        "Le\u0161tane"
+    ],
+    "name:pol_x_preferred":[
+        "Le\u0161tane"
+    ],
+    "name:por_x_preferred":[
+        "Le\u0161tane"
+    ],
+    "name:slv_x_preferred":[
+        "Le\u0161tane"
+    ],
     "name:srp_x_preferred":[
         "Le\u0161tane"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0448\u0442\u0430\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276128491,
-    "wof:lastmodified":1537683769,
+    "wof:lastmodified":1564103589,
     "wof:name":"Lestane",
     "wof:parent_id":1108809899,
     "wof:placetype":"locality",

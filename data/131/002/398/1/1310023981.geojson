@@ -28,8 +28,35 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0441\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Resen"
+    ],
+    "name:dan_x_preferred":[
+        "Resen"
+    ],
+    "name:fin_x_preferred":[
+        "Resen"
+    ],
+    "name:fra_x_preferred":[
+        "Resen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0435\u0441\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Resen"
+    ],
     "name:ota_x_preferred":[
         "\u0631\u0633\u0646\u0647"
+    ],
+    "name:ron_x_preferred":[
+        "Resen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0441\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Resen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1310023981,
-    "wof:lastmodified":1537683726,
+    "wof:lastmodified":1564104106,
     "wof:name":"Resen",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

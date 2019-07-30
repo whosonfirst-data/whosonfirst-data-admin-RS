@@ -30,11 +30,47 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0448\u0443\u043c\u043b\u0438\u044f"
     ],
+    "name:ces_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:deu_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:fra_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:hrv_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:ind_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:ita_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0440\u0448\u0443\u043c\u043b\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:nld_x_preferred":[
+        "Kur\u0161umlija"
+    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u0634\u0645\u0644\u06cc\u06cc\u0627"
     ],
+    "name:pol_x_preferred":[
+        "Kur\u0161umlija"
+    ],
+    "name:por_x_preferred":[
+        "Kur\u0161umlija"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0448\u0443\u043c\u043b\u0438\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Kur\u0161umlija"
     ],
     "name:sqi_x_preferred":[
         "Kurshumlia"
@@ -44,6 +80,9 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u0443\u0440\u0448\u0443\u043c\u043b\u0438\u0458\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Kur\u015funlu"
     ],
     "name:und_x_variant":[
         "Kur\u0161umlje",
@@ -78,7 +117,7 @@
         }
     ],
     "wof:id":1226279739,
-    "wof:lastmodified":1537683772,
+    "wof:lastmodified":1564104681,
     "wof:name":"Kursumlija",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

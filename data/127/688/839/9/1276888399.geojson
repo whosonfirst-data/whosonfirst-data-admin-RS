@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Srednjevo"
+    ],
+    "name:fra_x_preferred":[
+        "Srednjevo"
+    ],
+    "name:msa_x_preferred":[
+        "Srednjevo"
+    ],
+    "name:por_x_preferred":[
+        "Srednjevo"
+    ],
+    "name:slv_x_preferred":[
+        "Srednjevo"
+    ],
     "name:srp_x_preferred":[
         "Srednjevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0440\u0435\u0434\u045a\u0435\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276888399,
-    "wof:lastmodified":1537683713,
+    "wof:lastmodified":1564103480,
     "wof:name":"Srednjevo",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

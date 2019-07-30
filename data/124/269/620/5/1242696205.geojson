@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Plo\u010dica"
+    ],
+    "name:epo_x_preferred":[
+        "Plo\u0109ica"
+    ],
+    "name:fra_x_preferred":[
+        "Plo\u010dica"
+    ],
+    "name:hun_x_preferred":[
+        "Kevepall\u00f3s"
+    ],
+    "name:msa_x_preferred":[
+        "Plo\u010dica"
+    ],
+    "name:ron_x_preferred":[
+        "Plo\u010dica"
+    ],
+    "name:slv_x_preferred":[
+        "Plo\u010dica"
+    ],
     "name:srp_x_preferred":[
         "Plo\u010dica"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043b\u043e\u0447\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Kevepall\u00f3s",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1242696205,
-    "wof:lastmodified":1537683739,
+    "wof:lastmodified":1564104395,
     "wof:name":"Plocica",
     "wof:parent_id":1108809929,
     "wof:placetype":"locality",

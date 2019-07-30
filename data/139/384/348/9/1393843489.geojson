@@ -30,11 +30,41 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Rakovica"
+    ],
+    "name:fra_x_preferred":[
+        "Rakovica"
+    ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Rakovica"
     ],
+    "name:hrv_x_preferred":[
+        "Rakovica"
+    ],
+    "name:ind_x_preferred":[
+        "Rakovica"
+    ],
+    "name:ita_x_preferred":[
+        "Rakovica"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10d9\u10dd\u10d5\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e0\u10d0\u10d9\u10dd\u10d5\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ucf54\ube44\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Rakovica"
+    ],
+    "name:nor_x_preferred":[
+        "Rakovica"
+    ],
+    "name:por_x_preferred":[
+        "Rakovica"
     ],
     "name:ron_x_preferred":[
         "Comuna Rakovica"
@@ -48,18 +78,21 @@
     "name:srp_x_variant":[
         "\u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Rakovica"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u79d1\u7dad\u5bdf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843447
+        1393843447,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +114,7 @@
         }
     ],
     "wof:id":1393843489,
-    "wof:lastmodified":1562015361,
+    "wof:lastmodified":1564104216,
     "wof:name":"Rakovica",
     "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010car"
+    ],
+    "name:fra_x_preferred":[
+        "\u010car"
+    ],
+    "name:msa_x_preferred":[
+        "\u010car"
+    ],
+    "name:por_x_preferred":[
+        "\u010car"
+    ],
+    "name:slv_x_preferred":[
+        "\u010car"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7arri"
+    ],
     "name:srp_x_preferred":[
         "\u010car"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0430\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1209932663,
-    "wof:lastmodified":1537683823,
+    "wof:lastmodified":1564103764,
     "wof:name":"Car",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

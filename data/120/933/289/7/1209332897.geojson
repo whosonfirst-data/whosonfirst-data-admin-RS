@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornja Stra\u017eava"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Stra\u017eava"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Stra\u017eava"
+    ],
+    "name:por_x_preferred":[
+        "Gornja Stra\u017eava"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Stra\u017eava"
+    ],
+    "name:sqi_x_preferred":[
+        "Strazhova e Ep\u00ebrme"
+    ],
     "name:srp_x_preferred":[
         "Gornja Stra\u017eava"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0421\u0442\u0440\u0430\u0436\u0430\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Gornja Str\u017eava"
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209332897,
-    "wof:lastmodified":1537683797,
+    "wof:lastmodified":1564103777,
     "wof:name":"Gornja Strazava",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

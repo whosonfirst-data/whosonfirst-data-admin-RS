@@ -26,11 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0645\u0632\u064a\u063a\u0631\u0627\u062f"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u043c\u0437\u0456\u0433\u0440\u0430\u0434-\u0420\u0430\u043c\u0443\u043b\u0456\u044f\u043d\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0413\u044a\u043c\u0437\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:ces_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:deu_x_preferred":[
+        "Galerius-Palast"
+    ],
+    "name:fin_x_preferred":[
+        "Gamzigrad"
     ],
     "name:fra_x_preferred":[
         "Gamzigrad-Romuliana"
@@ -38,8 +50,17 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05de\u05d5\u05df \u05d2\u05dc\u05e8\u05d9\u05d5\u05e1 \u05d1\u05d2\u05de\u05d9\u05d6\u05d2\u05e8\u05d0\u05d3"
     ],
+    "name:hrv_x_preferred":[
+        "Gamzigrad"
+    ],
     "name:hun_x_preferred":[
         "Galerius palot\u00e1ja Gamzigrad-Romulian\u00e1ban"
+    ],
+    "name:ind_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:ita_x_preferred":[
+        "Gamzigrad"
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30e0\u30b8\u30b0\u30e9\u30fc\u30c9"
@@ -50,14 +71,48 @@
     "name:kor_x_preferred":[
         "\uac10\uc9c0\uadf8\ub77c\ub4dc"
     ],
+    "name:lav_x_preferred":[
+        "Gamzigrada"
+    ],
+    "name:nor_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:pol_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:por_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:ron_x_preferred":[
+        "Gamzigrad"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043c\u0437\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:slv_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:spa_x_preferred":[
+        "Gamzigrad"
     ],
     "name:srp_x_preferred":[
         "Gamzigrad"
     ],
     "name:srp_x_variant":[
-        "\u0420\u043e\u043c\u0443\u043b\u0438\u0458\u0430\u043d\u0430"
+        "\u0420\u043e\u043c\u0443\u043b\u0438\u0458\u0430\u043d\u0430",
+        "\u0413\u0430\u043c\u0437\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:tur_x_preferred":[
+        "Gamzigrad"
+    ],
+    "name:vie_x_preferred":[
+        "Gamzigrad"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u59c6\u6fdf\u683c\u52d2"
@@ -88,7 +143,7 @@
         }
     ],
     "wof:id":1360295503,
-    "wof:lastmodified":1537683802,
+    "wof:lastmodified":1564104177,
     "wof:name":"Gamzigrad",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

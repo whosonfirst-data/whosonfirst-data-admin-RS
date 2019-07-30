@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Goli Rid"
+    ],
+    "name:msa_x_preferred":[
+        "Goli Rid"
+    ],
+    "name:por_x_preferred":[
+        "Goli Rid"
+    ],
+    "name:slv_x_preferred":[
+        "Goli Rid"
+    ],
+    "name:sqi_x_preferred":[
+        "Golliridi"
+    ],
     "name:srp_x_preferred":[
         "Goli Rid"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u043b\u0438 \u0420\u0438\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276462207,
-    "wof:lastmodified":1537683799,
+    "wof:lastmodified":1564103593,
     "wof:name":"Goli Rid",
     "wof:parent_id":1108809953,
     "wof:placetype":"locality",

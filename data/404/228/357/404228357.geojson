@@ -5,18 +5,117 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.262631,
-    "geom:area_square_m":55918379273.766945,
+    "geom:area_square_m":55918379273.766502,
     "geom:bbox":"19.1026475,42.2321745,23.0058355,45.0968965",
     "geom:latitude":43.76841,
     "geom:longitude":21.075447,
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0628\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:bos_x_preferred":[
+        "Centralna Srbija"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u044a\u0440\u0431\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e8rbia central"
+    ],
+    "name:ceb_x_preferred":[
+        "Central Serbia"
+    ],
+    "name:ces_x_preferred":[
+        "Centr\u00e1ln\u00ed Srbsko"
+    ],
+    "name:deu_x_preferred":[
+        "Zentralserbien"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a3\u03b5\u03c1\u03b2\u03af\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Central Serbia"
     ],
+    "name:eus_x_preferred":[
+        "Erdialdeko Serbia"
+    ],
+    "name:fra_x_preferred":[
+        "Serbie centrale"
+    ],
+    "name:glg_x_preferred":[
+        "Serbia central"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6 \u05e1\u05e8\u05d1\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Sredi\u0161nja Srbija"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9p-Szerbia"
+    ],
+    "name:ind_x_preferred":[
+        "Serbia Tengah"
+    ],
+    "name:ita_x_preferred":[
+        "Serbia Centrale"
+    ],
+    "name:jav_x_preferred":[
+        "Serbia tengah"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e1\u10d4\u10e0\u10d1\u10d4\u10d7\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uc559\uc138\ub974\ube44\uc544"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Serbia Tengah"
+    ],
+    "name:nld_x_preferred":[
+        "Centraal-Servi\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Serbia Centralna"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e9rvia central"
+    ],
+    "name:ron_x_preferred":[
+        "Serbia Central\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0421\u0435\u0440\u0431\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Centr\u00e1lne Srbsko"
+    ],
+    "name:spa_x_preferred":[
+        "Serbia Central"
+    ],
+    "name:sqi_x_preferred":[
+        "Serbia Qendrore"
+    ],
     "name:srb_x_preferred":[
         "Centralna Srbija"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mellersta Serbien"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u0421\u0435\u0440\u0431\u0456\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u585e\u723e\u7dad\u4e9e"
     ],
     "qs:a0":"Republika Srbija",
     "qs:a0_lc":"RS0000000",
@@ -53,7 +152,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1529539728,
+    "wof:lastmodified":1564104315,
     "wof:name":"Central Serbia",
     "wof:parent_id":85633755,
     "wof:placetype":"macroregion",

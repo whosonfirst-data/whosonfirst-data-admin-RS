@@ -26,6 +26,30 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ljeskovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Ljeskovac"
+    ],
+    "name:fra_x_preferred":[
+        "Ljeskovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljeskovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Ljeskovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0441\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ljeskovac"
+    ],
     "name:und_x_variant":[
         "Gornji Ljeskovac",
         "Ljeskovac"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1242787827,
-    "wof:lastmodified":1537684030,
+    "wof:lastmodified":1564104463,
     "wof:name":"Ljeskovac",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

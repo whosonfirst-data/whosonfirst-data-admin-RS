@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Neradin"
+    ],
+    "name:epo_x_preferred":[
+        "Neradin"
+    ],
+    "name:fra_x_preferred":[
+        "Neradin"
+    ],
+    "name:hun_x_preferred":[
+        "Szer\u00e9mny\u00e1r\u00e1d"
+    ],
+    "name:msa_x_preferred":[
+        "Neradin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u0430\u0434\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Neradin"
+    ],
     "name:srp_x_preferred":[
         "Neradin"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u0440\u0430\u0434\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1326639757,
-    "wof:lastmodified":1537683965,
+    "wof:lastmodified":1564103016,
     "wof:name":"Neradin",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

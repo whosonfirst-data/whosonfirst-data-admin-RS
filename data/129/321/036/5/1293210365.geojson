@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mr\u0111enovac"
+    ],
+    "name:fra_x_preferred":[
+        "Mr\u0111enovac"
+    ],
+    "name:msa_x_preferred":[
+        "Mr\u0111enovac"
+    ],
+    "name:por_x_preferred":[
+        "Mr\u0111enovac"
+    ],
+    "name:slv_x_preferred":[
+        "Mr\u0111enovac"
+    ],
+    "name:spa_x_preferred":[
+        "Mr\u0111enovac"
+    ],
     "name:srp_x_preferred":[
         "Mr\u0111enovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0440\u0452\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Mr\u0107enovac",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1293210365,
-    "wof:lastmodified":1537683931,
+    "wof:lastmodified":1564103443,
     "wof:name":"Mrgenovac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

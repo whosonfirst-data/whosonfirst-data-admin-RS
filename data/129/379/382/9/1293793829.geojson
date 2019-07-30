@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u043e\u0431\u045a\u0430\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Drabnjaci",
         "Drobnjaci"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293793829,
-    "wof:lastmodified":1537683901,
+    "wof:lastmodified":1564103300,
     "wof:name":"Drobnjaci",
     "wof:parent_id":1108810141,
     "wof:placetype":"locality",

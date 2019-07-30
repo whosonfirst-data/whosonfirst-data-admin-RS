@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zlo\u0107udovo"
+    ],
+    "name:fra_x_preferred":[
+        "Zlo\u0107udovo"
+    ],
+    "name:msa_x_preferred":[
+        "Zlo\u0107udovo"
+    ],
+    "name:nld_x_preferred":[
+        "Zlo\u0107udovo"
+    ],
+    "name:por_x_preferred":[
+        "Zlo\u0107udovo"
+    ],
+    "name:slv_x_preferred":[
+        "Zlo\u0107udovo"
+    ],
     "name:srp_x_preferred":[
         "Zlo\u0107udovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u043b\u043e\u045b\u0443\u0434\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1259898335,
-    "wof:lastmodified":1537683683,
+    "wof:lastmodified":1564104637,
     "wof:name":"Zlocudovo",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

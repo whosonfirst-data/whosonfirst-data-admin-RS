@@ -26,8 +26,44 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
+    "name:ces_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
+    "name:epo_x_preferred":[
+        "Ba\u0109ki Sokolac"
+    ],
+    "name:fra_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1csandr\u00e1ssz\u00e1ll\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438-\u0421\u043e\u043a\u043e\u043b\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dki Sokolac"
+    ],
     "name:srp_x_preferred":[
         "Ba\u010dki Sokolac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0447\u043a\u0438 \u0421\u043e\u043a\u043e\u043b\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438 \u0421\u043e\u043a\u043e\u043b\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +91,7 @@
         }
     ],
     "wof:id":1259397275,
-    "wof:lastmodified":1537683951,
+    "wof:lastmodified":1564104548,
     "wof:name":"Backi Sokolac",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mala Braina"
+    ],
+    "name:msa_x_preferred":[
+        "Mala Braina"
+    ],
+    "name:por_x_preferred":[
+        "Mala Braina"
+    ],
+    "name:slv_x_preferred":[
+        "Mala Braina"
+    ],
+    "name:sqi_x_preferred":[
+        "Braina e Vog\u00ebl"
+    ],
     "name:srp_x_preferred":[
         "Mala Braina"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0430 \u0411\u0440\u0430\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Mala Brajina"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1292921661,
-    "wof:lastmodified":1537683762,
+    "wof:lastmodified":1564103287,
     "wof:name":"Mala Braina",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

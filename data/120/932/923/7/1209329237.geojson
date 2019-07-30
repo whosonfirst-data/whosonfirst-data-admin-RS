@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Negbina"
+    ],
+    "name:fra_x_preferred":[
+        "Negbina"
+    ],
+    "name:msa_x_preferred":[
+        "Negbina"
+    ],
+    "name:nld_x_preferred":[
+        "Negbina"
+    ],
+    "name:por_x_preferred":[
+        "Negbina"
+    ],
+    "name:slv_x_preferred":[
+        "Negbina"
+    ],
     "name:srp_x_preferred":[
         "Negbina"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0435\u0433\u0431\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209329237,
-    "wof:lastmodified":1537683931,
+    "wof:lastmodified":1564103756,
     "wof:name":"Negbina",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

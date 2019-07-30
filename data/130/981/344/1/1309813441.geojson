@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lunjevac"
+    ],
+    "name:fra_x_preferred":[
+        "Lunjevac"
+    ],
+    "name:msa_x_preferred":[
+        "Lunjevac"
+    ],
+    "name:por_x_preferred":[
+        "Lunjevac"
+    ],
+    "name:slv_x_preferred":[
+        "Lunjevac"
+    ],
     "name:srp_x_preferred":[
         "Lunjevac"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0443\u045a\u0435\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1309813441,
-    "wof:lastmodified":1537683764,
+    "wof:lastmodified":1564104273,
     "wof:name":"Lunjevac",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

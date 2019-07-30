@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0443\u0447\u0430\u0434\u0435\u043b\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Vu\u010dadelce"
+    ],
+    "name:msa_x_preferred":[
+        "Vu\u010dadelce"
+    ],
+    "name:por_x_preferred":[
+        "Vu\u010dadelce"
+    ],
+    "name:slv_x_preferred":[
+        "Vu\u010dadelce"
+    ],
     "name:srp_x_preferred":[
         "Vu\u010dadelce"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0443\u0447\u0430\u0434\u0435\u043b\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Vu\u010dedolce",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1243464479,
-    "wof:lastmodified":1537683688,
+    "wof:lastmodified":1564104404,
     "wof:name":"Vucadelce",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

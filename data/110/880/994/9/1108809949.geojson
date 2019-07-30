@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006185,
-    "geom:area_square_m":54834317.39338,
+    "geom:area_square_m":54834317.393384,
     "geom:bbox":"21.0121255,44.1446575,21.146611,44.2259265",
     "geom:latitude":44.189803,
     "geom:longitude":21.092119,
@@ -21,8 +21,56 @@
     "meso:name_loc":"Lapovo",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043f\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Lapovo"
+    ],
+    "name:ces_x_preferred":[
+        "Lapovo"
+    ],
+    "name:fra_x_preferred":[
+        "Lapovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Lapovo"
+    ],
+    "name:ita_x_preferred":[
+        "Lapovo"
+    ],
+    "name:msa_x_preferred":[
+        "Lapovo"
+    ],
+    "name:nld_x_preferred":[
+        "Lapovo"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u067e\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Lapovo"
+    ],
+    "name:por_x_preferred":[
+        "Lapovo"
+    ],
+    "name:slv_x_preferred":[
+        "Lapovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u043f\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Lapovo"
+    ],
     "name:und_x_variant":[
         "Lapovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0648\u0648\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6ce2\u6c83"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +95,7 @@
         }
     ],
     "wof:id":1108809949,
-    "wof:lastmodified":1512517089,
+    "wof:lastmodified":1564103942,
     "wof:name":"Lapovo",
     "wof:parent_id":85688319,
     "wof:placetype":"localadmin",

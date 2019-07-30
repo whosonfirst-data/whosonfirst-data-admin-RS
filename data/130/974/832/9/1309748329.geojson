@@ -27,8 +27,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Po\u017ee\u017eeno"
+    ],
+    "name:fra_x_preferred":[
+        "Po\u017ee\u017eeno"
+    ],
+    "name:msa_x_preferred":[
+        "Po\u017ee\u017eeno"
+    ],
+    "name:por_x_preferred":[
+        "Po\u017ee\u017eeno"
+    ],
+    "name:slv_x_preferred":[
+        "Po\u017ee\u017eeno"
+    ],
     "name:srp_x_preferred":[
         "Po\u017ee\u017eeno"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0436\u0435\u0436\u0435\u043d\u043e"
     ],
     "name:und_x_variant":[
         "Po\u017ee\u017eena"
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1309748329,
-    "wof:lastmodified":1537683736,
+    "wof:lastmodified":1564104260,
     "wof:name":"Pozezeno",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobroljupci"
+    ],
+    "name:fra_x_preferred":[
+        "Dobroljupci"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0562\u0580\u0578\u056c\u0575\u0578\u0582\u0562\u0581\u056b"
+    ],
+    "name:msa_x_preferred":[
+        "Dobroljubci"
+    ],
+    "name:por_x_preferred":[
+        "Dobroljupci"
+    ],
+    "name:slv_x_preferred":[
+        "Dobroljubci"
+    ],
+    "name:spa_x_preferred":[
+        "Dobroljupci"
+    ],
     "name:srp_x_preferred":[
         "Dobroljupci"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0459\u0443\u043f\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1259798489,
-    "wof:lastmodified":1537683815,
+    "wof:lastmodified":1564104571,
     "wof:name":"Dobroljupci",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

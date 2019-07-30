@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:epo_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:fra_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:hun_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:msa_x_preferred":[
+        "Vitojevci"
+    ],
+    "name:slv_x_preferred":[
+        "Vitojevci"
+    ],
     "name:srp_x_preferred":[
         "Vitojevci"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u0442\u043e\u0458\u0435\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Novi Vitojevci"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1327449665,
-    "wof:lastmodified":1537683918,
+    "wof:lastmodified":1564103039,
     "wof:name":"Vitojevci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

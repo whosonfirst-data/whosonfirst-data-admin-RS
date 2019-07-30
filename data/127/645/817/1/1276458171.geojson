@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Poljna"
+    ],
+    "name:fra_x_preferred":[
+        "Poljna"
+    ],
+    "name:msa_x_preferred":[
+        "Poljna"
+    ],
+    "name:por_x_preferred":[
+        "Poljna"
+    ],
+    "name:slv_x_preferred":[
+        "Poljna"
+    ],
     "name:srp_x_preferred":[
         "Poljna"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0459\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276458171,
-    "wof:lastmodified":1537683737,
+    "wof:lastmodified":1564103490,
     "wof:name":"Poljna",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornji Ljube\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Ljube\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Gornji Ljube\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Ljube\u0161"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Ljube\u0161"
+    ],
     "name:srp_x_preferred":[
         "Gornji Ljube\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0409\u0443\u0431\u0435\u0448"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326544541,
-    "wof:lastmodified":1537683794,
+    "wof:lastmodified":1564103022,
     "wof:name":"Gornji Ljubes",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Drmanovina"
+    ],
     "name:srp_x_preferred":[
         "Drmanovina"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243464589,
-    "wof:lastmodified":1537684019,
+    "wof:lastmodified":1564104416,
     "wof:name":"Drmanovina",
     "wof:parent_id":1108809923,
     "wof:placetype":"locality",

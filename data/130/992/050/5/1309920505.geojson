@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Sala\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Sala\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Sala\u0161"
+    ],
+    "name:msa_x_preferred":[
+        "Sala\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Sala\u0161"
+    ],
+    "name:slv_x_preferred":[
+        "Sala\u0161"
+    ],
     "name:srp_x_preferred":[
         "Sala\u0161"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u043b\u0430\u0448"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1309920505,
-    "wof:lastmodified":1537683721,
+    "wof:lastmodified":1564104251,
     "wof:name":"Salas",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

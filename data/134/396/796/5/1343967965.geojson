@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Senja"
+    ],
+    "name:swe_x_preferred":[
+        "Senja kommun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688279,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343967965,
-    "wof:lastmodified":1537008356,
+    "wof:lastmodified":1564103055,
     "wof:name":"Senja",
     "wof:parent_id":1108810083,
     "wof:placetype":"locality",

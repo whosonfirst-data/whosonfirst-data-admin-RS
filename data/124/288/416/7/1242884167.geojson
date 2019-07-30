@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malajnica"
+    ],
+    "name:deu_x_preferred":[
+        "Malajnica"
+    ],
+    "name:fra_x_preferred":[
+        "Malajnica"
+    ],
+    "name:msa_x_preferred":[
+        "Malajnica"
+    ],
+    "name:por_x_preferred":[
+        "Malajnica"
+    ],
+    "name:ron_x_preferred":[
+        "Malaini\u021ba"
+    ],
+    "name:slv_x_preferred":[
+        "Malajnica"
+    ],
     "name:srp_x_preferred":[
         "Malajnica"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0458\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1242884167,
-    "wof:lastmodified":1537683762,
+    "wof:lastmodified":1564104365,
     "wof:name":"Malajnica",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tele\u010dka"
+    ],
+    "name:epo_x_preferred":[
+        "Tele\u0109ka"
+    ],
+    "name:fra_x_preferred":[
+        "Tele\u010dka"
+    ],
+    "name:hrv_x_preferred":[
+        "Tele\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1csgyulafalva"
+    ],
+    "name:msa_x_preferred":[
+        "Tele\u010dka"
+    ],
+    "name:slv_x_preferred":[
+        "Tele\u010dka"
+    ],
     "name:srp_x_preferred":[
         "Tele\u010dka"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0435\u043b\u0435\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b\u0435\u0447\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Gyulafalva",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1327445941,
-    "wof:lastmodified":1537683920,
+    "wof:lastmodified":1564103030,
     "wof:name":"Telecka",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

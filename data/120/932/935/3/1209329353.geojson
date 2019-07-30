@@ -26,6 +26,27 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Milav\u010di\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Milav\u010di\u0107i"
+    ],
+    "name:msa_x_preferred":[
+        "Milav\u010di\u0107i"
+    ],
+    "name:nld_x_preferred":[
+        "Milav\u010di\u0107i"
+    ],
+    "name:por_x_preferred":[
+        "Milav\u010di\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Milav\u010di\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u0432\u0447\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Milav\u010di\u0107",
         "Milav\u010di\u0107i"
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1209329353,
-    "wof:lastmodified":1537683914,
+    "wof:lastmodified":1564103758,
     "wof:name":"Milavcici",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lokva"
+    ],
+    "name:msa_x_preferred":[
+        "Lokva"
+    ],
+    "name:por_x_preferred":[
+        "Lokva"
+    ],
+    "name:slv_x_preferred":[
+        "Lokva"
+    ],
     "name:srp_x_preferred":[
         "Lokva"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u043e\u043a\u0432\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1260090235,
-    "wof:lastmodified":1537683766,
+    "wof:lastmodified":1564103879,
     "wof:name":"Lokva",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

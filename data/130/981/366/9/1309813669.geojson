@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dubravica"
+    ],
+    "name:deu_x_preferred":[
+        "Dubravica"
+    ],
+    "name:fra_x_preferred":[
+        "Dubravica"
+    ],
+    "name:msa_x_preferred":[
+        "Dubravica"
+    ],
+    "name:nld_x_preferred":[
+        "Dubravica"
+    ],
+    "name:por_x_preferred":[
+        "Dubravica"
+    ],
+    "name:ron_x_preferred":[
+        "Dubravica"
+    ],
+    "name:slv_x_preferred":[
+        "Dubravica"
+    ],
     "name:srp_x_preferred":[
         "Dubravica"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1309813669,
-    "wof:lastmodified":1537683805,
+    "wof:lastmodified":1564104267,
     "wof:name":"Dubravica",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

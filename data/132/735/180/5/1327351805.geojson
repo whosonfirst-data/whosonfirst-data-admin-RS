@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ravna"
+    ],
+    "name:fra_x_preferred":[
+        "Ravna"
+    ],
+    "name:msa_x_preferred":[
+        "Ravna"
+    ],
+    "name:por_x_preferred":[
+        "Ravna"
+    ],
+    "name:slv_x_preferred":[
+        "Ravna"
+    ],
     "name:srp_x_preferred":[
         "Ravna"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0432\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Ravna Repu\u0161nica"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327351805,
-    "wof:lastmodified":1537683727,
+    "wof:lastmodified":1564102965,
     "wof:name":"Ravna",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

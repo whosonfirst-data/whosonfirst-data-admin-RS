@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u044a\u0436\u0434\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "R\u0111avica"
+    ],
+    "name:msa_x_preferred":[
+        "R\u0111avica"
+    ],
+    "name:por_x_preferred":[
+        "R\u0111avica"
+    ],
+    "name:slv_x_preferred":[
+        "R\u0111avica"
+    ],
     "name:srp_x_preferred":[
         "R\u0111avica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0452\u0430\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343276627,
-    "wof:lastmodified":1537683726,
+    "wof:lastmodified":1564103208,
     "wof:name":"Rgavica",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

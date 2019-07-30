@@ -25,8 +25,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Korbovo"
+    ],
+    "name:deu_x_preferred":[
+        "Korbovo"
+    ],
+    "name:fra_x_preferred":[
+        "Korbovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0440\u0431\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Korbovo"
+    ],
+    "name:por_x_preferred":[
+        "Korbovo"
+    ],
+    "name:slv_x_preferred":[
+        "Korbovo"
+    ],
     "name:srp_x_preferred":[
         "Korbovo"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0440\u0431\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1209533977,
-    "wof:lastmodified":1537683778,
+    "wof:lastmodified":1564103642,
     "wof:name":"Korbovo",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

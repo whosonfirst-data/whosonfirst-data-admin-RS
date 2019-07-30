@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donje Me\u0111urovo"
+    ],
+    "name:fra_x_preferred":[
+        "Donje Me\u0111urovo"
+    ],
+    "name:msa_x_preferred":[
+        "Donje Me\u0111urovo"
+    ],
+    "name:por_x_preferred":[
+        "Donje Me\u0111urovo"
+    ],
+    "name:slv_x_preferred":[
+        "Donje Me\u0111urovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Megjurova e Poshtme"
+    ],
     "name:srp_x_preferred":[
         "Donje Me\u0111urovo"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435 \u041c\u0435\u0452\u0443\u0440\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Donje Medjurovo"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1259397427,
-    "wof:lastmodified":1537683811,
+    "wof:lastmodified":1564104547,
     "wof:name":"Donje Megurovo",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

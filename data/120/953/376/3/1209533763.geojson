@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Berduj"
+    ],
+    "name:fra_x_preferred":[
+        "Berduj"
+    ],
+    "name:hun_x_preferred":[
+        "Berduj"
+    ],
+    "name:msa_x_preferred":[
+        "Berduj"
+    ],
+    "name:por_x_preferred":[
+        "Berduj"
+    ],
+    "name:slv_x_preferred":[
+        "Berduj"
+    ],
     "name:srp_x_preferred":[
         "Berduj"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0440\u0434\u0443\u0458"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209533763,
-    "wof:lastmodified":1537683834,
+    "wof:lastmodified":1564103647,
     "wof:name":"Berduj",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

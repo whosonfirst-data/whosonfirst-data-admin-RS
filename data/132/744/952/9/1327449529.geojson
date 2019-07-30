@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0445\u0438 \u0434\u043e\u043b"
+    ],
+    "name:fra_x_preferred":[
+        "Suhi Dol"
+    ],
+    "name:msa_x_preferred":[
+        "Suhi Dol"
+    ],
+    "name:nld_x_preferred":[
+        "Suhi Dol"
+    ],
+    "name:por_x_preferred":[
+        "Suhi Dol"
+    ],
+    "name:slv_x_preferred":[
+        "Suhi Dol"
+    ],
+    "name:sqi_x_preferred":[
+        "Suvidolli"
+    ],
     "name:srp_x_preferred":[
         "Suvi Dol"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0443\u0445\u0438 \u0414\u043e\u043b"
     ],
     "name:und_x_variant":[
         "Suhi Dol"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1327449529,
-    "wof:lastmodified":1537683708,
+    "wof:lastmodified":1564103035,
     "wof:name":"Suvi Dol",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

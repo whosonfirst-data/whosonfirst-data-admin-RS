@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u0430\u043b\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dalica"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dalica"
+    ],
+    "name:por_x_preferred":[
+        "\u017dalica"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dalica"
+    ],
     "name:srp_x_preferred":[
         "\u017dalica"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0430\u043b\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226357255,
-    "wof:lastmodified":1537683686,
+    "wof:lastmodified":1564104699,
     "wof:name":"Zalica",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Preslap"
+    ],
+    "name:fra_x_preferred":[
+        "Preslap"
+    ],
+    "name:hun_x_preferred":[
+        "Preslap"
+    ],
+    "name:msa_x_preferred":[
+        "Preslap"
+    ],
+    "name:por_x_preferred":[
+        "Preslap"
+    ],
+    "name:slv_x_preferred":[
+        "Preslap"
+    ],
     "name:srp_x_preferred":[
         "Preslap"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u0441\u043b\u0430\u043f"
     ],
     "name:und_x_variant":[
         "Preslo Mahala"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1309818253,
-    "wof:lastmodified":1537683873,
+    "wof:lastmodified":1564104271,
     "wof:name":"Preslap",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

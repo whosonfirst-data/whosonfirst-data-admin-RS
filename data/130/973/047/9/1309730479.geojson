@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Smedovac"
+    ],
+    "name:deu_x_preferred":[
+        "Smedovac"
+    ],
+    "name:fra_x_preferred":[
+        "Smedovac"
+    ],
+    "name:msa_x_preferred":[
+        "Smedovac"
+    ],
+    "name:por_x_preferred":[
+        "Smedovac"
+    ],
+    "name:slv_x_preferred":[
+        "Smedovac"
+    ],
     "name:srp_x_preferred":[
         "Smedovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u043c\u0435\u0434\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1309730479,
-    "wof:lastmodified":1537683714,
+    "wof:lastmodified":1564104256,
     "wof:name":"Smedovac",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

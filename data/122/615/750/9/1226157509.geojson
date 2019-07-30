@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Klaji\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Klaji\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Klaji\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Klaji\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Klaji\u0107"
+    ],
+    "name:sqi_x_preferred":[
+        "Klaiqi"
+    ],
     "name:srp_x_preferred":[
         "Klaji\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043b\u0430\u0458\u0438\u045b"
     ],
     "name:und_x_variant":[
         "Klai\u0107i"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1226157509,
-    "wof:lastmodified":1537683780,
+    "wof:lastmodified":1564104756,
     "wof:name":"Klajic",
     "wof:parent_id":1108809953,
     "wof:placetype":"locality",

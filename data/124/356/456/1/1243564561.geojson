@@ -29,8 +29,32 @@
     "name:boa_x_preferred":[
         "Byja\u00e7"
     ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0438\u0447"
+    ],
+    "name:fra_x_preferred":[
+        "Buji\u0107"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0458\u0438\u045c"
+    ],
+    "name:msa_x_preferred":[
+        "Buji\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Buji\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Buji\u0107"
+    ],
+    "name:sqi_x_preferred":[
+        "Buhi\u00e7i"
+    ],
     "name:srp_x_preferred":[
         "Buji\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0458\u0438\u045b"
     ],
     "name:und_x_variant":[
         "Bujiq",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1243564561,
-    "wof:lastmodified":1537683825,
+    "wof:lastmodified":1564104445,
     "wof:name":"Bujic",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

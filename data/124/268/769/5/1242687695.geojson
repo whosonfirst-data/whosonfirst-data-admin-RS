@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vever"
+    ],
+    "name:hun_x_preferred":[
+        "Vever"
+    ],
+    "name:msa_x_preferred":[
+        "Vever"
+    ],
+    "name:nld_x_preferred":[
+        "Vever"
+    ],
+    "name:por_x_preferred":[
+        "Vever"
+    ],
+    "name:slv_x_preferred":[
+        "Vever"
+    ],
     "name:srp_x_preferred":[
         "Vever"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u0432\u0435\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1242687695,
-    "wof:lastmodified":1537683884,
+    "wof:lastmodified":1564104373,
     "wof:name":"Vever",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

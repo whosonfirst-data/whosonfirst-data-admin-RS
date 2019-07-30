@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010cibutkovica"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cibutkovica"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cibutkovica"
+    ],
+    "name:por_x_preferred":[
+        "\u010cibutkovica"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cibutkovica"
+    ],
     "name:srp_x_preferred":[
         "\u010cibutkovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0438\u0431\u0443\u0442\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310215205,
-    "wof:lastmodified":1537683821,
+    "wof:lastmodified":1564104069,
     "wof:name":"Cibutkovica",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

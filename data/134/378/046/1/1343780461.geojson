@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bukovik"
+    ],
+    "name:msa_x_preferred":[
+        "Bukovik"
+    ],
+    "name:por_x_preferred":[
+        "Bukovik"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovik"
+    ],
     "name:srp_x_preferred":[
         "Bukovik"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343780461,
-    "wof:lastmodified":1537683824,
+    "wof:lastmodified":1564103129,
     "wof:name":"Bukovik",
     "wof:parent_id":1108809817,
     "wof:placetype":"locality",

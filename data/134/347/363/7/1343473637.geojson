@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0646\u0643\u0648\u0641\u064a\u0646\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Brankovina"
+    ],
+    "name:ces_x_preferred":[
+        "Brankovina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b1\u03bd\u03ba\u03cc\u03b2\u03b9\u03bd\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Brankovina"
+    ],
+    "name:msa_x_preferred":[
+        "Brankovina"
+    ],
+    "name:nld_x_preferred":[
+        "Brankovina"
+    ],
+    "name:por_x_preferred":[
+        "Brankovina"
+    ],
+    "name:slv_x_preferred":[
+        "Brankovina"
+    ],
     "name:srp_x_preferred":[
         "Brankovina"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0430\u043d\u043a\u043e\u0432\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1343473637,
-    "wof:lastmodified":1537683948,
+    "wof:lastmodified":1564103119,
     "wof:name":"Brankovina",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

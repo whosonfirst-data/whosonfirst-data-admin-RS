@@ -26,6 +26,36 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rtanj"
+    ],
+    "name:ces_x_preferred":[
+        "Rtanj"
+    ],
+    "name:deu_x_preferred":[
+        "Rtanj"
+    ],
+    "name:fra_x_preferred":[
+        "Rtanj"
+    ],
+    "name:lit_x_preferred":[
+        "Rtanis"
+    ],
+    "name:pol_x_preferred":[
+        "Rtanj"
+    ],
+    "name:ron_x_preferred":[
+        "Muntele R\u00e2tan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0442\u0430\u043d\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Rtanj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0442\u0430\u045a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688277,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1276138185,
-    "wof:lastmodified":1537038472,
+    "wof:lastmodified":1564103555,
     "wof:name":"Rtanj",
     "wof:parent_id":1108809857,
     "wof:placetype":"locality",

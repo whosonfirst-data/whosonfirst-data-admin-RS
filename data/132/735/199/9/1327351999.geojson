@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Osipaonica"
+    ],
+    "name:fra_x_preferred":[
+        "Osipaonica"
+    ],
+    "name:msa_x_preferred":[
+        "Osipaonica"
+    ],
+    "name:por_x_preferred":[
+        "Osipaonica"
+    ],
+    "name:slv_x_preferred":[
+        "Osipaonica"
+    ],
     "name:srp_x_preferred":[
         "Osipaonica"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u0438\u043f\u0430\u043e\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1327351999,
-    "wof:lastmodified":1537683745,
+    "wof:lastmodified":1564102967,
     "wof:name":"Osipaonica",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

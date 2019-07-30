@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badnjevac"
+    ],
+    "name:fra_x_preferred":[
+        "Badnjevac"
+    ],
+    "name:lit_x_preferred":[
+        "Badnevacas"
+    ],
+    "name:msa_x_preferred":[
+        "Badnjevac"
+    ],
+    "name:pol_x_preferred":[
+        "Badnjevac"
+    ],
+    "name:por_x_preferred":[
+        "Badnjevac"
+    ],
+    "name:slv_x_preferred":[
+        "Badnjevac"
+    ],
     "name:srp_x_preferred":[
         "Badnjevac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0434\u045a\u0435\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1242787669,
-    "wof:lastmodified":1537683840,
+    "wof:lastmodified":1564104467,
     "wof:name":"Badnjevac",
     "wof:parent_id":1108809839,
     "wof:placetype":"locality",

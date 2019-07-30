@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobromir"
+    ],
+    "name:deu_x_preferred":[
+        "Dobromir"
+    ],
+    "name:fra_x_preferred":[
+        "Dobromir"
+    ],
+    "name:msa_x_preferred":[
+        "Dobromir"
+    ],
+    "name:por_x_preferred":[
+        "Dobromir"
+    ],
+    "name:ron_x_preferred":[
+        "Dobromir"
+    ],
+    "name:slv_x_preferred":[
+        "Dobromir"
+    ],
     "name:srp_x_preferred":[
         "Dobromir"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1210034649,
-    "wof:lastmodified":1537683815,
+    "wof:lastmodified":1564103828,
     "wof:name":"Dobromir",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

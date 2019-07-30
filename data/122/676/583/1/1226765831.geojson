@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Blendija"
+    ],
+    "name:deu_x_preferred":[
+        "Blendija"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bb\u03ad\u03bd\u03c4\u03b9\u03b3\u03b9\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Blendija"
+    ],
+    "name:msa_x_preferred":[
+        "Blendija"
+    ],
+    "name:por_x_preferred":[
+        "Blendija"
+    ],
+    "name:slv_x_preferred":[
+        "Blendija"
+    ],
     "name:srp_x_preferred":[
         "Blendija"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043b\u0435\u043d\u0434\u0438\u0458\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1226765831,
-    "wof:lastmodified":1537683832,
+    "wof:lastmodified":1564104748,
     "wof:name":"Blendija",
     "wof:parent_id":1108810079,
     "wof:placetype":"locality",

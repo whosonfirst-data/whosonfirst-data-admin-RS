@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornje Kordince"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Kordince"
+    ],
+    "name:msa_x_preferred":[
+        "Gornje Kordince"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Kordince"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Kordince"
+    ],
+    "name:sqi_x_preferred":[
+        "Kordinca e Ep\u00ebrme"
+    ],
     "name:srp_x_preferred":[
         "Gornje Kordince"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u041a\u043e\u0440\u0434\u0438\u043d\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1259601427,
-    "wof:lastmodified":1537683796,
+    "wof:lastmodified":1564104610,
     "wof:name":"Gornje Kordince",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

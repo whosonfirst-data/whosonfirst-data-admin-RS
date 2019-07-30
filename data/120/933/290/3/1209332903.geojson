@@ -25,8 +25,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Crvsko"
+    ],
+    "name:fra_x_preferred":[
+        "Crvsko"
+    ],
+    "name:msa_x_preferred":[
+        "Crvsko"
+    ],
+    "name:nld_x_preferred":[
+        "Crvsko"
+    ],
+    "name:por_x_preferred":[
+        "Crvsko"
+    ],
+    "name:slv_x_preferred":[
+        "Crvsko"
+    ],
     "name:srp_x_preferred":[
         "Crvsko"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u0432\u0441\u043a\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1209332903,
-    "wof:lastmodified":1537684025,
+    "wof:lastmodified":1564103783,
     "wof:name":"Crvsko",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

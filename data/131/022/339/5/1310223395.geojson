@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tupalovce"
+    ],
+    "name:fra_x_preferred":[
+        "Tupalovce"
+    ],
+    "name:msa_x_preferred":[
+        "Tupalovce"
+    ],
+    "name:por_x_preferred":[
+        "Tupalovce"
+    ],
+    "name:slv_x_preferred":[
+        "Tupalovce"
+    ],
     "name:srp_x_preferred":[
         "Tupalovce"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0443\u043f\u0430\u043b\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Tupalovci"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310223395,
-    "wof:lastmodified":1537683700,
+    "wof:lastmodified":1564104004,
     "wof:name":"Tupalovce",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

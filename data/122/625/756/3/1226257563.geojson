@@ -26,6 +26,30 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0441\u0435\u043b\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Bratoselce"
+    ],
+    "name:hun_x_preferred":[
+        "Bratoselce"
+    ],
+    "name:msa_x_preferred":[
+        "Bratoselce"
+    ],
+    "name:por_x_preferred":[
+        "Bratoselce"
+    ],
+    "name:slv_x_preferred":[
+        "Bratoselce"
+    ],
+    "name:sqi_x_preferred":[
+        "Broduselca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0441\u0435\u043b\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226257563,
-    "wof:lastmodified":1537572092,
+    "wof:lastmodified":1564104733,
     "wof:name":"Bratoselce",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

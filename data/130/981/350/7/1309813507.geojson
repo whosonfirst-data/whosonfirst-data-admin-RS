@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bratinac"
+    ],
+    "name:fra_x_preferred":[
+        "Bratinac"
+    ],
+    "name:msa_x_preferred":[
+        "Bratinac"
+    ],
+    "name:por_x_preferred":[
+        "Bratinac"
+    ],
+    "name:ron_x_preferred":[
+        "Bratinac"
+    ],
+    "name:slv_x_preferred":[
+        "Bratinac"
+    ],
     "name:srp_x_preferred":[
         "Bratinac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0430\u0442\u0438\u043d\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1309813507,
-    "wof:lastmodified":1537683828,
+    "wof:lastmodified":1564104268,
     "wof:name":"Bratinac",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

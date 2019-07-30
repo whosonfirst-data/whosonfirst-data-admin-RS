@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Crnokli\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Crnokli\u0161te"
+    ],
+    "name:msa_x_preferred":[
+        "Crnokli\u0161te"
+    ],
+    "name:por_x_preferred":[
+        "Crnokli\u0161te"
+    ],
+    "name:slv_x_preferred":[
+        "Crnokli\u0161te"
+    ],
     "name:srp_x_preferred":[
         "Crnokli\u0161te"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u043d\u043e\u043a\u043b\u0438\u0448\u0442\u0435"
     ],
     "name:und_x_variant":[
         "Crnokli\u0161le",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1309726801,
-    "wof:lastmodified":1537683820,
+    "wof:lastmodified":1564104275,
     "wof:name":"Crnokliste",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

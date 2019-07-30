@@ -26,6 +26,30 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:fra_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:msa_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:pol_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:por_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:ron_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:slv_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0434\u0438\u043d\u0441\u043a\u0430 \u0421\u043a\u0435\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688279,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1293607247,
-    "wof:lastmodified":1537572091,
+    "wof:lastmodified":1564103373,
     "wof:name":"Padinska Skela",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

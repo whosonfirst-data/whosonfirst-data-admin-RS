@@ -26,8 +26,20 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gornja Bela Reka"
+    ],
+    "name:nld_x_preferred":[
+        "Gornja Bela Reka"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Bela Reka"
+    ],
     "name:srp_x_preferred":[
         "Gornja Bela Reka"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0411\u0435\u043b\u0430 \u0420\u0435\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Bela Reka"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276566913,
-    "wof:lastmodified":1537683799,
+    "wof:lastmodified":1564103526,
     "wof:name":"Gornja Bela Reka",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

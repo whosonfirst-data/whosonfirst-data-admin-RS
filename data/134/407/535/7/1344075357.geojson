@@ -26,6 +26,48 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gradac"
+    ],
+    "name:cat_x_preferred":[
+        "Gradac"
+    ],
+    "name:ceb_x_preferred":[
+        "Gradac"
+    ],
+    "name:deu_x_preferred":[
+        "Gradac"
+    ],
+    "name:fra_x_preferred":[
+        "Gradac"
+    ],
+    "name:hrv_x_preferred":[
+        "Gradac"
+    ],
+    "name:hun_x_preferred":[
+        "Gradac"
+    ],
+    "name:nld_x_preferred":[
+        "Gradac"
+    ],
+    "name:pol_x_preferred":[
+        "Gradac"
+    ],
+    "name:ron_x_preferred":[
+        "Gradac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Gradac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Gradac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1344075357,
-    "wof:lastmodified":1536852983,
+    "wof:lastmodified":1564103092,
     "wof:name":"Gradac",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

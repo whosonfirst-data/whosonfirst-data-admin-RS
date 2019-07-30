@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105184,
-    "geom:area_square_m":929183392.316378,
+    "geom:area_square_m":929183392.316419,
     "geom:bbox":"21.800371,44.2006265,22.356811,44.607956",
     "geom:latitude":44.404576,
     "geom:longitude":22.063768,
@@ -21,8 +21,71 @@
     "meso:name_loc":"Majdanpek",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0439\u0434\u0430\u043d\u043f\u0435\u043a"
+    ],
+    "name:ces_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:deu_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:epo_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:fra_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:hrv_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:ita_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0458\u0434\u0430\u043d\u043f\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:nld_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0627\u0626\u06cc\u062f\u0627\u0646\u067e\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:por_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:ron_x_preferred":[
+        "Maidan"
+    ],
+    "name:slv_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:spa_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0458\u0434\u0430\u043d\u043f\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Majdanpek"
+    ],
+    "name:tur_x_preferred":[
+        "Meydanpek"
+    ],
     "name:und_x_variant":[
         "Majdanpek"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4f0a\u4e39\u4f69\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -47,7 +110,7 @@
         }
     ],
     "wof:id":1108809967,
-    "wof:lastmodified":1512517089,
+    "wof:lastmodified":1564103925,
     "wof:name":"Majdanpek",
     "wof:parent_id":85688331,
     "wof:placetype":"localadmin",

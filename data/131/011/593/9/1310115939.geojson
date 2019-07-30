@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kraljevac"
+    ],
+    "name:ceb_x_preferred":[
+        "Kraljevac"
+    ],
+    "name:hrv_x_preferred":[
+        "Kraljevac"
+    ],
+    "name:hun_x_preferred":[
+        "Kraljevac"
+    ],
+    "name:slv_x_preferred":[
+        "Kraljevac"
+    ],
     "name:srp_x_preferred":[
+        "Kraljevac"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0430\u0459\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
         "Kraljevac"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1310115939,
-    "wof:lastmodified":1537683843,
+    "wof:lastmodified":1564104059,
     "wof:name":"Kraljevac",
     "wof:parent_id":1108810119,
     "wof:placetype":"locality",

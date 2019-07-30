@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kraji\u015dnik"
+    ],
+    "name:fra_x_preferred":[
+        "Kraji\u0161nici"
+    ],
+    "name:msa_x_preferred":[
+        "Kraji\u0161nici"
+    ],
+    "name:nld_x_preferred":[
+        "Kraji\u0161nici"
+    ],
+    "name:por_x_preferred":[
+        "Kraji\u0161nici"
+    ],
     "name:srp_x_preferred":[
         "Kraji\u0161ni\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0430\u0458\u0438\u0448\u043d\u0438\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226161123,
-    "wof:lastmodified":1537683979,
+    "wof:lastmodified":1564104685,
     "wof:name":"Krajisnici",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

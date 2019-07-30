@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zaskovci"
+    ],
+    "name:msa_x_preferred":[
+        "Zaskovci"
+    ],
+    "name:por_x_preferred":[
+        "Zaskovci"
+    ],
+    "name:slv_x_preferred":[
+        "Zaskovci"
+    ],
     "name:srp_x_preferred":[
         "Zaskovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0441\u043a\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326944723,
-    "wof:lastmodified":1537683685,
+    "wof:lastmodified":1564102914,
     "wof:name":"Zaskovci",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

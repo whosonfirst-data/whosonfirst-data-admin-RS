@@ -26,12 +26,48 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La\u0107arak"
+    ],
+    "name:epo_x_preferred":[
+        "Lacjarak"
+    ],
+    "name:fra_x_preferred":[
+        "La\u0107arak"
+    ],
+    "name:hrv_x_preferred":[
+        "La\u0107arak"
+    ],
+    "name:hun_x_preferred":[
+        "Latyarak"
+    ],
+    "name:msa_x_preferred":[
+        "La\u0107arak"
+    ],
+    "name:pol_x_preferred":[
+        "La\u0107arak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0447\u0430\u0440\u0430\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "La\u0107arak"
+    ],
     "name:srp_x_preferred":[
         "La\u0107arak"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0430\u045b\u0430\u0440\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Pa\u0107arak",
         "Ladjarak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06a9\u0627\u0631\u0627\u06a9"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u67e5\u62c9\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1209019159,
-    "wof:lastmodified":1537683935,
+    "wof:lastmodified":1564103665,
     "wof:name":"Lacarak",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

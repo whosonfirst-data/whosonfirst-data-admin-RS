@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pr\u0107enova"
+    ],
+    "name:fra_x_preferred":[
+        "Pr\u0107enova"
+    ],
+    "name:hun_x_preferred":[
+        "Pr\u0107enova"
+    ],
+    "name:msa_x_preferred":[
+        "Pr\u0107enova"
+    ],
+    "name:nld_x_preferred":[
+        "Pr\u0107enova"
+    ],
+    "name:por_x_preferred":[
+        "Pr\u0107enova"
+    ],
+    "name:slv_x_preferred":[
+        "Pr\u0107enova"
+    ],
     "name:srp_x_preferred":[
         "Pr\u0107enova"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u045b\u0435\u043d\u043e\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Pr\u010danova"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1293502037,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564103347,
     "wof:name":"Prcenova",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

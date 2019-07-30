@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0448\u0443\u0448\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Na\u0161u\u0161kovica"
+    ],
+    "name:fra_x_preferred":[
+        "Na\u0161u\u0161kovica"
+    ],
+    "name:hun_x_preferred":[
+        "Na\u0161u\u0161kovica"
+    ],
+    "name:msa_x_preferred":[
+        "Na\u0161u\u0161kovica"
+    ],
+    "name:por_x_preferred":[
+        "Na\u0161u\u0161kovica"
+    ],
+    "name:slv_x_preferred":[
+        "Na\u0161u\u0161kovica"
+    ],
     "name:srp_x_preferred":[
         "Na\u0161u\u0161kovica"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0430\u0448\u0443\u0448\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "\u0160u\u0161kovica"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1360199321,
-    "wof:lastmodified":1537683750,
+    "wof:lastmodified":1564104196,
     "wof:name":"Nasuskovica",
     "wof:parent_id":1108809823,
     "wof:placetype":"locality",

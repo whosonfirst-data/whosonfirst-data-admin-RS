@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u0160arce"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160arce"
+    ],
+    "name:por_x_preferred":[
+        "\u0160arce"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160arce"
+    ],
+    "name:sqi_x_preferred":[
+        "Sharca"
+    ],
     "name:srp_x_preferred":[
         "\u0160arce"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0430\u0440\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276672825,
-    "wof:lastmodified":1537683720,
+    "wof:lastmodified":1564103534,
     "wof:name":"Sarce",
     "wof:parent_id":1108809953,
     "wof:placetype":"locality",

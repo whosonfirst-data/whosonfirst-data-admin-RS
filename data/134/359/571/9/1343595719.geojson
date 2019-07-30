@@ -27,8 +27,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beljajka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u0627\u06cc\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Beljajka"
+    ],
+    "name:msa_x_preferred":[
+        "Beljajka"
+    ],
+    "name:por_x_preferred":[
+        "Beljajka"
+    ],
+    "name:slv_x_preferred":[
+        "Beljajka"
+    ],
     "name:srp_x_preferred":[
         "Beljajka"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0459\u0430\u0458\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1343595719,
-    "wof:lastmodified":1537683835,
+    "wof:lastmodified":1564103136,
     "wof:name":"Beljajka",
     "wof:parent_id":1108809885,
     "wof:placetype":"locality",

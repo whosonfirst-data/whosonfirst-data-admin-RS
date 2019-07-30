@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nomanica"
+    ],
+    "name:fra_x_preferred":[
+        "Nomanica"
+    ],
+    "name:msa_x_preferred":[
+        "Nomanica"
+    ],
+    "name:por_x_preferred":[
+        "Nomanica"
+    ],
+    "name:slv_x_preferred":[
+        "Nomanica"
+    ],
     "name:srp_x_preferred":[
         "Nomanica"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u043c\u0430\u043d\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343272049,
-    "wof:lastmodified":1537683749,
+    "wof:lastmodified":1564103202,
     "wof:name":"Nomanica",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

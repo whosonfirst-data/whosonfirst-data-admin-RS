@@ -26,8 +26,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:deu_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:epo_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:fra_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:hrv_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:hun_x_preferred":[
+        "Pal\u00e1nk"
+    ],
+    "name:msa_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:ron_x_preferred":[
+        "Banatska Palanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Banatska Palanka"
+    ],
     "name:srp_x_preferred":[
         "Banatska Palanka"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Pal\u00e1nk",
@@ -64,7 +97,7 @@
         }
     ],
     "wof:id":1360199307,
-    "wof:lastmodified":1537683839,
+    "wof:lastmodified":1564104190,
     "wof:name":"Banatska Palanka",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

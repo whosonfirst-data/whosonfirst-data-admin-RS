@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Davidovica"
+    ],
+    "name:msa_x_preferred":[
+        "Davidovica"
+    ],
+    "name:por_x_preferred":[
+        "Davidovica"
+    ],
+    "name:slv_x_preferred":[
+        "Davidovica"
+    ],
     "name:srp_x_preferred":[
         "Davidovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226460729,
-    "wof:lastmodified":1537683817,
+    "wof:lastmodified":1564104764,
     "wof:name":"Davidovica",
     "wof:parent_id":1108809897,
     "wof:placetype":"locality",

@@ -30,14 +30,47 @@
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Sremska Kamenica"
+    ],
+    "name:ces_x_preferred":[
+        "Sremska Kamenica"
+    ],
+    "name:epo_x_preferred":[
+        "Sremska Kamenica"
+    ],
+    "name:fra_x_preferred":[
+        "Sremska Kamenica"
+    ],
     "name:hrv_x_preferred":[
         "Srijemska Kamenica"
+    ],
+    "name:hun_x_preferred":[
+        "Kamanc"
+    ],
+    "name:msa_x_preferred":[
+        "Sremska Kamenica"
+    ],
+    "name:pol_x_preferred":[
+        "Sremska Kamenica"
+    ],
+    "name:slk_x_preferred":[
+        "Kamenica"
+    ],
+    "name:slv_x_preferred":[
+        "Sremska Kamenica"
+    ],
+    "name:spa_x_preferred":[
+        "Sremska Kamenica"
     ],
     "name:srp_x_preferred":[
         "Sremska Kamenica"
     ],
     "name:srp_x_variant":[
         "\u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
         "Kamenicz",
@@ -76,7 +109,7 @@
         }
     ],
     "wof:id":1310439067,
-    "wof:lastmodified":1537683923,
+    "wof:lastmodified":1564104065,
     "wof:name":"Sremska Kamenica",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

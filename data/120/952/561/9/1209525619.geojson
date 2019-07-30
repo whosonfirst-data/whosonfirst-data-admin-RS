@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jakovac"
+    ],
+    "name:fra_x_preferred":[
+        "Jakovac"
+    ],
+    "name:msa_x_preferred":[
+        "Jakovac"
+    ],
+    "name:por_x_preferred":[
+        "Jakovac"
+    ],
+    "name:slv_x_preferred":[
+        "Jakovac"
+    ],
     "name:srp_x_preferred":[
         "Jakovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0648\u0648\u0627\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209525619,
-    "wof:lastmodified":1537683787,
+    "wof:lastmodified":1564103678,
     "wof:name":"Jakovac",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

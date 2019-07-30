@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u0430\u043b\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Prevalac"
+    ],
+    "name:fra_x_preferred":[
+        "Prevalac"
+    ],
+    "name:msa_x_preferred":[
+        "Prevalac"
+    ],
+    "name:nld_x_preferred":[
+        "Prevalac"
+    ],
+    "name:por_x_preferred":[
+        "Prevalac"
+    ],
+    "name:slv_x_preferred":[
+        "Prevalac"
+    ],
+    "name:sqi_x_preferred":[
+        "Prevallca"
+    ],
     "name:srp_x_preferred":[
         "Prevalac"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u0432\u0430\u043b\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1259793623,
-    "wof:lastmodified":1537683734,
+    "wof:lastmodified":1564104564,
     "wof:name":"Prevalac",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

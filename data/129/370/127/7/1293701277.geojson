@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0106urlina"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106urlina"
+    ],
+    "name:msa_x_preferred":[
+        "\u0106urlina"
+    ],
+    "name:por_x_preferred":[
+        "\u0106urlina"
+    ],
+    "name:slv_x_preferred":[
+        "\u0106urlina"
+    ],
     "name:srp_x_preferred":[
         "\u0106urlina"
+    ],
+    "name:srp_x_variant":[
+        "\u040b\u0443\u0440\u043b\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "\u0106urline"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293701277,
-    "wof:lastmodified":1537683818,
+    "wof:lastmodified":1564103311,
     "wof:name":"Curlina",
     "wof:parent_id":1108809889,
     "wof:placetype":"locality",

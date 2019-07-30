@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cecina"
+    ],
+    "name:ceb_x_preferred":[
+        "Cecina"
+    ],
+    "name:deu_x_preferred":[
+        "Cecina"
+    ],
+    "name:fra_x_preferred":[
+        "Cecina"
+    ],
+    "name:ita_x_preferred":[
+        "Cecina"
+    ],
+    "name:lmo_x_preferred":[
+        "Cecina"
+    ],
+    "name:nld_x_preferred":[
+        "Cecina"
+    ],
+    "name:spa_x_preferred":[
+        "Cecina"
+    ],
     "name:srp_x_preferred":[
         "\u010ce\u010dina"
+    ],
+    "name:srp_x_variant":[
+        "Cecina"
+    ],
+    "name:swe_x_preferred":[
+        "Cecina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1343476929,
-    "wof:lastmodified":1537683864,
+    "wof:lastmodified":1564103120,
     "wof:name":"Cecina",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

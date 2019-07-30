@@ -26,6 +26,21 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zladovac"
+    ],
+    "name:msa_x_preferred":[
+        "Zladovac"
+    ],
+    "name:por_x_preferred":[
+        "Zladovac"
+    ],
+    "name:slv_x_preferred":[
+        "Zladovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043b\u0430\u0434\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688261,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226052523,
-    "wof:lastmodified":1537572095,
+    "wof:lastmodified":1564104693,
     "wof:name":"Zladovac",
     "wof:parent_id":1108810169,
     "wof:placetype":"locality",

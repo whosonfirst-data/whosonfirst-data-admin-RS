@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bela Reka"
+    ],
+    "name:msa_x_preferred":[
+        "Bela Reka"
+    ],
+    "name:por_x_preferred":[
+        "Bela Reka"
+    ],
+    "name:slv_x_preferred":[
+        "Bela Reka"
+    ],
     "name:srp_x_preferred":[
         "Bela Reka"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u043b\u0430 \u0420\u0435\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243472437,
-    "wof:lastmodified":1537683950,
+    "wof:lastmodified":1564104424,
     "wof:name":"Bela Reka",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

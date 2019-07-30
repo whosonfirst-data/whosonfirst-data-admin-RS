@@ -26,7 +26,34 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0634\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "name:msa_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "name:nld_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "name:por_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u0161evica"
+    ],
     "name:srp_x_preferred":[
+        "Ra\u0161evica"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0448\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Ra\u0161evica"
     ],
     "src:geom":"geonames",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1226460653,
-    "wof:lastmodified":1537683728,
+    "wof:lastmodified":1564104761,
     "wof:name":"Rasevica",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

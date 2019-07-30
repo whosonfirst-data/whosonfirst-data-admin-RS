@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gornje Dragovlje"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Dragovlje"
+    ],
+    "name:msa_x_preferred":[
+        "Gornje Dragovlje"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Dragovlje"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Dragovlje"
+    ],
     "name:srp_x_preferred":[
         "Gornje Dragovlje"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0414\u0440\u0430\u0433\u043e\u0432\u0459\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243077719,
-    "wof:lastmodified":1537683797,
+    "wof:lastmodified":1564104318,
     "wof:name":"Gornje Dragovlje",
     "wof:parent_id":1108809893,
     "wof:placetype":"locality",

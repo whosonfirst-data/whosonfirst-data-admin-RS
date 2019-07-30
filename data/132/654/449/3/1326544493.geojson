@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marinovac"
+    ],
+    "name:fra_x_preferred":[
+        "Marinovac"
+    ],
+    "name:msa_x_preferred":[
+        "Marinovac"
+    ],
+    "name:por_x_preferred":[
+        "Marinovac"
+    ],
+    "name:slv_x_preferred":[
+        "Marinovac"
+    ],
     "name:srp_x_preferred":[
         "Marinovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u0438\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326544493,
-    "wof:lastmodified":1537683759,
+    "wof:lastmodified":1564103020,
     "wof:name":"Marinovac",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

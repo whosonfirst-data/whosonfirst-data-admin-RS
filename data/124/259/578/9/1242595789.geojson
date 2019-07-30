@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vilovi"
+    ],
+    "name:fra_x_preferred":[
+        "Vilovi"
+    ],
+    "name:msa_x_preferred":[
+        "Vilovi"
+    ],
+    "name:nld_x_preferred":[
+        "Vilovi"
+    ],
+    "name:por_x_preferred":[
+        "Vilovi"
+    ],
+    "name:slv_x_preferred":[
+        "Vilovi"
+    ],
     "name:srp_x_preferred":[
         "Vilovi"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0438\u043b\u043e\u0432\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1242595789,
-    "wof:lastmodified":1537683919,
+    "wof:lastmodified":1564104386,
     "wof:name":"Vilovi",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

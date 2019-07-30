@@ -26,8 +26,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Vrba"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Vrba"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Vrba"
+    ],
+    "name:ita_x_preferred":[
+        "Gornja Vrba"
+    ],
+    "name:nld_x_preferred":[
+        "Gornja Vrba"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gornja Vrba"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Gornja Vrba"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Vrba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0412\u0440\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u044f \u0412\u0440\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Vrba",
+        "Gornja Vrba"
+    ],
+    "name:war_x_preferred":[
         "Gornja Vrba"
     ],
     "src:geom":"geonames",
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1310423835,
-    "wof:lastmodified":1537683690,
+    "wof:lastmodified":1564104051,
     "wof:name":"Gornja Vrba",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

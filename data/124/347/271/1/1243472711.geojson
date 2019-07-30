@@ -26,7 +26,28 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Presjeka"
+    ],
+    "name:ceb_x_preferred":[
+        "Presjeka"
+    ],
+    "name:fra_x_preferred":[
+        "Presjeka"
+    ],
+    "name:hrv_x_preferred":[
+        "Presjeka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043a\u0430"
+    ],
     "name:srp_x_preferred":[
+        "Presjeka"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u0441\u0458\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Presjeka"
     ],
     "name:und_x_variant":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1243472711,
-    "wof:lastmodified":1537683928,
+    "wof:lastmodified":1564104428,
     "wof:name":"Presjeka",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

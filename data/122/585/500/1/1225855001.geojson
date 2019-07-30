@@ -26,6 +26,30 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podvinje"
+    ],
+    "name:ceb_x_preferred":[
+        "Podvinje"
+    ],
+    "name:fra_x_preferred":[
+        "Podvinje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podvinje"
+    ],
+    "name:slv_x_preferred":[
+        "Podvinje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Podvinje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0456\u043d\u0454"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1225855001,
-    "wof:lastmodified":1536999497,
+    "wof:lastmodified":1564104809,
     "wof:name":"Podvinje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

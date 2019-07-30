@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Darosava"
+    ],
+    "name:epo_x_preferred":[
+        "Darosava"
+    ],
+    "name:fra_x_preferred":[
+        "Darosava"
+    ],
+    "name:msa_x_preferred":[
+        "Darosava"
+    ],
+    "name:por_x_preferred":[
+        "Darosava"
+    ],
+    "name:slv_x_preferred":[
+        "Darosava"
+    ],
     "name:srp_x_preferred":[
         "Darosava"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0430\u0440\u043e\u0441\u0430\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Partizani",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293701251,
-    "wof:lastmodified":1537683742,
+    "wof:lastmodified":1564103316,
     "wof:name":"Darosava",
     "wof:parent_id":1108809817,
     "wof:placetype":"locality",

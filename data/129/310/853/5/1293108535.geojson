@@ -26,7 +26,34 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brnjica"
+    ],
+    "name:ceb_x_preferred":[
+        "Brnjica"
+    ],
+    "name:fra_x_preferred":[
+        "Brnjica"
+    ],
+    "name:hrv_x_preferred":[
+        "Brnjica"
+    ],
+    "name:hun_x_preferred":[
+        "Brnjica"
+    ],
+    "name:nld_x_preferred":[
+        "Brnjica"
+    ],
+    "name:slv_x_preferred":[
+        "Brnjica"
+    ],
     "name:srp_x_preferred":[
+        "Brnjica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u045a\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Brnjica"
     ],
     "src:geom":"geonames",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1293108535,
-    "wof:lastmodified":1537683826,
+    "wof:lastmodified":1564103436,
     "wof:name":"Brnjica",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

@@ -27,8 +27,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010cantavir"
+    ],
+    "name:epo_x_preferred":[
+        "Csantav\u00e9r"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cantavir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e0\u05d8\u05d0\u05d5\u05d5\u05d9\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cantavir"
+    ],
+    "name:hun_x_preferred":[
+        "Csantav\u00e9r"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cantavir"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cantavir"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cantavir"
+    ],
     "name:srp_x_preferred":[
         "\u010cantavir"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0430\u043d\u0442\u0430\u0432\u0438\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043d\u0442\u0430\u0432\u0438\u0440"
     ],
     "name:und_x_variant":[
         "Tschantawir",
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":1327463203,
-    "wof:lastmodified":1537683947,
+    "wof:lastmodified":1564102953,
     "wof:name":"Cantavir",
     "wof:parent_id":1108810097,
     "wof:placetype":"locality",

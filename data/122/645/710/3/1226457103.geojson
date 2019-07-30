@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gornje Vlase"
+    ],
+    "name:msa_x_preferred":[
+        "Gornje Vlase"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Vlase"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Vlase"
+    ],
     "name:srp_x_preferred":[
         "Gornje Vlase"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0412\u043b\u0430\u0441\u0435"
     ],
     "name:und_x_variant":[
         "Vlase"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1226457103,
-    "wof:lastmodified":1537683795,
+    "wof:lastmodified":1564104679,
     "wof:name":"Gornje Vlase",
     "wof:parent_id":1108809893,
     "wof:placetype":"locality",

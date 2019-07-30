@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jaj\u010di\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Jaj\u010di\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Jaj\u010di\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Jaj\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Jaj\u010di\u0107"
+    ],
     "name:srp_x_preferred":[
         "Jaj\u010di\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0458\u0447\u0438\u045b"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u062c\u0686\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343276457,
-    "wof:lastmodified":1537683787,
+    "wof:lastmodified":1564103201,
     "wof:name":"Jajcic",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

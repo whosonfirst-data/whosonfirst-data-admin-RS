@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bo\u0161njanovi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u0161njanovi\u0107"
+    ],
+    "name:msa_x_preferred":[
+        "Bo\u0161njanovi\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Bo\u0161njanovi\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Bo\u0161njanovi\u0107"
+    ],
     "name:srp_x_preferred":[
         "Bo\u0161njanovi\u0107"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0448\u045a\u0430\u043d\u043e\u0432\u0438\u045b"
     ],
     "name:und_x_variant":[
         "Bo\u0161njanovi\u0107i"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1225859497,
-    "wof:lastmodified":1537683830,
+    "wof:lastmodified":1564104806,
     "wof:name":"Bosnjanovic",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

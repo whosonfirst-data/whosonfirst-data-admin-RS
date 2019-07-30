@@ -26,7 +26,25 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Petka"
+    ],
+    "name:fra_x_preferred":[
+        "Petka"
+    ],
+    "name:hrv_x_preferred":[
+        "Petka"
+    ],
+    "name:slv_x_preferred":[
+        "Petka"
+    ],
     "name:srp_x_preferred":[
+        "Petka"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0435\u0442\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Petka"
     ],
     "name:und_x_variant":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276137437,
-    "wof:lastmodified":1537683850,
+    "wof:lastmodified":1564103561,
     "wof:name":"Petka",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

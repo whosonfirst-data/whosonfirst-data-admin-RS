@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Duga Luka"
+    ],
+    "name:fra_x_preferred":[
+        "Duga Luka"
+    ],
+    "name:hun_x_preferred":[
+        "Duga Luka"
+    ],
+    "name:slv_x_preferred":[
+        "Duga Luka"
+    ],
     "name:srp_x_preferred":[
         "Duga Luka"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0443\u0433\u0430 \u041b\u0443\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Dugo-Luga"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1259894681,
-    "wof:lastmodified":1537683863,
+    "wof:lastmodified":1564104641,
     "wof:name":"Duga Luka",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

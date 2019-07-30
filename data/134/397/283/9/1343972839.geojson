@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petrilje"
+    ],
+    "name:msa_x_preferred":[
+        "Petrilje"
+    ],
+    "name:por_x_preferred":[
+        "Petrilje"
+    ],
+    "name:slv_x_preferred":[
+        "Petrilje"
+    ],
+    "name:sqi_x_preferred":[
+        "Petrila"
+    ],
     "name:srp_x_preferred":[
         "Petrilje"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0435\u0442\u0440\u0438\u0459\u0435"
     ],
     "name:und_x_variant":[
         "Petrilja",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343972839,
-    "wof:lastmodified":1537683741,
+    "wof:lastmodified":1564103078,
     "wof:name":"Petrilje",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

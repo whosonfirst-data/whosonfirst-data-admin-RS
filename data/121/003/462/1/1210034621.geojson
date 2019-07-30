@@ -26,8 +26,38 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Va\u0161ica"
+    ],
+    "name:epo_x_preferred":[
+        "Va\u015dica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0634\u06cc\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Va\u0161ica"
+    ],
+    "name:hrv_x_preferred":[
+        "Va\u0161ica"
+    ],
+    "name:hun_x_preferred":[
+        "Va\u0161ica"
+    ],
+    "name:msa_x_preferred":[
+        "Va\u0161ica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0448\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Va\u0161ica"
+    ],
     "name:srp_x_preferred":[
         "Va\u0161ica"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0430\u0448\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Mala Va\u0161ica"
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1210034621,
-    "wof:lastmodified":1537683919,
+    "wof:lastmodified":1564103829,
     "wof:name":"Vasica",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

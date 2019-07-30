@@ -26,8 +26,47 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Obornja\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Obornja\u010da"
+    ],
+    "name:epo_x_preferred":[
+        "Obornja\u0109a"
+    ],
+    "name:est_x_preferred":[
+        "Obornja\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Obornja\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f6lgypart"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0562\u0578\u0580\u0576\u0575\u0561\u0579\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Obornja\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Obornja\u010da"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043e\u0440\u043d\u044f\u0447\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Obornja\u010da"
+    ],
     "name:srp_x_preferred":[
         "Obornja\u010da"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0431\u043e\u0440\u045a\u0430\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u043e\u0440\u043d\u044f\u0447\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +94,7 @@
         }
     ],
     "wof:id":1259501705,
-    "wof:lastmodified":1537683930,
+    "wof:lastmodified":1564104596,
     "wof:name":"Obornjaca",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

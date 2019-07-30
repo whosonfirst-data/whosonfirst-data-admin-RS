@@ -26,12 +26,36 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zabrdnji Toci"
+    ],
+    "name:fra_x_preferred":[
+        "Zabrdnji Toci"
+    ],
+    "name:msa_x_preferred":[
+        "Zabrdnji Toci"
+    ],
+    "name:nld_x_preferred":[
+        "Zabrdnji Toci"
+    ],
+    "name:por_x_preferred":[
+        "Zabrdnji Toci"
+    ],
+    "name:slv_x_preferred":[
+        "Zabrdnji Toci"
+    ],
     "name:srp_x_preferred":[
         "Zabrdnji Toci"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0431\u0440\u0434\u045a\u0438 \u0422\u043e\u0446\u0438"
     ],
     "name:und_x_variant":[
         "Zabrnji Toci",
         "Zabrdni Toci"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0631\u062f\u0646\u062c\u06cc \u062a\u0648\u06a9\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1310415931,
-    "wof:lastmodified":1537683917,
+    "wof:lastmodified":1564103997,
     "wof:name":"Zabrdnji Toci",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

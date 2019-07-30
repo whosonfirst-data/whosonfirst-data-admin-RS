@@ -26,8 +26,32 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Div\u010dibare"
+    ],
+    "name:ces_x_preferred":[
+        "Div\u010dibare"
+    ],
+    "name:fra_x_preferred":[
+        "Div\u010dibare"
+    ],
+    "name:msa_x_preferred":[
+        "Div\u010dibare"
+    ],
+    "name:nor_x_preferred":[
+        "Div\u010dibare"
+    ],
+    "name:por_x_preferred":[
+        "Div\u010dibare"
+    ],
+    "name:slv_x_preferred":[
+        "Div\u010dibare"
+    ],
     "name:srp_x_preferred":[
         "Div\u010dibare"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0438\u0432\u0447\u0438\u0431\u0430\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1327144317,
-    "wof:lastmodified":1537683945,
+    "wof:lastmodified":1564102925,
     "wof:name":"Divcibare",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

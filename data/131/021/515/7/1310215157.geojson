@@ -26,6 +26,21 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baj\u010detina"
+    ],
+    "name:msa_x_preferred":[
+        "Baj\u010detina"
+    ],
+    "name:por_x_preferred":[
+        "Baj\u010detina"
+    ],
+    "name:slv_x_preferred":[
+        "Baj\u010detina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u0447\u0435\u0442\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Baj\u010detina"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310215157,
-    "wof:lastmodified":1537683914,
+    "wof:lastmodified":1564104077,
     "wof:name":"Bajcetina",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

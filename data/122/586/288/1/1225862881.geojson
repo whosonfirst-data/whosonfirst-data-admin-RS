@@ -26,8 +26,23 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Krpejce"
+    ],
+    "name:msa_x_preferred":[
+        "Krpejce"
+    ],
+    "name:por_x_preferred":[
+        "Krpejce"
+    ],
+    "name:slv_x_preferred":[
+        "Krpejce"
+    ],
     "name:srp_x_preferred":[
         "Krpejice"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u043f\u0435\u0458\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Krpejce",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1225862881,
-    "wof:lastmodified":1537683774,
+    "wof:lastmodified":1564104720,
     "wof:name":"Krpejice",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

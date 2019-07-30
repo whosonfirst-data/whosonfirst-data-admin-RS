@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barzilovica"
+    ],
+    "name:fra_x_preferred":[
+        "Barzilovica"
+    ],
+    "name:msa_x_preferred":[
+        "Barzilovica"
+    ],
+    "name:por_x_preferred":[
+        "Barzilovica"
+    ],
+    "name:slv_x_preferred":[
+        "Barzilovica"
+    ],
     "name:srp_x_preferred":[
         "Barzilovica"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0440\u0437\u0438\u043b\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Barilovica"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209229131,
-    "wof:lastmodified":1537683837,
+    "wof:lastmodified":1564103731,
     "wof:name":"Barzilovica",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

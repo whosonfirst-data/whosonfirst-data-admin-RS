@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Praskov\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Praskov\u010de"
+    ],
+    "name:msa_x_preferred":[
+        "Praskov\u010de"
+    ],
+    "name:por_x_preferred":[
+        "Praskov\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Praskov\u010de"
+    ],
     "name:srp_x_preferred":[
         "Praskov\u010de"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0430\u0441\u043a\u043e\u0432\u0447\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243182299,
-    "wof:lastmodified":1537683735,
+    "wof:lastmodified":1564104492,
     "wof:name":"Praskovce",
     "wof:parent_id":1108810055,
     "wof:placetype":"locality",

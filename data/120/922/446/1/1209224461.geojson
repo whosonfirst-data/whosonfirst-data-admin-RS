@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ro\u017eanstvo"
+    ],
+    "name:fra_x_preferred":[
+        "Ro\u017eanstvo"
+    ],
+    "name:msa_x_preferred":[
+        "Ro\u017eanstvo"
+    ],
+    "name:nld_x_preferred":[
+        "Ro\u017eanstvo"
+    ],
+    "name:por_x_preferred":[
+        "Ro\u017eanstvo"
+    ],
+    "name:slv_x_preferred":[
+        "Ro\u017eanstvo"
+    ],
     "name:srp_x_preferred":[
         "Ro\u017eanstvo"
+    ],
+    "name:srp_x_variant":[
+        "\u0420\u043e\u0436\u0430\u043d\u0441\u0442\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209224461,
-    "wof:lastmodified":1537683926,
+    "wof:lastmodified":1564103724,
     "wof:name":"Rozanstvo",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

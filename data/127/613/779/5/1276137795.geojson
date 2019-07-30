@@ -26,6 +26,12 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u091c\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Zari"
+    ],
     "name:srp_x_preferred":[
         "\u017dari"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276137795,
-    "wof:lastmodified":1537683917,
+    "wof:lastmodified":1564103559,
     "wof:name":"Zari",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

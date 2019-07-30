@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Poljska R\u017eana"
+    ],
+    "name:fra_x_preferred":[
+        "Poljska R\u017eana"
+    ],
+    "name:msa_x_preferred":[
+        "Poljska R\u017eana"
+    ],
+    "name:por_x_preferred":[
+        "Poljska R\u017eana"
+    ],
+    "name:slv_x_preferred":[
+        "Poljska R\u017eana"
+    ],
     "name:srp_x_preferred":[
         "Poljska R\u017eana"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0459\u0441\u043a\u0430 \u0420\u0436\u0430\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326748627,
-    "wof:lastmodified":1537683737,
+    "wof:lastmodified":1564102899,
     "wof:name":"Poljska Rzana",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

@@ -26,8 +26,35 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0433\u043e\u043d\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sagonjevo"
+    ],
+    "name:fra_x_preferred":[
+        "Sagonjevo"
+    ],
+    "name:msa_x_preferred":[
+        "Sagonjevo"
+    ],
+    "name:por_x_preferred":[
+        "Sagonjevo"
+    ],
+    "name:slv_x_preferred":[
+        "Sagonjevo"
+    ],
+    "name:sqi_x_preferred":[
+        "Sogojeva"
+    ],
     "name:srp_x_preferred":[
         "Sagonjevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u0433\u043e\u045a\u0435\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0648\u0646\u062c\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1260095051,
-    "wof:lastmodified":1537683722,
+    "wof:lastmodified":1564103878,
     "wof:name":"Sagonjevo",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

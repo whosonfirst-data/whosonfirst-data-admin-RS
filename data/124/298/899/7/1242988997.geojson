@@ -26,6 +26,21 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Doganovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Doganovci"
+    ],
+    "name:fra_x_preferred":[
+        "Doganovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0433\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Doganovci"
+    ],
     "name:und_x_variant":[
         "Doganovci Mahala",
         "Doganovci"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1242988997,
-    "wof:lastmodified":1537683910,
+    "wof:lastmodified":1564104486,
     "wof:name":"Doganovci",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

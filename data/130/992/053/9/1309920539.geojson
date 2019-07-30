@@ -26,8 +26,29 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Garevina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0580\u0587\u056b\u0576\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Garevina"
+    ],
+    "name:por_x_preferred":[
+        "Garevina"
+    ],
+    "name:slv_x_preferred":[
+        "Garevina"
+    ],
+    "name:spa_x_preferred":[
+        "Garevina"
+    ],
     "name:srp_x_preferred":[
         "Garevina"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0430\u0440\u0435\u0432\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1309920539,
-    "wof:lastmodified":1537683801,
+    "wof:lastmodified":1564104245,
     "wof:name":"Garevina",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

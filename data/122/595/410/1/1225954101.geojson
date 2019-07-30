@@ -26,8 +26,26 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Majilovac"
+    ],
+    "name:fra_x_preferred":[
+        "Majilovac"
+    ],
+    "name:msa_x_preferred":[
+        "Majilovac"
+    ],
+    "name:por_x_preferred":[
+        "Majilovac"
+    ],
+    "name:slv_x_preferred":[
+        "Majilovac"
+    ],
     "name:srp_x_preferred":[
         "Majilovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0458\u0438\u043b\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Majlovac"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1225954101,
-    "wof:lastmodified":1537683763,
+    "wof:lastmodified":1564104653,
     "wof:name":"Majilovac",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

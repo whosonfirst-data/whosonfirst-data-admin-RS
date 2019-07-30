@@ -26,8 +26,41 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Blaca"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043b\u0430\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Blaca"
+    ],
+    "name:fra_x_preferred":[
+        "Blaca"
+    ],
+    "name:hrv_x_preferred":[
+        "Blaca"
+    ],
+    "name:hun_x_preferred":[
+        "Blaca"
+    ],
+    "name:nld_x_preferred":[
+        "Blaca"
+    ],
+    "name:slv_x_preferred":[
+        "Blaca"
+    ],
     "name:srp_x_preferred":[
         "Blaca"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043b\u0430\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Blaca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0446\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1193034059,
-    "wof:lastmodified":1537683845,
+    "wof:lastmodified":1564103869,
     "wof:name":"Blaca",
     "wof:parent_id":1108810119,
     "wof:placetype":"locality",

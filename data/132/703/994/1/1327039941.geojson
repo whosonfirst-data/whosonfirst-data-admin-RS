@@ -26,6 +26,9 @@
     "iso:country":"RS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Vica"
+    ],
     "name:srp_x_preferred":[
         "Vi\u010da"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327039941,
-    "wof:lastmodified":1537683695,
+    "wof:lastmodified":1564102969,
     "wof:name":"Vica",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",
