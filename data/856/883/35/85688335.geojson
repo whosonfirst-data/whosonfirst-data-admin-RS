@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":44.662415,
     "lbl:longitude":19.517333,
     "meso:name_alt1":"Ma\u010dvanski",
@@ -161,7 +164,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550955,
+    "wof:lastmodified":1565733933,
     "wof:name":"Ma\u010dvanski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

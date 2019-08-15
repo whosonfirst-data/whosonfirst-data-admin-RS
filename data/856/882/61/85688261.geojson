@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":43.17527,
     "lbl:longitude":21.37464,
     "meso:name_alt1":"Topli\u010dki",
@@ -245,7 +248,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588214,
+    "wof:lastmodified":1565733934,
     "wof:name":"Topli\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

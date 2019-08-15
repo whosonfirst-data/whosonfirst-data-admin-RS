@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":45.413856,
     "lbl:longitude":20.49852,
     "meso:name_alt1":"Srednje-Ba",
@@ -256,7 +259,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588218,
+    "wof:lastmodified":1565733935,
     "wof:name":"Srednjobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "lbl:latitude":45.926437,
     "lbl:longitude":19.614109,
     "meso:name_alt1":"Severno-Ba",
@@ -327,7 +330,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588216,
+    "wof:lastmodified":1565733935,
     "wof:name":"Severnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":43.34483,
     "lbl:longitude":21.940436,
     "meso:name_alt1":"Ni\u0161avski",
@@ -318,7 +321,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588219,
+    "wof:lastmodified":1565733935,
     "wof:name":"Ni\u0161avski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

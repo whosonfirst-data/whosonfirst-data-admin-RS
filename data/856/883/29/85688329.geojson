@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JA"
+    ],
     "lbl:latitude":42.975529,
     "lbl:longitude":21.886936,
     "meso:name_alt1":"Jablani\u010dki",
@@ -324,7 +327,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588212,
+    "wof:lastmodified":1565733933,
     "wof:name":"Jablani\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":44.068037,
     "lbl:longitude":20.850257,
     "meso:name_alt1":"\u0160umadijski",
@@ -161,7 +164,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550955,
+    "wof:lastmodified":1565733934,
     "wof:name":"\u0160umadijski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

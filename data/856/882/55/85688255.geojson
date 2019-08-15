@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZL"
+    ],
     "lbl:latitude":43.783827,
     "lbl:longitude":19.775122,
     "meso:name_alt1":"Zlatiborsk",
@@ -250,7 +253,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588218,
+    "wof:lastmodified":1565733935,
     "wof:name":"Zlatiborski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

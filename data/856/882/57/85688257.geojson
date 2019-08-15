@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":45.959461,
     "lbl:longitude":20.156043,
     "meso:name_alt1":"Severno-Ba",
@@ -321,7 +324,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588215,
+    "wof:lastmodified":1565733934,
     "wof:name":"Severnobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":44.953228,
     "lbl:longitude":19.92991,
     "meso:name_alt1":"Sremski",
@@ -255,7 +258,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588217,
+    "wof:lastmodified":1565733935,
     "wof:name":"Sremski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

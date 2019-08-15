@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PC"
+    ],
     "lbl:latitude":42.563641,
     "lbl:longitude":22.062297,
     "meso:name_alt1":"P\u010dinjski",
@@ -161,7 +164,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550923,
+    "wof:lastmodified":1565733935,
     "wof:name":"P\u010dinjski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

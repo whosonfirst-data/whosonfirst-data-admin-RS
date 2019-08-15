@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RS"
+    ],
     "lbl:latitude":43.459513,
     "lbl:longitude":20.599726,
     "meso:name_alt1":"Ra\u0161ki",
@@ -161,7 +164,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550923,
+    "wof:lastmodified":1565733935,
     "wof:name":"Ra\u0161ki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

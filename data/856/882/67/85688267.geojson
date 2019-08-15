@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PD"
+    ],
     "lbl:latitude":44.458845,
     "lbl:longitude":20.989429,
     "meso:name_alt1":"Podunavski",
@@ -244,7 +247,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588215,
+    "wof:lastmodified":1565733934,
     "wof:name":"Podunavski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

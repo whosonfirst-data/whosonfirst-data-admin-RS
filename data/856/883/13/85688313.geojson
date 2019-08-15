@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KB"
+    ],
     "lbl:latitude":44.304557,
     "lbl:longitude":20.014686,
     "meso:name_alt1":"Kolubarski",
@@ -317,7 +320,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588214,
+    "wof:lastmodified":1565733934,
     "wof:name":"Kolubarski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

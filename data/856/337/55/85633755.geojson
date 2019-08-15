@@ -16,6 +16,9 @@
     "itu:country_code":[
         "381"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RS"
+    ],
     "lbl:latitude":44.251791,
     "lbl:longitude":20.589197,
     "mps:latitude":44.251791,
@@ -996,9 +999,6 @@
         }
     ],
     "wof:id":85633755,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
@@ -1010,7 +1010,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588210,
+    "wof:lastmodified":1565733933,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

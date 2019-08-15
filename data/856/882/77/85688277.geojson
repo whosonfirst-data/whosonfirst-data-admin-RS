@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZJ"
+    ],
     "lbl:latitude":43.698956,
     "lbl:longitude":22.182642,
     "meso:name_alt1":"Zaje\u010darski",
@@ -161,7 +164,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550923,
+    "wof:lastmodified":1565733935,
     "wof:name":"Zaje\u010darski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

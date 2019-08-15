@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":43.984743,
     "lbl:longitude":21.438371,
     "meso:name_alt1":"Pomoravski",
@@ -241,7 +244,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588213,
+    "wof:lastmodified":1565733934,
     "wof:name":"Pomoravski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

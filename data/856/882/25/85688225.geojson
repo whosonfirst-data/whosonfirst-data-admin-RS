@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MR"
+    ],
     "lbl:latitude":43.932797,
     "lbl:longitude":20.358435,
     "meso:name_alt1":"Moravi\u010dki",
@@ -97,7 +100,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550923,
+    "wof:lastmodified":1565733935,
     "wof:name":"Moravi\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

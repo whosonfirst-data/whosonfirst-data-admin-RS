@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BG"
+    ],
     "lbl:latitude":44.673534,
     "lbl:longitude":20.411447,
     "meso:name_alt1":"Grad Beogr",
@@ -215,7 +218,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588218,
+    "wof:lastmodified":1565733935,
     "wof:name":"Grad Beograd",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

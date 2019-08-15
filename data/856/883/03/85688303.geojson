@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PI"
+    ],
     "lbl:latitude":43.103644,
     "lbl:longitude":22.550398,
     "meso:name_alt1":"Pirotski",
@@ -238,7 +241,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588211,
+    "wof:lastmodified":1565733933,
     "wof:name":"Pirotski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

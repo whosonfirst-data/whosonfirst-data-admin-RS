@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":44.354501,
     "lbl:longitude":22.299123,
     "meso:name_alt1":"Borski",
@@ -318,7 +321,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588213,
+    "wof:lastmodified":1565733934,
     "wof:name":"Borski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

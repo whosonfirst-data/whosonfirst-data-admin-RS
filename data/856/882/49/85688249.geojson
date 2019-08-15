@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zapadnoba\u010dki Upravni Okrug"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZC"
+    ],
     "lbl:latitude":45.710877,
     "lbl:longitude":19.205894,
     "mps:latitude":45.710877,
@@ -69,11 +72,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550920,
+    "wof:lastmodified":1565891480,
     "wof:name":"Zapadnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:shortcode":"ZC",
     "wof:subdivision":"RS-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],

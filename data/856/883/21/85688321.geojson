@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JN"
+    ],
     "lbl:latitude":45.017926,
     "lbl:longitude":20.989371,
     "meso:name_alt1":"Ju\u017eno-Bana",
@@ -163,7 +166,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1553550955,
+    "wof:lastmodified":1565733934,
     "wof:name":"Ju\u017enobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

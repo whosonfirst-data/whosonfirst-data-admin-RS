@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JC"
+    ],
     "lbl:latitude":45.388326,
     "lbl:longitude":19.736134,
     "meso:name_alt1":"Ju\u017eno-Ba\u010dk",
@@ -333,7 +336,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588214,
+    "wof:lastmodified":1565733934,
     "wof:name":"Ju\u017enoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RN"
+    ],
     "lbl:latitude":43.533095,
     "lbl:longitude":21.137735,
     "meso:name_alt1":"Rasinski",
@@ -241,7 +244,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588217,
+    "wof:lastmodified":1565733935,
     "wof:name":"Rasinski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

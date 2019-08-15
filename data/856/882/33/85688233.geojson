@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":44.459619,
     "lbl:longitude":21.489605,
     "meso:name_alt1":"Brani\u010devsk",
@@ -319,7 +322,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1563588216,
+    "wof:lastmodified":1565733934,
     "wof:name":"Brani\u010devski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
