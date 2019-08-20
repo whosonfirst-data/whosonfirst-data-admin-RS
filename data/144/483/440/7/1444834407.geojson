@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843463
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"01ba87fec0a17fb1f8aaad586c50c467",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed214121622b0861177d67268a87638a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843463,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834407,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834407,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337410,
     "wof:name":"Karadordev Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.463965846661072,
+    20.46396584666107,
     44.79644229086732,
-    20.463965846661072,
+    20.46396584666107,
     44.79644229086732
 ],
   "geometry": {"coordinates":[20.46396584666107,44.79644229086732],"type":"Point"}

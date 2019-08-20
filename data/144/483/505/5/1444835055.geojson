@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843447
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"76c449f60417c11b787956f0fd196d0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1127abcd5b42f7294acfa65703634f19",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843447,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835055,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835055,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337486,
     "wof:name":"Resnik",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.457303203834382,
+    20.45730320383438,
     44.71197494581395,
-    20.457303203834382,
+    20.45730320383438,
     44.71197494581395
 ],
   "geometry": {"coordinates":[20.45730320383438,44.71197494581395],"type":"Point"}

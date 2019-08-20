@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"dde0b3d410356a9e08a1032586fba6b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76b2602e777fade0d181f2c2d037d242",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833683,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833683,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337328,
     "wof:name":"Visnjicka Banja",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.535107347502205,
+    20.5351073475022,
     44.81661132032525,
-    20.535107347502205,
+    20.5351073475022,
     44.81661132032525
 ],
   "geometry": {"coordinates":[20.5351073475022,44.81661132032525],"type":"Point"}

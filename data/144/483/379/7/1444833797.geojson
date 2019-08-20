@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"50520d082ed31b521ef54774f37ce497",
-    "wof:hierarchy":[],
+    "wof:geomhash":"067d527032e8e752532573c9350cda19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833797,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833797,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337341,
     "wof:name":"Blok Sutjeska",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.482965178017228,
+    20.48296517801723,
     44.84892228361828,
-    20.482965178017228,
+    20.48296517801723,
     44.84892228361828
 ],
   "geometry": {"coordinates":[20.48296517801723,44.84892228361828],"type":"Point"}

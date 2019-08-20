@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"68da0517944ed2f880307cfd01e69240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e180d45a8beea0e66d532827bd578b6",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835757,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835757,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337555,
     "wof:name":"Paviljoni",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.405771811966723,
+    20.40577181196672,
     44.8325320708047,
-    20.405771811966723,
+    20.40577181196672,
     44.8325320708047
 ],
   "geometry": {"coordinates":[20.40577181196672,44.8325320708047],"type":"Point"}

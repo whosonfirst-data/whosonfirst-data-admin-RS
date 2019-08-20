@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"a4ca8b841b51572b665b158c684a9829",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab5f9a4f81c0435ac8df4178b72450e3",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833651,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833651,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337324,
     "wof:name":"Karaburma 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.518570626535244,
+    20.51857062653524,
     44.80975114925347,
-    20.518570626535244,
+    20.51857062653524,
     44.80975114925347
 ],
   "geometry": {"coordinates":[20.51857062653524,44.80975114925347],"type":"Point"}

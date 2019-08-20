@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"f44883f757e6bc284b945dbe365e1ea8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25e30ca7b849768dd79bab79163900c3",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833587,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833587,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337318,
     "wof:name":"Profesorska Kolonija",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.479946797287127,
+    20.47994679728713,
     44.81458177047459,
-    20.479946797287127,
+    20.47994679728713,
     44.81458177047459
 ],
   "geometry": {"coordinates":[20.47994679728713,44.81458177047459],"type":"Point"}

@@ -38,15 +38,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843463
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9acdcf7edd72f5f4645b9a6b17c43929",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28bb72b16104cd97df34daf2584e710c",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843463,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834375,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834375,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337406,
     "wof:name":"Zeleni Venac",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -54,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.456465875584858,
+    20.45646587558486,
     44.81256581969342,
-    20.456465875584858,
+    20.45646587558486,
     44.81256581969342
 ],
   "geometry": {"coordinates":[20.45646587558486,44.81256581969342],"type":"Point"}

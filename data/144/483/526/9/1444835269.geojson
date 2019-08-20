@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843447
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"dfbb8c74ee6cb552876e4e037799b1b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c10d93943b1035c5af2cb34bfe2999c6",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843447,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835269,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835269,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337502,
     "wof:name":"Suncani Breg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.453914678073968,
+    20.45391467807397,
     44.72723586629867,
-    20.453914678073968,
+    20.45391467807397,
     44.72723586629867
 ],
   "geometry": {"coordinates":[20.45391467807397,44.72723586629867],"type":"Point"}

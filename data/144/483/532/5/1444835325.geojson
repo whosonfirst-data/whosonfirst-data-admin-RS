@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"83af7a4ce98523de80fcd1ea209b42c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d069078a5d93b896ea8a9489a88f3a28",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835325,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835325,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337507,
     "wof:name":"Pionirski Grad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.430382752476497,
+    20.4303827524765,
     44.75926930053762,
-    20.430382752476497,
+    20.4303827524765,
     44.75926930053762
 ],
   "geometry": {"coordinates":[20.4303827524765,44.75926930053762],"type":"Point"}

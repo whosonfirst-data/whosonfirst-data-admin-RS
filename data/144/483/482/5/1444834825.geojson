@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843427
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"aa43601f272ebdb16c9a82a09b8e7dfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f67a27f5fe3a563bc2f703e481229f8",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843427,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834825,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834825,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337460,
     "wof:name":"Marinkova Bara",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.494846655777618,
+    20.49484665577762,
     44.77986506054415,
-    20.494846655777618,
+    20.49484665577762,
     44.77986506054415
 ],
   "geometry": {"coordinates":[20.49484665577762,44.77986506054415],"type":"Point"}

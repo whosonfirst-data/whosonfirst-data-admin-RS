@@ -26,15 +26,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"f7a45430e52fd65c90b257953d5b903b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3735a8765f89462a200e204046b18f80",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833557,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833557,
-    "wof:lastmodified":1566332695,
+    "wof:lastmodified":1566337313,
     "wof:name":"Stara Palilula",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -42,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.475426378752907,
+    20.47542637875291,
     44.81267392754269,
-    20.475426378752907,
+    20.47542637875291,
     44.81267392754269
 ],
   "geometry": {"coordinates":[20.47542637875291,44.81267392754269],"type":"Point"}

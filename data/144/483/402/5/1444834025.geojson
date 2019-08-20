@@ -26,13 +26,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"3fc26b6f922d98ae531c5c6ca25e0f89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a756ff852c2361a2fb5e17e3e1bf9115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834025,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834025,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337367,
     "wof:name":"Staro Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -42,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.428131516191975,
+    20.42813151619197,
     44.9439318373841,
-    20.428131516191975,
+    20.42813151619197,
     44.9439318373841
 ],
   "geometry": {"coordinates":[20.42813151619197,44.9439318373841],"type":"Point"}

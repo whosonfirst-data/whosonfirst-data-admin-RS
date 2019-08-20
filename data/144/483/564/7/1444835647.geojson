@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
     "wof:geomhash":"9af5469d3cbe5dbea34d23842f7f6484",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835647,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835647,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337542,
     "wof:name":"Markovic kraj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

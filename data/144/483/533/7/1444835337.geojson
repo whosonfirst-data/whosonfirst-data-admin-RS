@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843447
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
     "wof:geomhash":"c851850fd2fa84f945fc40c84947d357",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843447,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835337,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835337,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337510,
     "wof:name":"Skojevsko Naselje",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

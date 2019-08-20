@@ -38,15 +38,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7975cc1516942d07ed34302f0ece86aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ced8ab33542701e60d8a46f582c1710",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833641,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833641,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337323,
     "wof:name":"Karaburma-Dunav",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -54,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.517655098730838,
-    44.815840100640486,
-    20.517655098730838,
-    44.815840100640486
+    20.51765509873084,
+    44.81584010064049,
+    20.51765509873084,
+    44.81584010064049
 ],
   "geometry": {"coordinates":[20.51765509873084,44.81584010064049],"type":"Point"}
 }

@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"6c46dc390ed924fc709b61ac6403ff80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"927366ed947a307a9ba278103e865cfc",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836615,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836615,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337649,
     "wof:name":"Blok 11c",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.414090240377035,
-    44.829199415833564,
-    20.414090240377035,
-    44.829199415833564
+    20.41409024037704,
+    44.82919941583356,
+    20.41409024037704,
+    44.82919941583356
 ],
   "geometry": {"coordinates":[20.41409024037704,44.82919941583356],"type":"Point"}
 }

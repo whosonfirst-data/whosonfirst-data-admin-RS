@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"55fbbc57104281545ea9708ec1c3087f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902dfe06107402dbdc2695133b5f9f5f",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835713,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835713,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337551,
     "wof:name":"Bezanija",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.376720152887806,
-    44.814430975258034,
-    20.376720152887806,
-    44.814430975258034
+    20.37672015288781,
+    44.81443097525803,
+    20.37672015288781,
+    44.81443097525803
 ],
   "geometry": {"coordinates":[20.37672015288781,44.81443097525803],"type":"Point"}
 }

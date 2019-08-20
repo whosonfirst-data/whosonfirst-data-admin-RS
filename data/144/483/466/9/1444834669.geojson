@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"32b3b40a04a9e845f083e09e4ff29824",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be7da0dea9f1f0fe2cfe2762440616e8",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834669,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834669,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337441,
     "wof:name":"Mirijevo IV",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.542240108659783,
-    44.788295057268286,
-    20.542240108659783,
-    44.788295057268286
+    20.54224010865978,
+    44.78829505726829,
+    20.54224010865978,
+    44.78829505726829
 ],
   "geometry": {"coordinates":[20.54224010865978,44.78829505726829],"type":"Point"}
 }

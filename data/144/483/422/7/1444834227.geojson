@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"5d60ea3a681ad4036b4877da69a2c1f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fbda7801f5af7fef07f4d345535a5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834227,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834227,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337391,
     "wof:name":"Vihor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.481818638846903,
+    20.4818186388469,
     44.88138517266237,
-    20.481818638846903,
+    20.4818186388469,
     44.88138517266237
 ],
   "geometry": {"coordinates":[20.4818186388469,44.88138517266237],"type":"Point"}

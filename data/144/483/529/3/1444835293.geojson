@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"76a1b59323cae83a598e4353310677bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92ef7148e7e20b60becffbce3bc1c950",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835293,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835293,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337505,
     "wof:name":"Kosutnjak",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.436634090765914,
+    20.43663409076591,
     44.76702164063419,
-    20.436634090765914,
+    20.43663409076591,
     44.76702164063419
 ],
   "geometry": {"coordinates":[20.43663409076591,44.76702164063419],"type":"Point"}

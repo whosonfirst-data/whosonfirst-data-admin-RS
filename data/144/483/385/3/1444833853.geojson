@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"732648995efa54bf2f40daca7811539b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84f63faa530aa657dd4ca795e971b83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833853,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833853,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337347,
     "wof:name":"Reva",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.515123092146776,
+    20.51512309214678,
     44.84677215377052,
-    20.515123092146776,
+    20.51512309214678,
     44.84677215377052
 ],
   "geometry": {"coordinates":[20.51512309214678,44.84677215377052],"type":"Point"}

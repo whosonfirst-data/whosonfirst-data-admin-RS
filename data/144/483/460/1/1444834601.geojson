@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9f31b031ee0dbc62952418e1742088f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ea8e40e87c9378dc30482f76b76a376",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834601,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834601,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337432,
     "wof:name":"Rudo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.511851942473566,
+    20.51185194247357,
     44.78465452634814,
-    20.511851942473566,
+    20.51185194247357,
     44.78465452634814
 ],
   "geometry": {"coordinates":[20.51185194247357,44.78465452634814],"type":"Point"}

@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"dcdd74b8bb29459f5dd5ed561dc9b7bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74669c0ee5e50f6bf4521acfe7ab2f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833763,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833763,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337337,
     "wof:name":"Blok Braca Maric",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.501962379958528,
-    44.838292606484686,
-    20.501962379958528,
-    44.838292606484686
+    20.50196237995853,
+    44.83829260648469,
+    20.50196237995853,
+    44.83829260648469
 ],
   "geometry": {"coordinates":[20.50196237995853,44.83829260648469],"type":"Point"}
 }

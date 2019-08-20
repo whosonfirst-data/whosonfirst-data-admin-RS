@@ -32,15 +32,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"968d5d520328ec4782122305b6216730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b417ff7a788aae57804624d9b773bcb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836635,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836635,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337652,
     "wof:name":"Blok 50",
-    "wof:parent_id":-1,
+    "wof:parent_id":890476941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +65,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.388770174536578,
+    20.38877017453658,
     44.83169511977667,
-    20.388770174536578,
+    20.38877017453658,
     44.83169511977667
 ],
   "geometry": {"coordinates":[20.38877017453658,44.83169511977667],"type":"Point"}

@@ -41,15 +41,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843427
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"83b5608be375c7ae4128909ce34a27be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"181680fc147ee9a34cbd6bd6fbf93230",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843427,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834815,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834815,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337457,
     "wof:name":"Medakovic II",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -57,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.499162715426923,
-    44.775764647359836,
-    20.499162715426923,
-    44.775764647359836
+    20.49916271542692,
+    44.77576464735984,
+    20.49916271542692,
+    44.77576464735984
 ],
   "geometry": {"coordinates":[20.49916271542692,44.77576464735984],"type":"Point"}
 }

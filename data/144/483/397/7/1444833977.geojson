@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"3e6b76bf68d3e22148b06aa8f12781d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eee1423e1595fc23797e12691ad25553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833977,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833977,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337361,
     "wof:name":"Jabucki Rit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -52,9 +68,9 @@
 },
   "bbox": [
     20.55805063368516,
-    44.917762507507845,
+    44.91776250750785,
     20.55805063368516,
-    44.917762507507845
+    44.91776250750785
 ],
   "geometry": {"coordinates":[20.55805063368516,44.91776250750785],"type":"Point"}
 }

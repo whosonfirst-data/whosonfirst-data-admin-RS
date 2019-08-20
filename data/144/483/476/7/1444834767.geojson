@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843427
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"d09cc3abda400b5e836cb74921c177b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9331eaee0c12f02adaa7daa98d160116",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843427,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834767,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834767,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337452,
     "wof:name":"Sumice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.494625948181913,
-    44.786962778432894,
-    20.494625948181913,
-    44.786962778432894
+    20.49462594818191,
+    44.78696277843289,
+    20.49462594818191,
+    44.78696277843289
 ],
   "geometry": {"coordinates":[20.49462594818191,44.78696277843289],"type":"Point"}
 }

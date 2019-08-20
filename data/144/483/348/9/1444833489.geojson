@@ -33,15 +33,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843461
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"95884130c5d0d9bd23c1cb22538dd4c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b716bed06e5c3f361f712a46bfef7a2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843461,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833489,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833489,
-    "wof:lastmodified":1566332695,
+    "wof:lastmodified":1566337307,
     "wof:name":"London",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -49,9 +68,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.463377378898578,
+    20.46337737889858,
     44.80805628167479,
-    20.463377378898578,
+    20.46337737889858,
     44.80805628167479
 ],
   "geometry": {"coordinates":[20.46337737889858,44.80805628167479],"type":"Point"}

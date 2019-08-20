@@ -38,15 +38,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843447
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"f17eb42602252be0f7e2b428094c6fcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35ce399f6116f113b3023d2dc9b478f4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843447,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835247,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835247,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337500,
     "wof:name":"Petlovo Brdo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -55,9 +74,9 @@
 },
   "bbox": [
     20.42473222930871,
-    44.722560564474236,
+    44.72256056447424,
     20.42473222930871,
-    44.722560564474236
+    44.72256056447424
 ],
   "geometry": {"coordinates":[20.42473222930871,44.72256056447424],"type":"Point"}
 }

@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"afd4f0c3818611b6f9bd3fde32b2d320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ed0b7d86f94f0ce80bbdcb60a3b3765",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835523,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835523,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337527,
     "wof:name":"Stari Zeleznik",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -52,9 +71,9 @@
 },
   "bbox": [
     20.37573718665137,
-    44.726064539678696,
+    44.7260645396787,
     20.37573718665137,
-    44.726064539678696
+    44.7260645396787
 ],
   "geometry": {"coordinates":[20.37573718665137,44.7260645396787],"type":"Point"}
 }

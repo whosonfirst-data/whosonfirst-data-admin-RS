@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810141,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
     "wof:geomhash":"a4fcca1e992ac56189a2530565b602c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810141,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834973,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834973,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337476,
     "wof:name":"Pinosava",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

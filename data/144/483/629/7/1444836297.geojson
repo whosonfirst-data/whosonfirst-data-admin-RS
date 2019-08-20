@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"4f5c79cde19e59b810e7f06839c4d8a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea6c573f7f1d2aabcc96e8441bbfbc30",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836297,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836297,
-    "wof:lastmodified":1566332703,
+    "wof:lastmodified":1566337619,
     "wof:name":"Blok 25",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -49,9 +68,9 @@
 },
   "bbox": [
     20.42178639598278,
-    44.814405586362454,
+    44.81440558636245,
     20.42178639598278,
-    44.814405586362454
+    44.81440558636245
 ],
   "geometry": {"coordinates":[20.42178639598278,44.81440558636245],"type":"Point"}
 }

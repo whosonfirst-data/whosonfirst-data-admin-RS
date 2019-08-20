@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"48b4b3bac254bd0c34b92632d4df9d5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3babf17d561792d73d9e4eb335ab866",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834437,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834437,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337415,
     "wof:name":"Zvezdara",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.499101226333682,
+    20.49910122633368,
     44.80282859030834,
-    20.499101226333682,
+    20.49910122633368,
     44.80282859030834
 ],
   "geometry": {"coordinates":[20.49910122633368,44.80282859030834],"type":"Point"}

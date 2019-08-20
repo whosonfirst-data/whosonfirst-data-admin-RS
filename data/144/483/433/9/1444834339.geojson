@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843463
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"053aad7626a5bdc0479a3e201010eabf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94dc44d102bed470f0081f77f3301017",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843463,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834339,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834339,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337402,
     "wof:name":"Bara Venecija",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.451978154472215,
+    20.45197815447222,
     44.81203230738559,
-    20.451978154472215,
+    20.45197815447222,
     44.81203230738559
 ],
   "geometry": {"coordinates":[20.45197815447222,44.81203230738559],"type":"Point"}

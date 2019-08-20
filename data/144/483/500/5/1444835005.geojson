@@ -38,13 +38,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810173,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"4f6486a1b916984c73cd3364e9932d5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30ed74333e3d2d2854b8ad602a227435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810173,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835005,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835005,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337480,
     "wof:name":"Stepin Lug",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -55,9 +71,9 @@
 },
   "bbox": [
     20.53848953923908,
-    44.744788166660946,
+    44.74478816666095,
     20.53848953923908,
-    44.744788166660946
+    44.74478816666095
 ],
   "geometry": {"coordinates":[20.53848953923908,44.74478816666095],"type":"Point"}
 }

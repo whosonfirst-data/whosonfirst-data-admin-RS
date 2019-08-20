@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843463
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"f7cde32c3ad24844410e4c7ecd99e378",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8787f18ffaaa8e98b8df406ed234766",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843463,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834401,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834401,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337410,
     "wof:name":"Prokop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.457058516351083,
-    44.792410704529765,
-    20.457058516351083,
-    44.792410704529765
+    20.45705851635108,
+    44.79241070452976,
+    20.45705851635108,
+    44.79241070452976
 ],
   "geometry": {"coordinates":[20.45705851635108,44.79241070452976],"type":"Point"}
 }

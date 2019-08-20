@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"406f0b923fecafb75f456ae19933a037",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db8e01080a662c7b3adffbfb89cacb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834003,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834003,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337366,
     "wof:name":"Toviliste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.435141025944414,
+    20.43514102594441,
     44.93425138519549,
-    20.435141025944414,
+    20.43514102594441,
     44.93425138519549
 ],
   "geometry": {"coordinates":[20.43514102594441,44.93425138519549],"type":"Point"}

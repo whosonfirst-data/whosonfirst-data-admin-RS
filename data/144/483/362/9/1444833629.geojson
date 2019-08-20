@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"66ace8ea7f82409d5219602e7b7a880c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1a17298b1153eea6df989d4e693da7d",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833629,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833629,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337323,
     "wof:name":"Stara Karaburma",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.500603393373904,
+    20.5006033933739,
     44.81579950976234,
-    20.500603393373904,
+    20.5006033933739,
     44.81579950976234
 ],
   "geometry": {"coordinates":[20.5006033933739,44.81579950976234],"type":"Point"}

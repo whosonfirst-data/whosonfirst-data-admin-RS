@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"d18d7f846fbaa31d3c39e17a925a0d62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fb2933589c7f25876ed354997791d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833911,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833911,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337353,
     "wof:name":"Valiko Selo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.600052770459367,
+    20.60005277045937,
     44.81100347441654,
-    20.600052770459367,
+    20.60005277045937,
     44.81100347441654
 ],
   "geometry": {"coordinates":[20.60005277045937,44.81100347441654],"type":"Point"}

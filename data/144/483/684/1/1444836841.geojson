@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
     "wof:geomhash":"f2880e87545758f0182b189190d78d32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836841,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836841,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337677,
     "wof:name":"Sutjeska",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

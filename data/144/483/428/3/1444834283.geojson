@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843461
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"074c678d4ba11c2bedd1ea1961dc7119",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24e2e28bfafaa029135a77a7e5aaa23a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843461,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834283,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834283,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337396,
     "wof:name":"Kalenic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.476611574459362,
+    20.47661157445936,
     44.80084770990402,
-    20.476611574459362,
+    20.47661157445936,
     44.80084770990402
 ],
   "geometry": {"coordinates":[20.47661157445936,44.80084770990402],"type":"Point"}

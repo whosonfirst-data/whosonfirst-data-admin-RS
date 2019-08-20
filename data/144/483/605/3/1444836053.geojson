@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"147cada4c63bdce38455c98a092a0f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8e0bdc34bc87a0cdef788c5e49773c2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836053,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836053,
-    "wof:lastmodified":1566332702,
+    "wof:lastmodified":1566337592,
     "wof:name":"Blok 69",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.420899478422267,
-    44.802206446896925,
-    20.420899478422267,
-    44.802206446896925
+    20.42089947842227,
+    44.80220644689692,
+    20.42089947842227,
+    44.80220644689692
 ],
   "geometry": {"coordinates":[20.42089947842227,44.80220644689692],"type":"Point"}
 }

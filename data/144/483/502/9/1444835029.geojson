@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810141,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7dc73ebf3e2eb432600594417cd2026b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f2b826e42efa94daaa3322e8058e8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810141,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835029,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835029,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337481,
     "wof:name":"Zuce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.553443160044257,
-    44.696324013806986,
-    20.553443160044257,
-    44.696324013806986
+    20.55344316004426,
+    44.69632401380699,
+    20.55344316004426,
+    44.69632401380699
 ],
   "geometry": {"coordinates":[20.55344316004426,44.69632401380699],"type":"Point"}
 }

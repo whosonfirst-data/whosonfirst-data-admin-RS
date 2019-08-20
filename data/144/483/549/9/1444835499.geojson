@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"2504e510cc05ecf9c591a38354c4a4da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc1fc81f7b8f28a0561af6de1136d899",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835499,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835499,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337526,
     "wof:name":"Suncana Padina",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.416649835410503,
+    20.4166498354105,
     44.77011666190636,
-    20.416649835410503,
+    20.4166498354105,
     44.77011666190636
 ],
   "geometry": {"coordinates":[20.4166498354105,44.77011666190636],"type":"Point"}

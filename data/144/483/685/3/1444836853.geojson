@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"bd490f3f50fe75bbcca0cc63d5285871",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b980317e666375b650f7005d73aa337b",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836853,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836853,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337677,
     "wof:name":"Gardos",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.410471044525256,
-    44.847873993117176,
-    20.410471044525256,
-    44.847873993117176
+    20.41047104452526,
+    44.84787399311718,
+    20.41047104452526,
+    44.84787399311718
 ],
   "geometry": {"coordinates":[20.41047104452526,44.84787399311718],"type":"Point"}
 }

@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"d9969da50709693eab23c529aa3e0fcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53631fc88779e72a0ad40eaade4cb0a0",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834519,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834519,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337425,
     "wof:name":"Veliki Mokri Lug",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.529477896297102,
+    20.5294778962971,
     44.75859845063979,
-    20.529477896297102,
+    20.5294778962971,
     44.75859845063979
 ],
   "geometry": {"coordinates":[20.5294778962971,44.75859845063979],"type":"Point"}

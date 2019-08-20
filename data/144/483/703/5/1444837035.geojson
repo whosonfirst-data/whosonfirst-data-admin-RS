@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"d448fc731b1c08e83eeadb93860be112",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05ac6e6104a8d0f0d1f7c16f4a56ce24",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444837035,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444837035,
-    "wof:lastmodified":1566332705,
+    "wof:lastmodified":1566337698,
     "wof:name":"Skolsko Dobro",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -52,9 +71,9 @@
 },
   "bbox": [
     20.31768802359801,
-    44.865771965092755,
+    44.86577196509275,
     20.31768802359801,
-    44.865771965092755
+    44.86577196509275
 ],
   "geometry": {"coordinates":[20.31768802359801,44.86577196509275],"type":"Point"}
 }

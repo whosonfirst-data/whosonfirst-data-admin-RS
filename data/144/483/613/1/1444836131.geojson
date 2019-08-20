@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"a78827d7b590702e125df4d08edadf89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64819ce66422167db07b433cef4eed63",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836131,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836131,
-    "wof:lastmodified":1566332703,
+    "wof:lastmodified":1566337600,
     "wof:name":"Blok 41",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.411744200378262,
+    20.41174420037826,
     44.81097547345062,
-    20.411744200378262,
+    20.41174420037826,
     44.81097547345062
 ],
   "geometry": {"coordinates":[20.41174420037826,44.81097547345062],"type":"Point"}

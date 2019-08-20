@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"126b58168009629b9506a0781aed03af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f83b0a6a5bfe41d43b758ea2db849e0",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836759,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836759,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337667,
     "wof:name":"Gornji Grad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.393519475021904,
+    20.3935194750219,
     44.85242760244676,
-    20.393519475021904,
+    20.3935194750219,
     44.85242760244676
 ],
   "geometry": {"coordinates":[20.3935194750219,44.85242760244676],"type":"Point"}

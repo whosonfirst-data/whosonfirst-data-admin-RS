@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843463
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"fa71abb8f91c76f6cc28f15da86c1a3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30eb6adac03ef834d3784d716d21e665",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843463,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834315,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834315,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337401,
     "wof:name":"Dedinje",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.454724737885417,
-    44.781416674869796,
-    20.454724737885417,
-    44.781416674869796
+    20.45472473788542,
+    44.7814166748698,
+    20.45472473788542,
+    44.7814166748698
 ],
   "geometry": {"coordinates":[20.45472473788542,44.7814166748698],"type":"Point"}
 }

@@ -26,13 +26,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810165,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"4da7efb2e30915196d9580ed0827084e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aac2bb7accb9143d4be25e1d2b123fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810165,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836985,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836985,
-    "wof:lastmodified":1566332705,
+    "wof:lastmodified":1566337693,
     "wof:name":"13. Maj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -42,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.344181109437855,
+    20.34418110943786,
     44.88649218338899,
-    20.344181109437855,
+    20.34418110943786,
     44.88649218338899
 ],
   "geometry": {"coordinates":[20.34418110943786,44.88649218338899],"type":"Point"}

@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"567ccb646218e6e167f736cdf6aa93bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1159a2ada69f0571a1bdee9d3a615d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833921,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833921,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337353,
     "wof:name":"Dunavac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.385259065726572,
-    45.068730025513375,
-    20.385259065726572,
-    45.068730025513375
+    20.38525906572657,
+    45.06873002551337,
+    20.38525906572657,
+    45.06873002551337
 ],
   "geometry": {"coordinates":[20.38525906572657,45.06873002551337],"type":"Point"}
 }

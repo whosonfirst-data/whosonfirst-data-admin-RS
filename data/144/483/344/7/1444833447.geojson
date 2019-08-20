@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843439
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7729b561681087785b54bdc7d0ac7d06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7998db53a2491642024d9795098dcce4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843439,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833447,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833447,
-    "wof:lastmodified":1566332695,
+    "wof:lastmodified":1566337300,
     "wof:name":"Andricev Venac",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.463602173671973,
+    20.46360217367197,
     44.81015130340209,
-    20.463602173671973,
+    20.46360217367197,
     44.81015130340209
 ],
   "geometry": {"coordinates":[20.46360217367197,44.81015130340209],"type":"Point"}

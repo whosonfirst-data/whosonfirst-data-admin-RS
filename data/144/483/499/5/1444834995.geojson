@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810141,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"ccec9930a791d1f9aae223a1fdbaf687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00a4cebdb8bc926704524bffb91fe632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810141,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834995,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834995,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337477,
     "wof:name":"Ripanj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.519702145752998,
-    44.638441883708126,
-    20.519702145752998,
-    44.638441883708126
+    20.519702145753,
+    44.63844188370813,
+    20.519702145753,
+    44.63844188370813
 ],
   "geometry": {"coordinates":[20.519702145753,44.63844188370813],"type":"Point"}
 }

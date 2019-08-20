@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9948afea544112ed3ddf0707670d266e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70c1c9913e00faa81197f646a0367c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835383,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835383,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337515,
     "wof:name":"Makis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.366610518851257,
-    44.770482267814764,
-    20.366610518851257,
-    44.770482267814764
+    20.36661051885126,
+    44.77048226781476,
+    20.36661051885126,
+    44.77048226781476
 ],
   "geometry": {"coordinates":[20.36661051885126,44.77048226781476],"type":"Point"}
 }

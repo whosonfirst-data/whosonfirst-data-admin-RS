@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"ea53b04e2d195f0dbdd82ed908fbf049",
-    "wof:hierarchy":[],
+    "wof:geomhash":"962d2f1411d883167a6a484aa8e1d5b1",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835915,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835915,
-    "wof:lastmodified":1566332702,
+    "wof:lastmodified":1566337577,
     "wof:name":"Blok 57a",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.367684424791477,
-    44.808499170470235,
-    20.367684424791477,
-    44.808499170470235
+    20.36768442479148,
+    44.80849917047023,
+    20.36768442479148,
+    44.80849917047023
 ],
   "geometry": {"coordinates":[20.36768442479148,44.80849917047023],"type":"Point"}
 }

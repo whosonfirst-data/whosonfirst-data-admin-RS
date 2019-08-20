@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843427
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7fb76dd06166afc23e730c7b6892e489",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b86341f6bd301b732500a1f6518b2653",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843427,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834895,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834895,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337466,
     "wof:name":"Jajinci",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -49,9 +68,9 @@
 },
   "bbox": [
     20.48396795113755,
-    44.741089733938956,
+    44.74108973393896,
     20.48396795113755,
-    44.741089733938956
+    44.74108973393896
 ],
   "geometry": {"coordinates":[20.48396795113755,44.74108973393896],"type":"Point"}
 }

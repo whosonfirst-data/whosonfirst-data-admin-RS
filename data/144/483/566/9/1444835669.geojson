@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"5d7a72562889ae169d5356692cdf919f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1387ca52a76a458b52691f96788cdfae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835669,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835669,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337545,
     "wof:name":"Velika Mostanica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.352720245443887,
-    44.664074692336946,
-    20.352720245443887,
-    44.664074692336946
+    20.35272024544389,
+    44.66407469233695,
+    20.35272024544389,
+    44.66407469233695
 ],
   "geometry": {"coordinates":[20.35272024544389,44.66407469233695],"type":"Point"}
 }

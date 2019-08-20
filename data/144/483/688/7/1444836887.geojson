@@ -38,15 +38,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9270493d4ff1508b47fc56e8e5724137",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d79a4b5f5036a23c1ffb898b9c818c7",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836887,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836887,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337682,
     "wof:name":"Galenika",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -54,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.369072021620006,
+    20.36907202162001,
     44.8585323223375,
-    20.369072021620006,
+    20.36907202162001,
     44.8585323223375
 ],
   "geometry": {"coordinates":[20.36907202162001,44.8585323223375],"type":"Point"}

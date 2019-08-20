@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"bf1f1d4ae19713036e092a240d242e00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08a9f3b482649ff7fca3ee4ade253112",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835903,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835903,
-    "wof:lastmodified":1566332702,
+    "wof:lastmodified":1566337574,
     "wof:name":"Blok 45",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.378363198322496,
+    20.3783631983225,
     44.79636476437683,
-    20.378363198322496,
+    20.3783631983225,
     44.79636476437683
 ],
   "geometry": {"coordinates":[20.3783631983225,44.79636476437683],"type":"Point"}

@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843461
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"c0f43d6118ae3b827292106dd76ad056",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c87e0ea07a8ccf0e19a7d2ddb5976865",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843461,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834249,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834249,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337392,
     "wof:name":"Cubura",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.477183779337118,
+    20.47718377933712,
     44.79636108183581,
-    20.477183779337118,
+    20.47718377933712,
     44.79636108183581
 ],
   "geometry": {"coordinates":[20.47718377933712,44.79636108183581],"type":"Point"}

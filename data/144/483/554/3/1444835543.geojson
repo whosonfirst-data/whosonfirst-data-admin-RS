@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"890fd74e0e5be499c20d8871e92f5822",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cea3e3e81e9d90ac3ce2896ada7835a1",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835543,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835543,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337531,
     "wof:name":"Ada Ciganlija",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.395378119080153,
+    20.39537811908015,
     44.78874946001038,
-    20.395378119080153,
+    20.39537811908015,
     44.78874946001038
 ],
   "geometry": {"coordinates":[20.39537811908015,44.78874946001038],"type":"Point"}

@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7e64cfa9c9631e1a70df91579d1043ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e93836115f134caf28ccbcd46cf5570e",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835895,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835895,
-    "wof:lastmodified":1566332702,
+    "wof:lastmodified":1566337574,
     "wof:name":"Usce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.436842536828596,
+    20.4368425368286,
     44.81763762180563,
-    20.436842536828596,
+    20.4368425368286,
     44.81763762180563
 ],
   "geometry": {"coordinates":[20.4368425368286,44.81763762180563],"type":"Point"}

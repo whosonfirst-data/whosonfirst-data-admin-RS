@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"f182b15fe2ac368b76228c62f2a2b760",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dd50d63e457da31491413680bf120a4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836319,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836319,
-    "wof:lastmodified":1566332703,
+    "wof:lastmodified":1566337623,
     "wof:name":"Blok 30",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.418753710130705,
+    20.41875371013071,
     44.8193169904508,
-    20.418753710130705,
+    20.41875371013071,
     44.8193169904508
 ],
   "geometry": {"coordinates":[20.41875371013071,44.8193169904508],"type":"Point"}

@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"69864770966abacde867cf128476ddb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"211afd53e6b50338ecba2ff73015ada5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834697,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834697,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337445,
     "wof:name":"Zeleno Brdo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -49,9 +68,9 @@
 },
   "bbox": [
     20.52163051511654,
-    44.787352312327144,
+    44.78735231232714,
     20.52163051511654,
-    44.787352312327144
+    44.78735231232714
 ],
   "geometry": {"coordinates":[20.52163051511654,44.78735231232714],"type":"Point"}
 }

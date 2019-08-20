@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843447
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"b1f9a7c8cee80a772a17b7c269d73af0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bb1be787b4eb9df7176e90ddce4c9a5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843447,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835091,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835091,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337490,
     "wof:name":"Miljakovac II",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.459191479930954,
+    20.45919147993095,
     44.74673212558908,
-    20.459191479930954,
+    20.45919147993095,
     44.74673212558908
 ],
   "geometry": {"coordinates":[20.45919147993095,44.74673212558908],"type":"Point"}

@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"c698b5e7906a9466e297ae68c0b30d2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4630fbe153a27714bf211bc32af735ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835611,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835611,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337537,
     "wof:name":"Rusanj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.435890224424867,
+    20.43589022442487,
     44.68277218705181,
-    20.435890224424867,
+    20.43589022442487,
     44.68277218705181
 ],
   "geometry": {"coordinates":[20.43589022442487,44.68277218705181],"type":"Point"}

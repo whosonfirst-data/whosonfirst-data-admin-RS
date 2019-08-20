@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"0561c10fdd202b5095be6b3f67ef1ff9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24434762b717bbab40a86745ca2bfac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833867,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833867,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337348,
     "wof:name":"Mika Alas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.430493990727584,
-    44.847461833082775,
-    20.430493990727584,
-    44.847461833082775
+    20.43049399072758,
+    44.84746183308278,
+    20.43049399072758,
+    44.84746183308278
 ],
   "geometry": {"coordinates":[20.43049399072758,44.84746183308278],"type":"Point"}
 }

@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"4cd38403bbe5b4497f94e10d028c8ea9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45aa817596a044345353affbfde562da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834013,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834013,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337366,
     "wof:name":"Novo Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.431078371312385,
+    20.43107837131238,
     44.93696531676223,
-    20.431078371312385,
+    20.43107837131238,
     44.93696531676223
 ],
   "geometry": {"coordinates":[20.43107837131238,44.93696531676223],"type":"Point"}

@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9d5bbe88175124416017b4b64a0028cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e92039d0b50c1963b8935607692e7088",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833543,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833543,
-    "wof:lastmodified":1566332695,
+    "wof:lastmodified":1566337313,
     "wof:name":"Palilula",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.478745167043858,
+    20.47874516704386,
     44.81153731055284,
-    20.478745167043858,
+    20.47874516704386,
     44.81153731055284
 ],
   "geometry": {"coordinates":[20.47874516704386,44.81153731055284],"type":"Point"}

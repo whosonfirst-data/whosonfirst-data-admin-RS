@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"21c30088af550e2564155034e5dd1bea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce7cbf12a37e38b2156affe7127bccec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834127,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834127,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337380,
     "wof:name":"Centar II",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.460689973735974,
+    20.46068997373597,
     44.88085808952113,
-    20.460689973735974,
+    20.46068997373597,
     44.88085808952113
 ],
   "geometry": {"coordinates":[20.46068997373597,44.88085808952113],"type":"Point"}

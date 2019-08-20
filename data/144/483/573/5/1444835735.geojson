@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"ab438433071839cd70dc3cb28cf22aff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dbe70984465ba78fd0ce3695dddca3f",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835735,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835735,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337552,
     "wof:name":"Stara Bezanija",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -51,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.380128859088124,
+    20.38012885908812,
     44.81134589487791,
-    20.380128859088124,
+    20.38012885908812,
     44.81134589487791
 ],
   "geometry": {"coordinates":[20.38012885908812,44.81134589487791],"type":"Point"}

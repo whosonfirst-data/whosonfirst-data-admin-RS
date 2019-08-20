@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810141,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"441b2ff8c2b4910b7aa5c8d86defa94d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee7ddae25d71f116c65ae55bbd53618b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810141,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834961,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834961,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337475,
     "wof:name":"Beli Potok",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.519625851769305,
+    20.51962585176931,
     44.70643761599099,
-    20.519625851769305,
+    20.51962585176931,
     44.70643761599099
 ],
   "geometry": {"coordinates":[20.51962585176931,44.70643761599099],"type":"Point"}

@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"b0ca6eb9a5b50e5acae442ad1457f887",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e952688380e93efb09aa6181fc72d9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834159,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834159,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337382,
     "wof:name":"Stara Borca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.452865072032743,
+    20.45286507203274,
     44.87181583318105,
-    20.452865072032743,
+    20.45286507203274,
     44.87181583318105
 ],
   "geometry": {"coordinates":[20.45286507203274,44.87181583318105],"type":"Point"}

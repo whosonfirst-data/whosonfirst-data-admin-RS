@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"ee330cdca7f475330a469d2aa091b369",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20cbc6d5543c339a1764eeaaf4df560a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836749,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444836749,
-    "wof:lastmodified":1566332704,
+    "wof:lastmodified":1566337664,
     "wof:name":"Donji Grad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.412001692573245,
+    20.41200169257325,
     44.84382716736794,
-    20.412001692573245,
+    20.41200169257325,
     44.84382716736794
 ],
   "geometry": {"coordinates":[20.41200169257325,44.84382716736794],"type":"Point"}

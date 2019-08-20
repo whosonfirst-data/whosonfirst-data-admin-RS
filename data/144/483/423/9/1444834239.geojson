@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843461
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"f5b731e7e45b07cac481318b89000d48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6784ad3e09dd213d882088ef76b2030",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843461,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834239,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834239,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337391,
     "wof:name":"Crveni Krst",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.485435791109808,
+    20.48543579110981,
     44.79738198973768,
-    20.485435791109808,
+    20.48543579110981,
     44.79738198973768
 ],
   "geometry": {"coordinates":[20.48543579110981,44.79738198973768],"type":"Point"}

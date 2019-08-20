@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"e7236f5eefde404c5f611d1cf08bde2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9307a4642210cb3a07c0e08892f2f162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833845,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833845,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337346,
     "wof:name":"Dunavski Venac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.473523797534373,
+    20.47352379753437,
     44.85886043790101,
-    20.473523797534373,
+    20.47352379753437,
     44.85886043790101
 ],
   "geometry": {"coordinates":[20.47352379753437,44.85886043790101],"type":"Point"}

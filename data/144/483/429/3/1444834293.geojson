@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843461
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"6d9c558f259e14a9323447ef261e444e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1280f9b7abb96591cd1a0dde057bb55",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843461,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834293,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834293,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337397,
     "wof:name":"Neimar",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.471833663730155,
+    20.47183366373016,
     44.7939856659035,
-    20.471833663730155,
+    20.47183366373016,
     44.7939856659035
 ],
   "geometry": {"coordinates":[20.47183366373016,44.7939856659035],"type":"Point"}

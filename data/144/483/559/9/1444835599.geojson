@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"8ea028039a98b81dcf47584d7b0c9821",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dfce42726ac5408a6d1efc217d35e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835599,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835599,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337537,
     "wof:name":"Gorica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.382017135184675,
+    20.38201713518468,
     44.69056272439198,
-    20.382017135184675,
+    20.38201713518468,
     44.69056272439198
 ],
   "geometry": {"coordinates":[20.38201713518468,44.69056272439198],"type":"Point"}

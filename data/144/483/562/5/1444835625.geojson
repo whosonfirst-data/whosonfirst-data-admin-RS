@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"51acaac8156330c98aab89098f864688",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d0fc7505fa4a7b347e899fb525d6dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835625,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835625,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337540,
     "wof:name":"Drobnjacki kraj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.434688594181598,
+    20.4346885941816,
     44.67870360491793,
-    20.434688594181598,
+    20.4346885941816,
     44.67870360491793
 ],
   "geometry": {"coordinates":[20.4346885941816,44.67870360491793],"type":"Point"}

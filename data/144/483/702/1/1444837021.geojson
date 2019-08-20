@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"e762fa7620d413ecfc252d4c6ef04d24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"354661880494c898843c3334bc49ed12",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444837021,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444837021,
-    "wof:lastmodified":1566332705,
+    "wof:lastmodified":1566337697,
     "wof:name":"Zemun Polje",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.321064032376736,
-    44.874004177919545,
-    20.321064032376736,
-    44.874004177919545
+    20.32106403237674,
+    44.87400417791955,
+    20.32106403237674,
+    44.87400417791955
 ],
   "geometry": {"coordinates":[20.32106403237674,44.87400417791955],"type":"Point"}
 }

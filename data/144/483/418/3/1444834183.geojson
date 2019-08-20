@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"af72aaaeba8f0ccca17a9c94662ce276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61d4e892343366925c05d8d9737ae918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834183,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834183,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337386,
     "wof:name":"Slatina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.495980709571217,
+    20.49598070957122,
     44.88308802365595,
-    20.495980709571217,
+    20.49598070957122,
     44.88308802365595
 ],
   "geometry": {"coordinates":[20.49598070957122,44.88308802365595],"type":"Point"}

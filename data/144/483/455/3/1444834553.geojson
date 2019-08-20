@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"e10d0e6ec7f73a3c8a571f048c4ba820",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7df05cf68675ec47164816c1356deeca",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834553,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834553,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337427,
     "wof:name":"Konjarnik II",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.507100598399393,
+    20.50710059839939,
     44.78756986941691,
-    20.507100598399393,
+    20.50710059839939,
     44.78756986941691
 ],
   "geometry": {"coordinates":[20.50710059839939,44.78756986941691],"type":"Point"}

@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"116b0d43f27a64b65065de117f21330e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05e70c8c690b6c49f1aeb279487b147a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834685,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834685,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337442,
     "wof:name":"Orlovsko Naselje",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.530908408491484,
+    20.53090840849148,
     44.79933853000039,
-    20.530908408491484,
+    20.53090840849148,
     44.79933853000039
 ],
   "geometry": {"coordinates":[20.53090840849148,44.79933853000039],"type":"Point"}

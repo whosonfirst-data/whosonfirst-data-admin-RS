@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"88ef8f7c5c7387a5fff7a76d4cd409f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3277cae03681f0b9bb136defe6307d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834217,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834217,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337390,
     "wof:name":"Sebe\u0161",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.466941312025398,
-    44.869463804459855,
-    20.466941312025398,
-    44.869463804459855
+    20.4669413120254,
+    44.86946380445985,
+    20.4669413120254,
+    44.86946380445985
 ],
   "geometry": {"coordinates":[20.4669413120254,44.86946380445985],"type":"Point"}
 }

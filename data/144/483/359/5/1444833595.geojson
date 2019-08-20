@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843453
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"8165ffdf439138c948d9ea01485bb8e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9121600f8616a36a3f926af9b49b682",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843453,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833595,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833595,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337318,
     "wof:name":"Ada Huja",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.523262706532797,
-    44.823024229891885,
-    20.523262706532797,
-    44.823024229891885
+    20.5232627065328,
+    44.82302422989189,
+    20.5232627065328,
+    44.82302422989189
 ],
   "geometry": {"coordinates":[20.5232627065328,44.82302422989189],"type":"Point"}
 }

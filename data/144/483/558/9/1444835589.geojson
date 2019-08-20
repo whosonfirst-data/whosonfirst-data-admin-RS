@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9a4fe52ca01ee74f88471ce3a68d3be1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee8d38a9ce52f17cf3a2c34f789e2d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835589,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835589,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337536,
     "wof:name":"Srem\u010dica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.391887669325868,
-    44.677360910115006,
-    20.391887669325868,
-    44.677360910115006
+    20.39188766932587,
+    44.67736091011501,
+    20.39188766932587,
+    44.67736091011501
 ],
   "geometry": {"coordinates":[20.39188766932587,44.67736091011501],"type":"Point"}
 }

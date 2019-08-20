@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"2c17d47bebbeb930025c72d7ce9d17ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6960680957a01f0dca3f41060d6f349",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835315,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835315,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337507,
     "wof:name":"Filmski Grad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.433830286864936,
+    20.43383028686494,
     44.75662063379225,
-    20.433830286864936,
+    20.43383028686494,
     44.75662063379225
 ],
   "geometry": {"coordinates":[20.43383028686494,44.75662063379225],"type":"Point"}

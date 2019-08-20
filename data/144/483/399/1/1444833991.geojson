@@ -38,13 +38,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"d96a66e3b776aa0da3363c019b970a20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec61b6e272921d155ebf63138e88408c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833991,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833991,
-    "wof:lastmodified":1566332697,
+    "wof:lastmodified":1566337363,
     "wof:name":"Padinska Skela",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -54,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.430506166434643,
+    20.43050616643464,
     44.93992214097087,
-    20.430506166434643,
+    20.43050616643464,
     44.93992214097087
 ],
   "geometry": {"coordinates":[20.43050616643464,44.93992214097087],"type":"Point"}

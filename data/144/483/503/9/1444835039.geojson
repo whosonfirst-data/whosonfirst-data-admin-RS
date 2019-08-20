@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809899,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"829fc8bda72af2c6f7770d528a992952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad422af270f84929ebe1b7cf523605da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809899,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835039,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835039,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337482,
     "wof:name":"Suplja Stena",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.541617592570766,
+    20.54161759257077,
     44.67337884026979,
-    20.541617592570766,
+    20.54161759257077,
     44.67337884026979
 ],
   "geometry": {"coordinates":[20.54161759257077,44.67337884026979],"type":"Point"}

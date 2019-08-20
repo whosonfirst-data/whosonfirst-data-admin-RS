@@ -35,13 +35,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7c4fa2d3fec1bcba0919467a9dd0c699",
-    "wof:hierarchy":[],
+    "wof:geomhash":"397a9e6e50006004c8675caa0671be55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833885,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833885,
-    "wof:lastmodified":1566332696,
+    "wof:lastmodified":1566337351,
     "wof:name":"Borca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.462218664021115,
+    20.46221866402112,
     44.87969612898551,
-    20.462218664021115,
+    20.46221866402112,
     44.87969612898551
 ],
   "geometry": {"coordinates":[20.46221866402112,44.87969612898551],"type":"Point"}

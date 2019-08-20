@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810141,
+        85633755,
+        404228357
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"253bc14ff688405c330ed07787018047",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a80b765797a34637fffe886dbd7c8629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810141,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835051,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835051,
-    "wof:lastmodified":1566332700,
+    "wof:lastmodified":1566337485,
     "wof:name":"Bela Reka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -49,9 +65,9 @@
 },
   "bbox": [
     20.48889844983412,
-    44.668767011385675,
+    44.66876701138568,
     20.48889844983412,
-    44.668767011385675
+    44.66876701138568
 ],
   "geometry": {"coordinates":[20.48889844983412,44.66876701138568],"type":"Point"}
 }

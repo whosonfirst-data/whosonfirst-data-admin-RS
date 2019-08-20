@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843445
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"9d67e67a9934d1d24a836e37ab0d7e2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c29e9b330e9f4156bb157d69200e41e",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843445,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835431,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444835431,
-    "wof:lastmodified":1566332701,
+    "wof:lastmodified":1566337517,
     "wof:name":"Stari Cerak",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.415076271996686,
+    20.41507627199669,
     44.75181309781039,
-    20.415076271996686,
+    20.41507627199669,
     44.75181309781039
 ],
   "geometry": {"coordinates":[20.41507627199669,44.75181309781039],"type":"Point"}

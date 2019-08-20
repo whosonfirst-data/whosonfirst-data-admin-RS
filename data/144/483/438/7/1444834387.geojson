@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843463
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"ca74717380e64cac5f36bde469c69005",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff97d681d74eb6be58ff9f0babcbff29",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843463,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834387,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834387,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337407,
     "wof:name":"Savamala",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -49,9 +68,9 @@
 },
   "bbox": [
     20.45125472401962,
-    44.814479464543844,
+    44.81447946454384,
     20.45125472401962,
-    44.814479464543844
+    44.81447946454384
 ],
   "geometry": {"coordinates":[20.45125472401962,44.81447946454384],"type":"Point"}
 }

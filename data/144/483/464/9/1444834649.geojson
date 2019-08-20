@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"263bb76634f6d971f81f5f365d400cd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4191c4ce5f6dcc5d23e8eb242b861083",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834649,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834649,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337437,
     "wof:name":"Mirijevo II",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.530632523996857,
+    20.53063252399686,
     44.78861413668378,
-    20.530632523996857,
+    20.53063252399686,
     44.78861413668378
 ],
   "geometry": {"coordinates":[20.53063252399686,44.78861413668378],"type":"Point"}

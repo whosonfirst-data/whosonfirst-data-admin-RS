@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"b56af9d1fb9981de600694c7d337e6ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da3ae5fa375e4a84cc507cd3d1d0e6e8",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834655,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834655,
-    "wof:lastmodified":1566332699,
+    "wof:lastmodified":1566337440,
     "wof:name":"Mirijevo III",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.537825956745714,
-    44.792558972831486,
-    20.537825956745714,
-    44.792558972831486
+    20.53782595674571,
+    44.79255897283149,
+    20.53782595674571,
+    44.79255897283149
 ],
   "geometry": {"coordinates":[20.53782595674571,44.79255897283149],"type":"Point"}
 }

@@ -35,15 +35,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843439
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"b08771d207ac6a579678fa8ecca7d284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09da0b98836117b8545d056f46cbbde5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843439,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444833429,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444833429,
-    "wof:lastmodified":1566332695,
+    "wof:lastmodified":1566337299,
     "wof:name":"Donji Dorcol",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -52,9 +71,9 @@
 },
   "bbox": [
     20.45958652158348,
-    44.824901291567365,
+    44.82490129156736,
     20.45958652158348,
-    44.824901291567365
+    44.82490129156736
 ],
   "geometry": {"coordinates":[20.45958652158348,44.82490129156736],"type":"Point"}
 }

@@ -32,15 +32,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"1e762facc8cafe4faf83d1746fb2f0f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72c33177883173b100e06b33b29bbef5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834499,
+            "region_id":85688279
+        }
+    ],
     "wof:id":1444834499,
-    "wof:lastmodified":1566332698,
+    "wof:lastmodified":1566337421,
     "wof:name":"Lipov Lad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
@@ -48,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.489765855986843,
+    20.48976585598684,
     44.79754401873751,
-    20.489765855986843,
+    20.48976585598684,
     44.79754401873751
 ],
   "geometry": {"coordinates":[20.48976585598684,44.79754401873751],"type":"Point"}
