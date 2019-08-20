@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0422\u0435\u0440\u0430\u0437\u0438\u0458e"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0440\u0430\u0437\u0438\u0458e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"bedb05e01e43553a9ff27c426804d952",
     "wof:hierarchy":[],
     "wof:id":1444833523,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Terazije",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

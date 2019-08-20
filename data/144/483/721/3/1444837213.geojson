@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Klju\u010d"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0459\u0443\u0447"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"df43ec0746917313e630102a6cef0fc9",
     "wof:hierarchy":[],
     "wof:id":1444837213,
-    "wof:lastmodified":1566259124,
+    "wof:lastmodified":1566332705,
     "wof:name":"Kljuc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

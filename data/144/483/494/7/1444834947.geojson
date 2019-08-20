@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0438\u0432\u0430 \u0421\u0442\u0435\u043d\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0432\u0430 \u0421\u0442\u0435\u043d\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"8f9fec636257854c05a5c740a4434920",
     "wof:hierarchy":[],
     "wof:id":1444834947,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Siva Stena",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

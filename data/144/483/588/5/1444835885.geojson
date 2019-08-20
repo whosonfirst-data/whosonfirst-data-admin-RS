@@ -35,6 +35,9 @@
         "Univerzitetsko Selo",
         "Blok 67"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0432\u0438\u043b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -43,7 +46,7 @@
     "wof:geomhash":"bf64412ac4938e2b1b90930d025e2fb4",
     "wof:hierarchy":[],
     "wof:id":1444835885,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Belvil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

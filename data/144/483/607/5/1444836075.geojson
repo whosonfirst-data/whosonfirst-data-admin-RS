@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 67a"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 67a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"d84c902f113dd4dba45c27fa60019a01",
     "wof:hierarchy":[],
     "wof:id":1444836075,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332702,
     "wof:name":"Blok 67a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "U\u0161\u0107e"
     ],
+    "name:srp_x_preferred":[
+        "\u0423\u0448\u045b\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"7e64cfa9c9631e1a70df91579d1043ca",
     "wof:hierarchy":[],
     "wof:id":1444835895,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Usce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_variant":[
         "Naselje"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"8ea028039a98b81dcf47584d7b0c9821",
     "wof:hierarchy":[],
     "wof:id":1444835599,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Gorica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

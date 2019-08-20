@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u0106ukovac"
     ],
+    "name:srp_x_preferred":[
+        "\u040b\u0443\u043a\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"b58199293f5b01594a99ff26d21d4bde",
     "wof:hierarchy":[],
     "wof:id":1444836823,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332704,
     "wof:name":"Cukovac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

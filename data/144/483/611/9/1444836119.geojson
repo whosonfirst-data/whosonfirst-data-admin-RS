@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 41a"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 41a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"1004918e3b181bf620577d4587f66c4b",
     "wof:hierarchy":[],
     "wof:id":1444836119,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 41a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

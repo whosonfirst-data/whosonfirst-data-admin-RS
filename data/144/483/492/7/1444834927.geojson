@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0422\u043e\u0440\u043b\u0430\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0440\u043b\u0430\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"0d474ac54c17fa55bd2fe36804ca68c1",
     "wof:hierarchy":[],
     "wof:id":1444834927,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Torlak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

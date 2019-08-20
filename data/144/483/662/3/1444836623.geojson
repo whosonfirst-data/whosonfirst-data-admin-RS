@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 35"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 35"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"589adeb7a7c3a31a6442238b45d65cf1",
     "wof:hierarchy":[],
     "wof:id":1444836623,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332704,
     "wof:name":"Blok 35",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0424\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u0430\u043d\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"5790af5f038688184709fa05b7b596ad",
     "wof:hierarchy":[],
     "wof:id":1444835823,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Fontana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Vi\u0161njica"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u045a\u0438\u0446\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"0c29f34d77e49eb11e1c876371c75900",
     "wof:hierarchy":[],
     "wof:id":1444833671,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332696,
     "wof:name":"Visnjica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

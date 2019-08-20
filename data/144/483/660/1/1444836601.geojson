@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 9a"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 9a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"c00e5e4145fb2bcae3649a533a43a6ba",
     "wof:hierarchy":[],
     "wof:id":1444836601,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332704,
     "wof:name":"Blok 9a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

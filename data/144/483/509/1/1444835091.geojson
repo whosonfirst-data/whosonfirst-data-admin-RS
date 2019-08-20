@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0438\u0459\u0430\u043a\u043e\u0432\u0430\u0446 II"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0459\u0430\u043a\u043e\u0432\u0430\u0446 II"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"b1f9a7c8cee80a772a17b7c269d73af0",
     "wof:hierarchy":[],
     "wof:id":1444835091,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332700,
     "wof:name":"Miljakovac II",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

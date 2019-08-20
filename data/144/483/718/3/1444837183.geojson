@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0408\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043a\u043e\u0432\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"7f07e479f315052129ef462ce0e09bd7",
     "wof:hierarchy":[],
     "wof:id":1444837183,
-    "wof:lastmodified":1566259124,
+    "wof:lastmodified":1566332705,
     "wof:name":"Jakovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

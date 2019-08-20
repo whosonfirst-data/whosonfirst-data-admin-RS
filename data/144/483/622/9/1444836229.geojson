@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 16"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 16"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"8463ad417c1d6a03a6d7f915666675fa",
     "wof:hierarchy":[],
     "wof:id":1444836229,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 16",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

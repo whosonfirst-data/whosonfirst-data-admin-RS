@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0417\u0443\u0446\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0443\u0446\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"7dc73ebf3e2eb432600594417cd2026b",
     "wof:hierarchy":[],
     "wof:id":1444835029,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332700,
     "wof:name":"Zuce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

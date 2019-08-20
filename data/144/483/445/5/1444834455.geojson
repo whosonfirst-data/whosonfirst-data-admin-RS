@@ -30,6 +30,9 @@
     "name:srp_lat_x_variant":[
         "Bulbuder"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043b\u0431\u0443\u043b\u0434\u0435\u0440"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"712117cd711cd110402bf4f38e763c28",
     "wof:hierarchy":[],
     "wof:id":1444834455,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Bulbulder",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

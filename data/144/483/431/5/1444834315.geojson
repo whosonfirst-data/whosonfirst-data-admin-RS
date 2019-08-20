@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0414\u0435\u0434\u0438\u045a\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0434\u0438\u045a\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"fa71abb8f91c76f6cc28f15da86c1a3f",
     "wof:hierarchy":[],
     "wof:id":1444834315,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Dedinje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

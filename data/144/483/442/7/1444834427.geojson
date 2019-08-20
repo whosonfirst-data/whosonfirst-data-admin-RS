@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u043f\u0435\u0442\u0459\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u043f\u0435\u0442\u0459\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"a4d00f35ffdf27e8027085ead80ac6e0",
     "wof:hierarchy":[],
     "wof:id":1444834427,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Mostarska petlja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -36,6 +36,9 @@
     "name:srp_lat_x_variant":[
         "\u0408\u0435\u0440\u043a\u043e\u0432\u0438\u045b"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u045b\u0435 \u0408\u0435\u0440\u043a\u043e\u0432\u0438\u045b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -44,7 +47,7 @@
     "wof:geomhash":"f0d70df9523a868f1bce53fe589980bd",
     "wof:hierarchy":[],
     "wof:id":1444834837,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Brace Jerkovic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Ko\u0161utnjak"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0448\u0443\u0442\u045a\u0430\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"76a1b59323cae83a598e4353310677bc",
     "wof:hierarchy":[],
     "wof:id":1444835293,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332700,
     "wof:name":"Kosutnjak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

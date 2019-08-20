@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u0160angaj"
     ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043d\u0433\u0430\u0458"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"dcdd78b43233fe887826473968ed57c2",
     "wof:hierarchy":[],
     "wof:id":1444836967,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Sangaj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

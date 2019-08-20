@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 71"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 71"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"30c2c6c8bab59a9dd59863495a1021cf",
     "wof:hierarchy":[],
     "wof:id":1444835973,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Blok 71",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

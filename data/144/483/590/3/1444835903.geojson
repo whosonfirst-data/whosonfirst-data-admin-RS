@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 45"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 45"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"bf1f1d4ae19713036e092a240d242e00",
     "wof:hierarchy":[],
     "wof:id":1444835903,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Blok 45",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

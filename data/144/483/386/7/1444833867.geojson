@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0438\u043a\u0430 \u0410\u043b\u0430\u0441"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043a\u0430 \u0410\u043b\u0430\u0441"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"0561c10fdd202b5095be6b3f67ef1ff9",
     "wof:hierarchy":[],
     "wof:id":1444833867,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Mika Alas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

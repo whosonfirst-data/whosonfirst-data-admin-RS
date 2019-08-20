@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 3"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 3"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"cc2c1beb1d8f94fb2da95980cada88ef",
     "wof:hierarchy":[],
     "wof:id":1444836471,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

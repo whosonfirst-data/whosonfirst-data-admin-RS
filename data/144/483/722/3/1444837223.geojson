@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u0440\u043e\u0433\u0430\u0440"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0430\u0440"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"67c3b0293300489d4d011d888bd5f76d",
     "wof:hierarchy":[],
     "wof:id":1444837223,
-    "wof:lastmodified":1566259124,
+    "wof:lastmodified":1566332705,
     "wof:name":"Progar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

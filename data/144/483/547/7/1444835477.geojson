@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0408\u0443\u043b\u0438\u043d\u043e \u0411\u0440\u0434\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u0408\u0443\u043b\u0438\u043d\u043e \u0411\u0440\u0434\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"4ee0a419eb53ffd2289036b5107e7e55",
     "wof:hierarchy":[],
     "wof:id":1444835477,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Julino Brdo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

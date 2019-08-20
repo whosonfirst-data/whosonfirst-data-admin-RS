@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041b\u0435\u0434\u0438\u043d\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0434\u0438\u043d\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"688c6ae63a4784c58fa59b43be9a6e18",
     "wof:hierarchy":[],
     "wof:id":1444835747,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Ledine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

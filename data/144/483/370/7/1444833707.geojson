@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Le\u0161\u0107e"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0448\u045b\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"7f37187b30c66769a4067ddcdd6118ff",
     "wof:hierarchy":[],
     "wof:id":1444833707,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Lesce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

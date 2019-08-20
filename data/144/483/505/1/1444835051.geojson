@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u0435\u043b\u0430 \u0420\u0435\u043a\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0420\u0435\u043a\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"253bc14ff688405c330ed07787018047",
     "wof:hierarchy":[],
     "wof:id":1444835051,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332700,
     "wof:name":"Bela Reka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

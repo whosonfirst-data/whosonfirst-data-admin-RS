@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0420\u0438\u043f\u0430\u045a"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043f\u0430\u045a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"ccec9930a791d1f9aae223a1fdbaf687",
     "wof:hierarchy":[],
     "wof:id":1444834995,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Ripanj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

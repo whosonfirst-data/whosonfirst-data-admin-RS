@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0423\u043c\u043a\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0423\u043c\u043a\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"380e1955890a36e0f8e664eb5a5395d4",
     "wof:hierarchy":[],
     "wof:id":1444835681,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Umka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

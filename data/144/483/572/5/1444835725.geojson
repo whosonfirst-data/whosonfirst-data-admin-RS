@@ -30,6 +30,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0441\u043a\u0430 \u041a\u043e\u0441\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0441\u043a\u0430 \u041a\u043e\u0441\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"ec5debe0962da2774a190812755de0e7",
     "wof:hierarchy":[],
     "wof:id":1444835725,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Bezanijska Kosa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

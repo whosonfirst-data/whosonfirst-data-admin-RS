@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0413\u0440\u043c\u043e\u0432\u0430\u0446"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u043c\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"dba259790086d40f9dacdf175da19743",
     "wof:hierarchy":[],
     "wof:id":1444837125,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Grmovac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

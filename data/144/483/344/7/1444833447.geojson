@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Andri\u0107ev Venac"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0438\u045b\u0435\u0432 \u0412\u0435\u043d\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"7729b561681087785b54bdc7d0ac7d06",
     "wof:hierarchy":[],
     "wof:id":1444833447,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Andricev Venac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

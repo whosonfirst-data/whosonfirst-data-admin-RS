@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0426\u0435\u0440\u0430\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0426\u0435\u0440\u0430\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"9d67e67a9934d1d24a836e37ab0d7e2f",
     "wof:hierarchy":[],
     "wof:id":1444835431,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Stari Cerak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

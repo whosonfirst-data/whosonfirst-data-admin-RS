@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u0160uplja Stena"
     ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u043f\u0459\u0430 \u0421\u0442\u0435\u043d\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"829fc8bda72af2c6f7770d528a992952",
     "wof:hierarchy":[],
     "wof:id":1444835039,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332700,
     "wof:name":"Suplja Stena",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0430 \u0431\u0430\u0440\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0430 \u0431\u0430\u0440\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"9690a408b1886a3021612dd2c52606da",
     "wof:hierarchy":[],
     "wof:id":1444834205,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Popova Bara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

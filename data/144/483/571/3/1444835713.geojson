@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Be\u017eanija"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"55fbbc57104281545ea9708ec1c3087f",
     "wof:hierarchy":[],
     "wof:id":1444835713,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Bezanija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

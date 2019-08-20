@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 28"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 28"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"62c8b24c88395578b382d24bfcbb6a35",
     "wof:hierarchy":[],
     "wof:id":1444836205,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 28",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

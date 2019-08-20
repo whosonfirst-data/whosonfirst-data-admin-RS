@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d \u041f\u043e\u0459\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d \u041f\u043e\u0459\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"e762fa7620d413ecfc252d4c6ef04d24",
     "wof:hierarchy":[],
     "wof:id":1444837021,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Zemun Polje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

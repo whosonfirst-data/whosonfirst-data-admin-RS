@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0413\u043e\u0440\u045a\u0438 \u0413\u0440\u0430\u0434"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0413\u0440\u0430\u0434"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"126b58168009629b9506a0781aed03af",
     "wof:hierarchy":[],
     "wof:id":1444836759,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332704,
     "wof:name":"Gornji Grad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

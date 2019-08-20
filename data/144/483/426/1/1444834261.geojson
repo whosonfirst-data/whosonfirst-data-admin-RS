@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0415\u043d\u0433\u043b\u0435\u0437\u043e\u0432\u0430\u0446"
     ],
+    "name:srp_x_preferred":[
+        "\u0415\u043d\u0433\u043b\u0435\u0437\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"1be64b1b70ce2f15b199219c98815f0b",
     "wof:hierarchy":[],
     "wof:id":1444834261,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Englezovac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

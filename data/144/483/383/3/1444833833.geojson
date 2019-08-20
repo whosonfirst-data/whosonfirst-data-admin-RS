@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041a\u043e\u0442\u0435\u0436"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0442\u0435\u0436"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"c2cba6cd4db4b049a31f32762252ac4a",
     "wof:hierarchy":[],
     "wof:id":1444833833,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Kotez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0420\u0435\u0441\u043d\u0438\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0441\u043d\u0438\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"76c449f60417c11b787956f0fd196d0c",
     "wof:hierarchy":[],
     "wof:id":1444835055,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332700,
     "wof:name":"Resnik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

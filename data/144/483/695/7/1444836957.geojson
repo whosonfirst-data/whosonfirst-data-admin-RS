@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u0430\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"55cb63a2aeeea76353078f5f357a2eb3",
     "wof:hierarchy":[],
     "wof:id":1444836957,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Batajnica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

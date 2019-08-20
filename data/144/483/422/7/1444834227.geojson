@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0412\u0438\u0445\u043e\u0440"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0445\u043e\u0440"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"5d60ea3a681ad4036b4877da69a2c1f2",
     "wof:hierarchy":[],
     "wof:id":1444834227,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Vihor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

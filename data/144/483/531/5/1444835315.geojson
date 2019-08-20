@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0424\u0438\u043b\u043c\u0441\u043a\u0438 \u0413\u0440\u0430\u0434"
     ],
+    "name:srp_x_preferred":[
+        "\u0424\u0438\u043b\u043c\u0441\u043a\u0438 \u0413\u0440\u0430\u0434"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"2c17d47bebbeb930025c72d7ce9d17ad",
     "wof:hierarchy":[],
     "wof:id":1444835315,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332700,
     "wof:name":"Filmski Grad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

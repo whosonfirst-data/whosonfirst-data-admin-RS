@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0414\u043e\u0431\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"e4ed019014518be8503511452a5cc2b5",
     "wof:hierarchy":[],
     "wof:id":1444837159,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Dobanovci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

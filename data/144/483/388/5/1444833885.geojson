@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Bor\u010da"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0447\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"7c4fa2d3fec1bcba0919467a9dd0c699",
     "wof:hierarchy":[],
     "wof:id":1444833885,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Borca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Denkova Ba\u0161ta"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043d\u043a\u043e\u0432\u0430 \u0431\u0430\u0448\u0442\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"9a65080a528d15302728d1367c58a803",
     "wof:hierarchy":[],
     "wof:id":1444834589,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332698,
     "wof:name":"Denkova Basta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

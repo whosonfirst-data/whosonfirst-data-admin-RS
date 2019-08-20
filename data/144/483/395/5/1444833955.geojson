@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0413\u043b\u043e\u0433\u043e\u045a\u0441\u043a\u0438 \u0420\u0438\u0442"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043e\u045a\u0441\u043a\u0438 \u0420\u0438\u0442"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"51e2c4049084d8ccd4eb343b4cb6c739",
     "wof:hierarchy":[],
     "wof:id":1444833955,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332697,
     "wof:name":"Glogonjski Rit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0423\u0442\u0440\u0438\u043d\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0423\u0442\u0440\u0438\u043d\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"ad840372fe50f76a8fe37f6b21784995",
     "wof:hierarchy":[],
     "wof:id":1444834983,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Mala Utrina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

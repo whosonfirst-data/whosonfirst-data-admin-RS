@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Blok Sava Kova\u010devi\u0107"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u043e\u043a \u0421\u0430\u0432\u0430 \u041a\u043e\u0432\u0430\u0447\u0435\u0432\u0438\u045b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"bef32fdf4170d2dec2b590827626c3bf",
     "wof:hierarchy":[],
     "wof:id":1444833785,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Blok Sava Kovacevic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

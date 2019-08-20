@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 51"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 51"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"8c232e82e44932e7a670796411c1c24a",
     "wof:hierarchy":[],
     "wof:id":1444836667,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332704,
     "wof:name":"Blok 51",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

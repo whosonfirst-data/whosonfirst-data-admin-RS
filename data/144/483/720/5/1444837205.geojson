@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Be\u010dmen"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0447\u043c\u0435\u043d"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"9ec487edf7c51118495217c65acbcf2b",
     "wof:hierarchy":[],
     "wof:id":1444837205,
-    "wof:lastmodified":1566259124,
+    "wof:lastmodified":1566332705,
     "wof:name":"Becmen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

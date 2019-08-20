@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0408\u0430\u0458\u0438\u043d\u0446\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0458\u0438\u043d\u0446\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"7fb76dd06166afc23e730c7b6892e489",
     "wof:hierarchy":[],
     "wof:id":1444834895,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Jajinci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

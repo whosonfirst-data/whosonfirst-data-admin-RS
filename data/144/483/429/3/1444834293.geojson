@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041d\u0435\u0438\u043c\u0430\u0440"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0438\u043c\u0430\u0440"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"6d9c558f259e14a9323447ef261e444e",
     "wof:hierarchy":[],
     "wof:id":1444834293,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Neimar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

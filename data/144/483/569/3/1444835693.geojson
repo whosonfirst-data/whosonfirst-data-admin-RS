@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Pe\u0107ani"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u045b\u0430\u043d\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"0ce8c8dd08f2a42e034c8a463668d57e",
     "wof:hierarchy":[],
     "wof:id":1444835693,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Pecani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

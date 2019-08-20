@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0430\u0432\u0441\u043a\u0438 \u041d\u0430\u0441\u0438\u043f"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0432\u0441\u043a\u0438 \u041d\u0430\u0441\u0438\u043f"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"d4a95e666aa06c0842ba5d542604460f",
     "wof:hierarchy":[],
     "wof:id":1444835877,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Savski Nasip",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

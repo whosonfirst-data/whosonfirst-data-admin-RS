@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Stari \u017deleznik"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"afd4f0c3818611b6f9bd3fde32b2d320",
     "wof:hierarchy":[],
     "wof:id":1444835523,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Stari Zeleznik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

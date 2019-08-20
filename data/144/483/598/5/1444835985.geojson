@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 72"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 72"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"0b322da06f34de8754ad9cb1849c93ef",
     "wof:hierarchy":[],
     "wof:id":1444835985,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Blok 72",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

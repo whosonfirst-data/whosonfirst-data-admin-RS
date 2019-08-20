@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u043a\u0430\u0434\u0430\u0440\u043b\u0438\u0458\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0430\u0434\u0430\u0440\u043b\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"afc7b9f4234ec85320e24a3251cea94a",
     "wof:hierarchy":[],
     "wof:id":1444833501,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Skadarlija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

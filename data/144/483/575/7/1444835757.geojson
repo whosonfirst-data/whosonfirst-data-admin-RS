@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"68da0517944ed2f880307cfd01e69240",
     "wof:hierarchy":[],
     "wof:id":1444835757,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Paviljoni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

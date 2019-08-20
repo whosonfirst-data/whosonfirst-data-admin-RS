@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Tovili\u0161te"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0432\u0438\u043b\u0438\u0448\u0442\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"406f0b923fecafb75f456ae19933a037",
     "wof:hierarchy":[],
     "wof:id":1444834003,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Toviliste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

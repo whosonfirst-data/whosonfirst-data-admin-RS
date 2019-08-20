@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0442\u0430\u0434\u0438\u043e\u043d"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0434\u0438\u043e\u043d"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"762e39002731fe67ce1902493673d440",
     "wof:hierarchy":[],
     "wof:id":1444834365,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Stadion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

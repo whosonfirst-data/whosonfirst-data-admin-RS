@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0443\u0458\u0435\u0432 \u0412\u0435\u043d\u0430\u0446"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0443\u0458\u0435\u0432 \u0412\u0435\u043d\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"182fa0d1569ea89f1acc1766784cbdd1",
     "wof:hierarchy":[],
     "wof:id":1444834477,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Slavujev Venac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

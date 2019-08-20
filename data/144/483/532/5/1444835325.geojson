@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u0438\u043e\u043d\u0438\u0440\u0441\u043a\u0438 \u0433\u0440\u0430\u0434"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u043e\u043d\u0438\u0440\u0441\u043a\u0438 \u0433\u0440\u0430\u0434"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"83af7a4ce98523de80fcd1ea209b42c7",
     "wof:hierarchy":[],
     "wof:id":1444835325,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332700,
     "wof:name":"Pionirski Grad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

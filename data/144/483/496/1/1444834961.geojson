@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u0435\u043b\u0438 \u041f\u043e\u0442\u043e\u043a)"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0438 \u041f\u043e\u0442\u043e\u043a)"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"441b2ff8c2b4910b7aa5c8d86defa94d",
     "wof:hierarchy":[],
     "wof:id":1444834961,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Beli Potok",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

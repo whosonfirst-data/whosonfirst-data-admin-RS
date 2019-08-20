@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u043e \u043d\u0430\u0441\u0435\u0459\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u043e \u043d\u0430\u0441\u0435\u0459\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"116b0d43f27a64b65065de117f21330e",
     "wof:hierarchy":[],
     "wof:id":1444834685,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Orlovsko Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

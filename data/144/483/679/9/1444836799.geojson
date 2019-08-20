@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0410\u043b\u0442\u0438\u043d\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0442\u0438\u043d\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"a67c56139fd58b59f5887fb66638e730",
     "wof:hierarchy":[],
     "wof:id":1444836799,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332704,
     "wof:name":"Altina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

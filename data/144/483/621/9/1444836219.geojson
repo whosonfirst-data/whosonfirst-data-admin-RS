@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 39"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 39"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"d3c736b1b30c875b5a9d5d97a1771bfa",
     "wof:hierarchy":[],
     "wof:id":1444836219,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 39",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

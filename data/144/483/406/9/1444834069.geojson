@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0417\u0440\u0435\u045a\u0430\u043d\u0438\u043d\u0441\u043a\u0438 \u043f\u0443\u0442"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0440\u0435\u045a\u0430\u043d\u0438\u043d\u0441\u043a\u0438 \u043f\u0443\u0442"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"de7538a62ca611a82f090978c815bc55",
     "wof:hierarchy":[],
     "wof:id":1444834069,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Zrenjaninski Put",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

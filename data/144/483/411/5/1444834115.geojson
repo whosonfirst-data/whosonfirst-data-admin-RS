@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0413\u0443\u0432\u043d\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u0432\u043d\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"7f21b36ea066ec695efdf06f121164a3",
     "wof:hierarchy":[],
     "wof:id":1444834115,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Guvno",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

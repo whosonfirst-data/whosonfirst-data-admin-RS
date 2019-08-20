@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0420\u0443\u0434\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0434\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"9f31b031ee0dbc62952418e1742088f5",
     "wof:hierarchy":[],
     "wof:id":1444834601,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332698,
     "wof:name":"Rudo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

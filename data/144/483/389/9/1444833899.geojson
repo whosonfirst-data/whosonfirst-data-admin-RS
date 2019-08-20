@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0446\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u043d\u0446\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"ce141d77ee8ce9aa48c388ee640ee2f4",
     "wof:hierarchy":[],
     "wof:id":1444833899,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Slanci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

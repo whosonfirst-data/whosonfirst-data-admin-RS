@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "U\u010diteljsko Naselje"
     ],
+    "name:srp_x_preferred":[
+        "\u0423\u0447\u0438\u0442\u0435\u0459\u0441\u043a\u043e \u043d\u0430\u0441\u0435\u0459\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"5093d35e4ac5885daee115df763209a0",
     "wof:hierarchy":[],
     "wof:id":1444834573,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332698,
     "wof:name":"Uciteljsko Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0413\u043e\u043b\u0444 \u041d\u0430\u0441\u0435\u0459\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043b\u0444 \u041d\u0430\u0441\u0435\u0459\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"3e918080de922535946c4895ab5d3c50",
     "wof:hierarchy":[],
     "wof:id":1444835305,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332700,
     "wof:name":"Golf Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

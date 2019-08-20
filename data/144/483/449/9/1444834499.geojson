@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432 \u041b\u0430\u0434"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432 \u041b\u0430\u0434"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"1e762facc8cafe4faf83d1746fb2f0f5",
     "wof:hierarchy":[],
     "wof:id":1444834499,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Lipov Lad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

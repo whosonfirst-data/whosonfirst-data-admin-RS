@@ -30,6 +30,9 @@
     "name:srp_lat_x_variant":[
         "Staro Mirijevo"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0438\u0458\u0435\u0432\u043e I"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"09d6902df65ff50250ae1b98503cb52d",
     "wof:hierarchy":[],
     "wof:id":1444834613,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332698,
     "wof:name":"Mirijevo I",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

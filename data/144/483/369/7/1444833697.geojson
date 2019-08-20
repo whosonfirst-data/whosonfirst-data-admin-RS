@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Rospi \u0106uprija"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u043f\u0438 \u040b\u0443\u043f\u0440\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"2246a51fb131751a8a306bfd607f0bb2",
     "wof:hierarchy":[],
     "wof:id":1444833697,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Rospi Cuprija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

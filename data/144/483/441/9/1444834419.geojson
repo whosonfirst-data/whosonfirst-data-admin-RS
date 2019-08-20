@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Lisi\u010dji Potok"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0441\u0438\u0447\u0458\u0438 \u041f\u043e\u0442\u043e\u043a)"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"2dfa0cd8197002f10e374bab2bb875a5",
     "wof:hierarchy":[],
     "wof:id":1444834419,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Lisicji Potok",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

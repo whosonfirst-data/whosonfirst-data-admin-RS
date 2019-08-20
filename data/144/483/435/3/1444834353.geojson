@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0414\u0438\u043f\u043b\u043e\u043c\u0430\u0442\u0441\u043a\u0430 \u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u043f\u043b\u043e\u043c\u0430\u0442\u0441\u043a\u0430 \u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"1674a5e1ea5d3e80326a7964d97f9bba",
     "wof:hierarchy":[],
     "wof:id":1444834353,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Diplomatska Kolonija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

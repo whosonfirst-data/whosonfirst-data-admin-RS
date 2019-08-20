@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0420\u0435\u0432\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0432\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"732648995efa54bf2f40daca7811539b",
     "wof:hierarchy":[],
     "wof:id":1444833853,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Reva",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

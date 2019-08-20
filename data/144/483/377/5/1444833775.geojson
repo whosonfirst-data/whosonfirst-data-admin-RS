@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Blok Grga Andrijanovi\u0107"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u043e\u043a\u0413\u0440\u0433\u0430 \u0410\u043d\u0434\u0440\u0438\u0458\u0430\u043d\u043e\u0432\u0438\u045b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"9359f9c591a50e2e226770660288fbaf",
     "wof:hierarchy":[],
     "wof:id":1444833775,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Blok Grga Andrijanovic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

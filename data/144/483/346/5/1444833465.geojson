@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Trg Nikole Pa\u0161i\u0107a"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0433 \u041d\u0438\u043a\u043e\u043b\u0435 \u041f\u0430\u0448\u0438\u045b\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"d4ee46cc540a2b9286a5e2c01c3326ad",
     "wof:hierarchy":[],
     "wof:id":1444833465,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Trg Nikole Pasica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

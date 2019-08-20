@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u041c\u043e\u043a\u0440\u0438 \u041b\u0443\u0433"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u041c\u043e\u043a\u0440\u0438 \u041b\u0443\u0433"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"7900aee5be7d4e65e784cb1bff5a7bd2",
     "wof:hierarchy":[],
     "wof:id":1444834715,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Mali Mokri Lug",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

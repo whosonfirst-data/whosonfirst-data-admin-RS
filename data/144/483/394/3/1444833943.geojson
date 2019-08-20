@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0426\u0440\u0432\u0435\u043d\u043a\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u043a\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"3d1a5c5c19325ddf7e9de686f4fd0467",
     "wof:hierarchy":[],
     "wof:id":1444833943,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332697,
     "wof:name":"Crvenka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

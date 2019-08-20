@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 31"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 31"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"89c2b5db3b90810a52046674addb1898",
     "wof:hierarchy":[],
     "wof:id":1444836345,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 31",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

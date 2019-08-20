@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0420\u0443\u0446\u043a\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0446\u043a\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"4f9695527dd70c93ee82b01c743d6f8b",
     "wof:hierarchy":[],
     "wof:id":1444835703,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Rucka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -33,6 +33,9 @@
     "name:srp_lat_x_variant":[
         "Zmaj"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430 \"\u0411\" \u0417\u043c\u0430\u0458"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -41,7 +44,7 @@
     "wof:geomhash":"b4132188fb94112f116581298a634edc",
     "wof:hierarchy":[],
     "wof:id":1444837065,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Kolonija \"B\" Zmaj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

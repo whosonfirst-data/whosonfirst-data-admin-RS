@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Kaleni\u0107"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u043d\u0438\u045b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"074c678d4ba11c2bedd1ea1961dc7119",
     "wof:hierarchy":[],
     "wof:id":1444834283,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Kalenic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 11a"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 11a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"e7c7bf99e3cd484597cb85e0fbbab86b",
     "wof:hierarchy":[],
     "wof:id":1444836363,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 11a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

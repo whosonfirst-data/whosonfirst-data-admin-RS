@@ -36,6 +36,9 @@
     "name:srp_lat_x_variant":[
         "Blok 18"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0421\u0430\u0458\u043c\u0438\u0448\u0442\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -44,7 +47,7 @@
     "wof:geomhash":"11a1c29c971e7409fd42ddb3917fb8f5",
     "wof:hierarchy":[],
     "wof:id":1444835845,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Staro Sajmiste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

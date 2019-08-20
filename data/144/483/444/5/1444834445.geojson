@@ -33,6 +33,9 @@
     "name:srp_lat_x_variant":[
         "Zvezdara II"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0430\u0440\u0430 2"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -41,7 +44,7 @@
     "wof:geomhash":"337dd39fdc474d703cdcbab4d27717db",
     "wof:hierarchy":[],
     "wof:id":1444834445,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Zvezdara 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

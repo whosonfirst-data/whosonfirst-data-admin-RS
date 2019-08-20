@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u0430\u043b\u0438\u043b\u0443\u043b\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043b\u0443\u043b\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"9d5bbe88175124416017b4b64a0028cd",
     "wof:hierarchy":[],
     "wof:id":1444833543,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Palilula",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

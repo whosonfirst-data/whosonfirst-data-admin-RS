@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d\u0441\u043a\u0438 \u041a\u0435\u0458"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d\u0441\u043a\u0438 \u041a\u0435\u0458"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"9a7fc36d25ade85d5f7558153d444c1f",
     "wof:hierarchy":[],
     "wof:id":1444837111,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Zemunski Kej",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

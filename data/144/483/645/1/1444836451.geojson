@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 34"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 34"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"f9696c7456baa6fadf90227f3b670a22",
     "wof:hierarchy":[],
     "wof:id":1444836451,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 34",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

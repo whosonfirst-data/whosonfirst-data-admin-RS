@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0432\u0441\u043a\u0438 \u0412\u0435\u043d\u0430\u0446"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0441\u043a\u0438 \u0412\u0435\u043d\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"e7236f5eefde404c5f611d1cf08bde2c",
     "wof:hierarchy":[],
     "wof:id":1444833845,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Dunavski Venac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

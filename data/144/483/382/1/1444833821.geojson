@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0438 \u0431\u043b\u043e\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u0438 \u0431\u043b\u043e\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"2072efa8d0067b1dce18ff88cac5de2e",
     "wof:hierarchy":[],
     "wof:id":1444833821,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Partizanski Blok",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

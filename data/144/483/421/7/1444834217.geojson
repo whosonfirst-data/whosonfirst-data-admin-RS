@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Sebe\u0161"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0431\u0435\u0448"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"88ef8f7c5c7387a5fff7a76d4cd409f4",
     "wof:hierarchy":[],
     "wof:id":1444834217,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Sebe\u0161",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

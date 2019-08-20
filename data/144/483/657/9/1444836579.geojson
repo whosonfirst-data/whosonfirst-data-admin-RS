@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 8a"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 8a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"306188fe187bad1138d23167307ccb35",
     "wof:hierarchy":[],
     "wof:id":1444836579,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332704,
     "wof:name":"Blok 8a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

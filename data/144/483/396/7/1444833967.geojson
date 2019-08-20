@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Ov\u010da"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u0432\u0447\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"8f73eaaa4e97374a026a8c3119699d8a",
     "wof:hierarchy":[],
     "wof:id":1444833967,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332697,
     "wof:name":"Ovca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

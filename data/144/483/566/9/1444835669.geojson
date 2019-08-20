@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Velika Mo\u0161tanica"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u043e\u0448\u0442\u0430\u043d\u0438\u0446\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"5d7a72562889ae169d5356692cdf919f",
     "wof:hierarchy":[],
     "wof:id":1444835669,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Velika Mostanica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Novi \u017deleznik"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"149454917028a014043793ee5e9ebb76",
     "wof:hierarchy":[],
     "wof:id":1444835535,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Novi Zeleznik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

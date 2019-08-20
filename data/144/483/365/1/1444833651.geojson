@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0443\u0440\u043c\u0430 2"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u0440\u043c\u0430 2"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"a4ca8b841b51572b665b158c684a9829",
     "wof:hierarchy":[],
     "wof:id":1444833651,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332696,
     "wof:name":"Karaburma 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

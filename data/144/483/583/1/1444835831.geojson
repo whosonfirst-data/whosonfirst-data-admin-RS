@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0426\u0438\u0433\u0430\u043d\u043b\u0438\u0458\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0426\u0438\u0433\u0430\u043d\u043b\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"cb7a686ef5bc8264edca3c71d74a3444",
     "wof:hierarchy":[],
     "wof:id":1444835831,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332702,
     "wof:name":"Mala Ciganlija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

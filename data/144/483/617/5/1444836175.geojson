@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 19a"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 19a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"4ec6339652828befcb33afa8157e097c",
     "wof:hierarchy":[],
     "wof:id":1444836175,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 19a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

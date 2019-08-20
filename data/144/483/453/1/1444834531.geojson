@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041a\u043e\u045a\u0430\u0440\u043d\u0438\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u045a\u0430\u0440\u043d\u0438\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"f307a702ecbd7e528fd805536d257481",
     "wof:hierarchy":[],
     "wof:id":1444834531,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Konjarnik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

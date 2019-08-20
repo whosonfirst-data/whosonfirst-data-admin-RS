@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Repi\u0161te"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u043f\u0438\u0448\u0442\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"eb3b6af8584715b2eee44df158aad587",
     "wof:hierarchy":[],
     "wof:id":1444835487,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Repiste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

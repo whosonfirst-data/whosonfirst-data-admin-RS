@@ -33,6 +33,9 @@
     "name:srp_lat_x_variant":[
         "Zelenjak"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438 \u0412\u0435\u043d\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -41,7 +44,7 @@
     "wof:geomhash":"9acdcf7edd72f5f4645b9a6b17c43929",
     "wof:hierarchy":[],
     "wof:id":1444834375,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Zeleni Venac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

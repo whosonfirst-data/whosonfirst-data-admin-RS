@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Kosan\u010di\u0107ev Venac"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u043d\u0447\u0438\u045b\u0435\u0432 \u0412\u0435\u043d\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"33161e9951d11920fede87bbc149c295",
     "wof:hierarchy":[],
     "wof:id":1444833483,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Kosancicev Venac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

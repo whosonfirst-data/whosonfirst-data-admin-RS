@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u017delezni\u010dka Kolonija"
     ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0447\u043a\u0430 \u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"d01f5139184c77aba7a7071910c06b68",
     "wof:hierarchy":[],
     "wof:id":1444836777,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332704,
     "wof:name":"Zeleznicka Kolonija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

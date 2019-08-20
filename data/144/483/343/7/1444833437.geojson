@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Gornji Dor\u0107ol"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435\u043c \u0414\u043e\u0440\u045b\u043e\u043b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"2f179c13a28b6f3e57fa2e4e9490404d",
     "wof:hierarchy":[],
     "wof:id":1444833437,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332695,
     "wof:name":"Gornji Dorcol",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

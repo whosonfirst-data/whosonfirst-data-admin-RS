@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u043b\u043e\u043a \u0421\u0443\u0442\u0458\u0435\u0441\u043a\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u043e\u043a \u0421\u0443\u0442\u0458\u0435\u0441\u043a\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"50520d082ed31b521ef54774f37ce497",
     "wof:hierarchy":[],
     "wof:id":1444833797,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Blok Sutjeska",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0426\u0440\u0432\u0435\u043d\u0438 \u0411\u0430\u0440\u0458\u0430\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u0438 \u0411\u0430\u0440\u0458\u0430\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"f564a12f9b58c8406bcf2815c4195d58",
     "wof:hierarchy":[],
     "wof:id":1444836997,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Crveni Barjak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

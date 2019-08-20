@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Jabu\u010dki Rit"
     ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0431\u0443\u0447\u043a\u0438 \u0420\u0438\u0442"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"3e6b76bf68d3e22148b06aa8f12781d3",
     "wof:hierarchy":[],
     "wof:id":1444833977,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332697,
     "wof:name":"Jabucki Rit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

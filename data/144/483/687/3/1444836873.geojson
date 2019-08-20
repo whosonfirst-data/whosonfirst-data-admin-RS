@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0412\u043e\u0458\u043d\u0438 \u041f\u0443\u0442 II"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u043d\u0438 \u041f\u0443\u0442 II"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"a29b30a05f6ca49a6134f14a57428567",
     "wof:hierarchy":[],
     "wof:id":1444836873,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332704,
     "wof:name":"Vojni Put 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

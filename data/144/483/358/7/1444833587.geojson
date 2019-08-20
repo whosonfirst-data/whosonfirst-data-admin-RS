@@ -30,6 +30,9 @@
     "name:srp_lat_x_variant":[
         "Jovan Cviji\u0107"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440\u0441\u043a\u0430 \u043a\u043e\u043b\u043e\u043d\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"f44883f757e6bc284b945dbe365e1ea8",
     "wof:hierarchy":[],
     "wof:id":1444833587,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332696,
     "wof:name":"Profesorska Kolonija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

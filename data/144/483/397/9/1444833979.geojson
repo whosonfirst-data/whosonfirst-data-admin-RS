@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041a\u043e\u0432\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0432\u0438\u043b\u043e\u0432\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"d5b4c3fc816dbf0b88aaac6deff4df59",
     "wof:hierarchy":[],
     "wof:id":1444833979,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Kovilovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

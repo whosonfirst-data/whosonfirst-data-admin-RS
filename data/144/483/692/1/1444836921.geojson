@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0435\u0430\u043d\u0434\u0440\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0430\u043d\u0434\u0440\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"6fd0043c7f818186d4248b77b21ccd80",
     "wof:hierarchy":[],
     "wof:id":1444836921,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Meandri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u0106alije"
     ],
+    "name:srp_x_preferred":[
+        "\u040b\u0430\u043b\u0438\u0458\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"49c3c5bed6a67480eca815263ec34775",
     "wof:hierarchy":[],
     "wof:id":1444833731,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Calije",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

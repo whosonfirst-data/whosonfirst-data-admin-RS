@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u043e\u0459\u0435\u0432\u0446\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0459\u0435\u0432\u0446\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"1fdb2a99b35852dc04eba00b8d068e37",
     "wof:hierarchy":[],
     "wof:id":1444837175,
-    "wof:lastmodified":1566259124,
+    "wof:lastmodified":1566332705,
     "wof:name":"Boljevci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

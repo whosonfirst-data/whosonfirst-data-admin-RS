@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u043a\u043e\u0458\u0435\u0432\u0441\u043a\u043e \u041d\u0430\u0441\u0435\u0459\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u043e\u0458\u0435\u0432\u0441\u043a\u043e \u041d\u0430\u0441\u0435\u0459\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"c851850fd2fa84f945fc40c84947d357",
     "wof:hierarchy":[],
     "wof:id":1444835337,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332700,
     "wof:name":"Skojevsko Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

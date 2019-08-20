@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u017deleznik"
     ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"146eebb6dc89803a7eb9221d8ff95f7a",
     "wof:hierarchy":[],
     "wof:id":1444835513,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Zeleznik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -33,6 +33,9 @@
     "name:srp_lat_x_variant":[
         "Cvetkova Pijaca"
     ],
+    "name:srp_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043a\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -41,7 +44,7 @@
     "wof:geomhash":"575b16cfa46ff166188a6750e588bb49",
     "wof:hierarchy":[],
     "wof:id":1444834707,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Cvetko",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

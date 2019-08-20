@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041a\u043d\u0435\u0436\u0435\u0432\u0430\u0446"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043d\u0435\u0436\u0435\u0432\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"74554f5235b2efdb6222bb0f1e9d62a6",
     "wof:hierarchy":[],
     "wof:id":1444835159,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332700,
     "wof:name":"\u039ane\u017eevac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

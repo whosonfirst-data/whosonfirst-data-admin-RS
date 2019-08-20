@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0432\u0430\u0446"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0430\u0446"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"567ccb646218e6e167f736cdf6aa93bd",
     "wof:hierarchy":[],
     "wof:id":1444833921,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Dunavac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

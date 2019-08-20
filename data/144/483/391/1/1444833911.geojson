@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0421\u0435\u043b\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"d18d7f846fbaa31d3c39e17a925a0d62",
     "wof:hierarchy":[],
     "wof:id":1444833911,
-    "wof:lastmodified":1566259114,
+    "wof:lastmodified":1566332696,
     "wof:name":"Valiko Selo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0430\u0440 \u0399"
     ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0430\u0440 \u0399"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"47d4ebd52e56254c9dc0392ad7c4903e",
     "wof:hierarchy":[],
     "wof:id":1444834171,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Centar I",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

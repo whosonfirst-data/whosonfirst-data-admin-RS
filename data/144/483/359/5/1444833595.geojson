@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0410\u0434\u0430 \u0425\u0443\u0458\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0434\u0430 \u0425\u0443\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"8165ffdf439138c948d9ea01485bb8e0",
     "wof:hierarchy":[],
     "wof:id":1444833595,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332696,
     "wof:name":"Ada Huja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

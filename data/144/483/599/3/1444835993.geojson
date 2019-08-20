@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 44"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 44"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"854161af05784e92192c528c96dbe9ef",
     "wof:hierarchy":[],
     "wof:id":1444835993,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332702,
     "wof:name":"Blok 44",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

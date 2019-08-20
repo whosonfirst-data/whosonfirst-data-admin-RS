@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041d\u043e\u0432\u043e \u041c\u0438\u0440\u0438\u0458\u0435\u0432\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u041c\u0438\u0440\u0438\u0458\u0435\u0432\u043e"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"13683c8fa6bd6324b4544393a6ad9052",
     "wof:hierarchy":[],
     "wof:id":1444834621,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332698,
     "wof:name":"Novo Mirijevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Ru\u017ei\u0107 kraj"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0436\u0438\u045b \u043a\u0440\u0430\u0458"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"401f9abb0b6f1d12c06dc312482520d4",
     "wof:hierarchy":[],
     "wof:id":1444835635,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Ruzic kraj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

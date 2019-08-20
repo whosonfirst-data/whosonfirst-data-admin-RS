@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041b\u0438\u043e\u043d"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043e\u043d"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"265c99dd7bd744916bdfc6de01292554",
     "wof:hierarchy":[],
     "wof:id":1444834489,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Lion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

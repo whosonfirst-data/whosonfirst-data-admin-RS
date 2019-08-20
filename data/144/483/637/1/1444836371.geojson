@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 38"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 38"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"6166176d3703cb3def2616b9cb069321",
     "wof:hierarchy":[],
     "wof:id":1444836371,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 38",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0423\u0433\u0440\u0438\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u0423\u0433\u0440\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"ad90d386c88f4d38d1eb6c9fbd46d6e8",
     "wof:hierarchy":[],
     "wof:id":1444837137,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Ugrinovci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

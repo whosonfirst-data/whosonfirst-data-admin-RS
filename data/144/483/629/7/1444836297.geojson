@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 25"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 25"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"4f5c79cde19e59b810e7f06839c4d8a7",
     "wof:hierarchy":[],
     "wof:id":1444836297,
-    "wof:lastmodified":1566259121,
+    "wof:lastmodified":1566332703,
     "wof:name":"Blok 25",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

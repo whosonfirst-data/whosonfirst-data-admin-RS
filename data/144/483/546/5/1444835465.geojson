@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0426\u0435\u0440\u0430\u043a II"
     ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0430\u043a II"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"07e72762037f0a41117e4fa92aa74531",
     "wof:hierarchy":[],
     "wof:id":1444835465,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Cerak II",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

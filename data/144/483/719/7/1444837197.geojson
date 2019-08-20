@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Petrov\u010di\u0107"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0447\u0438\u045b"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"9e5c03d9e943e224ecce2867ce6b3d84",
     "wof:hierarchy":[],
     "wof:id":1444837197,
-    "wof:lastmodified":1566259124,
+    "wof:lastmodified":1566332705,
     "wof:name":"Petrovcic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

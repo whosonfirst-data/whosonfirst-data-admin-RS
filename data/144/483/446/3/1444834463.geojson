@@ -36,6 +36,9 @@
     "name:srp_lat_x_variant":[
         "Stari \u0110eram"
     ],
+    "name:srp_x_preferred":[
+        "\u0402\u0435\u0440\u0430\u043c"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -44,7 +47,7 @@
     "wof:geomhash":"4bea63cc9e58c52caec7f1bdcd48f142",
     "wof:hierarchy":[],
     "wof:id":1444834463,
-    "wof:lastmodified":1566259116,
+    "wof:lastmodified":1566332698,
     "wof:name":"Deram",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

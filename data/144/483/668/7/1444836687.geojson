@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0431\u043b\u043e\u043a 52"
     ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 52"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"5a8215be226d330b4a447b0a73119231",
     "wof:hierarchy":[],
     "wof:id":1444836687,
-    "wof:lastmodified":1566259122,
+    "wof:lastmodified":1566332704,
     "wof:name":"Blok 52",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

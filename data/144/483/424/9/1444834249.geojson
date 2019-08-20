@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u010cubura"
     ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u0431\u0443\u0440\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"c0f43d6118ae3b827292106dd76ad056",
     "wof:hierarchy":[],
     "wof:id":1444834249,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Cubura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

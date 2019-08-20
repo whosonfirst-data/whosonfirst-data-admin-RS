@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Sur\u010din"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0440\u0447\u0438\u043d"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"b5ae42154dc805cfa126cfc5d339958e",
     "wof:hierarchy":[],
     "wof:id":1444837151,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Surcin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

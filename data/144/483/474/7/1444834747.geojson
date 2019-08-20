@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0410\u0443\u0442\u043ek\u043e\u043c\u0430\u043d\u0434\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0443\u0442\u043ek\u043e\u043c\u0430\u043d\u0434\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"8c60ab7d606198fbc75361d88f716186",
     "wof:hierarchy":[],
     "wof:id":1444834747,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Autokomanda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

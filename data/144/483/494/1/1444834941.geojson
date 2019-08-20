@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0435\u043b\u043e \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043b\u043e \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"e3253c697850a14db5990e36c991f217",
     "wof:hierarchy":[],
     "wof:id":1444834941,
-    "wof:lastmodified":1566259118,
+    "wof:lastmodified":1566332699,
     "wof:name":"Selo Rakovica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

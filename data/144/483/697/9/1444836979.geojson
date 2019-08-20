@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u0443\u0441\u0438\u0458\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0441\u0438\u0458\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"75a50f5cf29c7dbf7e02da6508cbe9bb",
     "wof:hierarchy":[],
     "wof:id":1444836979,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Busije",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

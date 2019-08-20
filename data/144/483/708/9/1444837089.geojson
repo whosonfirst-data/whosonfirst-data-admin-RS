@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u041f\u0440\u0443\u0433\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u041f\u0440\u0443\u0433\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"4003a71ae330e8b7ea3d9c2b31a7085f",
     "wof:hierarchy":[],
     "wof:id":1444837089,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Mala Pruga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

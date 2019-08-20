@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "\u0160umice"
     ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u043c\u0438\u0446\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"d09cc3abda400b5e836cb74921c177b8",
     "wof:hierarchy":[],
     "wof:id":1444834767,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Sumice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

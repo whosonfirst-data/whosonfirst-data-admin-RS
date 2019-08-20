@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0443\u0442\u0458\u0435\u0441\u043a\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0442\u0458\u0435\u0441\u043a\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"f2880e87545758f0182b189190d78d32",
     "wof:hierarchy":[],
     "wof:id":1444836841,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332704,
     "wof:name":"Sutjeska",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

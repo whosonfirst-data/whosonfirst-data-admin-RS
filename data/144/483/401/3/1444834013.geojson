@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041d\u043e\u0432\u043e \u041d\u0430\u0441\u0435\u0459\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u041d\u0430\u0441\u0435\u0459\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"4cd38403bbe5b4497f94e10d028c8ea9",
     "wof:hierarchy":[],
     "wof:id":1444834013,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Novo Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0411\u0435\u043b\u0435 \u0412\u043e\u0434\u0435"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0435 \u0412\u043e\u0434\u0435"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"10f0fdbb351d8a3dd5f92488a16b1442",
     "wof:hierarchy":[],
     "wof:id":1444835557,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332701,
     "wof:name":"Bele Vode",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

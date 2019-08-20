@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0443 \u041a\u0430\u0440\u0430\u0431\u0443\u0440\u043c\u0443"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0443 \u041a\u0430\u0440\u0430\u0431\u0443\u0440\u043c\u0443"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"66ace8ea7f82409d5219602e7b7a880c",
     "wof:hierarchy":[],
     "wof:id":1444833629,
-    "wof:lastmodified":1566259113,
+    "wof:lastmodified":1566332696,
     "wof:name":"Stara Karaburma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Stara Bor\u010da"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0411\u043e\u0440\u0447\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"b0ca6eb9a5b50e5acae442ad1457f887",
     "wof:hierarchy":[],
     "wof:id":1444834159,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Stara Borca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

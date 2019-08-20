@@ -26,6 +26,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0417\u0431\u0435\u0433"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0417\u0431\u0435\u0433"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -34,7 +37,7 @@
     "wof:geomhash":"6e8832acdbe6f221b46ac6539f0f0227",
     "wof:hierarchy":[],
     "wof:id":1444834081,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Mali Zbeg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

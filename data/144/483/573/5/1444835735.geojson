@@ -30,6 +30,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"ab438433071839cd70dc3cb28cf22aff",
     "wof:hierarchy":[],
     "wof:id":1444835735,
-    "wof:lastmodified":1566259120,
+    "wof:lastmodified":1566332701,
     "wof:name":"Stara Bezanija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0440"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0440"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"c835d3404ba4d8f2f091ad5afb4687ef",
     "wof:hierarchy":[],
     "wof:id":1444837101,
-    "wof:lastmodified":1566259123,
+    "wof:lastmodified":1566332705,
     "wof:name":"Muhar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

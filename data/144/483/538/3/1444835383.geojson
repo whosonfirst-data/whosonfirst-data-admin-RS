@@ -30,6 +30,9 @@
     "name:srp_lat_x_preferred":[
         "Maki\u0161"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u0448"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -38,7 +41,7 @@
     "wof:geomhash":"9948afea544112ed3ddf0707670d266e",
     "wof:hierarchy":[],
     "wof:id":1444835383,
-    "wof:lastmodified":1566259119,
+    "wof:lastmodified":1566332700,
     "wof:name":"Makis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

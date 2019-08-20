@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041f\u0440\u0435\u0442\u043e\u043a"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0442\u043e\u043a"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"bf7da7fcff0e01c30dd1beadf9de5c8f",
     "wof:hierarchy":[],
     "wof:id":1444834059,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Pretok",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

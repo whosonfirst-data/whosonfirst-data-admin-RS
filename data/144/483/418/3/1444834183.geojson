@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"af72aaaeba8f0ccca17a9c94662ce276",
     "wof:hierarchy":[],
     "wof:id":1444834183,
-    "wof:lastmodified":1566259115,
+    "wof:lastmodified":1566332697,
     "wof:name":"Slatina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

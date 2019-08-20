@@ -27,6 +27,9 @@
     "name:srp_cyr_x_preferred":[
         "\u041c\u0430\u0440\u0438\u043d\u043a\u043e\u0432\u0430 \u0411\u0430\u0440\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u043a\u043e\u0432\u0430 \u0411\u0430\u0440\u0430"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[],
@@ -35,7 +38,7 @@
     "wof:geomhash":"aa43601f272ebdb16c9a82a09b8e7dfa",
     "wof:hierarchy":[],
     "wof:id":1444834825,
-    "wof:lastmodified":1566259117,
+    "wof:lastmodified":1566332699,
     "wof:name":"Marinkova Bara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
