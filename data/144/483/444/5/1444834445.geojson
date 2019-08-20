@@ -1,0 +1,60 @@
+{
+  "id": 1444834445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5034783372,44.8080565225,20.5034783372,44.8080565225",
+    "geom:latitude":44.808057,
+    "geom:longitude":20.503478,
+    "iso:country":"RS",
+    "lbl:latitude":44.808056,
+    "lbl:longitude":20.503478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Zvezdara 2"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0430\u0440\u0430 2"
+    ],
+    "name:srp_cyr_x_variant":[
+        "\u0417\u0432\u0435\u0437\u0434\u0430\u0440\u0430 II"
+    ],
+    "name:srp_lat_x_variant":[
+        "Zvezdara II"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"337dd39fdc474d703cdcbab4d27717db",
+    "wof:hierarchy":[],
+    "wof:id":1444834445,
+    "wof:lastmodified":1566259116,
+    "wof:name":"Zvezdara 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.503478337164335,
+    44.8080565225185,
+    20.503478337164335,
+    44.8080565225185
+],
+  "geometry": {"coordinates":[20.50347833716433,44.8080565225185],"type":"Point"}
+}

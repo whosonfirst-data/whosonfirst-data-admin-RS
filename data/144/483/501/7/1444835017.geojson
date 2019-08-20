@@ -1,0 +1,54 @@
+{
+  "id": 1444835017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5435249422,44.7197480021,20.5435249422,44.7197480021",
+    "geom:latitude":44.719748,
+    "geom:longitude":20.543525,
+    "iso:country":"RS",
+    "lbl:latitude":44.719748,
+    "lbl:longitude":20.543525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Bubanj Potok"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0411\u0443\u0431\u0430\u045a \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"a59fbadcc95e5179f58146a6e581a594",
+    "wof:hierarchy":[],
+    "wof:id":1444835017,
+    "wof:lastmodified":1566259118,
+    "wof:name":"Bubanj Potok",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.543524942163277,
+    44.71974800208121,
+    20.543524942163277,
+    44.71974800208121
+],
+  "geometry": {"coordinates":[20.54352494216328,44.71974800208121],"type":"Point"}
+}

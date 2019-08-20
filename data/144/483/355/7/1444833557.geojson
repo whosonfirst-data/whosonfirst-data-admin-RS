@@ -1,0 +1,51 @@
+{
+  "id": 1444833557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4754263788,44.8126739275,20.4754263788,44.8126739275",
+    "geom:latitude":44.812674,
+    "geom:longitude":20.475426,
+    "iso:country":"RS",
+    "lbl:latitude":44.812674,
+    "lbl:longitude":20.475426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Stara Palilula"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"f7a45430e52fd65c90b257953d5b903b",
+    "wof:hierarchy":[],
+    "wof:id":1444833557,
+    "wof:lastmodified":1566259113,
+    "wof:name":"Stara Palilula",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.475426378752907,
+    44.81267392754269,
+    20.475426378752907,
+    44.81267392754269
+],
+  "geometry": {"coordinates":[20.47542637875291,44.81267392754269],"type":"Point"}
+}

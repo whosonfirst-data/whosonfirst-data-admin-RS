@@ -1,0 +1,51 @@
+{
+  "id": 1444836985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3441811094,44.8864921834,20.3441811094,44.8864921834",
+    "geom:latitude":44.886492,
+    "geom:longitude":20.344181,
+    "iso:country":"RS",
+    "lbl:latitude":44.886492,
+    "lbl:longitude":20.344181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "13. Maj"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"4da7efb2e30915196d9580ed0827084e",
+    "wof:hierarchy":[],
+    "wof:id":1444836985,
+    "wof:lastmodified":1566259123,
+    "wof:name":"13. Maj",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.344181109437855,
+    44.88649218338899,
+    20.344181109437855,
+    44.88649218338899
+],
+  "geometry": {"coordinates":[20.34418110943786,44.88649218338899],"type":"Point"}
+}

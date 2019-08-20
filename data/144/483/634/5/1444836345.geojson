@@ -1,0 +1,54 @@
+{
+  "id": 1444836345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4139471892,44.8219957618,20.4139471892,44.8219957618",
+    "geom:latitude":44.821996,
+    "geom:longitude":20.413947,
+    "iso:country":"RS",
+    "lbl:latitude":44.821996,
+    "lbl:longitude":20.413947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 31"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 31"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"89c2b5db3b90810a52046674addb1898",
+    "wof:hierarchy":[],
+    "wof:id":1444836345,
+    "wof:lastmodified":1566259122,
+    "wof:name":"Blok 31",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.413947189157597,
+    44.82199576181709,
+    20.413947189157597,
+    44.82199576181709
+],
+  "geometry": {"coordinates":[20.4139471891576,44.82199576181709],"type":"Point"}
+}

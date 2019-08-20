@@ -1,0 +1,57 @@
+{
+  "id": 1444833977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5580506337,44.9177625075,20.5580506337,44.9177625075",
+    "geom:latitude":44.917763,
+    "geom:longitude":20.558051,
+    "iso:country":"RS",
+    "lbl:latitude":44.917763,
+    "lbl:longitude":20.558051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Jabucki Rit"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0408\u0430\u0431\u0443\u0447\u043a\u0438 \u0420\u0438\u0442"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Jabu\u010dki Rit"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"3e6b76bf68d3e22148b06aa8f12781d3",
+    "wof:hierarchy":[],
+    "wof:id":1444833977,
+    "wof:lastmodified":1566259114,
+    "wof:name":"Jabucki Rit",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55805063368516,
+    44.917762507507845,
+    20.55805063368516,
+    44.917762507507845
+],
+  "geometry": {"coordinates":[20.55805063368516,44.91776250750785],"type":"Point"}
+}

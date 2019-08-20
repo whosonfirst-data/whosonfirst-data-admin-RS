@@ -1,0 +1,57 @@
+{
+  "id": 1444834407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4639658467,44.7964422909,20.4639658467,44.7964422909",
+    "geom:latitude":44.796442,
+    "geom:longitude":20.463966,
+    "iso:country":"RS",
+    "lbl:latitude":44.796442,
+    "lbl:longitude":20.463966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Karadordev Park"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0452\u043e\u0440\u0452\u0435\u0432 \u043f\u0430\u0440\u043a"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Kara\u0111or\u0111ev Park"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"01ba87fec0a17fb1f8aaad586c50c467",
+    "wof:hierarchy":[],
+    "wof:id":1444834407,
+    "wof:lastmodified":1566259116,
+    "wof:name":"Karadordev Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.463965846661072,
+    44.79644229086732,
+    20.463965846661072,
+    44.79644229086732
+],
+  "geometry": {"coordinates":[20.46396584666107,44.79644229086732],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1444833845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4735237975,44.8588604379,20.4735237975,44.8588604379",
+    "geom:latitude":44.85886,
+    "geom:longitude":20.473524,
+    "iso:country":"RS",
+    "lbl:latitude":44.85886,
+    "lbl:longitude":20.473524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Dunavski Venac"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0441\u043a\u0438 \u0412\u0435\u043d\u0430\u0446"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"e7236f5eefde404c5f611d1cf08bde2c",
+    "wof:hierarchy":[],
+    "wof:id":1444833845,
+    "wof:lastmodified":1566259114,
+    "wof:name":"Dunavski Venac",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.473523797534373,
+    44.85886043790101,
+    20.473523797534373,
+    44.85886043790101
+],
+  "geometry": {"coordinates":[20.47352379753437,44.85886043790101],"type":"Point"}
+}

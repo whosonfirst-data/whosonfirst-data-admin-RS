@@ -1,0 +1,62 @@
+{
+  "id": 1444835885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4073739856,44.8055000628,20.4073739856,44.8055000628",
+    "geom:latitude":44.8055,
+    "geom:longitude":20.407374,
+    "iso:country":"RS",
+    "lbl:latitude":44.8055,
+    "lbl:longitude":20.407374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Belvil"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0411\u0435\u043b\u0432\u0438\u043b"
+    ],
+    "name:srp_cyr_x_variant":[
+        "\u0431\u043b\u043e\u043a 67",
+        "\u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442\u0441\u043a\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:srp_lat_x_variant":[
+        "Univerzitetsko Selo",
+        "Blok 67"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"bf64412ac4938e2b1b90930d025e2fb4",
+    "wof:hierarchy":[],
+    "wof:id":1444835885,
+    "wof:lastmodified":1566259120,
+    "wof:name":"Belvil",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40737398562444,
+    44.80550006283626,
+    20.40737398562444,
+    44.80550006283626
+],
+  "geometry": {"coordinates":[20.40737398562444,44.80550006283626],"type":"Point"}
+}

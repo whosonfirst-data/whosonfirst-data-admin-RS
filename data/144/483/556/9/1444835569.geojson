@@ -1,0 +1,57 @@
+{
+  "id": 1444835569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4004850476,44.745270351,20.4004850476,44.745270351",
+    "geom:latitude":44.74527,
+    "geom:longitude":20.400485,
+    "iso:country":"RS",
+    "lbl:latitude":44.74527,
+    "lbl:longitude":20.400485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Rupcine"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0420\u0443\u043f\u0447\u0438\u043d\u0435"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Rup\u010dine"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"80ba38650fb75a09d3a8312cdfad22c6",
+    "wof:hierarchy":[],
+    "wof:id":1444835569,
+    "wof:lastmodified":1566259119,
+    "wof:name":"Rupcine",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.400485047614072,
+    44.74527035101978,
+    20.400485047614072,
+    44.74527035101978
+],
+  "geometry": {"coordinates":[20.40048504761407,44.74527035101978],"type":"Point"}
+}

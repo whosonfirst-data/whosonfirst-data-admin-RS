@@ -1,0 +1,54 @@
+{
+  "id": 1444836287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4265356965,44.8115234933,20.4265356965,44.8115234933",
+    "geom:latitude":44.811523,
+    "geom:longitude":20.426536,
+    "iso:country":"RS",
+    "lbl:latitude":44.811523,
+    "lbl:longitude":20.426536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 22"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 22"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"257cc32dd2967daf606a6b082bf1cacf",
+    "wof:hierarchy":[],
+    "wof:id":1444836287,
+    "wof:lastmodified":1566259121,
+    "wof:name":"Blok 22",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42653569646811,
+    44.811523493348616,
+    20.42653569646811,
+    44.811523493348616
+],
+  "geometry": {"coordinates":[20.42653569646811,44.81152349334862],"type":"Point"}
+}

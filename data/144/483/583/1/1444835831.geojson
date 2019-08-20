@@ -1,0 +1,54 @@
+{
+  "id": 1444835831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4267145105,44.7989836977,20.4267145105,44.7989836977",
+    "geom:latitude":44.798984,
+    "geom:longitude":20.426715,
+    "iso:country":"RS",
+    "lbl:latitude":44.798984,
+    "lbl:longitude":20.426714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Mala Ciganlija"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0426\u0438\u0433\u0430\u043d\u043b\u0438\u0458\u0430"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"cb7a686ef5bc8264edca3c71d74a3444",
+    "wof:hierarchy":[],
+    "wof:id":1444835831,
+    "wof:lastmodified":1566259120,
+    "wof:name":"Mala Ciganlija",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.426714510492392,
+    44.79898369768454,
+    20.426714510492392,
+    44.79898369768454
+],
+  "geometry": {"coordinates":[20.42671451049239,44.79898369768454],"type":"Point"}
+}

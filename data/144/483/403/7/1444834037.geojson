@@ -1,0 +1,57 @@
+{
+  "id": 1444834037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5303845278,44.8512728782,20.5303845278,44.8512728782",
+    "geom:latitude":44.851273,
+    "geom:longitude":20.530385,
+    "iso:country":"RS",
+    "lbl:latitude":44.851273,
+    "lbl:longitude":20.530385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Sebes"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0421\u0435\u0431\u0435\u0448"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Sebe\u0161"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"fe4fead970dc665dc388e3066ab7601b",
+    "wof:hierarchy":[],
+    "wof:id":1444834037,
+    "wof:lastmodified":1566259115,
+    "wof:name":"Sebes",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.530384527845936,
+    44.85127287816485,
+    20.530384527845936,
+    44.85127287816485
+],
+  "geometry": {"coordinates":[20.53038452784594,44.85127287816485],"type":"Point"}
+}

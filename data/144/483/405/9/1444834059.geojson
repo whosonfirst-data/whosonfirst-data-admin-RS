@@ -1,0 +1,54 @@
+{
+  "id": 1444834059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4667553454,44.8920271645,20.4667553454,44.8920271645",
+    "geom:latitude":44.892027,
+    "geom:longitude":20.466755,
+    "iso:country":"RS",
+    "lbl:latitude":44.892027,
+    "lbl:longitude":20.466755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Pretok"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041f\u0440\u0435\u0442\u043e\u043a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"bf7da7fcff0e01c30dd1beadf9de5c8f",
+    "wof:hierarchy":[],
+    "wof:id":1444834059,
+    "wof:lastmodified":1566259115,
+    "wof:name":"Pretok",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.466755345440127,
+    44.892027164468615,
+    20.466755345440127,
+    44.892027164468615
+],
+  "geometry": {"coordinates":[20.46675534544013,44.89202716446862],"type":"Point"}
+}

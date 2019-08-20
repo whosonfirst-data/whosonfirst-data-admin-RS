@@ -1,0 +1,54 @@
+{
+  "id": 1444836185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4332304935,44.8096155497,20.4332304935,44.8096155497",
+    "geom:latitude":44.809616,
+    "geom:longitude":20.43323,
+    "iso:country":"RS",
+    "lbl:latitude":44.809615,
+    "lbl:longitude":20.43323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 19"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 19"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"99caa770aedfff65e449965fe4aa85f1",
+    "wof:hierarchy":[],
+    "wof:id":1444836185,
+    "wof:lastmodified":1566259121,
+    "wof:name":"Blok 19",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.433230493537792,
+    44.80961554972894,
+    20.433230493537792,
+    44.80961554972894
+],
+  "geometry": {"coordinates":[20.43323049353779,44.80961554972894],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1444836579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4062796438,44.834373316,20.4062796438,44.834373316",
+    "geom:latitude":44.834373,
+    "geom:longitude":20.40628,
+    "iso:country":"RS",
+    "lbl:latitude":44.834373,
+    "lbl:longitude":20.40628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 8a"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 8a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"306188fe187bad1138d23167307ccb35",
+    "wof:hierarchy":[],
+    "wof:id":1444836579,
+    "wof:lastmodified":1566259122,
+    "wof:name":"Blok 8a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40627964379574,
+    44.83437331598606,
+    20.40627964379574,
+    44.83437331598606
+],
+  "geometry": {"coordinates":[20.40627964379574,44.83437331598606],"type":"Point"}
+}

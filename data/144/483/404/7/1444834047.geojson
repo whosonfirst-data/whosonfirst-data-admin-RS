@@ -1,0 +1,54 @@
+{
+  "id": 1444834047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.356663127,44.9784279522,20.356663127,44.9784279522",
+    "geom:latitude":44.978428,
+    "geom:longitude":20.356663,
+    "iso:country":"RS",
+    "lbl:latitude":44.978428,
+    "lbl:longitude":20.356663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Vrbovski"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0412\u0440\u0431\u043e\u0432\u0441\u043a\u0438"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"723d781833a4aef7093ca6c60156c45c",
+    "wof:hierarchy":[],
+    "wof:id":1444834047,
+    "wof:lastmodified":1566259115,
+    "wof:name":"Vrbovski",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35666312696099,
+    44.978427952221196,
+    20.35666312696099,
+    44.978427952221196
+],
+  "geometry": {"coordinates":[20.35666312696099,44.9784279522212],"type":"Point"}
+}

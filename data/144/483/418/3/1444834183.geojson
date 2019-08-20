@@ -1,0 +1,54 @@
+{
+  "id": 1444834183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4959807096,44.8830880237,20.4959807096,44.8830880237",
+    "geom:latitude":44.883088,
+    "geom:longitude":20.495981,
+    "iso:country":"RS",
+    "lbl:latitude":44.883088,
+    "lbl:longitude":20.495981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Slatina"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"af72aaaeba8f0ccca17a9c94662ce276",
+    "wof:hierarchy":[],
+    "wof:id":1444834183,
+    "wof:lastmodified":1566259115,
+    "wof:name":"Slatina",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.495980709571217,
+    44.88308802365595,
+    20.495980709571217,
+    44.88308802365595
+],
+  "geometry": {"coordinates":[20.49598070957122,44.88308802365595],"type":"Point"}
+}

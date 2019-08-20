@@ -1,0 +1,54 @@
+{
+  "id": 1444837111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4144979364,44.8463374489,20.4144979364,44.8463374489",
+    "geom:latitude":44.846337,
+    "geom:longitude":20.414498,
+    "iso:country":"RS",
+    "lbl:latitude":44.846337,
+    "lbl:longitude":20.414498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Zemunski Kej"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0417\u0435\u043c\u0443\u043d\u0441\u043a\u0438 \u041a\u0435\u0458"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"9a7fc36d25ade85d5f7558153d444c1f",
+    "wof:hierarchy":[],
+    "wof:id":1444837111,
+    "wof:lastmodified":1566259123,
+    "wof:name":"Zemunski Kej",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.414497936352426,
+    44.84633744889984,
+    20.414497936352426,
+    44.84633744889984
+],
+  "geometry": {"coordinates":[20.41449793635243,44.84633744889984],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1444836601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4133177638,44.8321617841,20.4133177638,44.8321617841",
+    "geom:latitude":44.832162,
+    "geom:longitude":20.413318,
+    "iso:country":"RS",
+    "lbl:latitude":44.832162,
+    "lbl:longitude":20.413318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 9a"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 9a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"c00e5e4145fb2bcae3649a533a43a6ba",
+    "wof:hierarchy":[],
+    "wof:id":1444836601,
+    "wof:lastmodified":1566259122,
+    "wof:name":"Blok 9a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41331776379207,
+    44.832161784130584,
+    20.41331776379207,
+    44.832161784130584
+],
+  "geometry": {"coordinates":[20.41331776379207,44.83216178413058],"type":"Point"}
+}

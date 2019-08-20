@@ -1,0 +1,60 @@
+{
+  "id": 1444833991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4305061664,44.939922141,20.4305061664,44.939922141",
+    "geom:latitude":44.939922,
+    "geom:longitude":20.430506,
+    "iso:country":"RS",
+    "lbl:latitude":44.939922,
+    "lbl:longitude":20.430506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Padinska Skela"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041f\u0430\u0434\u0438\u043d\u0441\u043a\u0430 \u0421\u043a\u0435\u043b\u0430"
+    ],
+    "name:srp_cyr_x_variant":[
+        "\u041f\u0430\u0434\u0438\u045a\u0430\u043a"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Padinjak"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"d96a66e3b776aa0da3363c019b970a20",
+    "wof:hierarchy":[],
+    "wof:id":1444833991,
+    "wof:lastmodified":1566259115,
+    "wof:name":"Padinska Skela",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.430506166434643,
+    44.93992214097087,
+    20.430506166434643,
+    44.93992214097087
+],
+  "geometry": {"coordinates":[20.43050616643464,44.93992214097087],"type":"Point"}
+}

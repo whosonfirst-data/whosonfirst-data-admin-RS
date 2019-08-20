@@ -1,0 +1,57 @@
+{
+  "id": 1444834767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4946259482,44.7869627784,20.4946259482,44.7869627784",
+    "geom:latitude":44.786963,
+    "geom:longitude":20.494626,
+    "iso:country":"RS",
+    "lbl:latitude":44.786963,
+    "lbl:longitude":20.494626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Sumice"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0428\u0443\u043c\u0438\u0446\u0435"
+    ],
+    "name:srp_lat_x_preferred":[
+        "\u0160umice"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"d09cc3abda400b5e836cb74921c177b8",
+    "wof:hierarchy":[],
+    "wof:id":1444834767,
+    "wof:lastmodified":1566259117,
+    "wof:name":"Sumice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.494625948181913,
+    44.786962778432894,
+    20.494625948181913,
+    44.786962778432894
+],
+  "geometry": {"coordinates":[20.49462594818191,44.78696277843289],"type":"Point"}
+}

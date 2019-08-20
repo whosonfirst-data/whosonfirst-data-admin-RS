@@ -1,0 +1,54 @@
+{
+  "id": 1444836451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4019308867,44.8234162719,20.4019308867,44.8234162719",
+    "geom:latitude":44.823416,
+    "geom:longitude":20.401931,
+    "iso:country":"RS",
+    "lbl:latitude":44.823416,
+    "lbl:longitude":20.401931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 34"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 34"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"f9696c7456baa6fadf90227f3b670a22",
+    "wof:hierarchy":[],
+    "wof:id":1444836451,
+    "wof:lastmodified":1566259122,
+    "wof:name":"Blok 34",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40193088672484,
+    44.823416271888945,
+    20.40193088672484,
+    44.823416271888945
+],
+  "geometry": {"coordinates":[20.40193088672484,44.82341627188895],"type":"Point"}
+}

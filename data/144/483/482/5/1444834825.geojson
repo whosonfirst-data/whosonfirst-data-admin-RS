@@ -1,0 +1,54 @@
+{
+  "id": 1444834825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4948466558,44.7798650605,20.4948466558,44.7798650605",
+    "geom:latitude":44.779865,
+    "geom:longitude":20.494847,
+    "iso:country":"RS",
+    "lbl:latitude":44.779865,
+    "lbl:longitude":20.494847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Marinkova Bara"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u043a\u043e\u0432\u0430 \u0411\u0430\u0440\u0430"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"aa43601f272ebdb16c9a82a09b8e7dfa",
+    "wof:hierarchy":[],
+    "wof:id":1444834825,
+    "wof:lastmodified":1566259117,
+    "wof:name":"Marinkova Bara",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.494846655777618,
+    44.77986506054415,
+    20.494846655777618,
+    44.77986506054415
+],
+  "geometry": {"coordinates":[20.49484665577762,44.77986506054415],"type":"Point"}
+}

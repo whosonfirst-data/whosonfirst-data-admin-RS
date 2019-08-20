@@ -1,0 +1,63 @@
+{
+  "id": 1444835845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4405618685,44.8088493099,20.4405618685,44.8088493099",
+    "geom:latitude":44.808849,
+    "geom:longitude":20.440562,
+    "iso:country":"RS",
+    "lbl:latitude":44.808849,
+    "lbl:longitude":20.440562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Staro Sajmiste"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0421\u0430\u0458\u043c\u0438\u0448\u0442\u0435"
+    ],
+    "name:srp_cyr_x_variant":[
+        "\u0431\u043b\u043e\u043a 18"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Staro Sajmi\u0161te"
+    ],
+    "name:srp_lat_x_variant":[
+        "Blok 18"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"11a1c29c971e7409fd42ddb3917fb8f5",
+    "wof:hierarchy":[],
+    "wof:id":1444835845,
+    "wof:lastmodified":1566259120,
+    "wof:name":"Staro Sajmiste",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.440561868533955,
+    44.80884930992706,
+    20.440561868533955,
+    44.80884930992706
+],
+  "geometry": {"coordinates":[20.44056186853395,44.80884930992706],"type":"Point"}
+}
