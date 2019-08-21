@@ -1,0 +1,79 @@
+{
+  "id": 1444834613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5244200139,44.7951983817,20.5244200139,44.7951983817",
+    "geom:latitude":44.795198,
+    "geom:longitude":20.52442,
+    "iso:country":"RS",
+    "lbl:latitude":44.795198,
+    "lbl:longitude":20.52442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Mirijevo I"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041c\u0438\u0440\u0438\u0458\u0435\u0432\u043e I"
+    ],
+    "name:srp_lat_x_variant":[
+        "Staro Mirijevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0438\u0458\u0435\u0432\u043e I"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"865c6963f5bb34f55c1d075ebd4dd755",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834613,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444834613,
+    "wof:lastmodified":1566337435,
+    "wof:name":"Mirijevo I",
+    "wof:parent_id":1393843457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52442001389558,
+    44.79519838174899,
+    20.52442001389558,
+    44.79519838174899
+],
+  "geometry": {"coordinates":[20.52442001389558,44.79519838174899],"type":"Point"}
+}

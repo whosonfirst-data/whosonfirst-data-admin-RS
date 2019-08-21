@@ -1,0 +1,76 @@
+{
+  "id": 1444837197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1433014345,44.7936137409,20.1433014345,44.7936137409",
+    "geom:latitude":44.793614,
+    "geom:longitude":20.143301,
+    "iso:country":"RS",
+    "lbl:latitude":44.793614,
+    "lbl:longitude":20.143301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Petrovcic"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0447\u0438\u045b"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Petrov\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0447\u0438\u045b"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810099,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"b48c7e89ff9cbe8deaeca347a997f4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810099,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444837197,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444837197,
+    "wof:lastmodified":1566337717,
+    "wof:name":"Petrovcic",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14330143454259,
+    44.7936137409019,
+    20.14330143454259,
+    44.7936137409019
+],
+  "geometry": {"coordinates":[20.14330143454259,44.7936137409019],"type":"Point"}
+}

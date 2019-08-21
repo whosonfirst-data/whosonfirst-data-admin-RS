@@ -1,0 +1,67 @@
+{
+  "id": 1444834025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4281315162,44.9439318374,20.4281315162,44.9439318374",
+    "geom:latitude":44.943932,
+    "geom:longitude":20.428132,
+    "iso:country":"RS",
+    "lbl:latitude":44.943932,
+    "lbl:longitude":20.428131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Staro Naselje"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810015,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"a756ff852c2361a2fb5e17e3e1bf9115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810015,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834025,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444834025,
+    "wof:lastmodified":1566337367,
+    "wof:name":"Staro Naselje",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42813151619197,
+    44.9439318373841,
+    20.42813151619197,
+    44.9439318373841
+],
+  "geometry": {"coordinates":[20.42813151619197,44.9439318373841],"type":"Point"}
+}

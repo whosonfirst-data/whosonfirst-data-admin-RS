@@ -1,0 +1,76 @@
+{
+  "id": 1444836229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4372359277,44.8157045108,20.4372359277,44.8157045108",
+    "geom:latitude":44.815705,
+    "geom:longitude":20.437236,
+    "iso:country":"RS",
+    "lbl:latitude":44.815705,
+    "lbl:longitude":20.437236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Blok 16"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0431\u043b\u043e\u043a 16"
+    ],
+    "name:srp_x_preferred":[
+        "\u0431\u043b\u043e\u043a 16"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"9e2425a60e76f8655c74f7d3a7c44ae2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836229,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444836229,
+    "wof:lastmodified":1566337613,
+    "wof:name":"Blok 16",
+    "wof:parent_id":1393843443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43723592768204,
+    44.81570451077491,
+    20.43723592768204,
+    44.81570451077491
+],
+  "geometry": {"coordinates":[20.43723592768204,44.81570451077491],"type":"Point"}
+}

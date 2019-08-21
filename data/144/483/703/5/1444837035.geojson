@@ -1,0 +1,79 @@
+{
+  "id": 1444837035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3176880236,44.8657719651,20.3176880236,44.8657719651",
+    "geom:latitude":44.865772,
+    "geom:longitude":20.317688,
+    "iso:country":"RS",
+    "lbl:latitude":44.865772,
+    "lbl:longitude":20.317688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Skolsko Dobro"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0428\u043a\u043e\u043b\u0441\u043a\u043e \u0414\u043e\u0431\u0440\u043e"
+    ],
+    "name:srp_lat_x_preferred":[
+        "\u0160kolsko Dobro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043a\u043e\u043b\u0441\u043a\u043e \u0414\u043e\u0431\u0440\u043e"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"05ac6e6104a8d0f0d1f7c16f4a56ce24",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444837035,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444837035,
+    "wof:lastmodified":1566337698,
+    "wof:name":"Skolsko Dobro",
+    "wof:parent_id":1393843435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31768802359801,
+    44.86577196509275,
+    20.31768802359801,
+    44.86577196509275
+],
+  "geometry": {"coordinates":[20.31768802359801,44.86577196509275],"type":"Point"}
+}

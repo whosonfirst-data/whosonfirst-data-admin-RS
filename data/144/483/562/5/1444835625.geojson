@@ -1,0 +1,76 @@
+{
+  "id": 1444835625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4346885942,44.6787036049,20.4346885942,44.6787036049",
+    "geom:latitude":44.678704,
+    "geom:longitude":20.434689,
+    "iso:country":"RS",
+    "lbl:latitude":44.678704,
+    "lbl:longitude":20.434689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Drobnjacki kraj"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0414\u0440\u043e\u0431\u045a\u0430\u0447\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Drobnja\u010dki kraj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u043e\u0431\u045a\u0430\u0447\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108809881,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"8d0fc7505fa4a7b347e899fb525d6dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809881,
+            "locality_id":-1,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835625,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444835625,
+    "wof:lastmodified":1566337540,
+    "wof:name":"Drobnjacki kraj",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4346885941816,
+    44.67870360491793,
+    20.4346885941816,
+    44.67870360491793
+],
+  "geometry": {"coordinates":[20.4346885941816,44.67870360491793],"type":"Point"}
+}

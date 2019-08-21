@@ -1,0 +1,79 @@
+{
+  "id": 1444834573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.507182342,44.786133973,20.507182342,44.786133973",
+    "geom:latitude":44.786134,
+    "geom:longitude":20.507182,
+    "iso:country":"RS",
+    "lbl:latitude":44.786134,
+    "lbl:longitude":20.507182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Uciteljsko Naselje"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0423\u0447\u0438\u0442\u0435\u0459\u0441\u043a\u043e \u043d\u0430\u0441\u0435\u0459\u0435"
+    ],
+    "name:srp_lat_x_preferred":[
+        "U\u010diteljsko Naselje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0447\u0438\u0442\u0435\u0459\u0441\u043a\u043e \u043d\u0430\u0441\u0435\u0459\u0435"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843457
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"371cc029d1eef104dd2537ddc9e32543",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843457,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444834573,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444834573,
+    "wof:lastmodified":1566337430,
+    "wof:name":"Uciteljsko Naselje",
+    "wof:parent_id":1393843457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50718234195336,
+    44.78613397298137,
+    20.50718234195336,
+    44.78613397298137
+],
+  "geometry": {"coordinates":[20.50718234195336,44.78613397298137],"type":"Point"}
+}

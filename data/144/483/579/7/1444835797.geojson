@@ -1,0 +1,73 @@
+{
+  "id": 1444835797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3787637417,44.8050940803,20.3787637417,44.8050940803",
+    "geom:latitude":44.805094,
+    "geom:longitude":20.378764,
+    "iso:country":"RS",
+    "lbl:latitude":44.805094,
+    "lbl:longitude":20.378764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Bezanijski blokovi"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Be\u017eanijski blokoviL"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843443
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"f59f02e44ecbb977df8fc0844ff1d2d4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843443,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444835797,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444835797,
+    "wof:lastmodified":1566337560,
+    "wof:name":"Bezanijski blokovi",
+    "wof:parent_id":1393843443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37876374173692,
+    44.80509408027737,
+    20.37876374173692,
+    44.80509408027737
+],
+  "geometry": {"coordinates":[20.37876374173692,44.80509408027737],"type":"Point"}
+}

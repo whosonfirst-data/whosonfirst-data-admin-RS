@@ -1,0 +1,76 @@
+{
+  "id": 1444836921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3830338206,44.8481883963,20.3830338206,44.8481883963",
+    "geom:latitude":44.848188,
+    "geom:longitude":20.383034,
+    "iso:country":"RS",
+    "lbl:latitude":44.848188,
+    "lbl:longitude":20.383034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Meandri"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u041c\u0435\u0430\u043d\u0434\u0440\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0430\u043d\u0434\u0440\u0438"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85688279,
+        102191581,
+        1108810063,
+        85633755,
+        404228357,
+        890476941,
+        1393843435
+    ],
+    "wof:breaches":[],
+    "wof:country":"RS",
+    "wof:geomhash":"6fd0043c7f818186d4248b77b21ccd80",
+    "wof:hierarchy":[
+        {
+            "borough_id":1393843435,
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810063,
+            "locality_id":890476941,
+            "macroregion_id":404228357,
+            "neighbourhood_id":1444836921,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":1444836921,
+    "wof:lastmodified":1566337684,
+    "wof:name":"Meandri",
+    "wof:parent_id":1393843435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38303382063711,
+    44.84818839631785,
+    20.38303382063711,
+    44.84818839631785
+],
+  "geometry": {"coordinates":[20.38303382063711,44.84818839631785],"type":"Point"}
+}
