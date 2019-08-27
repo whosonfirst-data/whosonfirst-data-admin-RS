@@ -30,7 +30,7 @@
     "name:srp_cyr_x_variant":[
         "\u0431\u043b\u043e\u043a 9\u0431"
     ],
-    "name:srp_lat.b_x_preferred":[
+    "name:srp_lat_x_preferred":[
         "Blok 9b"
     ],
     "name:srp_x_preferred":[
@@ -39,13 +39,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843435
+        1393843435,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1444836593,
-    "wof:lastmodified":1566337647,
+    "wof:lastmodified":1566948384,
     "wof:name":"Retenzija",
     "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",

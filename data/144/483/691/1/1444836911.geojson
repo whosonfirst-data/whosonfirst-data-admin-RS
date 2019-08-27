@@ -24,11 +24,11 @@
     "name:eng_x_preferred":[
         "Backi Ilovik"
     ],
-    "name:srp.lat_x_preferred":[
-        "Ba\u010dki Ilovik"
-    ],
     "name:srp_cyr_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0438 \u0418\u043b\u043e\u0432\u0438\u043a"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Ba\u010dki Ilovik"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0438 \u0418\u043b\u043e\u0432\u0438\u043a"
@@ -36,13 +36,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843435
+        1393843435,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1444836911,
-    "wof:lastmodified":1566337683,
+    "wof:lastmodified":1566948403,
     "wof:name":"Backi Ilovik",
     "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",
