@@ -24,11 +24,11 @@
     "name:eng_x_preferred":[
         "Bezanijska Kosa"
     ],
-    "name:srp.lat_x_preferred":[
-        "Be\u017eanijska Kosa"
-    ],
     "name:srp_cyr_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0441\u043a\u0430 \u041a\u043e\u0441\u0430"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Be\u017eanijska Kosa"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0441\u043a\u0430 \u041a\u043e\u0441\u0430"
@@ -36,13 +36,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843443
+        1393843443,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1444835725,
-    "wof:lastmodified":1566337551,
+    "wof:lastmodified":1566948392,
     "wof:name":"Bezanijska Kosa",
     "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
