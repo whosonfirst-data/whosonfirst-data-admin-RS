@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.984743,
     "lbl:longitude":21.438371,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Pomoravski",
     "meso:name_loc":"\u041f\u043e\u043c\u043e\u0440\u0430\u0432\u0441\u043a\u0438",
     "mps:latitude":43.984628,
@@ -156,7 +157,7 @@
         "Pomoravlje"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bae\u0bcb\u0bb0\u0bb5\u0bcd\u0bb2\u0b9c\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0bae\u0bcb\u0bb0\u0bb5\u0bcd\u0bb2\u0b9c\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4b\u0c2e\u0c4b\u0c30\u0c3e\u0c35\u0c32\u0c4d\u0c1c\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -194,9 +195,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"2,614",
     "statoids:area_mi":"1,009",
     "statoids:as_of_date":"2011-10-22",
@@ -244,11 +245,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733934,
+    "wof:lastmodified":1566611907,
     "wof:name":"Pomoravski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":214536,
     "wof:population_rank":10,

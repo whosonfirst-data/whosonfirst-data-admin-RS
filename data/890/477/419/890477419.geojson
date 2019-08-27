@@ -11,11 +11,15 @@
     "geom:longitude":21.41328,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.39328,43.65739,21.43328,43.69739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stala\u0107"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":785594,
         "gp:id":536839,
-        "qs:id":129424,
+        "qs_pg:id":129424,
         "wd:id":"Q3178911",
         "wk:page":"Stala\u0107"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890477419,
-    "wof:lastmodified":1563589299,
+    "wof:lastmodified":1566612551,
     "wof:name":"Stala\u0107",
     "wof:parent_id":1108809871,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.67142,43.45418,21.71142,43.49418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Belja"
     ],
@@ -45,7 +49,6 @@
         "\u0411\u0435\u0459\u0430"
     ],
     "name:und_x_variant":[
-        "Belja",
         "Belje Male"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1344175319,
-    "wof:lastmodified":1564103185,
+    "wof:lastmodified":1566611881,
     "wof:name":"Relja",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

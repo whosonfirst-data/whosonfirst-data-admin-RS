@@ -11,10 +11,14 @@
     "geom:longitude":20.81235,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"20.79235,43.61462,20.83235,43.65462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Gra\u010dac"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":790268,
         "gp:id":535685,
-        "qs:id":553926,
+        "qs_pg:id":553926,
         "wd:id":"Q540717",
         "wk:page":"Gra\u010dac"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476733,
-    "wof:lastmodified":1563589162,
+    "wof:lastmodified":1566612508,
     "wof:name":"Gra\u010dac",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

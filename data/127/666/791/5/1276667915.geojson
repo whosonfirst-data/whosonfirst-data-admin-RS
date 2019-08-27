@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.00567,44.26499,21.04567,44.30499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Radovanje"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276667915,
-    "wof:lastmodified":1564103547,
+    "wof:lastmodified":1566612069,
     "wof:name":"Radovanje",
     "wof:parent_id":1108810131,
     "wof:placetype":"locality",

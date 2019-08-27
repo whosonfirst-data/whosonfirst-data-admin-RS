@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.93587,43.50851,19.97587,43.54851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Dra\u0161kovi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293901805,
-    "wof:lastmodified":1537684008,
+    "wof:lastmodified":1566611935,
     "wof:name":"Draskovici",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

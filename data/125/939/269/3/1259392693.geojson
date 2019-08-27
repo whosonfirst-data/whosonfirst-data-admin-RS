@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.27821,42.6605,22.31821,42.7005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0160ojina Mahala"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259392693,
-    "wof:lastmodified":1537683875,
+    "wof:lastmodified":1566612685,
     "wof:name":"Sojina Mahala",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

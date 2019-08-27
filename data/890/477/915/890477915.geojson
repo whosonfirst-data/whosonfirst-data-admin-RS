@@ -11,10 +11,14 @@
     "geom:longitude":21.53874,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":368,
+    "gn:population":368,
     "iso:country":"RS",
+    "lbl:bbox":"21.51874,43.2029,21.55874,43.2429",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "\u010cukovac"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":834600,
         "gp:id":536165,
-        "qs:id":554392
+        "qs_pg:id":554392
     },
     "wof:country":"RS",
     "wof:created":1469054137,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890477915,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612540,
     "wof:name":"\u010cukovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

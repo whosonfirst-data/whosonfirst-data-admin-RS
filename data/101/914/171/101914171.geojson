@@ -13,10 +13,13 @@
     "iso:country":"RS",
     "lbl:latitude":43.303804,
     "lbl:longitude":21.972563,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.303804,
     "mps:longitude":21.972563,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0634"
     ],
@@ -277,7 +280,7 @@
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688285,
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":101914171,
-    "wof:lastmodified":1563589043,
+    "wof:lastmodified":1566612458,
     "wof:name":"Ni\u00b5",
     "wof:parent_id":1108809989,
     "wof:placetype":"locality",

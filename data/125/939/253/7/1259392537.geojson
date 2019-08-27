@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.68933,42.3159,21.72933,42.3559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043a\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
@@ -57,8 +61,6 @@
         "\u0411\u0443\u043a\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
-        "Bukarevac",
-        "Bukurevac",
         "Bukorovce",
         "Bukorovac",
         "Bukorevac"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1259392537,
-    "wof:lastmodified":1564104545,
+    "wof:lastmodified":1566612687,
     "wof:name":"Bukurevac",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

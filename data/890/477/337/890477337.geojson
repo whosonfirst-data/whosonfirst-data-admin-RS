@@ -11,10 +11,14 @@
     "geom:longitude":19.62097,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3574,
+    "gn:population":3574,
     "iso:country":"RS",
+    "lbl:bbox":"19.60097,45.42967,19.64097,45.46967",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ravno Selo"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u043d\u0435 \u0421\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nove \u0160ve"
     ],
     "qs:name":"Ravno Selo",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3191802,
         "gp:id":536347,
-        "qs:id":1043956,
+        "qs_pg:id":1043956,
         "wd:id":"Q1048292",
         "wk:page":"Ravno Selo"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477337,
-    "wof:lastmodified":1563589213,
+    "wof:lastmodified":1566612522,
     "wof:name":"Ravno Selo",
     "wof:parent_id":1108810149,
     "wof:placetype":"locality",

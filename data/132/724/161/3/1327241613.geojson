@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.36431,43.63703,21.40431,43.67703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mrzenica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327241613,
-    "wof:lastmodified":1564102938,
+    "wof:lastmodified":1566611748,
     "wof:name":"Mrzenica",
     "wof:parent_id":1108809871,
     "wof:placetype":"locality",

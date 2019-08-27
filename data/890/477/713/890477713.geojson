@@ -11,11 +11,15 @@
     "geom:longitude":20.38197,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4283,
+    "gn:population":4283,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.36197,45.18813,20.40197,45.22813",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Perlez"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_variant":[
         "\u041f\u0435\u0440\u043b\u0435\u0437"
     ],
-    "name:unk_x_variant":[
-        "Perlasz"
-    ],
     "qs:name":"Perlez",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Srednji Banat",
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":787123,
         "gp:id":535909,
-        "qs:id":170934,
+        "qs_pg:id":170934,
         "wd:id":"Q1079713",
         "wk:page":"Perlez"
     },
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":890477713,
-    "wof:lastmodified":1563589264,
+    "wof:lastmodified":1566612540,
     "wof:name":"Perlez",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

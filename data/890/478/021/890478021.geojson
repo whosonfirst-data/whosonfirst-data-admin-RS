@@ -11,10 +11,14 @@
     "geom:longitude":21.14571,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":78,
+    "gn:population":78,
     "iso:country":"RS",
+    "lbl:bbox":"21.12571,45.15938,21.16571,45.19938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Laudonovac"
     ],
@@ -42,9 +46,6 @@
     "name:srp_x_preferred":[
         "\u041b\u0430\u0443\u0434\u043e\u043d\u043e\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
-        "Laudonovac"
-    ],
     "qs:name":"Laudanovac",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":864059,
         "gp:id":535314,
-        "qs:id":554604,
+        "qs_pg:id":554604,
         "wd:id":"Q947279"
     },
     "wof:country":"RS",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":890478021,
-    "wof:lastmodified":1561831302,
+    "wof:lastmodified":1566612495,
     "wof:name":"Laudanovac",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

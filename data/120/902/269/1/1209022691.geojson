@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.64348,43.30596,21.68348,43.34596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kovanluk"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209022691,
-    "wof:lastmodified":1564103772,
+    "wof:lastmodified":1566612185,
     "wof:name":"Kovanluk",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

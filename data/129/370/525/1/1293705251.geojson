@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.86778,43.12833,19.90778,43.16833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Nika\u010de"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293705251,
-    "wof:lastmodified":1537684026,
+    "wof:lastmodified":1566611951,
     "wof:name":"Nikace",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

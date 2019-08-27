@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.43448,44.09684,22.47448,44.13684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Klenovac"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259493285,
-    "wof:lastmodified":1564104591,
+    "wof:lastmodified":1566612711,
     "wof:name":"Klenovac",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

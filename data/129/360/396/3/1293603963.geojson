@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.93549,42.48586,21.97549,42.52586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043b\u0430\u0434\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1293603963,
-    "wof:lastmodified":1564103367,
+    "wof:lastmodified":1566611977,
     "wof:name":"Mladenovac",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

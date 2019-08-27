@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.42192,44.72773,20.43192,44.73773",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Kne\u017eevac"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1393843499,
-    "wof:lastmodified":1564104217,
+    "wof:lastmodified":1566612448,
     "wof:name":"Knezevac",
     "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",

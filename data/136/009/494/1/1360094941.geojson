@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.07396,43.51155,21.11396,43.55155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pajsak"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1360094941,
-    "wof:lastmodified":1564104148,
+    "wof:lastmodified":1566612410,
     "wof:name":"Pajsak",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

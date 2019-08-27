@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.90168,46.04736,19.94168,46.08736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Male Pijace"
     ],
@@ -61,8 +65,7 @@
         "\u041c\u0430\u043b\u0435 \u041f\u0438\u044f\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Mala Pijaca",
-        "Kispiac"
+        "Mala Pijaca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1360218759,
-    "wof:lastmodified":1564104205,
+    "wof:lastmodified":1566612437,
     "wof:name":"Male Pijace",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

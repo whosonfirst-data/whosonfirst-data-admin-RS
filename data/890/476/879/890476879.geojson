@@ -11,10 +11,14 @@
     "geom:longitude":20.62272,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2149,
+    "gn:population":2149,
     "iso:country":"RS",
+    "lbl:bbox":"20.60272,45.24855,20.64272,45.28855",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Toma\u0161evac"
     ],
@@ -57,7 +61,7 @@
     "name:srp_x_variant":[
         "\u0422\u043e\u043c\u0430\u0448\u0435\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tomaschewatz"
     ],
     "qs:name":"Toma\u0161evac",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":785041,
         "gp:id":537125,
-        "qs:id":275717,
+        "qs_pg:id":275717,
         "wd:id":"Q1089344",
         "wk:page":"Toma\u0161evac"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890476879,
-    "wof:lastmodified":1563589174,
+    "wof:lastmodified":1566612511,
     "wof:name":"Toma\u0161evac",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

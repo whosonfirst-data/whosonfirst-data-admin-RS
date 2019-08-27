@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.21861,45.23167,19.25861,45.27167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Donji Panjik"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243278673,
-    "wof:lastmodified":1537683953,
+    "wof:lastmodified":1566612668,
     "wof:name":"Donji Panjik",
     "wof:parent_id":85684741,
     "wof:placetype":"locality",

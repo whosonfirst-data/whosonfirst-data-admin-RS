@@ -11,10 +11,14 @@
     "geom:longitude":20.94133,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.92133,43.59107,20.96133,43.63107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dublje"
     ],
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":836947,
         "gp:id":537608,
-        "qs:id":554429,
+        "qs_pg:id":554429,
         "wd:id":"Q2737943",
         "wk:page":"Dublje"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890477971,
-    "wof:lastmodified":1563589273,
+    "wof:lastmodified":1566612543,
     "wof:name":"Dublje",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":20.09175,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2376,
+    "gn:population":2376,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.07175,44.85393,20.11175,44.89393",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0160imanovci"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":785903,
         "gp:id":536656,
-        "qs:id":243667,
+        "qs_pg:id":243667,
         "wd:id":"Q1065816"
     },
     "wof:country":"RS",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890477729,
-    "wof:lastmodified":1563589360,
+    "wof:lastmodified":1566612569,
     "wof:name":"\u00c5 imanovci",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

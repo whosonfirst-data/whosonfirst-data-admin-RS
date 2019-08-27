@@ -13,10 +13,13 @@
     "iso:country":"RS",
     "lbl:latitude":43.887141,
     "lbl:longitude":20.349967,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.887141,
     "mps:longitude":20.349967,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "\u010ca\u010dak"
     ],
@@ -313,7 +316,7 @@
     "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2665,
     "wof:belongsto":[
@@ -327,7 +330,7 @@
     "wof:concordances":{
         "gn:id":792078,
         "gp:id":533088,
-        "qs:id":1078931,
+        "qs_pg:id":1078931,
         "wd:id":"Q208038",
         "wk:page":"\u010ca\u010dak"
     },
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":101912525,
-    "wof:lastmodified":1563589029,
+    "wof:lastmodified":1566612455,
     "wof:name":"\u010ca\u010dak",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

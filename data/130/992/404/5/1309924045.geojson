@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.45465,44.76296,19.49465,44.80296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ma\u0161i\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309924045,
-    "wof:lastmodified":1537683981,
+    "wof:lastmodified":1566612475,
     "wof:name":"Masici",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

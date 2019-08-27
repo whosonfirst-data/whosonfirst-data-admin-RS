@@ -11,10 +11,14 @@
     "geom:longitude":21.37009,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":143,
+    "gn:population":143,
     "iso:country":"RS",
+    "lbl:bbox":"21.35009,42.99997,21.39009,43.03997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0445\u0430\u043d\u0435"
     ],
@@ -48,7 +52,7 @@
     "name:srp_x_variant":[
         "\u041c\u0435\u0445\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mejane"
     ],
     "qs:name":"Mehane",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":788046,
         "gp:id":536199,
-        "qs:id":553816,
+        "qs_pg:id":553816,
         "wd:id":"Q2730184",
         "wk:page":"Mehane"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890477853,
-    "wof:lastmodified":1563589327,
+    "wof:lastmodified":1566612559,
     "wof:name":"Mehane",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":22.17472,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424890,
     "iso:country":"RS",
+    "lbl:bbox":"22.15472,42.40556,22.19472,42.44556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0434\u0436\u0438\u043b\u0430\u0440\u0438"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":861147,
         "gp:id":482525,
-        "qs:id":475586,
+        "qs_pg:id":475586,
         "wd:id":"Q3133887",
         "wk:page":"Miladinovci"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890477447,
-    "wof:lastmodified":1563589221,
+    "wof:lastmodified":1566612525,
     "wof:name":"Miladinovci",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

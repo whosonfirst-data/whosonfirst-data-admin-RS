@@ -11,10 +11,14 @@
     "geom:longitude":19.63601,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1246,
+    "gn:population":1246,
     "iso:country":"RS",
+    "lbl:bbox":"19.61601,44.59503,19.65601,44.63503",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sino\u0161evi\u0107"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3190855,
         "gp:id":537305,
-        "qs:id":1043926,
+        "qs_pg:id":1043926,
         "wd:id":"Q2736590",
         "wk:page":"Sino\u0161evi\u0107"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477153,
-    "wof:lastmodified":1563589282,
+    "wof:lastmodified":1566612546,
     "wof:name":"Sino\u0161evi\u0107",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

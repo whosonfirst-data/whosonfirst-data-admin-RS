@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.41503,44.33286,19.45503,44.37286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tolisavac"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226360675,
-    "wof:lastmodified":1564104801,
+    "wof:lastmodified":1566612835,
     "wof:name":"Tolisavac",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":19.7715,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1690,
+    "gn:population":1690,
     "iso:country":"RS",
+    "lbl:bbox":"19.7515,44.53376,19.7915,44.57376",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brdarica"
     ],
@@ -45,7 +49,7 @@
     "name:srp_x_variant":[
         "\u0411\u0440\u0434\u0430\u0440\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brdarice"
     ],
     "qs:name":"Brdarica",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3203497,
         "gp:id":533649,
-        "qs:id":147316,
+        "qs_pg:id":147316,
         "wd:id":"Q726458",
         "wk:page":"Brdarica"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890477067,
-    "wof:lastmodified":1563589338,
+    "wof:lastmodified":1566612561,
     "wof:name":"Brdarica",
     "wof:parent_id":1108809921,
     "wof:placetype":"locality",

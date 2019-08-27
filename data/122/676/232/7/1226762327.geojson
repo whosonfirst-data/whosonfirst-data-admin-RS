@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.60546,42.34277,21.64546,42.38277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u043f\u043e\u0434\u0436\u0438\u043d\u0446\u0435"
     ],
@@ -57,8 +61,7 @@
         "\u0413\u043e\u0441\u043f\u043e\u0452\u0438\u043d\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Gospon\u0111ince",
-        "Gospoinc\u00eb"
+        "Gospon\u0111ince"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1226762327,
-    "wof:lastmodified":1564104742,
+    "wof:lastmodified":1566612800,
     "wof:name":"Gospogince",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

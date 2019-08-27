@@ -11,10 +11,14 @@
     "geom:longitude":20.28382,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3393,
+    "gn:population":3393,
     "iso:country":"RS",
+    "lbl:bbox":"20.26382,44.9642,20.30382,45.0042",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stari Banovci"
     ],
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":785541,
         "gp:id":536870,
-        "qs:id":1028973,
+        "qs_pg:id":1028973,
         "wd:id":"Q1092456",
         "wk:page":"Stari Banovci"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477743,
-    "wof:lastmodified":1563589342,
+    "wof:lastmodified":1566612563,
     "wof:name":"Stari Banovci",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

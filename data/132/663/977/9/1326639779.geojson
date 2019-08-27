@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.33221,42.85917,20.37221,42.89917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrba"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1326639779,
-    "wof:lastmodified":1564103013,
+    "wof:lastmodified":1566611792,
     "wof:name":"Vrba",
     "wof:parent_id":1108810119,
     "wof:placetype":"locality",

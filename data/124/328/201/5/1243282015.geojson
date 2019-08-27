@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.74294,43.96508,20.78294,44.00508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sumorovac"
     ],
@@ -45,8 +49,7 @@
         "\u0421\u0443\u043c\u043e\u0440\u043e\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
-        "Sumarov",
-        "Sumorovac"
+        "Sumarov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1243282015,
-    "wof:lastmodified":1564104518,
+    "wof:lastmodified":1566612675,
     "wof:name":"Sumorovac",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

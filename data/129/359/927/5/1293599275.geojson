@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.38596,44.49534,20.42596,44.53534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0438\u043d\u0430"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293599275,
-    "wof:lastmodified":1564103343,
+    "wof:lastmodified":1566611965,
     "wof:name":"Beljina",
     "wof:parent_id":1108809835,
     "wof:placetype":"locality",

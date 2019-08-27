@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.78264,43.95919,20.82264,43.99919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688319,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327040097,
-    "wof:lastmodified":1536749070,
+    "wof:lastmodified":1566611769,
     "wof:name":"Duriselo",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

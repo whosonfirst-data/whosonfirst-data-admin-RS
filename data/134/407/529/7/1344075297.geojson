@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.18472,44.39194,19.22472,44.43194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e4\u05d5\u05d1\u05d9\u05e5'"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344075297,
-    "wof:lastmodified":1564103094,
+    "wof:lastmodified":1566611835,
     "wof:name":"Popovici",
     "wof:parent_id":1108809971,
     "wof:placetype":"locality",

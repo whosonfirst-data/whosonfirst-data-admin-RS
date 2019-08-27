@@ -11,10 +11,14 @@
     "geom:longitude":21.53462,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":41,
+    "gn:population":41,
     "iso:country":"RS",
+    "lbl:bbox":"21.51462,43.12419,21.55462,43.16419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Jabu\u010devo"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":789940,
         "gp:id":537761,
-        "qs:id":83708,
+        "qs_pg:id":83708,
         "wd:id":"Q2735224",
         "wk:page":"Jabu\u010devo"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890476667,
-    "wof:lastmodified":1563589140,
+    "wof:lastmodified":1566612502,
     "wof:name":"Jabu\u010devo",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

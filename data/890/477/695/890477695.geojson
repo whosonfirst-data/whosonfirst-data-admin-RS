@@ -11,11 +11,15 @@
     "geom:longitude":20.22487,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":7592,
+    "gn:population":7592,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.20487,44.80631,20.24487,44.84631",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0627\u0646\u0648\u0641\u062a\u0633\u064a"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Dobanov\u00e7e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobanovce"
     ],
     "name:zho_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":791471,
         "gp:id":533371,
-        "qs:id":1343115,
+        "qs_pg:id":1343115,
         "wd:id":"Q2037460",
         "wk:page":"Dobanovci"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890477695,
-    "wof:lastmodified":1563589258,
+    "wof:lastmodified":1566612537,
     "wof:name":"Dobanovci",
     "wof:parent_id":1108810099,
     "wof:placetype":"locality",

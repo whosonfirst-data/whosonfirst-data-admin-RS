@@ -10,8 +10,10 @@
     "geom:latitude":44.812715,
     "geom:longitude":20.483838,
     "iso:country":"RS",
+    "lbl:bbox":"20.4788377905,44.8077145206,20.4888377905,44.8177145206",
     "lbl:latitude":44.812714,
     "lbl:longitude":20.483838,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,13 +38,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843453
+        1393843453,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1444833575,
-    "wof:lastmodified":1566337317,
+    "wof:lastmodified":1566612232,
     "wof:name":"Hadzipopovac",
     "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",

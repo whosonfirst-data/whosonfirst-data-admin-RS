@@ -11,11 +11,15 @@
     "geom:longitude":19.44577,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.42577,45.3306,19.46577,45.3706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gajdobra"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0439\u0434\u043e\u0431\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nau"
     ],
     "qs:name":"Gajdobra",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3200757,
         "gp:id":533837,
-        "qs:id":269966,
+        "qs_pg:id":269966,
         "wd:id":"Q286746",
         "wk:page":"Gajdobra"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890476639,
-    "wof:lastmodified":1563589186,
+    "wof:lastmodified":1566612515,
     "wof:name":"Gajdobra",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

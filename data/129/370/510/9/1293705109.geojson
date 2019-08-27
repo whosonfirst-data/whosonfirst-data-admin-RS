@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.9425,43.90972,19.9825,43.94972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Srednje Selo"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1293705109,
-    "wof:lastmodified":1564103310,
+    "wof:lastmodified":1566611949,
     "wof:name":"Srednje Selo",
     "wof:parent_id":1108810037,
     "wof:placetype":"locality",

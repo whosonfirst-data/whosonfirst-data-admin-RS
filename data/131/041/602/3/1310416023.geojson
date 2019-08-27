@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.89041,42.68393,21.93041,42.72393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0448\u0430\u043a"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1310416023,
-    "wof:lastmodified":1564103997,
+    "wof:lastmodified":1566612331,
     "wof:name":"Stresak",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

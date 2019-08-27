@@ -11,10 +11,14 @@
     "geom:longitude":21.29788,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"21.27788,43.70612,21.31788,43.74612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ba\u010dina"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":793019,
         "gp:id":537310,
-        "qs:id":83789,
+        "qs_pg:id":83789,
         "wd:id":"Q2375316",
         "wk:page":"Ba\u010dina"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477753,
-    "wof:lastmodified":1563589213,
+    "wof:lastmodified":1566612523,
     "wof:name":"Ba\u010dina",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

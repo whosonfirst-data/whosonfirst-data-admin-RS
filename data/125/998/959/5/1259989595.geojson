@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.44543,42.35525,22.48543,42.39525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Tanki Rid"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259989595,
-    "wof:lastmodified":1537683856,
+    "wof:lastmodified":1566612681,
     "wof:name":"Tanki Rid",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

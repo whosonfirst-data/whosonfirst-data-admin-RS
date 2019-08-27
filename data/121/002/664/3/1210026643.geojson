@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.61379,43.0653,21.65379,43.1053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ma\u010dina"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u0447\u0438\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Ma\u010dina"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0686\u06cc\u0646\u0627"
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1210026643,
-    "wof:lastmodified":1564103839,
+    "wof:lastmodified":1566612256,
     "wof:name":"Donja Macina",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

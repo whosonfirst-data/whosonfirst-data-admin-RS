@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.65416,43.07015,21.69416,43.11015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u041c\u043e\u043c\u0447\u0438\u043b\u043e\u0432\u043e"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293607421,
-    "wof:lastmodified":1564103381,
+    "wof:lastmodified":1566611983,
     "wof:name":"Novo Momcilovo",
     "wof:parent_id":1108810169,
     "wof:placetype":"locality",

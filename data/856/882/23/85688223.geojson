@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":42.563641,
     "lbl:longitude":22.062297,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"P\u010dinjski",
     "meso:name_loc":"\u041f\u0447\u0438\u045a\u0441\u043a\u0438",
     "mps:latitude":42.562393,
@@ -112,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"3,520",
     "statoids:area_mi":"1,359",
     "statoids:as_of_date":"2011-10-22",
@@ -164,11 +165,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1566611910,
     "wof:name":"P\u010dinjski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":159081,
     "wof:population_rank":9,

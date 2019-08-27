@@ -11,10 +11,14 @@
     "geom:longitude":21.2281,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":954,
+    "gn:population":954,
     "iso:country":"RS",
+    "lbl:bbox":"21.2081,45.04454,21.2481,45.08454",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Riti\u0161evo"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0420\u0438\u0442\u0438\u0448\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rettisora"
     ],
     "qs:name":"Riti\u0161evo",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":786284,
         "gp:id":537478,
-        "qs:id":553693,
+        "qs_pg:id":553693,
         "wd:id":"Q1091378",
         "wk:page":"Riti\u0161evo"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477747,
-    "wof:lastmodified":1563589267,
+    "wof:lastmodified":1566612541,
     "wof:name":"Riti\u0161evo",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

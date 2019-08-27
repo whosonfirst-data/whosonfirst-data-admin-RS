@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.52167,44.81306,20.53167,44.82306",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Rospi \u0106uprija"
     ],
@@ -34,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0441\u043f\u0438 \u040b\u0443\u043f\u0440\u0438\u0458\u0430"
-    ],
-    "name:und_x_variant":[
-        "Rospi \u0106uprija"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1393843523,
-    "wof:lastmodified":1564104215,
+    "wof:lastmodified":1566612447,
     "wof:name":"Rospi Cuprija",
     "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",

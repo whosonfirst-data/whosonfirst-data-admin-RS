@@ -11,10 +11,14 @@
     "geom:longitude":21.31976,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":225,
+    "gn:population":225,
     "iso:country":"RS",
+    "lbl:bbox":"21.29976,43.15328,21.33976,43.19328",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Belo Polje"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":834643,
         "gp:id":534903,
-        "qs:id":554394,
+        "qs_pg:id":554394,
         "wd:id":"Q1196860",
         "wk:page":"Belo Polje"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477259,
-    "wof:lastmodified":1563589242,
+    "wof:lastmodified":1566612533,
     "wof:name":"Belo Polje",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

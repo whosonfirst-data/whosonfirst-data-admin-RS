@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.14672,42.95344,22.18672,42.99344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boljare"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1343976249,
-    "wof:lastmodified":1564103080,
+    "wof:lastmodified":1566611828,
     "wof:name":"Boljare",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

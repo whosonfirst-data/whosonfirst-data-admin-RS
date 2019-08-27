@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.13506,44.31344,19.17506,44.35344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Br\u0111ani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276354633,
-    "wof:lastmodified":1537683983,
+    "wof:lastmodified":1566612064,
     "wof:name":"Brgani",
     "wof:parent_id":1108809971,
     "wof:placetype":"locality",

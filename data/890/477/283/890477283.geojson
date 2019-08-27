@@ -11,10 +11,14 @@
     "geom:longitude":22.17487,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":700,
+    "gn:population":700,
     "iso:country":"RS",
+    "lbl:bbox":"22.15487,42.53909,22.19487,42.57909",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430 \u0424\u0435\u044f"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":6942384,
         "gp:id":534798,
-        "qs:id":653120,
+        "qs_pg:id":653120,
         "wd:id":"Q3105815",
         "wk:page":"Kriva Feja"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477283,
-    "wof:lastmodified":1563589300,
+    "wof:lastmodified":1566612552,
     "wof:name":"Kriva Feja",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

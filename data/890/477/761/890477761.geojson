@@ -11,10 +11,14 @@
     "geom:longitude":20.59288,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3061,
+    "gn:population":3061,
     "iso:country":"RS",
+    "lbl:bbox":"20.57288,45.61755,20.61288,45.65755",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Aleksandrovo"
     ],
@@ -57,7 +61,7 @@
     "name:srp_x_variant":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Livade"
     ],
     "qs:name":"Aleksandrovo",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":784604,
         "gp:id":535635,
-        "qs:id":129388,
+        "qs_pg:id":129388,
         "wd:id":"Q848667",
         "wk:page":"Aleksandrovo"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477761,
-    "wof:lastmodified":1563589298,
+    "wof:lastmodified":1566612551,
     "wof:name":"Aleksandrovo",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.60111,44.50944,20.64111,44.54944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Simic Kraj"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276247159,
-    "wof:lastmodified":1537683901,
+    "wof:lastmodified":1566612090,
     "wof:name":"Simic Kraj",
     "wof:parent_id":1108810083,
     "wof:placetype":"locality",

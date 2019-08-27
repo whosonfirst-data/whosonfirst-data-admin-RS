@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.57865,43.24844,19.61865,43.28844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Rai\u010devi\u0107e"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209729973,
-    "wof:lastmodified":1537684009,
+    "wof:lastmodified":1566612211,
     "wof:name":"Raicevice",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

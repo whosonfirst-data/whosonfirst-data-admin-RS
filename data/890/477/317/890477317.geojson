@@ -11,10 +11,14 @@
     "geom:longitude":20.96016,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1519,
+    "gn:population":1519,
     "iso:country":"RS",
+    "lbl:bbox":"20.94016,45.2301,20.98016,45.2701",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hajdu\u010dica"
     ],
@@ -48,7 +52,7 @@
     "name:srp_x_variant":[
         "\u0425\u0430\u0458\u0434\u0443\u0447\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ajdu\u010dica"
     ],
     "qs:name":"Hajdu\u010dica",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":790063,
         "gp:id":534270,
-        "qs:id":1029091,
+        "qs_pg:id":1029091,
         "wd:id":"Q948339",
         "wk:page":"Hajdu\u010dica"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890477317,
-    "wof:lastmodified":1563589352,
+    "wof:lastmodified":1566612566,
     "wof:name":"Hajdu\u010dica",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

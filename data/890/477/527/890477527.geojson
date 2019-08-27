@@ -11,11 +11,15 @@
     "geom:longitude":21.47242,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":717,
+    "gn:population":717,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.45242,45.12964,21.49242,45.16964",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Markovac"
     ],
@@ -55,7 +59,7 @@
     "name:srp_x_variant":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markovecz"
     ],
     "qs:name":"Markovac",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":788139,
         "gp:id":535322,
-        "qs:id":1011896,
+        "qs_pg:id":1011896,
         "wd:id":"Q681158",
         "wk:page":"Markovac"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890477527,
-    "wof:lastmodified":1563589271,
+    "wof:lastmodified":1566612543,
     "wof:name":"Markovac",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

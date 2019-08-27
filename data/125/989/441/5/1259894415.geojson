@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.1975,43.48333,22.2375,43.52333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Raskrsje"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259894415,
-    "wof:lastmodified":1537683901,
+    "wof:lastmodified":1566612738,
     "wof:name":"Raskrsje",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

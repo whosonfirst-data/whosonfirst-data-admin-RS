@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.82592,43.937,20.86592,43.977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vinji\u0161te"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u045a\u0438\u0448\u0442\u0435"
-    ],
-    "name:und_x_variant":[
-        "Vinji\u0161te"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1209429789,
-    "wof:lastmodified":1564103806,
+    "wof:lastmodified":1566612204,
     "wof:name":"Vinjiste",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

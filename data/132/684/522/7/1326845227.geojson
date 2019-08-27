@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.22618,42.90061,22.26618,42.94061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kozilo"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1326845227,
-    "wof:lastmodified":1564102999,
+    "wof:lastmodified":1566611784,
     "wof:name":"Kozilo",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

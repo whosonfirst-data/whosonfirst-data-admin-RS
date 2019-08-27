@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.34379,42.59365,22.38379,42.63365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Samard\u017eina Mahala",
         "Samard\u017eiska Mahala"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209932653,
-    "wof:lastmodified":1537683910,
+    "wof:lastmodified":1566612183,
     "wof:name":"Samardziska Mahala",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.47635,44.49553,20.51635,44.53553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Stojnik"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1309726925,
-    "wof:lastmodified":1564104278,
+    "wof:lastmodified":1566612488,
     "wof:name":"Stojnik",
     "wof:parent_id":1108810083,
     "wof:placetype":"locality",

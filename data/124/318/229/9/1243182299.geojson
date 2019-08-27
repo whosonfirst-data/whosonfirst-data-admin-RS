@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.53224,43.60718,21.57224,43.64718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Praskov\u010de"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243182299,
-    "wof:lastmodified":1564104492,
+    "wof:lastmodified":1566612660,
     "wof:name":"Praskovce",
     "wof:parent_id":1108810055,
     "wof:placetype":"locality",

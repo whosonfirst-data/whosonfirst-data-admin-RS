@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.3493,43.19807,22.3893,43.23807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Klisura"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1242888657,
-    "wof:lastmodified":1564104366,
+    "wof:lastmodified":1566612597,
     "wof:name":"Klisura",
     "wof:parent_id":1108809845,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.34463,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":509,
+    "gn:population":509,
     "iso:country":"RS",
+    "lbl:bbox":"21.32463,43.19964,21.36463,43.23964",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bace"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":793030,
         "gp:id":537232,
-        "qs:id":83790,
+        "qs_pg:id":83790,
         "wd:id":"Q2734693"
     },
     "wof:country":"RS",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890477149,
-    "wof:lastmodified":1563589360,
+    "wof:lastmodified":1566612569,
     "wof:name":"Bace",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

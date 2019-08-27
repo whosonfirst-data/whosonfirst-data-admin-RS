@@ -10,8 +10,10 @@
     "geom:latitude":44.936965,
     "geom:longitude":20.431078,
     "iso:country":"RS",
+    "lbl:bbox":"20.4260783713,44.9319653168,20.4360783713,44.9419653168",
     "lbl:latitude":44.936965,
     "lbl:longitude":20.431078,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,11 +35,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810015,
         85633755,
-        404228357
+        404228357,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1444834013,
-    "wof:lastmodified":1566337366,
+    "wof:lastmodified":1566612221,
     "wof:name":"Novo Naselje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

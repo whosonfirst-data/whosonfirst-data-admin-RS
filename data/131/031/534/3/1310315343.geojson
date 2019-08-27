@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.40672,43.50602,21.44672,43.54602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Stanci"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1310315343,
-    "wof:lastmodified":1564104027,
+    "wof:lastmodified":1566612347,
     "wof:name":"Stanci",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

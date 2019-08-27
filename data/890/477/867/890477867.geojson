@@ -11,10 +11,14 @@
     "geom:longitude":20.61231,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"20.59231,43.682,20.63231,43.722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Konarevo"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":789345,
         "gp:id":535338,
-        "qs:id":553891,
+        "qs_pg:id":553891,
         "wd:id":"Q785857",
         "wk:page":"Konarevo"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890477867,
-    "wof:lastmodified":1563589255,
+    "wof:lastmodified":1566612537,
     "wof:name":"Konarevo",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

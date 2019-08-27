@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.99601,43.89792,20.03601,43.93792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u010cestobrodica"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1293108793,
-    "wof:lastmodified":1564103434,
+    "wof:lastmodified":1566612010,
     "wof:name":"Cestobrodica",
     "wof:parent_id":1108810037,
     "wof:placetype":"locality",

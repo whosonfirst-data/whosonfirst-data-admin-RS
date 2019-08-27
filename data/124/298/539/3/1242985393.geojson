@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.22259,44.24711,19.26259,44.28711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Vrani\u0107"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242985393,
-    "wof:lastmodified":1537683970,
+    "wof:lastmodified":1566612653,
     "wof:name":"Vranic",
     "wof:parent_id":1108809971,
     "wof:placetype":"locality",

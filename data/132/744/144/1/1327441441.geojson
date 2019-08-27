@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.28755,42.94622,22.32755,42.98622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pr\u017eojne"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1327441441,
-    "wof:lastmodified":1564103037,
+    "wof:lastmodified":1566611806,
     "wof:name":"Przojne",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",

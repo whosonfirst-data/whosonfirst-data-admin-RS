@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.15068,43.41764,21.19068,43.45764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gornja Zleginja"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1293893569,
-    "wof:lastmodified":1564103416,
+    "wof:lastmodified":1566612001,
     "wof:name":"Gornja Zleginja",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

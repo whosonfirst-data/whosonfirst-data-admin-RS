@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.13917,43.21583,20.17917,43.25583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gornja Mahala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226655749,
-    "wof:lastmodified":1537683881,
+    "wof:lastmodified":1566612826,
     "wof:name":"Gornja Mahala",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

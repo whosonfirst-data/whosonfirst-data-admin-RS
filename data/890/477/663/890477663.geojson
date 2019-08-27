@@ -11,11 +11,15 @@
     "geom:longitude":21.18388,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2094,
+    "gn:population":2094,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.16388,45.00253,21.20388,45.04253",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Izbi\u0161te"
     ],
@@ -58,7 +62,7 @@
     "name:srp_x_variant":[
         "\u0418\u0437\u0431\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isbischte"
     ],
     "qs:name":"Izbi\u00b5te",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":789972,
         "gp:id":534318,
-        "qs:id":129590,
+        "qs_pg:id":129590,
         "wd:id":"Q739564"
     },
     "wof:country":"RS",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890477663,
-    "wof:lastmodified":1563589324,
+    "wof:lastmodified":1566612558,
     "wof:name":"Izbi\u00b5te",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

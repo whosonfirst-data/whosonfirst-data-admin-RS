@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.82948,43.10624,19.86948,43.14624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Zaklopa\u010da"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243373681,
-    "wof:lastmodified":1537684026,
+    "wof:lastmodified":1566612581,
     "wof:name":"Zaklopaca",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

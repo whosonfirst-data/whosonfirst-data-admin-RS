@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.33844,43.55656,19.37844,43.59656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bara"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1209124159,
-    "wof:lastmodified":1564103695,
+    "wof:lastmodified":1566612148,
     "wof:name":"Bara",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":35,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.91631,45.09937,19.95631,45.13937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
         "Kru\u015dedol Prnjavor"
     ],
@@ -51,7 +55,6 @@
         "\u041a\u0440\u0443\u0448\u0435\u0434\u043e\u043b \u041f\u0440\u045a\u0430\u0432\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Kru\u0161edol Prnjavor",
         "Kru\u0161edolski Prnjavor",
         "Krushedol",
         "Krussedol"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1276354499,
-    "wof:lastmodified":1564103537,
+    "wof:lastmodified":1566612062,
     "wof:name":"Prnjavor",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

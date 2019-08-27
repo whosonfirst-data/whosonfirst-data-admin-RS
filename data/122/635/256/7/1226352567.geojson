@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.41771,42.61862,22.45771,42.65862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226352567,
-    "wof:lastmodified":1536780047,
+    "wof:lastmodified":1566612774,
     "wof:name":"Donkovci",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.85654,44.79907,20.89654,44.83907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0627\u0646\u064a\u0634\u062a\u064a"
     ],
@@ -57,7 +61,6 @@
         "\u0411\u0430\u0432\u0430\u043d\u0438\u0448\u0442\u0435"
     ],
     "name:und_x_variant":[
-        "Homokb\u00e1lv\u00e1nyos",
         "Balvanyesti",
         "Balvanjestie",
         "Bawanischte"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1276566933,
-    "wof:lastmodified":1564103518,
+    "wof:lastmodified":1566612050,
     "wof:name":"Bavaniste",
     "wof:parent_id":1108809929,
     "wof:placetype":"locality",

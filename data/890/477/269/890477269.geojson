@@ -11,11 +11,15 @@
     "geom:longitude":20.7286,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":6367,
+    "gn:population":6367,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.7086,45.09988,20.7486,45.13988",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0434\u0438\u043d\u0430"
     ],
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0434\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ludwigsdorf"
     ],
     "qs:name":"Padina",
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":787271,
         "gp:id":535818,
-        "qs:id":302825,
+        "qs_pg:id":302825,
         "wd:id":"Q165480",
         "wk:page":"Padina"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":890477269,
-    "wof:lastmodified":1563589255,
+    "wof:lastmodified":1566612537,
     "wof:name":"Padina",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

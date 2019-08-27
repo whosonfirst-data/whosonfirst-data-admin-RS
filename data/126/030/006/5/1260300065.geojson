@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.99956,43.39575,22.03956,43.43575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grbav\u010de"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1260300065,
-    "wof:lastmodified":1564103894,
+    "wof:lastmodified":1566612286,
     "wof:name":"Grbavce",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

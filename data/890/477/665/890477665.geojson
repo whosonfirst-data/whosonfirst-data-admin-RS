@@ -11,11 +11,15 @@
     "geom:longitude":19.71004,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3388,
+    "gn:population":3388,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.69004,44.76846,19.73004,44.80846",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Klenak"
     ],
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3198082,
         "gp:id":534574,
-        "qs:id":401974,
+        "qs_pg:id":401974,
         "wd:id":"Q921386",
         "wk:page":"Klenak"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890477665,
-    "wof:lastmodified":1563589330,
+    "wof:lastmodified":1566612559,
     "wof:name":"Klenak",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.81816,43.94772,20.85816,43.98772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dragobra\u0107a"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u0431\u0440\u0430\u045b\u0430"
-    ],
-    "name:und_x_variant":[
-        "Dragobra\u0107a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1343873051,
-    "wof:lastmodified":1564103217,
+    "wof:lastmodified":1566611898,
     "wof:name":"Dragobraca",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

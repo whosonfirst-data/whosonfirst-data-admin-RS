@@ -10,8 +10,10 @@
     "geom:latitude":44.775358,
     "geom:longitude":20.506969,
     "iso:country":"RS",
+    "lbl:bbox":"20.5019692248,44.7703584235,20.5119692248,44.7803584235",
     "lbl:latitude":44.775358,
     "lbl:longitude":20.506969,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,13 +44,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843427
+        1393843427,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1444834803,
-    "wof:lastmodified":1566337456,
+    "wof:lastmodified":1566612238,
     "wof:name":"Medakovic III",
     "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",

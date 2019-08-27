@@ -11,11 +11,15 @@
     "geom:longitude":19.8232,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2425,
+    "gn:population":2425,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.8032,44.83017,19.8432,44.87017",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nikinci"
     ],
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3194498,
         "gp:id":535612,
-        "qs:id":1044009,
+        "qs_pg:id":1044009,
         "wd:id":"Q1077430",
         "wk:page":"Nikinci"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477643,
-    "wof:lastmodified":1563589225,
+    "wof:lastmodified":1566612526,
     "wof:name":"Nikinci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

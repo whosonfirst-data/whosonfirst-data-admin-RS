@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.35722,43.46389,19.39722,43.50389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lokvice"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343276787,
-    "wof:lastmodified":1564103206,
+    "wof:lastmodified":1566611892,
     "wof:name":"Lokvice",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

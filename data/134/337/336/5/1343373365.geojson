@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.93944,43.725,21.97944,43.765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688277,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343373365,
-    "wof:lastmodified":1536870712,
+    "wof:lastmodified":1566611818,
     "wof:name":"Golemo Rujiste",
     "wof:parent_id":1108809857,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.65425,42.90222,21.69425,42.94222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Geglja"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1310610913,
-    "wof:lastmodified":1564104092,
+    "wof:lastmodified":1566612380,
     "wof:name":"Geglja",
     "wof:parent_id":1108809953,
     "wof:placetype":"locality",

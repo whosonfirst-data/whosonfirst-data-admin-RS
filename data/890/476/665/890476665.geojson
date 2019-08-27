@@ -11,14 +11,18 @@
     "geom:longitude":21.52741,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":46,
+    "gn:population":46,
     "iso:country":"RS",
+    "lbl:bbox":"21.50741,43.08212,21.54741,43.12212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Novi \u00d0urevac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novi Djurevac"
     ],
     "qs:name":"Novi \u00d0urevac",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":787604,
         "gp:id":537761,
-        "qs:id":83641
+        "qs_pg:id":83641
     },
     "wof:country":"RS",
     "wof:created":1469054083,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890476665,
-    "wof:lastmodified":1505343722,
+    "wof:lastmodified":1566612515,
     "wof:name":"Novi \u00d0urevac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

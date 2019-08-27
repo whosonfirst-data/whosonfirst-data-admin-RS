@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.46345,43.78015,20.50345,43.82015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mr\u0161inci"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0440\u0448\u0438\u043d\u0446\u0438"
-    ],
-    "name:und_x_variant":[
-        "Mr\u0161inci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1259501497,
-    "wof:lastmodified":1564104598,
+    "wof:lastmodified":1566612715,
     "wof:name":"Mrsinci",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

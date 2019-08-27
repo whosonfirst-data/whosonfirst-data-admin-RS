@@ -11,10 +11,14 @@
     "geom:longitude":20.8496,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.8296,43.63746,20.8696,43.67746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"\u00d0ur\u0111i\u0107i",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":836981,
         "gp:id":535685,
-        "qs:id":554432
+        "qs_pg:id":554432
     },
     "wof:country":"RS",
     "wof:created":1469054139,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890477979,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612540,
     "wof:name":"\u00d0ur\u0111i\u0107i",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

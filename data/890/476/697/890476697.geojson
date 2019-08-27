@@ -11,10 +11,14 @@
     "geom:longitude":19.33915,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":811,
+    "gn:population":811,
     "iso:country":"RS",
+    "lbl:bbox":"19.31915,44.49645,19.35915,44.53645",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gornje Nedeljice"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3200107,
         "gp:id":534674,
-        "qs:id":95147,
+        "qs_pg:id":95147,
         "wd:id":"Q2001219",
         "wk:page":"Gornje Nedeljice"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476697,
-    "wof:lastmodified":1563589183,
+    "wof:lastmodified":1566612514,
     "wof:name":"Gornje Nedeljice",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

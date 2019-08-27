@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.26184,43.64366,20.30184,43.68366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Nik\u0161i\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276462097,
-    "wof:lastmodified":1537683892,
+    "wof:lastmodified":1566612099,
     "wof:name":"Niksici",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

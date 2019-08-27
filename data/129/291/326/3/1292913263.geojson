@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.72232,42.88945,22.76232,42.92945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430 \u041d\u0435\u0432\u043b\u044f"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1292913263,
-    "wof:lastmodified":1564103395,
+    "wof:lastmodified":1566611990,
     "wof:name":"Gornja Nevlja",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.52248,44.06978,19.56248,44.10978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Strmovo"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209729993,
-    "wof:lastmodified":1564103820,
+    "wof:lastmodified":1566612211,
     "wof:name":"Strmovo",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

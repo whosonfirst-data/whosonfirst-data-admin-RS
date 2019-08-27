@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.75,43.48528,19.79,43.52528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Bakalovina"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225863233,
-    "wof:lastmodified":1537684004,
+    "wof:lastmodified":1566612787,
     "wof:name":"Bakalovina",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

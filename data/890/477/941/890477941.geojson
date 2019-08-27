@@ -11,10 +11,14 @@
     "geom:longitude":20.41333,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.39333,43.67306,20.43333,43.71306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Pajovi\u0107i"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":836463,
         "gp:id":535542,
-        "qs:id":554407
+        "qs_pg:id":554407
     },
     "wof:country":"RS",
     "wof:created":1469054138,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890477941,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612540,
     "wof:name":"Pajovi\u0107i",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

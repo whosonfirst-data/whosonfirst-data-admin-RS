@@ -11,10 +11,14 @@
     "geom:longitude":20.08165,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":26247,
+    "gn:population":26247,
     "iso:country":"RS",
+    "lbl:bbox":"20.06165,45.02816,20.10165,45.06816",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bos_x_preferred":[
         "In\u0111ija"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0434\u0436\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Indjija"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":790015,
         "gp:id":534294,
-        "qs:id":129594,
+        "qs_pg:id":129594,
         "wd:id":"Q309341",
         "wk:page":"In\u0111ija"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":890476949,
-    "wof:lastmodified":1563589154,
+    "wof:lastmodified":1566612506,
     "wof:name":"In\u0111ija",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

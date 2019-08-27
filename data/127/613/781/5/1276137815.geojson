@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.53956,43.45097,19.57956,43.49097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Podborak"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276137815,
-    "wof:lastmodified":1537684008,
+    "wof:lastmodified":1566612077,
     "wof:name":"Podborak",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

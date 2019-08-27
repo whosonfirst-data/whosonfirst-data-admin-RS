@@ -11,10 +11,14 @@
     "geom:longitude":21.88961,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":280,
+    "gn:population":280,
     "iso:country":"RS",
+    "lbl:bbox":"21.86961,42.93928,21.90961,42.97928",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gornje Trnjane"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":790407,
         "gp:id":532852,
-        "qs:id":553943,
+        "qs_pg:id":553943,
         "wd:id":"Q3111231",
         "wk:page":"Gornje Trnjane"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476809,
-    "wof:lastmodified":1563589184,
+    "wof:lastmodified":1566612514,
     "wof:name":"Gornje Trnjane",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

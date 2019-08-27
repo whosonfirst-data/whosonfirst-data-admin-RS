@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.07811,43.24516,21.11811,43.28516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Bo\u0161kovi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293497753,
-    "wof:lastmodified":1537683867,
+    "wof:lastmodified":1566611954,
     "wof:name":"Boskovici",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

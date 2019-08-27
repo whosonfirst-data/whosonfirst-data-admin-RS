@@ -11,11 +11,15 @@
     "geom:longitude":20.80677,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1636,
+    "gn:population":1636,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.78677,45.51815,20.82677,45.55815",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Me\u0111a"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_variant":[
         "\u041c\u0435\u0452\u0430"
     ],
-    "name:unk_x_variant":[
-        "P\u00e1rd\u00e1ny"
-    ],
     "qs:name":"Me\u00f0a",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Srednji Banat",
@@ -89,7 +90,7 @@
     "wof:concordances":{
         "gn:id":788073,
         "gp:id":535354,
-        "qs:id":1218687,
+        "qs_pg:id":1218687,
         "wd:id":"Q1088758"
     },
     "wof:country":"RS",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890477673,
-    "wof:lastmodified":1563589234,
+    "wof:lastmodified":1566612530,
     "wof:name":"Me\u00f0a",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

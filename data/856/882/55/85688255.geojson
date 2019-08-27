@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.783827,
     "lbl:longitude":19.775122,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Zlatiborsk",
     "meso:name_loc":"\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438",
     "mps:latitude":43.785797,
@@ -165,7 +166,7 @@
         "Zlatibor"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0bb3\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcb\u0bb0\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb8\u0bcd\u0bb3\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcb\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c4d\u0c32\u0c3e\u0c1f\u0c3f\u0c2c\u0c4b\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -203,9 +204,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"6,140",
     "statoids:area_mi":"2,371",
     "statoids:as_of_date":"2011-10-22",
@@ -253,11 +254,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1566611910,
     "wof:name":"Zlatiborski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":286549,
     "wof:population_rank":10,

@@ -11,10 +11,14 @@
     "geom:longitude":20.43521,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1735,
+    "gn:population":1735,
     "iso:country":"RS",
+    "lbl:bbox":"20.41521,43.93223,20.45521,43.97223",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Prislonica"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":862740,
         "gp:id":532911,
-        "qs:id":1029205,
+        "qs_pg:id":1029205,
         "wd:id":"Q2723458",
         "wk:page":"Prislonica"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477071,
-    "wof:lastmodified":1563589234,
+    "wof:lastmodified":1566612530,
     "wof:name":"Prislonica",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

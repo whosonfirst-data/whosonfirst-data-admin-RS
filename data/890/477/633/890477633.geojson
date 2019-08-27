@@ -11,11 +11,15 @@
     "geom:longitude":19.42542,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.40542,43.93786,19.44542,43.97786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Peru\u0107ac"
     ],
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3300260,
         "gp:id":535911,
-        "qs:id":893989,
+        "qs_pg:id":893989,
         "wd:id":"Q2660178",
         "wk:page":"Peru\u0107ac"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477633,
-    "wof:lastmodified":1563589241,
+    "wof:lastmodified":1566612533,
     "wof:name":"Peru\u0107ac",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

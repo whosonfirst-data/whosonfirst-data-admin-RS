@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.73955,42.30662,21.77955,42.34662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293502301,
-    "wof:lastmodified":1536765994,
+    "wof:lastmodified":1566611972,
     "wof:name":"Mahadzirska Mahala",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.55067,42.29698,21.59067,42.33698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Lezbalija Mahala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344075365,
-    "wof:lastmodified":1537683847,
+    "wof:lastmodified":1566611838,
     "wof:name":"Lezbalija Mahala",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

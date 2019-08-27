@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.51833,44.685,21.55833,44.725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brani\u010devo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343575923,
-    "wof:lastmodified":1564103142,
+    "wof:lastmodified":1566611859,
     "wof:name":"Branicevo",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

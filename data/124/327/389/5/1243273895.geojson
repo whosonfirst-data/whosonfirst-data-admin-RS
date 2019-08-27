@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.54639,43.79972,20.58639,43.83972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688225,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243273895,
-    "wof:lastmodified":1537051980,
+    "wof:lastmodified":1566612671,
     "wof:name":"Donja Katrga",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.15639,43.39417,21.19639,43.43417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u0106elije"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310223169,
-    "wof:lastmodified":1564104007,
+    "wof:lastmodified":1566612337,
     "wof:name":"Celije",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

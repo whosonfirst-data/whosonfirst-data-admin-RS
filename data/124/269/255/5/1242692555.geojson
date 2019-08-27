@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.11973,42.72292,22.15973,42.76292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u043a\u0430\u0432\u0430"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1242692555,
-    "wof:lastmodified":1564104403,
+    "wof:lastmodified":1566612616,
     "wof:name":"Dikava",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",

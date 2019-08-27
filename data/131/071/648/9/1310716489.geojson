@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.67833,44.88,20.71833,44.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688321,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310716489,
-    "wof:lastmodified":1536609841,
+    "wof:lastmodified":1566612345,
     "wof:name":"Salasi",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",

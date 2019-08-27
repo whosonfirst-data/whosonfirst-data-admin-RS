@@ -11,10 +11,14 @@
     "geom:longitude":20.41215,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":6567,
+    "gn:population":6567,
     "iso:country":"RS",
+    "lbl:bbox":"20.39215,45.91362,20.43215,45.95362",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mokrin"
     ],
@@ -54,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u0440\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Homokr\u00e9v"
-    ],
     "qs:name":"Mokrin",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":787857,
         "gp:id":881702,
-        "qs:id":1029037,
+        "qs_pg:id":1029037,
         "wd:id":"Q941155",
         "wk:page":"Mokrin"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":890477305,
-    "wof:lastmodified":1563589296,
+    "wof:lastmodified":1566612551,
     "wof:name":"Mokrin",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

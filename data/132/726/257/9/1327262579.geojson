@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.23902,42.49897,22.27902,42.53897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rupa"
     ],
@@ -49,8 +53,7 @@
         "Rupa"
     ],
     "name:und_x_variant":[
-        "Rupa Mala",
-        "Rupa"
+        "Rupa Mala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327262579,
-    "wof:lastmodified":1564103048,
+    "wof:lastmodified":1566611811,
     "wof:name":"Rupa",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

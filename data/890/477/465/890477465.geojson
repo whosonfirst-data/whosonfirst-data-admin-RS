@@ -11,11 +11,15 @@
     "geom:longitude":20.67042,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.65042,44.82726,20.69042,44.86726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vojlovica"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":784285,
         "gp:id":537514,
-        "qs:id":496566,
+        "qs_pg:id":496566,
         "wd:id":"Q302117",
         "wk:page":"Vojlovica"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890477465,
-    "wof:lastmodified":1563589259,
+    "wof:lastmodified":1566612538,
     "wof:name":"Vojlovica",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",

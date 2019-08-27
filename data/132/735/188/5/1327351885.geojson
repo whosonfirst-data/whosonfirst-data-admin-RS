@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.89864,44.04836,19.93864,44.08836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ra\u017eana"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327351885,
-    "wof:lastmodified":1537683927,
+    "wof:lastmodified":1566611763,
     "wof:name":"Razana",
     "wof:parent_id":1108809923,
     "wof:placetype":"locality",

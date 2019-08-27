@@ -12,6 +12,8 @@
     "iso:country":"RS",
     "lbl:latitude":45.178834,
     "lbl:longitude":19.94596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_alt":"Ju\u017eno-Ba\u010dki",
     "meso:adm1_alt2":"South Ba\u010dka",
     "meso:adm1_loc":"\u0408\u0443\u0436\u043d\u043e\u0431\u0430\u0447\u043a\u0438",
@@ -21,6 +23,7 @@
     "meso:name_loc":"Sremski Karlovci",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
     ],
@@ -123,14 +126,11 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0456 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Sremski Karlovci"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u96f7\u59c6\u65af\u57fa\u5361\u5c14\u6d1b\u592b\u5947"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755,
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":1108810091,
-    "wof:lastmodified":1564103966,
+    "wof:lastmodified":1566612318,
     "wof:name":"Sremski Karlovci",
     "wof:parent_id":85688295,
     "wof:placetype":"localadmin",

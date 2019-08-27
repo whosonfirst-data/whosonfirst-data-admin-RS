@@ -11,10 +11,14 @@
     "geom:longitude":22.50222,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"22.48222,44.21889,22.52222,44.25889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Badnjevo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":838025,
         "gp:id":535594,
-        "qs:id":554495
+        "qs_pg:id":554495
     },
     "wof:country":"RS",
     "wof:created":1469054087,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476759,
-    "wof:lastmodified":1505343722,
+    "wof:lastmodified":1566612511,
     "wof:name":"Badnjevo",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

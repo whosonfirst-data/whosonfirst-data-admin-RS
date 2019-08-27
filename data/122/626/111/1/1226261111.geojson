@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.09803,44.24494,20.13803,44.28494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maljevi\u0107"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226261111,
-    "wof:lastmodified":1564104664,
+    "wof:lastmodified":1566612756,
     "wof:name":"Maljevic",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

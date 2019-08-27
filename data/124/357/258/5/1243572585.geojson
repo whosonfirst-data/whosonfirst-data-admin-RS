@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.50782,44.07178,19.54782,44.11178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jakovac"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1243572585,
-    "wof:lastmodified":1564104431,
+    "wof:lastmodified":1566612629,
     "wof:name":"Jakovac",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

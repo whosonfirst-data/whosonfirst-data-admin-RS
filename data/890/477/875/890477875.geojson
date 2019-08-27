@@ -11,10 +11,14 @@
     "geom:longitude":21.46498,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":141,
+    "gn:population":141,
     "iso:country":"RS",
+    "lbl:bbox":"21.44498,43.15417,21.48498,43.19417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gornja Beja\u0161nica"
     ],
@@ -45,7 +49,7 @@
     "name:srp_x_variant":[
         "\u0413\u043e\u0440\u045a\u0430 \u0411\u0435\u0458\u0430\u0448\u043d\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornja Beja\u0161ica"
     ],
     "qs:name":"Gornja Beja\u0161nica",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":790522,
         "gp:id":535227,
-        "qs:id":553947,
+        "qs_pg:id":553947,
         "wd:id":"Q2734706",
         "wk:page":"Gornja Beja\u0161nica"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890477875,
-    "wof:lastmodified":1563589236,
+    "wof:lastmodified":1566612531,
     "wof:name":"Gornja Beja\u0161nica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

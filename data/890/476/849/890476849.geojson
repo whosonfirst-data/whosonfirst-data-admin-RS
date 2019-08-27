@@ -11,10 +11,14 @@
     "geom:longitude":20.02709,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":364,
+    "gn:population":364,
     "iso:country":"RS",
+    "lbl:bbox":"20.00709,45.03246,20.04709,45.07246",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jarkovci"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0408\u0430\u0440\u043a\u043e\u0432\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moja Volja"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":789879,
         "gp:id":534294,
-        "qs:id":83703,
+        "qs_pg:id":83703,
         "wd:id":"Q1065833",
         "wk:page":"Jarkovci"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890476849,
-    "wof:lastmodified":1563589178,
+    "wof:lastmodified":1566612512,
     "wof:name":"Jarkovci",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

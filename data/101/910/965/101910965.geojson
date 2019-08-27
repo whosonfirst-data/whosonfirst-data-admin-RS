@@ -12,10 +12,13 @@
     "iso:country":"RS",
     "lbl:latitude":44.673566,
     "lbl:longitude":20.715385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.673566,
     "mps:longitude":20.715385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u062a\u0633\u0643\u0627"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1531,
     "wof:belongsto":[
         85688279,
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":790132,
         "gp:id":534230,
-        "qs:id":265209,
         "qs_pg:id":265209,
         "wd:id":"Q691992",
         "wk:page":"Grocka"
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101910965,
-    "wof:lastmodified":1563589052,
+    "wof:lastmodified":1566612460,
     "wof:name":"Grocka",
     "wof:parent_id":1108809899,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.89046,42.84528,21.93046,42.88528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062a\u0634\u064a\u064a"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226161189,
-    "wof:lastmodified":1564104683,
+    "wof:lastmodified":1566612766,
     "wof:name":"Vucje",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

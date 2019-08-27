@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.27002,42.48185,22.31002,42.52185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430 \u041b\u044e\u0431\u0430\u0442\u0430"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1310020485,
-    "wof:lastmodified":1564104107,
+    "wof:lastmodified":1566612386,
     "wof:name":"Gornja Ljubata",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

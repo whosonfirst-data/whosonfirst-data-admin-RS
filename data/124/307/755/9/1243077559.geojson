@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.48787,43.25812,21.52787,43.29812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pa\u0161inac"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1243077559,
-    "wof:lastmodified":1564104316,
+    "wof:lastmodified":1566612571,
     "wof:name":"Pasinac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

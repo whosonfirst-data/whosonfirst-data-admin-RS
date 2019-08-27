@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.04644,45.62902,19.08644,45.66902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Svilojevo"
     ],
@@ -64,7 +68,6 @@
         "\u0421\u0432\u0456\u043b\u043e\u0454\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Szil\u00e1gyi",
         "Svilojeva"
     ],
     "src:geom":"geonames",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1293137107,
-    "wof:lastmodified":1564103337,
+    "wof:lastmodified":1566611962,
     "wof:name":"Svilojevo",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

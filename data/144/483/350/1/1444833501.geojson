@@ -10,8 +10,10 @@
     "geom:latitude":44.818125,
     "geom:longitude":20.464399,
     "iso:country":"RS",
+    "lbl:bbox":"20.4593991733,44.8131247385,20.4693991733,44.8231247385",
     "lbl:latitude":44.818125,
     "lbl:longitude":20.464399,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,13 +35,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843439
+        1393843439,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1444833501,
-    "wof:lastmodified":1566337308,
+    "wof:lastmodified":1566612231,
     "wof:name":"Skadarlija",
     "wof:parent_id":1393843439,
     "wof:placetype":"neighbourhood",

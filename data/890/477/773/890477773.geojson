@@ -11,10 +11,14 @@
     "geom:longitude":20.31325,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":654,
+    "gn:population":654,
     "iso:country":"RS",
+    "lbl:bbox":"20.29325,45.98584,20.33325,46.02584",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vrbica"
     ],
@@ -51,9 +55,6 @@
     "name:srp_x_variant":[
         "\u0412\u0440\u0431\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
-        "Egyh\u00e1zask\u00e9r"
-    ],
     "qs:name":"Vrbica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":784190,
         "gp:id":533204,
-        "qs:id":553581,
+        "qs_pg:id":553581,
         "wd:id":"Q940128",
         "wk:page":"Vrbica"
     },
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":890477773,
-    "wof:lastmodified":1563589351,
+    "wof:lastmodified":1566612566,
     "wof:name":"Vrbica",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

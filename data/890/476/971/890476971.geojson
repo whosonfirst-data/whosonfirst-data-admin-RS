@@ -11,10 +11,14 @@
     "geom:longitude":20.16432,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5321,
+    "gn:population":5321,
     "iso:country":"RS",
+    "lbl:bbox":"20.14432,44.62025,20.18432,44.66025",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0641\u064a\u062a\u0634\u0643\u0627"
     ],
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":783768,
         "gp:id":535701,
-        "qs:id":129355,
+        "qs_pg:id":129355,
         "wd:id":"Q3177361",
         "wk:page":"Zve\u010dka"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890476971,
-    "wof:lastmodified":1563589152,
+    "wof:lastmodified":1566612506,
     "wof:name":"Zve\u010dka",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

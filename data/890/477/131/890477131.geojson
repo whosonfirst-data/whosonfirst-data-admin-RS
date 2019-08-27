@@ -11,10 +11,14 @@
     "geom:longitude":20.86381,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1170,
+    "gn:population":1170,
     "iso:country":"RS",
+    "lbl:bbox":"20.84381,45.16264,20.88381,45.20264",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kozjak"
     ],
@@ -57,9 +61,6 @@
     "name:srp_x_variant":[
         "\u041d\u043e\u0432\u0438 \u041a\u043e\u0437\u0458\u0430\u043a"
     ],
-    "name:unk_x_variant":[
-        "Novi Kozjak"
-    ],
     "qs:name":"Kozjak",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":787597,
         "gp:id":533392,
-        "qs:id":1029024,
+        "qs_pg:id":1029024,
         "wd:id":"Q1000445",
         "wk:page":"Kozjak"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890477131,
-    "wof:lastmodified":1563589287,
+    "wof:lastmodified":1566612547,
     "wof:name":"Kozjak",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

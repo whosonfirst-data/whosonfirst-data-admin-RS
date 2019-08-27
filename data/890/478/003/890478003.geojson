@@ -11,10 +11,14 @@
     "geom:longitude":20.50167,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.48167,43.48722,20.52167,43.52722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Leskovica"
     ],
@@ -236,7 +240,7 @@
     "wof:concordances":{
         "gn:id":837272,
         "gp:id":536969,
-        "qs:id":554447,
+        "qs_pg:id":554447,
         "wd:id":"Q3236668",
         "wk:page":"Leskovica"
     },
@@ -254,7 +258,7 @@
         }
     ],
     "wof:id":890478003,
-    "wof:lastmodified":1563589114,
+    "wof:lastmodified":1566612495,
     "wof:name":"Leskovica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

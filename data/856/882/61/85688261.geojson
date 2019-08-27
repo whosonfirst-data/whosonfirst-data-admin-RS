@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.17527,
     "lbl:longitude":21.37464,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Topli\u010dki",
     "meso:name_loc":"\u0422\u043e\u043f\u043b\u0438\u0447\u043a\u0438",
     "mps:latitude":43.175973,
@@ -198,9 +199,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"2,231",
     "statoids:area_mi":"861",
     "statoids:as_of_date":"2011-10-22",
@@ -248,11 +249,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733934,
+    "wof:lastmodified":1566611908,
     "wof:name":"Topli\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":91754,
     "wof:population_rank":8,

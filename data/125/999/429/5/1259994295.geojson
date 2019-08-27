@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.70959,44.16205,19.74959,44.20205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Krsti\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259994295,
-    "wof:lastmodified":1537683990,
+    "wof:lastmodified":1566612694,
     "wof:name":"Krstici",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

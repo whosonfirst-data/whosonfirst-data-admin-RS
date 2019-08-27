@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.04416,44.32062,22.08416,44.36062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Rudna Glava"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259989655,
-    "wof:lastmodified":1564104525,
+    "wof:lastmodified":1566612679,
     "wof:name":"Rudna Glava",
     "wof:parent_id":1108809967,
     "wof:placetype":"locality",

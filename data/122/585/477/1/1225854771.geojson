@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.01052,42.74694,22.05052,42.78694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0435\u0431\u0438\u043d\u0446\u0435"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1225854771,
-    "wof:lastmodified":1564104803,
+    "wof:lastmodified":1566612836,
     "wof:name":"Zebince",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":19.33728,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.31728,45.43566,19.35728,45.47566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ratkovo"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gutacker"
     ],
     "qs:name":"Ratkovo",
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3191877,
         "gp:id":536322,
-        "qs:id":261043,
+        "qs_pg:id":261043,
         "wd:id":"Q1078435",
         "wk:page":"Ratkovo"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890477813,
-    "wof:lastmodified":1563589316,
+    "wof:lastmodified":1566612556,
     "wof:name":"Ratkovo",
     "wof:parent_id":1108810009,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.53339,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":178,
+    "gn:population":178,
     "iso:country":"RS",
+    "lbl:bbox":"21.51339,43.04297,21.55339,43.08297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Donji Statovac"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":791163,
         "gp:id":537761,
-        "qs:id":553984,
+        "qs_pg:id":553984,
         "wd:id":"Q2735149",
         "wk:page":"Donji Statovac"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477881,
-    "wof:lastmodified":1563589235,
+    "wof:lastmodified":1566612531,
     "wof:name":"Donji Statovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

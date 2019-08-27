@@ -11,10 +11,14 @@
     "geom:longitude":21.39673,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":769,
+    "gn:population":769,
     "iso:country":"RS",
+    "lbl:bbox":"21.37673,43.21846,21.41673,43.25846",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Beloljin"
     ],
@@ -48,7 +52,7 @@
     "name:srp_x_variant":[
         "\u0411\u0435\u043b\u043e\u0459\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belonjin"
     ],
     "qs:name":"Beloljin",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":792706,
         "gp:id":532682,
-        "qs:id":554099,
+        "qs_pg:id":554099,
         "wd:id":"Q864431",
         "wk:page":"Beloljin"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890476655,
-    "wof:lastmodified":1563589181,
+    "wof:lastmodified":1566612514,
     "wof:name":"Beloljin",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

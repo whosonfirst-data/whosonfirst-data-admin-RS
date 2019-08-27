@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.53727,44.26687,19.57727,44.30687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u064a\u064a\u062a\u0634"
     ],
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1360103169,
-    "wof:lastmodified":1564104186,
+    "wof:lastmodified":1566612428,
     "wof:name":"Konjic",
     "wof:parent_id":1108810013,
     "wof:placetype":"locality",

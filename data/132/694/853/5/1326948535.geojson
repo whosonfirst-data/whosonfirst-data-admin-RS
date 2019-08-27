@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.58261,44.64842,21.62261,44.68842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Rado\u0161evac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326948535,
-    "wof:lastmodified":1537683731,
+    "wof:lastmodified":1566611739,
     "wof:name":"Radosevac",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

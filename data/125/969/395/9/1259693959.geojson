@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.82761,43.12335,22.86761,43.16335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0438\u043d\u044f"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1259693959,
-    "wof:lastmodified":1564104621,
+    "wof:lastmodified":1566612729,
     "wof:name":"Slavinja",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

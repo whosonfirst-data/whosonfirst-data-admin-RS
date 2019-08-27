@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.44097,42.42077,22.48097,42.46077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bresnica"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1344075097,
-    "wof:lastmodified":1564103097,
+    "wof:lastmodified":1566611837,
     "wof:name":"Bresnica",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

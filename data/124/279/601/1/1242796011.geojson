@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.73465,43.97353,20.77465,44.01353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zabojnica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1242796011,
-    "wof:lastmodified":1564104459,
+    "wof:lastmodified":1566612641,
     "wof:name":"Zabojnica",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

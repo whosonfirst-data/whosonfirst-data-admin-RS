@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.09162,43.11893,22.13162,43.15893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Donje Dragovlje"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243381691,
-    "wof:lastmodified":1564104324,
+    "wof:lastmodified":1566612575,
     "wof:name":"Donje Dragovlje",
     "wof:parent_id":1108809893,
     "wof:placetype":"locality",

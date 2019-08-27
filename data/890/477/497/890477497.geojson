@@ -11,11 +11,15 @@
     "geom:longitude":20.92008,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2426,
+    "gn:population":2426,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.90008,45.14897,20.94008,45.18897",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Iland\u017ea"
     ],
@@ -58,7 +62,7 @@
     "name:srp_x_variant":[
         "\u0418\u043b\u0430\u043d\u045f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il\u00e1ncsa"
     ],
     "qs:name":"Iland\u017ea",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":790028,
         "gp:id":534289,
-        "qs:id":963687,
+        "qs_pg:id":963687,
         "wd:id":"Q962644",
         "wk:page":"Iland\u017ea"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890477497,
-    "wof:lastmodified":1563589246,
+    "wof:lastmodified":1566612534,
     "wof:name":"Iland\u017ea",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

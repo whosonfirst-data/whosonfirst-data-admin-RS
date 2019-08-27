@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.09681,43.19589,21.13681,43.23589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u043e\u0432\u0430"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1225854883,
-    "wof:lastmodified":1564104810,
+    "wof:lastmodified":1566612840,
     "wof:name":"Selova",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

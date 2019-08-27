@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.04027,44.35809,20.08027,44.39809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bajevac"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1326940491,
-    "wof:lastmodified":1564102907,
+    "wof:lastmodified":1566611733,
     "wof:name":"Bajevac",
     "wof:parent_id":1108809947,
     "wof:placetype":"locality",

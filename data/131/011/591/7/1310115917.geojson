@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.20757,43.57331,20.24757,43.61331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sve\u0161tica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310115917,
-    "wof:lastmodified":1564104062,
+    "wof:lastmodified":1566612364,
     "wof:name":"Svestica",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

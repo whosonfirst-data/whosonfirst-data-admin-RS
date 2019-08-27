@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.63629,43.37256,20.67629,43.41256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Piskanja"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1276999763,
-    "wof:lastmodified":1564103629,
+    "wof:lastmodified":1566612114,
     "wof:name":"Piskanja",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

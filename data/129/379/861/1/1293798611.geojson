@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.21313,43.43516,21.25313,43.47516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Veliki Kupci"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293798611,
-    "wof:lastmodified":1564103296,
+    "wof:lastmodified":1566611941,
     "wof:name":"Veliki Kupci",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

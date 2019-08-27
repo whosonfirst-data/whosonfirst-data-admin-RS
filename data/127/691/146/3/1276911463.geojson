@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.98957,42.95346,22.02957,42.99346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Badince"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276911463,
-    "wof:lastmodified":1564103641,
+    "wof:lastmodified":1566612120,
     "wof:name":"Badince",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

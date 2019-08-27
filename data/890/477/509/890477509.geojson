@@ -11,11 +11,15 @@
     "geom:longitude":19.43508,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3653,
+    "gn:population":3653,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.41508,44.78794,19.45508,44.82794",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Klenje"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3198080,
         "gp:id":534577,
-        "qs:id":963703,
+        "qs_pg:id":963703,
         "wd:id":"Q2722401",
         "wk:page":"Klenje"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477509,
-    "wof:lastmodified":1563589294,
+    "wof:lastmodified":1566612550,
     "wof:name":"Klenje",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

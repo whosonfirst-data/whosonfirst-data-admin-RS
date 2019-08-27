@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.11799,43.20898,21.15799,43.24898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Bugare"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309821843,
-    "wof:lastmodified":1537683862,
+    "wof:lastmodified":1566612468,
     "wof:name":"Bugare",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.13655,43.06812,21.17655,43.10812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Besolica"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293505783,
-    "wof:lastmodified":1537683865,
+    "wof:lastmodified":1566611972,
     "wof:name":"Besolica",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

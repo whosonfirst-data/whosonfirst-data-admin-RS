@@ -11,10 +11,14 @@
     "geom:longitude":19.46106,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"19.44106,45.3738,19.48106,45.4138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Silba\u0161"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043b\u0431\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Silbash"
     ],
     "qs:name":"Silba\u0161",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3190895,
         "gp:id":536648,
-        "qs:id":95002,
+        "qs_pg:id":95002,
         "wd:id":"Q1075333",
         "wk:page":"Silba\u0161"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890476877,
-    "wof:lastmodified":1563589175,
+    "wof:lastmodified":1566612512,
     "wof:name":"Silba\u0161",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

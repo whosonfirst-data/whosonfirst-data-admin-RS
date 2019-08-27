@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.92281,43.48111,19.96281,43.52111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dzeoerija",
         "D\u017eeverija"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226257513,
-    "wof:lastmodified":1537684008,
+    "wof:lastmodified":1566612796,
     "wof:name":"Dzeverija",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":20.25741,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":638,
+    "gn:population":638,
     "iso:country":"RS",
+    "lbl:bbox":"20.23741,45.12294,20.27741,45.16294",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u064a \u0633\u0644\u0627\u0646\u0643\u0645\u0646"
     ],
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "Salankamen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt-Sankamen"
     ],
     "qs:name":"Stari Slankamen",
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":785529,
         "gp:id":535660,
-        "qs:id":83575,
+        "qs_pg:id":83575,
         "wd:id":"Q1027263",
         "wk:page":"Stari Slankamen"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890476663,
-    "wof:lastmodified":1563589183,
+    "wof:lastmodified":1566612514,
     "wof:name":"Stari Slankamen",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

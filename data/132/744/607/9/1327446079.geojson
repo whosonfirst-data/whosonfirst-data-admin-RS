@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.2555,43.44584,19.2955,43.48584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zaglavica"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1327446079,
-    "wof:lastmodified":1564103044,
+    "wof:lastmodified":1566611809,
     "wof:name":"Zaglavica",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

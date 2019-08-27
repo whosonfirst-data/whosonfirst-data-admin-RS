@@ -10,8 +10,10 @@
     "geom:latitude":44.760813,
     "geom:longitude":20.412444,
     "iso:country":"RS",
+    "lbl:bbox":"20.4074441296,44.7558132446,20.4174441296,44.7658132446",
     "lbl:latitude":44.760813,
     "lbl:longitude":20.412444,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,13 +38,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843445
+        1393843445,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1444835411,
-    "wof:lastmodified":1566337516,
+    "wof:lastmodified":1566612246,
     "wof:name":"Zarkovo",
     "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",

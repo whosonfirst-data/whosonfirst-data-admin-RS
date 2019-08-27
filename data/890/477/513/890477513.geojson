@@ -11,11 +11,15 @@
     "geom:longitude":19.30022,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.28022,45.38958,19.32022,45.42958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Selen\u010da"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0435\u043d\u0447\u0430"
     ],
-    "name:unk_x_variant":[
-        "B\u00e1cs\u00fajfalu"
-    ],
     "qs:name":"Selen\u010da",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Juzhna Bachka",
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3191124,
         "gp:id":536588,
-        "qs:id":963719,
+        "qs_pg:id":963719,
         "wd:id":"Q122969",
         "wk:page":"Selen\u010da"
     },
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":890477513,
-    "wof:lastmodified":1563589348,
+    "wof:lastmodified":1566612565,
     "wof:name":"Selen\u010da",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

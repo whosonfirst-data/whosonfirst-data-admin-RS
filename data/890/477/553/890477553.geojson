@@ -11,11 +11,15 @@
     "geom:longitude":19.75647,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.73647,46.08646,19.77647,46.12646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pali\u0107"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0438\u0447"
     ],
-    "name:unk_x_variant":[
-        "Palics"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u5229\u5947"
     ],
@@ -102,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3193678,
         "gp:id":535829,
-        "qs:id":1082848,
+        "qs_pg:id":1082848,
         "wd:id":"Q746407",
         "wk:page":"Pali\u0107"
     },
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890477553,
-    "wof:lastmodified":1563589298,
+    "wof:lastmodified":1566612551,
     "wof:name":"Pali\u0107",
     "wof:parent_id":1108810097,
     "wof:placetype":"locality",

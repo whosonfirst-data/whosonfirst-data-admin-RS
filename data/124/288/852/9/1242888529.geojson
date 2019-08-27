@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.67927,43.23773,19.71927,43.27773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Podkr\u0161"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:srp_x_variant":[
         "\u041f\u043e\u0442\u043a\u0440\u0448"
-    ],
-    "name:und_x_variant":[
-        "Potkr\u0161"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1242888529,
-    "wof:lastmodified":1564104367,
+    "wof:lastmodified":1566612598,
     "wof:name":"Podkrs",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

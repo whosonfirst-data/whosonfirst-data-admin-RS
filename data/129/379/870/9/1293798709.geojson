@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.01806,43.19139,20.05806,43.23139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Meini\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293798709,
-    "wof:lastmodified":1537683881,
+    "wof:lastmodified":1566611944,
     "wof:name":"Meinici",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

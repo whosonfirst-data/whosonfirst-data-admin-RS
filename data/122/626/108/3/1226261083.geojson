@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.82386,43.08441,19.86386,43.12441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bori\u0161i\u0107e"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226261083,
-    "wof:lastmodified":1564104665,
+    "wof:lastmodified":1566612756,
     "wof:name":"Borisice",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

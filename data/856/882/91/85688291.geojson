@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.953228,
     "lbl:longitude":19.92991,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Sremski",
     "meso:name_loc":"\u0421\u0440\u0435\u043c\u0441\u043a\u0438",
     "mps:latitude":44.95303,
@@ -168,7 +169,7 @@
         "Srem"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0bb0\u0bc6\u0bae\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb8\u0bcd\u0bb0\u0bc6\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c30\u0c46\u0c2e\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -208,9 +209,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"3,486",
     "statoids:area_mi":"1,346",
     "statoids:as_of_date":"2011-10-22",
@@ -258,11 +259,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1566611909,
     "wof:name":"Sremski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":312278,
     "wof:population_rank":10,

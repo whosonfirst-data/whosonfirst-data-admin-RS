@@ -11,10 +11,14 @@
     "geom:longitude":20.53336,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2567,
+    "gn:population":2567,
     "iso:country":"RS",
+    "lbl:bbox":"20.51336,44.86349,20.55336,44.90349",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ov\u010da"
     ],
@@ -63,9 +67,6 @@
     "name:tur_x_preferred":[
         "Ov\u010da"
     ],
-    "name:unk_x_variant":[
-        "B\u00e1r\u00e1nyos"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u592b\u67e5"
     ],
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":787296,
         "gp:id":532833,
-        "qs:id":129472,
+        "qs_pg:id":129472,
         "wd:id":"Q1008404",
         "wk:page":"Ov\u010da"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890477165,
-    "wof:lastmodified":1563589285,
+    "wof:lastmodified":1566612547,
     "wof:name":"Ov\u010da",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

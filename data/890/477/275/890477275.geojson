@@ -11,10 +11,14 @@
     "geom:longitude":19.26167,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"19.24167,45.28339,19.28167,45.32339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mladenovo"
     ],
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043b\u0430\u0434\u0435\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pokin"
     ],
     "qs:name":"Mladenovo",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3194986,
         "gp:id":535487,
-        "qs:id":581665,
+        "qs_pg:id":581665,
         "wd:id":"Q911252",
         "wk:page":"Mladenovo"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890477275,
-    "wof:lastmodified":1563589238,
+    "wof:lastmodified":1566612532,
     "wof:name":"Mladenovo",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

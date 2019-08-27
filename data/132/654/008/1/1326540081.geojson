@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.45237,43.27528,21.49237,43.31528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Belogo\u0161"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1326540081,
-    "wof:lastmodified":1564103023,
+    "wof:lastmodified":1566611798,
     "wof:name":"Belogos",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

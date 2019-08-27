@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.78728,43.18184,22.82728,43.22184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u044a\u0440\u043b\u043e\u0433"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293311027,
-    "wof:lastmodified":1564103234,
+    "wof:lastmodified":1566611911,
     "wof:name":"Brlog",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

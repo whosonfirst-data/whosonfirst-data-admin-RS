@@ -11,10 +11,14 @@
     "geom:longitude":19.45535,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"19.43535,45.45036,19.47535,45.49036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pivnice"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0432\u043d\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pivnica"
     ],
     "qs:name":"Pivnice",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3193295,
         "gp:id":535957,
-        "qs:id":95057,
+        "qs_pg:id":95057,
         "wd:id":"Q285989",
         "wk:page":"Pivnice"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890477817,
-    "wof:lastmodified":1563589232,
+    "wof:lastmodified":1566612529,
     "wof:name":"Pivnice",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

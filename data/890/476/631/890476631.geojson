@@ -11,10 +11,14 @@
     "geom:longitude":19.78954,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":454,
+    "gn:population":454,
     "iso:country":"RS",
+    "lbl:bbox":"19.76954,44.71211,19.80954,44.75211",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ora\u0161ac"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3194040,
         "gp:id":534152,
-        "qs:id":581637,
+        "qs_pg:id":581637,
         "wd:id":"Q1197023",
         "wk:page":"Ora\u0161ac"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890476631,
-    "wof:lastmodified":1563589189,
+    "wof:lastmodified":1566612516,
     "wof:name":"Ora\u0161ac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":20.96433,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1341,
+    "gn:population":1341,
     "iso:country":"RS",
+    "lbl:bbox":"20.94433,45.26401,20.98433,45.30401",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stari Lec"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0421\u0442\u0430\u0440\u0438 \u041b\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d3l\u00e9cz"
     ],
     "qs:name":"Stari Lec",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":785530,
         "gp:id":534270,
-        "qs:id":1028968,
+        "qs_pg:id":1028968,
         "wd:id":"Q947294",
         "wk:page":"Stari Lec"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477121,
-    "wof:lastmodified":1563589277,
+    "wof:lastmodified":1566612545,
     "wof:name":"Stari Lec",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

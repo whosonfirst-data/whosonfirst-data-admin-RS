@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.2576,44.9087,21.2976,44.9487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Dupljaja"
     ],
@@ -51,7 +55,6 @@
         "Dupljaja"
     ],
     "name:und_x_variant":[
-        "Temesv\u00e1ralja",
         "Dudaljija",
         "Temes-Var\u00e1lja",
         "Duplaja"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1209725741,
-    "wof:lastmodified":1564103820,
+    "wof:lastmodified":1566612211,
     "wof:name":"Dupljaja",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

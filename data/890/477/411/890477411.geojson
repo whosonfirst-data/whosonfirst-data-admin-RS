@@ -11,11 +11,15 @@
     "geom:longitude":19.08809,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5026,
+    "gn:population":5026,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.06809,45.65636,19.10809,45.69636",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Prigrevica"
     ],
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0433\u0440\u0435\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Batsch-Sentiwan"
     ],
     "qs:name":"Prigrevica",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3192420,
         "gp:id":536144,
-        "qs:id":56186,
+        "qs_pg:id":56186,
         "wd:id":"Q852668",
         "wk:page":"Prigrevica"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890477411,
-    "wof:lastmodified":1563589310,
+    "wof:lastmodified":1566612554,
     "wof:name":"Prigrevica",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

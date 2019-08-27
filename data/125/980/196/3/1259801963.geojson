@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.01045,42.64955,22.05045,42.68955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lepenica"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1259801963,
-    "wof:lastmodified":1564104629,
+    "wof:lastmodified":1566612735,
     "wof:name":"Lepenica",
     "wof:parent_id":1108810135,
     "wof:placetype":"locality",

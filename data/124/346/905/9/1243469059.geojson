@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.00833,43.4775,21.04833,43.5175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Velja Glava"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1243469059,
-    "wof:lastmodified":1564104413,
+    "wof:lastmodified":1566612620,
     "wof:name":"Velja Glava",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

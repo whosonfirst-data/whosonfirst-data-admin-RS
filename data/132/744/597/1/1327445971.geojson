@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.1258,44.32115,19.1658,44.36115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Budi\u0161i\u0107"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1327445971,
-    "wof:lastmodified":1564103040,
+    "wof:lastmodified":1566611807,
     "wof:name":"Budisic",
     "wof:parent_id":1108809971,
     "wof:placetype":"locality",

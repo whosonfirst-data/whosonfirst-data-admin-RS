@@ -11,10 +11,14 @@
     "geom:longitude":20.2213,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1261,
+    "gn:population":1261,
     "iso:country":"RS",
+    "lbl:bbox":"20.2013,45.87876,20.2413,45.91876",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jazovo"
     ],
@@ -58,7 +62,7 @@
     "name:srp_x_variant":[
         "\u0408\u0430\u0437\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jasowo"
     ],
     "qs:name":"Jazovo",
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":789828,
         "gp:id":535789,
-        "qs:id":129583,
+        "qs_pg:id":129583,
         "wd:id":"Q940255",
         "wk:page":"Jazovo"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890477717,
-    "wof:lastmodified":1563589348,
+    "wof:lastmodified":1566612565,
     "wof:name":"Jazovo",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

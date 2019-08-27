@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.90202,43.09877,22.94202,43.13877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0435\u0432 \u0434\u043e\u043b"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1326845199,
-    "wof:lastmodified":1564102990,
+    "wof:lastmodified":1566611779,
     "wof:name":"Boljev Dol",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

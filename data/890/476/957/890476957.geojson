@@ -11,10 +11,14 @@
     "geom:longitude":21.018,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":6319,
+    "gn:population":6319,
     "iso:country":"RS",
+    "lbl:bbox":"20.998,45.02987,21.038,45.06987",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0627\u062a\u0633\u0643\u064a \u0643\u0627\u0631\u0644\u0648\u0641\u0627\u062a\u0633"
     ],
@@ -63,9 +67,6 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
-        "Nagyk\u00e1rolyfalva"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u7d0d\u7279\u5361\u723e\u6d1b\u74e6\u8328"
     ],
@@ -89,7 +90,7 @@
     "wof:concordances":{
         "gn:id":792945,
         "gp:id":532525,
-        "qs:id":129673,
+        "qs_pg:id":129673,
         "wd:id":"Q1042129",
         "wk:page":"Banatski Karlovac"
     },
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":890476957,
-    "wof:lastmodified":1563589160,
+    "wof:lastmodified":1566612508,
     "wof:name":"Banatski Karlovac",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

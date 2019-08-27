@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.02758,44.3893,21.06758,44.4293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krnjevo"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1310441947,
-    "wof:lastmodified":1564104065,
+    "wof:lastmodified":1566612366,
     "wof:name":"Krnjevo",
     "wof:parent_id":1108810131,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.4293,44.3428,19.4693,44.3828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Kova\u010devac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360202917,
-    "wof:lastmodified":1537683966,
+    "wof:lastmodified":1566612420,
     "wof:name":"Kovacevac",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

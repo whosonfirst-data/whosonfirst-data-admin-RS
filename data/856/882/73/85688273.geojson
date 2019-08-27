@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.459513,
     "lbl:longitude":20.599726,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Ra\u0161ki",
     "meso:name_loc":"\u0420\u0430\u0448\u043a\u0438",
     "mps:latitude":43.43833,
@@ -112,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"3,918",
     "statoids:area_mi":"1,513",
     "statoids:as_of_date":"2011-10-22",
@@ -164,11 +165,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1566611909,
     "wof:name":"Ra\u0161ki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":309258,
     "wof:population_rank":10,

@@ -11,11 +11,15 @@
     "geom:longitude":21.63945,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1039,
+    "gn:population":1039,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.61945,44.50273,21.65945,44.54273",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Turija"
     ],
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":784820,
         "gp:id":537245,
-        "qs:id":275713,
+        "qs_pg:id":275713,
         "wd:id":"Q3102490",
         "wk:page":"Turija"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477403,
-    "wof:lastmodified":1563589339,
+    "wof:lastmodified":1566612562,
     "wof:name":"Turija",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

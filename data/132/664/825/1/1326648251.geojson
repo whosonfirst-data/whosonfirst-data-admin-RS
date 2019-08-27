@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.12109,45.27337,19.16109,45.31337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ba\u010dko Novo Selo"
     ],
@@ -69,8 +73,7 @@
         "Neudorf an der Donau",
         "Ba\u010dko Novo Salo",
         "B\u00e1cs-Novoszelo",
-        "Batsch-Neudorf",
-        "B\u00e1cs\u00fajlak"
+        "Batsch-Neudorf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1326648251,
-    "wof:lastmodified":1564103008,
+    "wof:lastmodified":1566611790,
     "wof:name":"Backo Novo Selo",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

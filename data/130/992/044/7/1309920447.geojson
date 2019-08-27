@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.65882,43.81575,19.69882,43.85575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "An\u017ei\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309920447,
-    "wof:lastmodified":1537684008,
+    "wof:lastmodified":1566612474,
     "wof:name":"Anzici",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

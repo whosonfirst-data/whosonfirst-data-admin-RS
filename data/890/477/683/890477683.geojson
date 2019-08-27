@@ -11,11 +11,15 @@
     "geom:longitude":20.91468,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1211,
+    "gn:population":1211,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.89468,45.29575,20.93468,45.33575",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043a"
     ],
@@ -55,7 +59,7 @@
     "name:srp_x_variant":[
         "\u041a\u043e\u043d\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Conak"
     ],
     "qs:name":"Konak",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":789346,
         "gp:id":534642,
-        "qs:id":196463,
+        "qs_pg:id":196463,
         "wd:id":"Q1083380",
         "wk:page":"Konak"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890477683,
-    "wof:lastmodified":1563589318,
+    "wof:lastmodified":1566612557,
     "wof:name":"Konak",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

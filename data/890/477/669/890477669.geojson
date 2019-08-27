@@ -11,11 +11,15 @@
     "geom:longitude":20.38946,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3192,
+    "gn:population":3192,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.36946,45.08814,20.40946,45.12814",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010centa"
     ],
@@ -58,7 +62,7 @@
     "name:srp_x_variant":[
         "\u0427\u0435\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leopoldova"
     ],
     "qs:name":"\u010centa",
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":791998,
         "gp:id":533122,
-        "qs:id":1218609,
+        "qs_pg:id":1218609,
         "wd:id":"Q338654",
         "wk:page":"\u010centa"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890477669,
-    "wof:lastmodified":1563589246,
+    "wof:lastmodified":1566612534,
     "wof:name":"\u010centa",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

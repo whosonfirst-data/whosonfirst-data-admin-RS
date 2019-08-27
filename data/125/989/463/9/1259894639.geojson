@@ -24,8 +24,12 @@
     "gn:population":23,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.88374,45.11384,19.92374,45.15384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Grgeteg"
     ],
@@ -52,9 +56,6 @@
     ],
     "name:srp_x_variant":[
         "\u0413\u0440\u0433\u0435\u0442\u0435\u0433"
-    ],
-    "name:und_x_variant":[
-        "Grgetek"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1259894639,
-    "wof:lastmodified":1564104635,
+    "wof:lastmodified":1566612738,
     "wof:name":"Grgeteg",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

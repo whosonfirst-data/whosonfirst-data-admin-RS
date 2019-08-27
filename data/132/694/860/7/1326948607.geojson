@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.33507,44.5339,19.37507,44.5739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Lazi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326948607,
-    "wof:lastmodified":1537683980,
+    "wof:lastmodified":1566611735,
     "wof:name":"Lazici",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

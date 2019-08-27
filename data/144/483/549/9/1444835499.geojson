@@ -10,8 +10,10 @@
     "geom:latitude":44.770117,
     "geom:longitude":20.41665,
     "iso:country":"RS",
+    "lbl:bbox":"20.4116498354,44.7651166619,20.4216498354,44.7751166619",
     "lbl:latitude":44.770117,
     "lbl:longitude":20.41665,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,13 +38,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843445
+        1393843445,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1444835499,
-    "wof:lastmodified":1566337526,
+    "wof:lastmodified":1566612243,
     "wof:name":"Suncana Padina",
     "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.673534,
     "lbl:longitude":20.411447,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Grad Beogr",
     "meso:name_loc":"\u0411\u0435\u043e\u0433\u0440\u0430\u0434",
     "mps:latitude":44.671883,
@@ -165,9 +166,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"3,224",
     "statoids:area_mi":"1,245",
     "statoids:as_of_date":"2011-10-22",
@@ -218,11 +219,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1566611910,
     "wof:name":"Grad Beograd",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":1659440,
     "wof:population_rank":12,

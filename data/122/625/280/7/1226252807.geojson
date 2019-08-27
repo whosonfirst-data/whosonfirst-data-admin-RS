@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.96633,45.9589,20.00633,45.9989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tre\u0161njevac"
     ],
@@ -61,8 +65,7 @@
     ],
     "name:und_x_variant":[
         "Sen\u0107anski Tre\u0161njevac",
-        "Uzunovi\u0107evo",
-        "Oromhegyes"
+        "Uzunovi\u0107evo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1226252807,
-    "wof:lastmodified":1564104729,
+    "wof:lastmodified":1566612792,
     "wof:name":"Tresnjevac",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

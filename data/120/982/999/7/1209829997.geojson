@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.57261,43.84635,20.61261,43.88635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Donja Bresnica"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1209829997,
-    "wof:lastmodified":1564103716,
+    "wof:lastmodified":1566612157,
     "wof:name":"Donja Bresnica",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

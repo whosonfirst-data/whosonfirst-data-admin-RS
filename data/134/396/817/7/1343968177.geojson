@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.84282,43.14737,22.88282,43.18737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u0447"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343968177,
-    "wof:lastmodified":1564103057,
+    "wof:lastmodified":1566611816,
     "wof:name":"Rosomac",
     "wof:parent_id":1108810029,
     "wof:placetype":"locality",

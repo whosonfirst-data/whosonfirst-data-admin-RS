@@ -11,11 +11,15 @@
     "geom:longitude":20.58089,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2159,
+    "gn:population":2159,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.56089,45.22171,20.60089,45.26171",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Orlovat"
     ],
@@ -61,7 +65,7 @@
     "name:srp_x_variant":[
         "\u041e\u0440\u043b\u043e\u0432\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barlad"
     ],
     "qs:name":"Orlovat",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":787391,
         "gp:id":535766,
-        "qs:id":502269,
+        "qs_pg:id":502269,
         "wd:id":"Q1193012",
         "wk:page":"Orlovat"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890477687,
-    "wof:lastmodified":1563589234,
+    "wof:lastmodified":1566612530,
     "wof:name":"Orlovat",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

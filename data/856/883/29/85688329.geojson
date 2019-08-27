@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":42.975529,
     "lbl:longitude":21.886936,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Jablani\u010dki",
     "meso:name_loc":"\u0408\u0430\u0431\u043b\u0430\u043d\u0438\u0447\u043a\u0438",
     "mps:latitude":42.975422,
@@ -174,7 +175,7 @@
         "Jablanica"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bbe\u0baa\u0bcd\u0bb2\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9c\u0bbe\u0baa\u0bcd\u0bb2\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c2c\u0c4d\u0c32\u0c3e\u0c28\u0c3f\u0c15\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -274,9 +275,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"2,769",
     "statoids:area_mi":"1,069",
     "statoids:as_of_date":"2011-10-22",
@@ -327,11 +328,10 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733933,
+    "wof:lastmodified":1566611907,
     "wof:name":"Jablani\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":216304,
     "wof:population_rank":10,

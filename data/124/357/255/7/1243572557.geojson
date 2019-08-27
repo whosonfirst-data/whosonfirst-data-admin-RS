@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.96667,43.27222,22.00667,43.31222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Nikola Tesla"
     ],
@@ -453,7 +457,7 @@
         }
     ],
     "wof:id":1243572557,
-    "wof:lastmodified":1564104435,
+    "wof:lastmodified":1566612630,
     "wof:name":"Nikola Tesla",
     "wof:parent_id":1108809989,
     "wof:placetype":"locality",

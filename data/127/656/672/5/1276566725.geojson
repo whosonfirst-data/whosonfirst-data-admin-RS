@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.04611,44.14722,20.08611,44.18722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688313,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276566725,
-    "wof:lastmodified":1536963326,
+    "wof:lastmodified":1566612048,
     "wof:name":"Donji Kovacevici",
     "wof:parent_id":1108809983,
     "wof:placetype":"locality",

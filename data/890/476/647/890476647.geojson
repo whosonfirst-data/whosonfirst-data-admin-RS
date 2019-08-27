@@ -11,10 +11,14 @@
     "geom:longitude":21.49167,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":192,
+    "gn:population":192,
     "iso:country":"RS",
+    "lbl:bbox":"21.47167,43.17472,21.51167,43.21472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miljkovica"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":787955,
         "gp:id":535227,
-        "qs:id":553809,
+        "qs_pg:id":553809,
         "wd:id":"Q2735426",
         "wk:page":"Miljkovica"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476647,
-    "wof:lastmodified":1563589177,
+    "wof:lastmodified":1566612512,
     "wof:name":"Miljkovica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

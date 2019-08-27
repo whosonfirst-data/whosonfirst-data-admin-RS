@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.51674,43.47758,20.55674,43.51758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Zasad"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1243564383,
-    "wof:lastmodified":1564104440,
+    "wof:lastmodified":1566612632,
     "wof:name":"Zasad",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

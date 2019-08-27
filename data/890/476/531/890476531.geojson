@@ -11,10 +11,14 @@
     "geom:longitude":20.25941,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5033,
+    "gn:population":5033,
     "iso:country":"RS",
+    "lbl:bbox":"20.23941,44.6307,20.27941,44.6707",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0643\u060c \u0628\u064a\u0648\u063a\u0631\u0627\u062f"
     ],
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":792866,
         "gp:id":535701,
-        "qs:id":129670,
+        "qs_pg:id":129670,
         "wd:id":"Q2884580",
         "wk:page":"Bari\u010d"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890476531,
-    "wof:lastmodified":1563589168,
+    "wof:lastmodified":1566612510,
     "wof:name":"Bari\u010d",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

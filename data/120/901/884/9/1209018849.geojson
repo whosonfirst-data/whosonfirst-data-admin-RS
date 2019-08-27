@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.69468,43.22012,19.73468,43.26012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Vrloba\u0161"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209018849,
-    "wof:lastmodified":1537684030,
+    "wof:lastmodified":1566612133,
     "wof:name":"Vrlobas",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

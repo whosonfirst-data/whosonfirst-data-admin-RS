@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.60694,43.42278,20.64694,43.46278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Vodi\u010dno"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343780283,
-    "wof:lastmodified":1537683883,
+    "wof:lastmodified":1566611854,
     "wof:name":"Vodicno",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

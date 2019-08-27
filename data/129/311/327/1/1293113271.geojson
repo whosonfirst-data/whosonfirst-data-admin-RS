@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.5207,43.9009,19.5607,43.9409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raca"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1293113271,
-    "wof:lastmodified":1564103408,
+    "wof:lastmodified":1566611997,
     "wof:name":"Raca",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

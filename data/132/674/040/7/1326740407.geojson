@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.85218,43.42097,20.89218,43.46097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mili\u0107evi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326740407,
-    "wof:lastmodified":1537683887,
+    "wof:lastmodified":1566611723,
     "wof:name":"Milicevici",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

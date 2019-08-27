@@ -11,8 +11,12 @@
     "geom:longitude":19.916152,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.896152,46.113887,19.936152,46.153887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Horgo\u00b5",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Severni Banat",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":534276,
-        "qs:id":977089
+        "qs_pg:id":977089
     },
     "wof:country":"RS",
     "wof:created":1469054124,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890477639,
-    "wof:lastmodified":1499449549,
+    "wof:lastmodified":1566612559,
     "wof:name":"Horgo\u00b5",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.58722,43.17308,21.62722,43.21308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Rastovnica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1344272053,
-    "wof:lastmodified":1564103197,
+    "wof:lastmodified":1566611887,
     "wof:name":"Rastovnica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

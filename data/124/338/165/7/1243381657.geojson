@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.22243,46.04446,20.26243,46.08446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Banatsko Aran\u0111elovo"
     ],
@@ -69,9 +73,7 @@
         "Veliko Arand\u017eelovo",
         "Oroslamo\u0161",
         "Banat Arandjelovo",
-        "Oroszl\u00e1mos",
-        "Oroszl\u00e1nosmonostora",
-        "Oroszl\u00e1nos"
+        "Oroszl\u00e1nosmonostora"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1243381657,
-    "wof:lastmodified":1564104326,
+    "wof:lastmodified":1566612576,
     "wof:name":"Banatsko Arangelovo",
     "wof:parent_id":1108810001,
     "wof:placetype":"locality",

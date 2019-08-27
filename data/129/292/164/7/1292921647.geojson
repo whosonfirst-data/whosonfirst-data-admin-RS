@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.9135,43.23385,19.9535,43.27385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Grabovica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1292921647,
-    "wof:lastmodified":1564103290,
+    "wof:lastmodified":1566611939,
     "wof:name":"Grabovica",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

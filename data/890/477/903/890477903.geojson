@@ -11,10 +11,14 @@
     "geom:longitude":20.82119,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":141,
+    "gn:population":141,
     "iso:country":"RS",
+    "lbl:bbox":"20.80119,45.41626,20.84119,45.45626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Busenje"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0411\u0443\u0441\u0435\u045a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vladi\u010dino Selo"
     ],
     "qs:name":"Busenje",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":792101,
         "gp:id":534377,
-        "qs:id":554054,
+        "qs_pg:id":554054,
         "wd:id":"Q261660",
         "wk:page":"Busenje"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477903,
-    "wof:lastmodified":1563589288,
+    "wof:lastmodified":1566612548,
     "wof:name":"Busenje",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

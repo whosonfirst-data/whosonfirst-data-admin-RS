@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.95869,43.33253,20.99869,43.37253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gra\u0161evci"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293599231,
-    "wof:lastmodified":1564103340,
+    "wof:lastmodified":1566611963,
     "wof:name":"Grasevci",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

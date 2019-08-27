@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.58632,42.80233,21.62632,42.84233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tupale"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310116081,
-    "wof:lastmodified":1564104062,
+    "wof:lastmodified":1566612365,
     "wof:name":"Tupale",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

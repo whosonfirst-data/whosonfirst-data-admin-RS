@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.91811,44.22243,19.95811,44.26243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rogljevi\u0107",
         "Rogljevi\u0107i"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326745009,
-    "wof:lastmodified":1537683956,
+    "wof:lastmodified":1566611726,
     "wof:name":"Rogljevici",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

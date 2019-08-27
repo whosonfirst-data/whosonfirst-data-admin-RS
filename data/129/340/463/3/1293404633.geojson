@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.19799,42.42001,22.23799,42.46001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Magura"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1293404633,
-    "wof:lastmodified":1564103328,
+    "wof:lastmodified":1566611957,
     "wof:name":"Magura",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

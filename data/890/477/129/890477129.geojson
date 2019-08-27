@@ -11,10 +11,14 @@
     "geom:longitude":20.18763,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3278,
+    "gn:population":3278,
     "iso:country":"RS",
+    "lbl:bbox":"20.16763,44.85635,20.20763,44.89635",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ugrinovci"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":784779,
         "gp:id":537265,
-        "qs:id":1028954,
+        "qs_pg:id":1028954,
         "wd:id":"Q1977243",
         "wk:page":"Ugrinovci"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477129,
-    "wof:lastmodified":1563589266,
+    "wof:lastmodified":1566612540,
     "wof:name":"Ugrinovci",
     "wof:parent_id":1108810165,
     "wof:placetype":"locality",

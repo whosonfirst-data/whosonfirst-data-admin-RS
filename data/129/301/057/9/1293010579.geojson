@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.02891,43.12785,21.06891,43.16785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0628\u064a\u0646\u064a\u064a"
     ],
@@ -137,9 +141,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u043d\u0454"
     ],
-    "name:und_x_variant":[
-        "Trebinja"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06cc\u0628\u06cc\u0646\u0626\u06d2"
     ],
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1293010579,
-    "wof:lastmodified":1564103270,
+    "wof:lastmodified":1566611929,
     "wof:name":"Trebinje",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

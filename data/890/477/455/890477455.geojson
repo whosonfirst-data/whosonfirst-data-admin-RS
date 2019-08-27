@@ -11,11 +11,15 @@
     "geom:longitude":20.295,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2773,
+    "gn:population":2773,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.275,44.49278,20.315,44.53278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stepojevac"
     ],
@@ -43,7 +47,7 @@
     "name:srp_x_variant":[
         "\u0421\u0442\u0435\u043f\u043e\u0458\u0435\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stepajevac"
     ],
     "qs:name":"Stepojevac",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":785489,
         "gp:id":536900,
-        "qs:id":1218742,
+        "qs_pg:id":1218742,
         "wd:id":"Q3103021",
         "wk:page":"Stepojevac"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890477455,
-    "wof:lastmodified":1563589249,
+    "wof:lastmodified":1566612535,
     "wof:name":"Stepojevac",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

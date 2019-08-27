@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.58284,43.17308,20.62284,43.21308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Jablanica"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1293505617,
-    "wof:lastmodified":1564103345,
+    "wof:lastmodified":1566611966,
     "wof:name":"Jablanica",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.80074,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"21.78074,44.56958,21.82074,44.60958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Klju\u010data",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":837434,
         "gp:id":533735,
-        "qs:id":554473
+        "qs_pg:id":554473
     },
     "wof:country":"RS",
     "wof:created":1469054080,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476575,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566612505,
     "wof:name":"Klju\u010data",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

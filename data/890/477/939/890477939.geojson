@@ -11,10 +11,14 @@
     "geom:longitude":20.41089,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.39089,43.63216,20.43089,43.67216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Propljenica"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":836453,
         "gp:id":532811,
-        "qs:id":554406
+        "qs_pg:id":554406
     },
     "wof:country":"RS",
     "wof:created":1469054137,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890477939,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612522,
     "wof:name":"Propljenica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

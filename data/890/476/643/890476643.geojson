@@ -11,10 +11,14 @@
     "geom:longitude":20.32872,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3044,
+    "gn:population":3044,
     "iso:country":"RS",
+    "lbl:bbox":"20.30872,44.58237,20.34872,44.62237",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u043d\u0438\u0447"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":784236,
         "gp:id":537543,
-        "qs:id":275706,
+        "qs_pg:id":275706,
         "wd:id":"Q2453146",
         "wk:page":"Vrani\u0107"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890476643,
-    "wof:lastmodified":1563589130,
+    "wof:lastmodified":1566612500,
     "wof:name":"Vrani\u0107",
     "wof:parent_id":1108809835,
     "wof:placetype":"locality",

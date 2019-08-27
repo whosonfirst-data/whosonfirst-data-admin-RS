@@ -11,10 +11,14 @@
     "geom:longitude":21.37046,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":308,
+    "gn:population":308,
     "iso:country":"RS",
+    "lbl:bbox":"21.35046,43.16497,21.39046,43.20497",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0422\u043e\u0447\u0430\u043d\u0435"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":791215,
         "gp:id":537232,
-        "qs:id":553985,
+        "qs_pg:id":553985,
         "wd:id":"Q2730137",
         "wk:page":"Donje To\u010dane"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890477885,
-    "wof:lastmodified":1563589313,
+    "wof:lastmodified":1566612555,
     "wof:name":"Donje To\u010dane",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.69951,42.85037,21.73951,42.89037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Poro\u0161tica"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310716583,
-    "wof:lastmodified":1537683736,
+    "wof:lastmodified":1566612342,
     "wof:name":"Porostica",
     "wof:parent_id":1108809953,
     "wof:placetype":"locality",

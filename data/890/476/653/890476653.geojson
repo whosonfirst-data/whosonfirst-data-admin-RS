@@ -11,11 +11,15 @@
     "geom:longitude":21.50222,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":36,
+    "gn:population":36,
     "iso:country":"RS",
+    "lbl:bbox":"21.48222,43.02389,21.52222,43.06389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bogujevac"
     ],
     "qs:name":"Bogojevac",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":792497,
         "gp:id":537761,
-        "qs:id":554081
+        "qs_pg:id":554081
     },
     "wof:country":"RS",
     "wof:created":1469054083,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890476653,
-    "wof:lastmodified":1505343722,
+    "wof:lastmodified":1566612515,
     "wof:name":"Bogojevac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

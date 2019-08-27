@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.57037,44.08399,21.61037,44.12399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Strmosten"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293310965,
-    "wof:lastmodified":1564103237,
+    "wof:lastmodified":1566611912,
     "wof:name":"Strmosten",
     "wof:parent_id":1108809885,
     "wof:placetype":"locality",

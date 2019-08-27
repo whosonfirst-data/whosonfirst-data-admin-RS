@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.7531,43.70748,19.7931,43.74748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rudine"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1344271737,
-    "wof:lastmodified":1564103197,
+    "wof:lastmodified":1566611887,
     "wof:name":"Rudine",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.00854,42.92797,22.04854,42.96797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guberevce"
     ],
@@ -47,9 +51,6 @@
     "name:srp_x_variant":[
         "\u0413\u0443\u0431\u0435\u0440\u0435\u0432\u0430\u0446"
     ],
-    "name:und_x_variant":[
-        "Guberevac"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633755
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1209233037,
-    "wof:lastmodified":1564103708,
+    "wof:lastmodified":1566612154,
     "wof:name":"Guberevce",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

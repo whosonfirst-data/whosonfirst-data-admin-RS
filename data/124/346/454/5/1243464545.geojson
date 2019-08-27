@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.46397,43.37356,22.50397,43.41356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balta Berilovac"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243464545,
-    "wof:lastmodified":1564104410,
+    "wof:lastmodified":1566612619,
     "wof:name":"Balta Berilovac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

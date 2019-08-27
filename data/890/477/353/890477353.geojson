@@ -11,10 +11,14 @@
     "geom:longitude":19.54654,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1419,
+    "gn:population":1419,
     "iso:country":"RS",
+    "lbl:bbox":"19.52654,44.83617,19.56654,44.87617",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Metkovi\u0107"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3195220,
         "gp:id":532790,
-        "qs:id":1044018,
+        "qs_pg:id":1044018,
         "wd:id":"Q3101914",
         "wk:page":"Metkovi\u0107"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890477353,
-    "wof:lastmodified":1563589211,
+    "wof:lastmodified":1566612522,
     "wof:name":"Metkovi\u0107",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

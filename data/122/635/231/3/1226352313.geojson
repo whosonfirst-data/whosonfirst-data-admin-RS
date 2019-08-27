@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.77,44.279,20.81,44.319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kloka"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226352313,
-    "wof:lastmodified":1564104702,
+    "wof:lastmodified":1566612776,
     "wof:name":"Kloka",
     "wof:parent_id":1108810113,
     "wof:placetype":"locality",

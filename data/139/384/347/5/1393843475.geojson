@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.54781,44.82787,20.55781,44.83787",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:bos_x_preferred":[
         "Vi\u0161njica"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1393843475,
-    "wof:lastmodified":1564104218,
+    "wof:lastmodified":1566612449,
     "wof:name":"Visnjica",
     "wof:parent_id":1393843453,
     "wof:placetype":"neighbourhood",

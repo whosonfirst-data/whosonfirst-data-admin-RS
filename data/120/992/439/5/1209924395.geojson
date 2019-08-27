@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.36632,42.38183,22.40632,42.42183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u042f\u0440\u0435\u0448\u043d\u0438\u043a"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1209924395,
-    "wof:lastmodified":1564103744,
+    "wof:lastmodified":1566612171,
     "wof:name":"Jaresnik",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

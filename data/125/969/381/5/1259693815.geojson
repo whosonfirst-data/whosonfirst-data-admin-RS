@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.54967,43.51079,21.58967,43.55079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bojince"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1259693815,
-    "wof:lastmodified":1564104625,
+    "wof:lastmodified":1566612733,
     "wof:name":"Bojince",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

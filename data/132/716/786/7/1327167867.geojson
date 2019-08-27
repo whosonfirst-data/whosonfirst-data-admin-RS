@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.9857,43.27507,22.0257,43.31507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u0448\u043a\u0430 \u0411\u0430\u043d\u044f"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1327167867,
-    "wof:lastmodified":1564103048,
+    "wof:lastmodified":1566611812,
     "wof:name":"Niska Banja",
     "wof:parent_id":1108809989,
     "wof:placetype":"locality",

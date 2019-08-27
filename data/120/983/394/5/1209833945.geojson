@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.9835,43.96737,21.0235,44.00737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bukorovac"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209833945,
-    "wof:lastmodified":1564103688,
+    "wof:lastmodified":1566612144,
     "wof:name":"Bukorovac",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

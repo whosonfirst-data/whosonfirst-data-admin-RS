@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.05551,42.33416,22.09551,42.37416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310716389,
-    "wof:lastmodified":1536609995,
+    "wof:lastmodified":1566612346,
     "wof:name":"Kitinci",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.59355,45.15376,19.63355,45.19376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Grabovo"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1309726931,
-    "wof:lastmodified":1564104277,
+    "wof:lastmodified":1566612488,
     "wof:name":"Grabovo",
     "wof:parent_id":1108809847,
     "wof:placetype":"locality",

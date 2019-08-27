@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.03658,42.51863,22.07658,42.55863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Studenac"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226360771,
-    "wof:lastmodified":1564104795,
+    "wof:lastmodified":1566612832,
     "wof:name":"Studenac",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

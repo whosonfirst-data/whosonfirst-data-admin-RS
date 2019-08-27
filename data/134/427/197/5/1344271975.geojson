@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.43536,43.28862,20.47536,43.32862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Majdaci"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344271975,
-    "wof:lastmodified":1537683851,
+    "wof:lastmodified":1566611888,
     "wof:name":"Majdaci",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

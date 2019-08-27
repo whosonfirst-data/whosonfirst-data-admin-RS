@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.34076,43.07881,21.38076,43.11881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sokolovica"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360295549,
-    "wof:lastmodified":1564104180,
+    "wof:lastmodified":1566612424,
     "wof:name":"Sokolovica",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

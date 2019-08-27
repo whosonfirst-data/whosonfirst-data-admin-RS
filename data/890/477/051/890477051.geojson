@@ -11,10 +11,14 @@
     "geom:longitude":19.81368,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":1541,
+    "gn:population":1541,
     "iso:country":"RS",
+    "lbl:bbox":"19.79368,44.31987,19.83368,44.35987",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornja Bukovica"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3200272,
         "gp:id":532899,
-        "qs:id":147266,
+        "qs_pg:id":147266,
         "wd:id":"Q3111107",
         "wk:page":"Gornja Bukovica"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890477051,
-    "wof:lastmodified":1563589337,
+    "wof:lastmodified":1566612561,
     "wof:name":"Gornja Bukovica",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",
