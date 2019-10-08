@@ -1,14 +1,16 @@
 {
   "id": "85633755",
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-rs",
+  "properties": {
+    "src:alt_label":"meso",
     "src:geom":"meso",
-    "wof:geomhash":"ec0030f81a63dd5fd960800ca8b30601",
-    "wof:id":"85633755"
+    "wof:geomhash":"5045698cd5d2bf8d884b87e120944c17",
+    "wof:id":"85633755",
+    "wof:repo":"whosonfirst-data-admin-rs"
 },
   "bbox": [
-    18.848146999999784,
-    42.234304999999864,
+    18.84814699999978,
+    42.23430499999986,
     23.00639049999978,
     46.18907299999984
 ],
