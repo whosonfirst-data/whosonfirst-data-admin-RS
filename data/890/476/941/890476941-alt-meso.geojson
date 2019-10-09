@@ -2,6 +2,7 @@
   "id": 890476941,
   "type": "Feature",
   "properties": {
+    "src:alt_label":"meso",
     "src:geom":"meso",
     "wof:geomhash":"87fcbad4eefaa3855770a4769cfa3366",
     "wof:id":890476941
