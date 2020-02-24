@@ -64,6 +64,9 @@
     },
     "wof:country":"RS",
     "wof:created":1469054115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e38da43cabc7eb856a9cf0965afae1f1",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890477441,
-    "wof:lastmodified":1527727179,
+    "wof:lastmodified":1582313341,
     "wof:name":"Valjevo",
     "wof:parent_id":85688313,
     "wof:placetype":"county",

@@ -139,6 +139,9 @@
         "wk:page":"\u010coka"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a961498ad68fc0ecd79538dc7d71af3d",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101910937,
-    "wof:lastmodified":1563589053,
+    "wof:lastmodified":1582313339,
     "wof:name":"\u010coka",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

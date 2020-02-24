@@ -155,6 +155,9 @@
         "wk:page":"Ba\u010dki Petrovac"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba1a5f61f28eee49cbfe6bd4cf1c05ec",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101910973,
-    "wof:lastmodified":1563589062,
+    "wof:lastmodified":1582313339,
     "wof:name":"Ba\u010dki Petrovac",
     "wof:parent_id":1108809831,
     "wof:placetype":"locality",

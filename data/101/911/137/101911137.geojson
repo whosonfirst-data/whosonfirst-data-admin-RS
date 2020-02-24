@@ -153,6 +153,9 @@
         "wd:id":"Q797036"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2908c11a89902211825434ae76f5d812",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101911137,
-    "wof:lastmodified":1563589046,
+    "wof:lastmodified":1582313339,
     "wof:name":"Prijepolje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

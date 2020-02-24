@@ -131,6 +131,9 @@
         "wk:page":"Ra\u0161ka, Serbia"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"468b0d5903c9e1b2f6f7d332872c8303",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101911025,
-    "wof:lastmodified":1563589043,
+    "wof:lastmodified":1582313339,
     "wof:name":"Ra\u00b5ka",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

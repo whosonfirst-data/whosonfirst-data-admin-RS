@@ -66,6 +66,9 @@
     },
     "wof:country":"RS",
     "wof:created":1469054113,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"80e6d0cd29e92e389d1ed9d2ac1fc8ca",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477405,
-    "wof:lastmodified":1527727185,
+    "wof:lastmodified":1582313341,
     "wof:name":"Prokuplje",
     "wof:parent_id":85688261,
     "wof:placetype":"county",

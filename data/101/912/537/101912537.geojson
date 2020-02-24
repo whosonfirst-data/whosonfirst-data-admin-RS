@@ -317,6 +317,9 @@
         "wk:page":"Zrenjanin"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"9019e61a56e103aba8ede610a9df91ff",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
         }
     ],
     "wof:id":101912537,
-    "wof:lastmodified":1563589023,
+    "wof:lastmodified":1582313338,
     "wof:name":"Zrenjanin",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

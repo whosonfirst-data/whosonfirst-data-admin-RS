@@ -66,6 +66,9 @@
     },
     "wof:country":"RS",
     "wof:created":1469054110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"397b13e144a67657fcb67298936d9449",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890477295,
-    "wof:lastmodified":1527727179,
+    "wof:lastmodified":1582313341,
     "wof:name":"Pirot",
     "wof:parent_id":85688303,
     "wof:placetype":"county",

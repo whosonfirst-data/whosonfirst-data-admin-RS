@@ -309,6 +309,9 @@
         "wd:id":"Q648758"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e01ccfdf6b80a9cc0f405e9d8970d03f",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1582313329,
     "wof:name":"Severnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

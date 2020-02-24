@@ -107,6 +107,9 @@
         "wk:page":"Sur\u010din"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5b783e9de31bb1dace85c559bf54e1b",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101913175,
-    "wof:lastmodified":1562015392,
+    "wof:lastmodified":1582313338,
     "wof:name":"Sur\u010din",
     "wof:parent_id":1108810099,
     "wof:placetype":"locality",

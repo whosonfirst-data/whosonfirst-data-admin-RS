@@ -79,6 +79,9 @@
         "unlc:id":"RS-17"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e3bd5be3f103602379471c9a96b7e2ee",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1582313330,
     "wof:name":"Moravi\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

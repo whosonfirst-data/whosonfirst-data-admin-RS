@@ -119,6 +119,9 @@
         "wk:page":"Ljig"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17834b2e2c0eb79674e994babd7161f1",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101911607,
-    "wof:lastmodified":1563589049,
+    "wof:lastmodified":1582313339,
     "wof:name":"Ljig",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

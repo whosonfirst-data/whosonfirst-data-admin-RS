@@ -134,6 +134,9 @@
         "wk:page":"Kova\u010dica"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b94557ccad82511da14dec942c41104f",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101910967,
-    "wof:lastmodified":1563589059,
+    "wof:lastmodified":1582313339,
     "wof:name":"Kova\u010dica",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

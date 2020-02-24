@@ -64,6 +64,9 @@
     },
     "wof:country":"RS",
     "wof:created":1469054123,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8344d7b613251e5eb12c1a4e8bfeedb0",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890477619,
-    "wof:lastmodified":1527727178,
+    "wof:lastmodified":1582313340,
     "wof:name":"Sabac",
     "wof:parent_id":85688335,
     "wof:placetype":"county",

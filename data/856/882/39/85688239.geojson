@@ -63,6 +63,9 @@
         "iso:id":"RS-05"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56896e52b75e6e842d1871ecb39fd6d9",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":85688239,
-    "wof:lastmodified":1536617285,
+    "wof:lastmodified":1582313329,
     "wof:name":"Minor islands of Serbia",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

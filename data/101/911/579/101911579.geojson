@@ -139,6 +139,9 @@
         "wk:page":"Vrnja\u010dka Banja"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad16e2c03b90e54d412c362cc56bbdf5",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101911579,
-    "wof:lastmodified":1563589051,
+    "wof:lastmodified":1582313339,
     "wof:name":"Vrnja\u010dka Banja",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

@@ -143,6 +143,9 @@
         "unlc:id":"RS-24"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66f6abc8ee25090ed2d306c4410e82d1",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1582313329,
     "wof:name":"P\u010dinjski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

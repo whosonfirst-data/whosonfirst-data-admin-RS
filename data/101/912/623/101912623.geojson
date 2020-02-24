@@ -172,6 +172,9 @@
         "wk:page":"Petrovaradin"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad148711446269be0d85a114c42c979a",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":101912623,
-    "wof:lastmodified":1563589027,
+    "wof:lastmodified":1582313338,
     "wof:name":"Petrovaradin",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",
