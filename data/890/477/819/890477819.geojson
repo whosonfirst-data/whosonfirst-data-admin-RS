@@ -11,10 +11,14 @@
     "geom:longitude":21.34793,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":727,
+    "gn:population":727,
     "iso:country":"RS",
+    "lbl:bbox":"21.32793,44.99557,21.36793,45.03557",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vojvodinci"
     ],
@@ -54,9 +58,6 @@
     "name:srp_x_variant":[
         "\u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0446\u0438"
     ],
-    "name:unk_x_variant":[
-        "Vajdalak"
-    ],
     "qs:name":"Vojvodinci",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":784271,
         "gp:id":873892,
-        "qs:id":553592,
+        "qs_pg:id":553592,
         "wd:id":"Q1194858",
         "wk:page":"Vojvodinci"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890477819,
-    "wof:lastmodified":1563589233,
+    "wof:lastmodified":1566612530,
     "wof:name":"Vojvodinci",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

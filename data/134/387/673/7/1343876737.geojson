@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.22114,43.41137,20.26114,43.45137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ne\u0161ovi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343876737,
-    "wof:lastmodified":1537683860,
+    "wof:lastmodified":1566611896,
     "wof:name":"Nesovici",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

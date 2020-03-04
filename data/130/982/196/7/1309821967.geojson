@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.81472,43.79,19.85472,43.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309821967,
-    "wof:lastmodified":1536908079,
+    "wof:lastmodified":1566612467,
     "wof:name":"Stanici",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

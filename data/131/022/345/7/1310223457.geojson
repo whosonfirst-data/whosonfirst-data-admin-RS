@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.00689,43.06647,20.04689,43.10647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0443\u0433\u0430"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1310223457,
-    "wof:lastmodified":1564104008,
+    "wof:lastmodified":1566612337,
     "wof:name":"Duga",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

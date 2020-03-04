@@ -11,10 +11,14 @@
     "geom:longitude":20.96679,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.94679,43.60838,20.98679,43.64838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Stra\u017eba"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":836951,
         "gp:id":537215,
-        "qs:id":554430
+        "qs_pg:id":554430
     },
     "wof:country":"RS",
     "wof:created":1469054139,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890477975,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612569,
     "wof:name":"Stra\u017eba",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

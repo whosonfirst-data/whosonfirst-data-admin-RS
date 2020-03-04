@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.58987,43.30682,19.62987,43.34682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mijani"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310219773,
-    "wof:lastmodified":1564104068,
+    "wof:lastmodified":1566612368,
     "wof:name":"Mijani",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

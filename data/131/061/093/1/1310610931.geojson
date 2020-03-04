@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.80278,43.24111,21.84278,43.28111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batu\u0161inac"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1310610931,
-    "wof:lastmodified":1564104101,
+    "wof:lastmodified":1566612383,
     "wof:name":"Batusinac",
     "wof:parent_id":1108809979,
     "wof:placetype":"locality",

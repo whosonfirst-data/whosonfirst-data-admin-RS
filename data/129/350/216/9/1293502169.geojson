@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.2495,43.72288,21.2895,43.76288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ora\u0161je"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293502169,
-    "wof:lastmodified":1537683746,
+    "wof:lastmodified":1566611967,
     "wof:name":"Orasje",
     "wof:parent_id":1108810129,
     "wof:placetype":"locality",

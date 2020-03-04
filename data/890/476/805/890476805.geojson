@@ -11,10 +11,14 @@
     "geom:longitude":21.33019,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":149,
+    "gn:population":149,
     "iso:country":"RS",
+    "lbl:bbox":"21.31019,43.21156,21.35019,43.25156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kaludra"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":789643,
         "gp:id":537232,
-        "qs:id":553912,
+        "qs_pg:id":553912,
         "wd:id":"Q6354540",
         "wk:page":"Kaludra"
     },
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890476805,
-    "wof:lastmodified":1563589144,
+    "wof:lastmodified":1566612503,
     "wof:name":"Kaludra",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

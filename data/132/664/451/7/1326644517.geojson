@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.19509,44.98987,19.23509,45.02987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Morovi\u0107"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326644517,
-    "wof:lastmodified":1537683932,
+    "wof:lastmodified":1566611791,
     "wof:name":"Morovic",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

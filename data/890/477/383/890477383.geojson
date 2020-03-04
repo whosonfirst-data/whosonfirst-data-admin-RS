@@ -11,11 +11,15 @@
     "geom:longitude":18.92944,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1770,
+    "gn:population":1770,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"18.90944,45.90034,18.94944,45.94034",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ba\u010dki Breg"
     ],
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0446\u044c\u043a\u0438\u0439 \u0411\u0440\u0435\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berg"
     ],
     "qs:name":"Ba\u010dki Breg",
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3204670,
         "gp:id":532456,
-        "qs:id":1044081,
+        "qs_pg:id":1044081,
         "wd:id":"Q779764",
         "wk:page":"Ba\u010dki Breg"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890477383,
-    "wof:lastmodified":1563589263,
+    "wof:lastmodified":1566612539,
     "wof:name":"Ba\u010dki Breg",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

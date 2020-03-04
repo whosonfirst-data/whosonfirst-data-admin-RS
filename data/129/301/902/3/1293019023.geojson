@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.50443,43.34201,22.54443,43.38201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0106u\u0161tica"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293019023,
-    "wof:lastmodified":1564103266,
+    "wof:lastmodified":1566611928,
     "wof:name":"Custica",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

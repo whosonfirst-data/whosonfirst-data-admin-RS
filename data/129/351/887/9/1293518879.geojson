@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.56333,42.82306,21.60333,42.86306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u0436\u0430"
     ],
@@ -92,7 +96,6 @@
     ],
     "name:und_x_variant":[
         "Medvegj\u00eb",
-        "Medvegja",
         "Medvedja"
     ],
     "name:zho_x_preferred":[
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1293518879,
-    "wof:lastmodified":1564103365,
+    "wof:lastmodified":1566611977,
     "wof:name":"Medvega",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

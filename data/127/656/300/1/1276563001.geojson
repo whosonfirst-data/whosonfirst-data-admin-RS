@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.48782,44.19938,19.52782,44.23938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Tomi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276563001,
-    "wof:lastmodified":1537683986,
+    "wof:lastmodified":1566612048,
     "wof:name":"Tomici",
     "wof:parent_id":1108809959,
     "wof:placetype":"locality",

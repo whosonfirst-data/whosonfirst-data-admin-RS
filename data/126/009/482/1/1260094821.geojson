@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.34145,43.34104,20.38145,43.38104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Munji\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260094821,
-    "wof:lastmodified":1537683862,
+    "wof:lastmodified":1566612277,
     "wof:name":"Munjici",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

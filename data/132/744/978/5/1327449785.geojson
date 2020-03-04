@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.27335,43.23633,22.31335,43.27633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mokli\u0161te"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327449785,
-    "wof:lastmodified":1564103037,
+    "wof:lastmodified":1566611806,
     "wof:name":"Mokliste",
     "wof:parent_id":1108809845,
     "wof:placetype":"locality",

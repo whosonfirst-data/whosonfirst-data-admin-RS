@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.95397,43.88327,20.99397,43.92327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Velike P\u010delice"
     ],
@@ -48,8 +52,7 @@
         "\u0412\u0435\u043b\u0438\u043a\u0435 \u041f\u0447\u0435\u043b\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Velika P\u010delica",
-        "Velike P\u010delice"
+        "Velika P\u010delica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327348345,
-    "wof:lastmodified":1564102958,
+    "wof:lastmodified":1566611758,
     "wof:name":"Velike Pcelice",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

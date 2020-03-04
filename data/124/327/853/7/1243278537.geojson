@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.32255,43.86672,19.36255,43.90672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Donje Karaklije"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243278537,
-    "wof:lastmodified":1537683997,
+    "wof:lastmodified":1566612670,
     "wof:name":"Donje Karaklije",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

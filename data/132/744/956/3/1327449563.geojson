@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.71534,43.8576,20.75534,43.8976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pajsijevi\u0107"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0458\u0441\u0438\u0458\u0435\u0432\u0438\u045b"
-    ],
-    "name:und_x_variant":[
-        "Pajsijevi\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1327449563,
-    "wof:lastmodified":1564103041,
+    "wof:lastmodified":1566611808,
     "wof:name":"Pajsijevic",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.94417,43.4875,19.98417,43.5275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633755
@@ -35,7 +39,7 @@
         "gn:id":3319040
     },
     "wof:country":"RS",
-    "wof:geomhash":"e538b4b1c5ceb99714721d5a091b4318",
+    "wof:geomhash":"9333e50f82758063ce092aef7533676e",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209329331,
-    "wof:lastmodified":1536290423,
+    "wof:lastmodified":1566612178,
     "wof:name":"Dokovici",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.964170000000006,
+    19.96417000000001,
     43.5075,
-    19.964170000000006,
+    19.96417000000001,
     43.5075
 ],
   "geometry": {"coordinates":[19.96417000000001,43.5075],"type":"Point"}

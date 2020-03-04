@@ -11,11 +11,15 @@
     "geom:longitude":20.64388,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.62388,43.56058,20.66388,43.60058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "So\u0161anica"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":836880,
         "gp:id":536767,
-        "qs:id":1218744
+        "qs_pg:id":1218744
     },
     "wof:country":"RS",
     "wof:created":1469054106,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890477201,
-    "wof:lastmodified":1505343725,
+    "wof:lastmodified":1566612559,
     "wof:name":"So\u010danica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

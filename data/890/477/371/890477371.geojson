@@ -11,10 +11,14 @@
     "geom:longitude":19.57931,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1375,
+    "gn:population":1375,
     "iso:country":"RS",
+    "lbl:bbox":"19.55931,44.68224,19.59931,44.72224",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dobri\u0107"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3201946,
         "gp:id":537305,
-        "qs:id":1044059,
+        "qs_pg:id":1044059,
         "wd:id":"Q2771668",
         "wk:page":"Dobri\u0107"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477371,
-    "wof:lastmodified":1563589272,
+    "wof:lastmodified":1566612543,
     "wof:name":"Dobri\u0107",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

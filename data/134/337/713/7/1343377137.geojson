@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.32449,42.89751,20.36449,42.93751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0160piljani"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1343377137,
-    "wof:lastmodified":1564103065,
+    "wof:lastmodified":1566611820,
     "wof:name":"Spiljani",
     "wof:parent_id":1108810119,
     "wof:placetype":"locality",

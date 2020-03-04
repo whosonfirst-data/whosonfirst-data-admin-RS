@@ -11,10 +11,14 @@
     "geom:longitude":20.19867,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1328,
+    "gn:population":1328,
     "iso:country":"RS",
+    "lbl:bbox":"20.17867,45.44737,20.21867,45.48737",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tara\u0161"
     ],
@@ -57,7 +61,7 @@
     "name:srp_x_variant":[
         "\u0422\u0430\u0440\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiszatarros"
     ],
     "qs:name":"Tara\u0161",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":785125,
         "gp:id":534883,
-        "qs:id":129396,
+        "qs_pg:id":129396,
         "wd:id":"Q1089356",
         "wk:page":"Tara\u0161"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890476979,
-    "wof:lastmodified":1563589146,
+    "wof:lastmodified":1566612504,
     "wof:name":"Tara\u0161",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

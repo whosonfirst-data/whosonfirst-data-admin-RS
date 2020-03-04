@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.78889,42.48639,21.82889,42.52639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gornji Vrtogo\u0161"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293802203,
-    "wof:lastmodified":1537683793,
+    "wof:lastmodified":1566612005,
     "wof:name":"Gornji Vrtogos",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.61194,44.37139,19.65194,44.41139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Madenovska Mahala",
         "Bodu\u0161 Mala"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260300137,
-    "wof:lastmodified":1537684029,
+    "wof:lastmodified":1566612285,
     "wof:name":"Bodus Mala",
     "wof:parent_id":1108810013,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":44.8055,
     "geom:longitude":20.407374,
     "iso:country":"RS",
+    "lbl:bbox":"20.4023739856,44.8005000628,20.4123739856,44.8105000628",
     "lbl:latitude":44.8055,
     "lbl:longitude":20.407374,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -41,13 +43,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843443
+        1393843443,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1444835885,
-    "wof:lastmodified":1566337573,
+    "wof:lastmodified":1566612228,
     "wof:name":"Belvil",
     "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",

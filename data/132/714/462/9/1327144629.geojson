@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.95694,43.90917,19.99694,43.94917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Bo\u0161njaci"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327144629,
-    "wof:lastmodified":1537684029,
+    "wof:lastmodified":1566611742,
     "wof:name":"Bosnjaci",
     "wof:parent_id":1108810037,
     "wof:placetype":"locality",

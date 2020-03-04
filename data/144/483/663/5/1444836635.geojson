@@ -10,8 +10,10 @@
     "geom:latitude":44.831695,
     "geom:longitude":20.38877,
     "iso:country":"RS",
+    "lbl:bbox":"20.3837701745,44.8266951198,20.3937701745,44.8366951198",
     "lbl:latitude":44.831695,
     "lbl:longitude":20.38877,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,12 +35,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
-        890476941
+        890476941,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1444836635,
-    "wof:lastmodified":1566337652,
+    "wof:lastmodified":1566612240,
     "wof:name":"Blok 50",
     "wof:parent_id":890476941,
     "wof:placetype":"neighbourhood",

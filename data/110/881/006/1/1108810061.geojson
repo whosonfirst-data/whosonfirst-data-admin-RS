@@ -12,6 +12,8 @@
     "iso:country":"RS",
     "lbl:latitude":44.675066,
     "lbl:longitude":19.591957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_alt":"Ma\u010dvanski",
     "meso:adm1_alt2":"Ma\u010dva",
     "meso:adm1_loc":"\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0438",
@@ -21,6 +23,7 @@
     "meso:name_loc":"\u0160abac",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0628\u0627\u062a\u0633"
     ],
@@ -79,9 +82,6 @@
         "B\u00f6\u011f\u00fcrdelen"
     ],
     "name:und_x_variant":[
-        "\u0160abac"
-    ],
-    "name:unk_x_variant":[
         "Chabats"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +91,7 @@
         "\u6c99\u5df4\u8328"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1108810061,
-    "wof:lastmodified":1564103972,
+    "wof:lastmodified":1566612320,
     "wof:name":"Sabac",
     "wof:parent_id":85688335,
     "wof:placetype":"localadmin",

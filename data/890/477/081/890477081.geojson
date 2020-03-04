@@ -11,10 +11,14 @@
     "geom:longitude":20.48733,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.46733,43.52424,20.50733,43.56424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rasti\u0161te"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":838080,
         "gp:id":536969,
-        "qs:id":554502,
+        "qs_pg:id":554502,
         "wd:id":"Q2260664",
         "wk:page":"Rasti\u0161te"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477081,
-    "wof:lastmodified":1563589309,
+    "wof:lastmodified":1566612554,
     "wof:name":"Rasti\u0161te",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

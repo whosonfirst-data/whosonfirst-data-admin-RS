@@ -13,10 +13,13 @@
     "iso:country":"RS",
     "lbl:latitude":45.081356,
     "lbl:longitude":20.965966,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.081356,
     "mps:longitude":20.965966,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648\u0646\u0627\u0631"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_preferred":[
         "Alip\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Allibunar"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":527,
     "wof:belongsto":[
@@ -131,10 +134,12 @@
     "wof:concordances":{
         "gn:id":793134,
         "gp:id":532398,
-        "qs:id":1327069,
         "qs_pg:id":129684,
         "wd:id":"Q648863",
         "wk:page":"Alibunar"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327069
     },
     "wof:country":"RS",
     "wof:geom_alt":[

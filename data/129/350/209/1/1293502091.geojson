@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.88264,44.18307,19.92264,44.22307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ravnje"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293502091,
-    "wof:lastmodified":1564103356,
+    "wof:lastmodified":1566611972,
     "wof:name":"Ravnje",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

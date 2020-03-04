@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.42756,42.40911,22.46756,42.44911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u043b\u0438 \u0434\u043e\u043b"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1209730337,
-    "wof:lastmodified":1564103801,
+    "wof:lastmodified":1566612201,
     "wof:name":"Zli Dol",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

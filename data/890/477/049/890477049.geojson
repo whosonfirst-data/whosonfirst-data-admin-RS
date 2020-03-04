@@ -11,11 +11,15 @@
     "geom:longitude":19.76374,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2855,
+    "gn:population":2855,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.74374,44.86155,19.78374,44.90155",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hrtkovci"
     ],
@@ -55,7 +59,7 @@
     "name:srp_x_variant":[
         "\u0425\u0440\u0442\u043a\u043e\u0432\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srbislavci"
     ],
     "qs:name":"Hrtkovci",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3199251,
         "gp:id":534279,
-        "qs:id":147254,
+        "qs_pg:id":147254,
         "wd:id":"Q1035548",
         "wk:page":"Hrtkovci"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890477049,
-    "wof:lastmodified":1563589236,
+    "wof:lastmodified":1566612531,
     "wof:name":"Hrtkovci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

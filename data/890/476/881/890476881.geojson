@@ -11,10 +11,14 @@
     "geom:longitude":20.78917,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1872,
+    "gn:population":1872,
     "iso:country":"RS",
+    "lbl:bbox":"20.76917,45.72617,20.80917,45.76617",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Radojevo"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0420\u0430\u0434\u043e\u0458\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klary"
     ],
     "qs:name":"Radojevo",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":786583,
         "gp:id":869199,
-        "qs:id":275735,
+        "qs_pg:id":275735,
         "wd:id":"Q1046240",
         "wk:page":"Radojevo"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890476881,
-    "wof:lastmodified":1563589136,
+    "wof:lastmodified":1566612502,
     "wof:name":"Radojevo",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":20.50004,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":981,
+    "gn:population":981,
     "iso:country":"RS",
+    "lbl:bbox":"20.48004,43.85701,20.52004,43.89701",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Donja Gorevnica"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0430 \u0413\u043e\u0440\u0435\u0432\u043d\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donja Gorijevica"
     ],
     "qs:name":"Donja Gorevnica",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":862859,
         "gp:id":535529,
-        "qs:id":554531,
+        "qs_pg:id":554531,
         "wd:id":"Q2723396",
         "wk:page":"Donja Gorevnica"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476627,
-    "wof:lastmodified":1563589135,
+    "wof:lastmodified":1566612502,
     "wof:name":"Donja Gorevnica",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.52577,44.61463,20.56577,44.65463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0646\u062c\u0627\u0641\u0648\u0631"
     ],
@@ -63,8 +67,7 @@
         "\u041f\u0440\u043d\u044f\u0432\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Prnjavar",
-        "Prnjavor"
+        "Prnjavar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1259997711,
-    "wof:lastmodified":1564104552,
+    "wof:lastmodified":1566612692,
     "wof:name":"Prnjavor",
     "wof:parent_id":1108810141,
     "wof:placetype":"locality",

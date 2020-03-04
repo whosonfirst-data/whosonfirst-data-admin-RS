@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.28734,43.6381,20.32734,43.6781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mili\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242884075,
-    "wof:lastmodified":1537683893,
+    "wof:lastmodified":1566612595,
     "wof:name":"Milici",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.22694,43.20722,20.26694,43.24722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Donje Bu\u0107e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293802369,
-    "wof:lastmodified":1537683889,
+    "wof:lastmodified":1566612007,
     "wof:name":"Donje Buce",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.5552,44.5784,21.5952,44.6184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017ditkovica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1193154945,
-    "wof:lastmodified":1564103852,
+    "wof:lastmodified":1566612263,
     "wof:name":"Zitkovica",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

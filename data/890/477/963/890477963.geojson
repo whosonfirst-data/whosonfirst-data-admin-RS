@@ -11,10 +11,14 @@
     "geom:longitude":20.93917,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.91917,43.52139,20.95917,43.56139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dumak"
     ],
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":836924,
         "gp:id":537608,
-        "qs:id":554425,
+        "qs_pg:id":554425,
         "wd:id":"Q16967421",
         "wk:page":"Dumak"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890477963,
-    "wof:lastmodified":1563589216,
+    "wof:lastmodified":1566612524,
     "wof:name":"Dumak",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

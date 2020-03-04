@@ -11,10 +11,14 @@
     "geom:longitude":19.56838,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2487,
+    "gn:population":2487,
     "iso:country":"RS",
+    "lbl:bbox":"19.54838,45.25954,19.58838,45.29954",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glo\u017ean"
     ],
@@ -60,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Hlo\u017eany"
-    ],
     "qs:name":"Glo\u017ean",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3200560,
         "gp:id":533893,
-        "qs:id":147269,
+        "qs_pg:id":147269,
         "wd:id":"Q911299",
         "wk:page":"Glo\u017ean"
     },
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":890477057,
-    "wof:lastmodified":1563589328,
+    "wof:lastmodified":1566612559,
     "wof:name":"Glo\u017ean",
     "wof:parent_id":1108809831,
     "wof:placetype":"locality",

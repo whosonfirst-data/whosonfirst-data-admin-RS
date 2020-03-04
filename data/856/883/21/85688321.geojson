@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":45.017926,
     "lbl:longitude":20.989371,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Ju\u017eno-Bana",
     "meso:name_loc":"\u0408\u0443\u0436\u043d\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438",
     "mps:latitude":45.017097,
@@ -114,9 +115,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"4,245",
     "statoids:area_mi":"1,639",
     "statoids:as_of_date":"2011-10-22",
@@ -173,7 +174,6 @@
     "wof:name":"Ju\u017enobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":293730,
     "wof:population_rank":10,

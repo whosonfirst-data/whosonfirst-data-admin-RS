@@ -11,10 +11,14 @@
     "geom:longitude":19.59153,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":1296,
+    "gn:population":1296,
     "iso:country":"RS",
+    "lbl:bbox":"19.57153,44.53021,19.61153,44.57021",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Krivaja"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3197266,
         "gp:id":537718,
-        "qs:id":147213,
+        "qs_pg:id":147213,
         "wd:id":"Q2736657",
         "wk:page":"Krivaja"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477043,
-    "wof:lastmodified":1563589314,
+    "wof:lastmodified":1566612556,
     "wof:name":"Krivaja",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

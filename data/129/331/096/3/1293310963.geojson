@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.82505,43.14166,19.86505,43.18166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Blato"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1293310963,
-    "wof:lastmodified":1564103236,
+    "wof:lastmodified":1566611912,
     "wof:name":"Blato",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

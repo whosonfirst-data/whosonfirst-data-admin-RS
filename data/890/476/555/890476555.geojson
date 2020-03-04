@@ -11,10 +11,14 @@
     "geom:longitude":20.01851,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1853,
+    "gn:population":1853,
     "iso:country":"RS",
+    "lbl:bbox":"19.99851,45.1346,20.03851,45.1746",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010cortanovci"
     ],
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":791890,
         "gp:id":536822,
-        "qs:id":129633,
+        "qs_pg:id":129633,
         "wd:id":"Q283433",
         "wk:page":"\u010cortanovci"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890476555,
-    "wof:lastmodified":1563589163,
+    "wof:lastmodified":1566612508,
     "wof:name":"\u010cortanovci",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

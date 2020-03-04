@@ -11,10 +11,14 @@
     "geom:longitude":19.59533,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1191,
+    "gn:population":1191,
     "iso:country":"RS",
+    "lbl:bbox":"19.57533,44.69799,19.61533,44.73799",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bogosavac"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3203817,
         "gp:id":537305,
-        "qs:id":1044072,
+        "qs_pg:id":1044072,
         "wd:id":"Q2736639",
         "wk:page":"Bogosavac"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477375,
-    "wof:lastmodified":1563589357,
+    "wof:lastmodified":1566612568,
     "wof:name":"Bogosavac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

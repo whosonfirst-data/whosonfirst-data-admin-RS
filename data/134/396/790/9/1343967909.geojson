@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.10864,43.64349,21.14864,43.68349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688243,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343967909,
-    "wof:lastmodified":1537008438,
+    "wof:lastmodified":1566611814,
     "wof:name":"Isailova Mala",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

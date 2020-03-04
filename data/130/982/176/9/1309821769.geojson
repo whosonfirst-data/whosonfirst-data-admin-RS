@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.91004,43.61387,19.95004,43.65387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Zbori\u0161te"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309821769,
-    "wof:lastmodified":1537684006,
+    "wof:lastmodified":1566612469,
     "wof:name":"Zboriste",
     "wof:parent_id":1108809821,
     "wof:placetype":"locality",

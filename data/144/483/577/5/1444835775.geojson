@@ -10,8 +10,10 @@
     "geom:latitude":44.802577,
     "geom:longitude":20.384142,
     "iso:country":"RS",
+    "lbl:bbox":"20.3791424676,44.7975769246,20.3891424676,44.8075769246",
     "lbl:latitude":44.802577,
     "lbl:longitude":20.384142,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,13 +41,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843443
+        1393843443,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1444835775,
-    "wof:lastmodified":1566337557,
+    "wof:lastmodified":1566612247,
     "wof:name":"Blokovi",
     "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",

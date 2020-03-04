@@ -11,11 +11,15 @@
     "geom:longitude":20.61581,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.59581,44.74139,20.63581,44.78139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u062a\u0634\u0627"
     ],
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Vin\u010da"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donja Vin\u010da"
     ],
     "qs:name":"Vin\u010da",
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":784427,
         "gp:id":537431,
-        "qs:id":1165730,
+        "qs_pg:id":1165730,
         "wd:id":"Q1638676",
         "wk:page":"Vin\u010da"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890477579,
-    "wof:lastmodified":1563589353,
+    "wof:lastmodified":1566612567,
     "wof:name":"Vin\u010da",
     "wof:parent_id":1108809899,
     "wof:placetype":"locality",

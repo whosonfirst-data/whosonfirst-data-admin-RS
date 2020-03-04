@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.26749,43.53129,22.30749,43.57129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Trgovi\u0161te"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1343680019,
-    "wof:lastmodified":1564103138,
+    "wof:lastmodified":1566611857,
     "wof:name":"Trgoviste",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":19.09719,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5991,
+    "gn:population":5991,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.07719,45.57427,19.11719,45.61427",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sonta"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waldau an der Donau"
     ],
     "qs:name":"Sonta",
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3190335,
         "gp:id":536783,
-        "qs:id":1043919,
+        "qs_pg:id":1043919,
         "wd:id":"Q784960",
         "wk:page":"Sonta"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890477641,
-    "wof:lastmodified":1563589316,
+    "wof:lastmodified":1566612556,
     "wof:name":"Sonta",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

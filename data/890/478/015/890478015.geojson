@@ -11,10 +11,14 @@
     "geom:longitude":21.42199,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":97,
+    "gn:population":97,
     "iso:country":"RS",
+    "lbl:bbox":"21.40199,43.15674,21.44199,43.19674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Piskalje"
     ],
@@ -39,9 +43,6 @@
     "name:srp_x_preferred":[
         "\u041f\u0438\u0441\u043a\u0430\u0459\u0435"
     ],
-    "name:unk_x_variant":[
-        "Piskalje"
-    ],
     "qs:name":"Piskalj",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":863298,
         "gp:id":532682,
-        "qs:id":554577,
+        "qs_pg:id":554577,
         "wd:id":"Q2735440"
     },
     "wof:country":"RS",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":890478015,
-    "wof:lastmodified":1563589113,
+    "wof:lastmodified":1566612494,
     "wof:name":"Piskalj",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

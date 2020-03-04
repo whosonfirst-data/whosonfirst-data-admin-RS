@@ -11,10 +11,14 @@
     "geom:longitude":21.74045,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":720,
+    "gn:population":720,
     "iso:country":"RS",
+    "lbl:bbox":"21.72045,42.36025,21.76045,42.40025",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Lagja e Shimshirve",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":8394222,
         "gp:id":532735,
-        "qs:id":768689
+        "qs_pg:id":768689
     },
     "wof:country":"RS",
     "wof:created":1469054078,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476523,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566612518,
     "wof:name":"Lagja e Shimshirve",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

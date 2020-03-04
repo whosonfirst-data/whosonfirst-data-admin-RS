@@ -11,10 +11,14 @@
     "geom:longitude":20.13558,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1515,
+    "gn:population":1515,
     "iso:country":"RS",
+    "lbl:bbox":"20.11558,45.18359,20.15558,45.22359",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Gardinovci"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0438\u043d\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gardinovaz"
     ],
     "qs:name":"Gardinovci",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":790772,
         "gp:id":534786,
-        "qs:id":129619,
+        "qs_pg:id":129619,
         "wd:id":"Q735327",
         "wk:page":"Gardinovci"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890477769,
-    "wof:lastmodified":1563589289,
+    "wof:lastmodified":1566612548,
     "wof:name":"Gardinovci",
     "wof:parent_id":1108810111,
     "wof:placetype":"locality",

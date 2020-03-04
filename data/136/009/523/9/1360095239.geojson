@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.27639,44.5725,20.31639,44.6125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688279,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360095239,
-    "wof:lastmodified":1536931654,
+    "wof:lastmodified":1566612411,
     "wof:name":"Rasicev Kraj",
     "wof:parent_id":1108809835,
     "wof:placetype":"locality",

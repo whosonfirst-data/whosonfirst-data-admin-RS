@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.698956,
     "lbl:longitude":22.182642,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Zaje\u010darski",
     "meso:name_loc":"\u0417\u0430\u0458\u0435\u0447\u0430\u0440\u0441\u043a\u0438",
     "mps:latitude":43.696985,
@@ -112,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"3,623",
     "statoids:area_mi":"1,399",
     "statoids:as_of_date":"2011-10-22",
@@ -171,7 +172,6 @@
     "wof:name":"Zaje\u010darski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":119967,
     "wof:population_rank":9,

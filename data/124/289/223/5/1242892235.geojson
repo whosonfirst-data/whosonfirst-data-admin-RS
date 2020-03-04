@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.08299,42.49001,22.12299,42.53001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u044a\u0440\u0432\u043e\u043d\u0435\u043a"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1242892235,
-    "wof:lastmodified":1564104357,
+    "wof:lastmodified":1566612593,
     "wof:name":"Prvonek",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

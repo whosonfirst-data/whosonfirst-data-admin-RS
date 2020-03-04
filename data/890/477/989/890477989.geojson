@@ -11,10 +11,14 @@
     "geom:longitude":20.87922,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.85922,43.66974,20.89922,43.70974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lu\u010dica"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":837081,
         "gp:id":536948,
-        "qs:id":554441,
+        "qs_pg:id":554441,
         "wk:page":"Lu\u010dica"
     },
     "wof:country":"RS",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890477989,
-    "wof:lastmodified":1564104313,
+    "wof:lastmodified":1566612566,
     "wof:name":"Lu\u010dica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

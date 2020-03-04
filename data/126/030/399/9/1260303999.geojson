@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.34528,44.88028,21.38528,44.92028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crvena Crkva"
     ],
@@ -58,7 +62,6 @@
     ],
     "name:und_x_variant":[
         "Rothkirch",
-        "V\u00f6r\u00f6stemplom",
         "Rothkirchen"
     ],
     "src:geom":"geonames",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1260303999,
-    "wof:lastmodified":1564103891,
+    "wof:lastmodified":1566612284,
     "wof:name":"Crvena Crkva",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.22309,43.27533,20.26309,43.31533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Milice fran\u00e7aise"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1310615671,
-    "wof:lastmodified":1564104088,
+    "wof:lastmodified":1566612378,
     "wof:name":"Milice",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.26628,43.03838,21.30628,43.07838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vojnici"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1242989077,
-    "wof:lastmodified":1564104471,
+    "wof:lastmodified":1566612648,
     "wof:name":"Vojnici",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

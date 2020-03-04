@@ -11,10 +11,14 @@
     "geom:longitude":21.59201,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":39,
+    "gn:population":39,
     "iso:country":"RS",
+    "lbl:bbox":"21.57201,43.11852,21.61201,43.15852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Jovine Livade"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_variant":[
         "\u0408\u043e\u0432\u0438\u043d\u0435 \u041b\u0438\u0432\u0430\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jovina Livada"
     ],
     "qs:name":"Jovine Livade",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":789746,
         "gp:id":537761,
-        "qs:id":83702,
+        "qs_pg:id":83702,
         "wd:id":"Q2735160",
         "wk:page":"Jovine Livade"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477605,
-    "wof:lastmodified":1563589244,
+    "wof:lastmodified":1566612534,
     "wof:name":"Jovine Livade",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

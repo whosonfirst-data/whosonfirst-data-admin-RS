@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.40317,44.5255,19.44317,44.5655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Luki\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343679941,
-    "wof:lastmodified":1537683981,
+    "wof:lastmodified":1566611871,
     "wof:name":"Lukici",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

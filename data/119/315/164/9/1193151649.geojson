@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.90223,44.52841,19.94223,44.56841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ko\u017euar"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1193151649,
-    "wof:lastmodified":1564103850,
+    "wof:lastmodified":1566612262,
     "wof:name":"Kozuar",
     "wof:parent_id":1108810121,
     "wof:placetype":"locality",

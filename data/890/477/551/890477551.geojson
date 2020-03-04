@@ -11,8 +11,12 @@
     "geom:longitude":19.833759,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.813759,45.36451,19.853759,45.40451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Temer\u00edn"
     ],
@@ -106,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0435\u0440\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Theresienring"
     ],
     "name:war_x_preferred":[
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":3189166,
         "gp:id":537096,
-        "qs:id":1078948,
+        "qs_pg:id":1078948,
         "wd:id":"Q579984",
         "wk:page":"Temerin"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890477551,
-    "wof:lastmodified":1563589205,
+    "wof:lastmodified":1566612520,
     "wof:name":"Temerin",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

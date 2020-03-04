@@ -11,11 +11,15 @@
     "geom:longitude":21.75066,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.73066,43.05736,21.77066,43.09736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u064a\u0644\u064a\u062a\u0634"
     ],
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":787533,
         "gp:id":535694,
-        "qs:id":982825,
+        "qs_pg:id":982825,
         "wd:id":"Q608274",
         "wk:page":"Obili\u0107"
     },
@@ -193,7 +197,7 @@
         }
     ],
     "wof:id":890477651,
-    "wof:lastmodified":1563589245,
+    "wof:lastmodified":1566612534,
     "wof:name":"Obili\u0107",
     "wof:parent_id":1108809853,
     "wof:placetype":"locality",

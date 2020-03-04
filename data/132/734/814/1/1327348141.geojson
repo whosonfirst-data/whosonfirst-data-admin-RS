@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.9241,42.37719,21.9641,42.41719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Merd\u017ei\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327348141,
-    "wof:lastmodified":1537683850,
+    "wof:lastmodified":1566611761,
     "wof:name":"Merdzici",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

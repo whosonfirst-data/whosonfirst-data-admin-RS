@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.57978,42.89986,21.61978,42.93986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gornji Bu\u010dumet"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209525375,
-    "wof:lastmodified":1564103680,
+    "wof:lastmodified":1566612140,
     "wof:name":"Gornji Bucumet",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

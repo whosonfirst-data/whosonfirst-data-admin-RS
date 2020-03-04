@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.65786,43.75532,20.69786,43.79532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688273,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260303711,
-    "wof:lastmodified":1536684733,
+    "wof:lastmodified":1566612286,
     "wof:name":"Kovacani",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

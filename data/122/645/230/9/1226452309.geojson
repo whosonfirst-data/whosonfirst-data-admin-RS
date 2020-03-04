@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.4,44.30806,19.44,44.34806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Povitnjaci"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226452309,
-    "wof:lastmodified":1537684032,
+    "wof:lastmodified":1566612763,
     "wof:name":"Pavitnjaci",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

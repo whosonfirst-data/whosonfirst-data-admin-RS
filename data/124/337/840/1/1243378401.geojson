@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.82167,44.17389,19.86167,44.21389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688313,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243378401,
-    "wof:lastmodified":1536903805,
+    "wof:lastmodified":1566612583,
     "wof:name":"Savici",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

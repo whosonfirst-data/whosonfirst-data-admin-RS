@@ -11,10 +11,14 @@
     "geom:longitude":20.83894,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.81894,43.63215,20.85894,43.67215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Belobr\u0111ani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":836980,
         "gp:id":535685,
-        "qs:id":554431
+        "qs_pg:id":554431
     },
     "wof:country":"RS",
     "wof:created":1469054139,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890477977,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612538,
     "wof:name":"Belobr\u0111ani",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

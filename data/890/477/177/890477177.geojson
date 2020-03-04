@@ -11,10 +11,14 @@
     "geom:longitude":21.70212,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1284,
+    "gn:population":1284,
     "iso:country":"RS",
+    "lbl:bbox":"21.68212,42.29568,21.72212,42.33568",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0416\u0443\u0438\u043d\u0446\u0435"
     ],
@@ -54,7 +58,7 @@
     "name:srp_x_variant":[
         "\u0416\u0443\u0458\u0438\u043d\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017duince"
     ],
     "qs:name":"\u017dujince",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":783793,
         "gp:id":536929,
-        "qs:id":129357,
+        "qs_pg:id":129357,
         "wd:id":"Q3104551",
         "wk:page":"\u017dujince"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890477177,
-    "wof:lastmodified":1563589347,
+    "wof:lastmodified":1566612564,
     "wof:name":"\u017dujince",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

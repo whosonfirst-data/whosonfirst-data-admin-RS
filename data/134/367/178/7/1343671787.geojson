@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.11556,43.63667,22.15556,43.67667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Osje",
         "Osoje"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343671787,
-    "wof:lastmodified":1537683899,
+    "wof:lastmodified":1566611874,
     "wof:name":"Osoje",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

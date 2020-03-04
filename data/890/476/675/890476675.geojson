@@ -11,10 +11,14 @@
     "geom:longitude":20.82833,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":566,
+    "gn:population":566,
     "iso:country":"RS",
+    "lbl:bbox":"20.80833,45.25146,20.84833,45.29146",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Banatska Dubica"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0430 \u0414\u0443\u0431\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubica"
     ],
     "qs:name":"Banatska Dubica",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":792953,
         "gp:id":534373,
-        "qs:id":83786,
+        "qs_pg:id":83786,
         "wd:id":"Q1111225",
         "wk:page":"Banatska Dubica"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890476675,
-    "wof:lastmodified":1563589129,
+    "wof:lastmodified":1566612500,
     "wof:name":"Banatska Dubica",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.068037,
     "lbl:longitude":20.850257,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"\u0160umadijski",
     "meso:name_loc":"\u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0441\u043a\u0438",
     "mps:latitude":44.068048,
@@ -34,9 +35,7 @@
     ],
     "name:und_x_variant":[
         "\u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0441\u043a\u0438",
-        "\u0160umadijski"
-    ],
-    "name:unk_x_variant":[
+        "\u0160umadijski",
         "Umadijski"
     ],
     "ne:abbrev":"",
@@ -112,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"2,387",
     "statoids:area_mi":"922",
     "statoids:as_of_date":"2011-10-22",
@@ -171,7 +170,6 @@
     "wof:name":"\u0160umadijski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":293308,
     "wof:population_rank":10,

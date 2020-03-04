@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.41614,45.31086,19.45614,45.35086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nova Gajdobra"
     ],
@@ -62,7 +66,6 @@
     "name:und_x_variant":[
         "Wekerle",
         "Kerekegyh\u00e1z",
-        "Wekerlefalva",
         "Wekerledorf"
     ],
     "src:geom":"geonames",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1209924303,
-    "wof:lastmodified":1564103744,
+    "wof:lastmodified":1566612171,
     "wof:name":"Nova Gajdobra",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

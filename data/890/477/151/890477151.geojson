@@ -11,10 +11,14 @@
     "geom:longitude":20.62342,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3885,
+    "gn:population":3885,
     "iso:country":"RS",
+    "lbl:bbox":"20.60342,45.18512,20.64342,45.22512",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uzdin"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u0423\u0437\u0434\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usdin"
     ],
     "qs:name":"Uzdin",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":784745,
         "gp:id":537286,
-        "qs:id":1028945,
+        "qs_pg:id":1028945,
         "wd:id":"Q1091384",
         "wk:page":"Uzdin"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477151,
-    "wof:lastmodified":1563589220,
+    "wof:lastmodified":1566612525,
     "wof:name":"Uzdin",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

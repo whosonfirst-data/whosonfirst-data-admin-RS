@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.07697,43.89692,20.11697,43.93692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Paprati\u0161te"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276667675,
-    "wof:lastmodified":1564103550,
+    "wof:lastmodified":1566612071,
     "wof:name":"Papratiste",
     "wof:parent_id":1108810037,
     "wof:placetype":"locality",

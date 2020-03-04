@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.76212,44.1276,20.80212,44.1676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u010cumi\u0107"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276557859,
-    "wof:lastmodified":1564103616,
+    "wof:lastmodified":1566612109,
     "wof:name":"Cumic",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

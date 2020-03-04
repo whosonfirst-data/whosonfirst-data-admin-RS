@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.91955,43.21996,19.95955,43.25996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Baba\u0107"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293210613,
-    "wof:lastmodified":1537684022,
+    "wof:lastmodified":1566612019,
     "wof:name":"Babac",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

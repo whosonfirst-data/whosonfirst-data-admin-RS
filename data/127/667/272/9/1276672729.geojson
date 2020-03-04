@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.98639,43.71833,21.02639,43.75833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gornji Dubi\u010d"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276672729,
-    "wof:lastmodified":1564103529,
+    "wof:lastmodified":1566612056,
     "wof:name":"Gornji Dubic",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":20.45413,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.43413,44.84969,20.47413,44.88969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0634\u0627"
     ],
@@ -85,7 +89,7 @@
     "name:srp_x_variant":[
         "\u0411\u043e\u0440\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt-Borscha"
     ],
     "qs:name":"Bor\u010da",
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":792453,
         "gp:id":532833,
-        "qs:id":1343079,
+        "qs_pg:id":1343079,
         "wd:id":"Q712322",
         "wk:page":"Bor\u010da"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890477393,
-    "wof:lastmodified":1563589293,
+    "wof:lastmodified":1566612550,
     "wof:name":"Bor\u010da",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

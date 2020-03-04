@@ -11,10 +11,14 @@
     "geom:longitude":19.7,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1999,
+    "gn:population":1999,
     "iso:country":"RS",
+    "lbl:bbox":"19.68,45.39369,19.72,45.43369",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stepanovi\u0107evo"
     ],
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432\u0438\u0447\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00e1cskahadikfalva"
     ],
     "qs:name":"Stepanovi\u0107evo",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3189891,
         "gp:id":537791,
-        "qs:id":1043909,
+        "qs_pg:id":1043909,
         "wd:id":"Q259266",
         "wk:page":"Stepanovi\u0107evo"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477137,
-    "wof:lastmodified":1563589296,
+    "wof:lastmodified":1566612551,
     "wof:name":"Stepanovi\u0107evo",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

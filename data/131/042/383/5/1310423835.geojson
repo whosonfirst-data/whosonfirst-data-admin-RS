@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.10104,43.91337,21.14104,43.95337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornja Vrba"
     ],
@@ -57,8 +61,7 @@
         "\u0413\u043e\u0440\u043d\u044f \u0412\u0440\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "Vrba",
-        "Gornja Vrba"
+        "Vrba"
     ],
     "name:war_x_preferred":[
         "Gornja Vrba"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1310423835,
-    "wof:lastmodified":1564104051,
+    "wof:lastmodified":1566612359,
     "wof:name":"Gornja Vrba",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

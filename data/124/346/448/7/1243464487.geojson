@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.32923,44.42962,20.36923,44.46962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Junkovac"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1243464487,
-    "wof:lastmodified":1564104406,
+    "wof:lastmodified":1566612617,
     "wof:name":"Junkovac",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",

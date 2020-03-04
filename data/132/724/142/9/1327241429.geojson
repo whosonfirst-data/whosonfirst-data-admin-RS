@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.92374,44.79296,19.96374,44.83296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Donji Tovarnik"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1327241429,
-    "wof:lastmodified":1564102943,
+    "wof:lastmodified":1566611751,
     "wof:name":"Donji Tovarnik",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

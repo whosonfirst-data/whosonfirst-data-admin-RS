@@ -11,10 +11,14 @@
     "geom:longitude":20.15521,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1089,
+    "gn:population":1089,
     "iso:country":"RS",
+    "lbl:bbox":"20.13521,45.22859,20.17521,45.26859",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vilovo"
     ],
@@ -51,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "T\u00fcnd\u00e9res"
-    ],
     "qs:name":"Vilovo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":784434,
         "gp:id":536507,
-        "qs:id":129385,
+        "qs_pg:id":129385,
         "wd:id":"Q927888",
         "wk:page":"Vilovo"
     },
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":890476525,
-    "wof:lastmodified":1563589195,
+    "wof:lastmodified":1566612518,
     "wof:name":"Vilovo",
     "wof:parent_id":1108810111,
     "wof:placetype":"locality",

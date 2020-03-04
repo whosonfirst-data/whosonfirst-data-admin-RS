@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.06684,44.601,20.10684,44.641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688279,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309821961,
-    "wof:lastmodified":1536908089,
+    "wof:lastmodified":1566612468,
     "wof:name":"Luzanski Kraj",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

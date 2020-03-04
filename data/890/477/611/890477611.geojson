@@ -11,10 +11,14 @@
     "geom:longitude":19.10651,
     "gn:country":"RS",
     "gn:fcode":"PPLA3",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"19.08651,44.35344,19.12651,44.39344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mali Zvornik"
     ],
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3195591,
         "gp:id":944835,
-        "qs:id":95085,
+        "qs_pg:id":95085,
         "wd:id":"Q1282903",
         "wk:page":"Mali Zvornik"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890477611,
-    "wof:lastmodified":1563589237,
+    "wof:lastmodified":1566612532,
     "wof:name":"Mali Zvornik",
     "wof:parent_id":1108809971,
     "wof:placetype":"locality",

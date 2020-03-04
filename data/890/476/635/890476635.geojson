@@ -11,10 +11,14 @@
     "geom:longitude":19.54562,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":840,
+    "gn:population":840,
     "iso:country":"RS",
+    "lbl:bbox":"19.52562,44.64595,19.56562,44.68595",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Culjkovi\u0107"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3202281,
         "gp:id":537305,
-        "qs:id":581770,
+        "qs_pg:id":581770,
         "wd:id":"Q2736692",
         "wk:page":"Culjkovi\u0107"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476635,
-    "wof:lastmodified":1563589142,
+    "wof:lastmodified":1566612503,
     "wof:name":"Culjkovi\u0107",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

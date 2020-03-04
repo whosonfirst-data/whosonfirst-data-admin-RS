@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.62917,42.28917,21.66917,42.32917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0448\u0435\u0432\u043e"
     ],
@@ -102,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0448\u0435\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Preshev\u00eb"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u96f7\u820d\u6c83"
     ],
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1242715047,
-    "wof:lastmodified":1564104470,
+    "wof:lastmodified":1566612648,
     "wof:name":"Presevo",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

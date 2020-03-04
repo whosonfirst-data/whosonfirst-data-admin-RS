@@ -11,10 +11,14 @@
     "geom:longitude":21.59263,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"21.57263,43.48997,21.61263,43.52997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Drenovak",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":839325,
         "gp:id":537376,
-        "qs:id":554518
+        "qs_pg:id":554518
     },
     "wof:country":"RS",
     "wof:created":1469054082,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476625,
-    "wof:lastmodified":1505343722,
+    "wof:lastmodified":1566612511,
     "wof:name":"Drenovak",
     "wof:parent_id":1108809811,
     "wof:placetype":"locality",

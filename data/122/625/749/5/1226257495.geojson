@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.16631,43.18737,20.20631,43.22737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Kame\u0161nica"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226257495,
-    "wof:lastmodified":1537683782,
+    "wof:lastmodified":1566612795,
     "wof:name":"Kamesnica",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.53106,43.899,19.57106,43.939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310423665,
-    "wof:lastmodified":1537033596,
+    "wof:lastmodified":1566612360,
     "wof:name":"Ilijasevici",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.91621,42.4666,21.95621,42.5066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0422\u0440\u0435\u0431\u0435\u0448\u0438\u043d\u0435"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243077769,
-    "wof:lastmodified":1564104318,
+    "wof:lastmodified":1566612572,
     "wof:name":"Donje Trebesinje",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

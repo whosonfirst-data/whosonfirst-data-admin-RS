@@ -11,10 +11,14 @@
     "geom:longitude":20.33212,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2430,
+    "gn:population":2430,
     "iso:country":"RS",
+    "lbl:bbox":"20.31212,44.99873,20.35212,45.03873",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Belegi\u0161"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":792764,
         "gp:id":536870,
-        "qs:id":1029155,
+        "qs_pg:id":1029155,
         "wd:id":"Q792242",
         "wk:page":"Belegi\u0161"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890477321,
-    "wof:lastmodified":1563589355,
+    "wof:lastmodified":1566612568,
     "wof:name":"Belegi\u0161",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

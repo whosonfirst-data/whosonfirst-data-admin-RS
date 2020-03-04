@@ -11,10 +11,14 @@
     "geom:longitude":21.33729,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":565,
+    "gn:population":565,
     "iso:country":"RS",
+    "lbl:bbox":"21.31729,45.18979,21.35729,45.22979",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mali \u017dam"
     ],
@@ -51,7 +55,7 @@
     "name:srp_x_variant":[
         "\u041c\u0430\u043b\u0438 \u0416\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zsam-Mik"
     ],
     "qs:name":"Mali \u017dam",
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":788224,
-        "qs:id":83665,
+        "qs_pg:id":83665,
         "wd:id":"Q1091309",
         "wk:page":"Mali \u017dam"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890476689,
-    "wof:lastmodified":1563589134,
+    "wof:lastmodified":1566612501,
     "wof:name":"Mali \u017dam",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

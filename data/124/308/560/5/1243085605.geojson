@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.09198,43.95121,21.13198,43.99121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gornji Mi\u0161evi\u0107"
     ],
@@ -45,9 +49,7 @@
         "\u041c\u0438\u0448\u0435\u0432\u0438\u045b"
     ],
     "name:und_x_variant":[
-        "Mi\u0161evi\u0107i",
-        "Mi\u0161evi\u0107",
-        "Gornji Mi\u0161evi\u0107"
+        "Mi\u0161evi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1243085605,
-    "wof:lastmodified":1564104342,
+    "wof:lastmodified":1566612584,
     "wof:name":"Gornji Misevic",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

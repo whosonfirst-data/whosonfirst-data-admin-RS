@@ -13,10 +13,13 @@
     "iso:country":"RS",
     "lbl:latitude":43.281208,
     "lbl:longitude":20.618748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":43.281208,
     "mps:longitude":20.618748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u043a\u0430"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Ra\u015fka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rashk\u00eb"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":247,
     "wof:belongsto":[
@@ -125,10 +128,12 @@
     "wof:concordances":{
         "gn:id":793790,
         "gp:id":536300,
-        "qs:id":977102,
         "qs_pg:id":129693,
         "wd:id":"Q856332",
         "wk:page":"Ra\u0161ka, Serbia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977102
     },
     "wof:country":"RS",
     "wof:geom_alt":[

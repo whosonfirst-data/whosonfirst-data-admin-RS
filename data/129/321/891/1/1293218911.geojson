@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.63769,43.34135,20.67769,43.38135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017dutice"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293218911,
-    "wof:lastmodified":1564103452,
+    "wof:lastmodified":1566612019,
     "wof:name":"Zutice",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.98245,43.42519,20.02245,43.46519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lepojevi\u0107i"
     ],
@@ -51,8 +55,7 @@
         "\u0409\u0435\u043f\u043e\u0458\u0435\u0432\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
-        "Lepovi\u0107i",
-        "Ljepojevi\u0107i"
+        "Lepovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1327249741,
-    "wof:lastmodified":1564102950,
+    "wof:lastmodified":1566611755,
     "wof:name":"Lepojevici",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",

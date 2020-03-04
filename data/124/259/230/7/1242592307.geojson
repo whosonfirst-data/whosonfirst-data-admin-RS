@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.75233,42.96585,21.79233,43.00585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Nova Topola"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1242592307,
-    "wof:lastmodified":1564104385,
+    "wof:lastmodified":1566612606,
     "wof:name":"Nova Topola",
     "wof:parent_id":1108809953,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.33809,43.70858,20.37809,43.74858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u017dutica"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226252723,
-    "wof:lastmodified":1537683891,
+    "wof:lastmodified":1566612793,
     "wof:name":"Zutica",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

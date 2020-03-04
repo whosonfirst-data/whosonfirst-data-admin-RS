@@ -11,11 +11,15 @@
     "geom:longitude":19.79487,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2812,
+    "gn:population":2812,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.77487,44.80213,19.81487,44.84213",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Plati\u010devo"
     ],
@@ -55,7 +59,7 @@
     "name:srp_x_variant":[
         "\u041f\u043b\u0430\u0442\u0438\u0447\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Platics"
     ],
     "qs:name":"Plati\u010devo",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3193230,
         "gp:id":535972,
-        "qs:id":1043994,
+        "qs_pg:id":1043994,
         "wd:id":"Q1040507",
         "wk:page":"Plati\u010devo"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890477157,
-    "wof:lastmodified":1563589209,
+    "wof:lastmodified":1566612521,
     "wof:name":"Plati\u010devo",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

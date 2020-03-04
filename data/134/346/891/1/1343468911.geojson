@@ -24,16 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.13471,45.70333,19.17471,45.74333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "Lugumerci"
     ],
     "name:srp_x_preferred":[
         "Lugomerci"
-    ],
-    "name:und_x_variant":[
-        "Lugumerci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1343468911,
-    "wof:lastmodified":1564103103,
+    "wof:lastmodified":1566611840,
     "wof:name":"Lugomerci",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

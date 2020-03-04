@@ -11,10 +11,14 @@
     "geom:longitude":21.08279,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1044,
+    "gn:population":1044,
     "iso:country":"RS",
+    "lbl:bbox":"21.06279,45.16189,21.10279,45.20189",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Barice"
     ],
@@ -48,9 +52,6 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u0440\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Szentj\u00e1nos"
-    ],
     "qs:name":"Barice",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":792864,
         "gp:id":534422,
-        "qs:id":129669,
+        "qs_pg:id":129669,
         "wd:id":"Q761366",
         "wk:page":"Barice"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890477017,
-    "wof:lastmodified":1563589315,
+    "wof:lastmodified":1566612556,
     "wof:name":"Barice",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

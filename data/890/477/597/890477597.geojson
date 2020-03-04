@@ -11,10 +11,14 @@
     "geom:longitude":21.47302,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":123,
+    "gn:population":123,
     "iso:country":"RS",
+    "lbl:bbox":"21.45302,43.10972,21.49302,43.14972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pesti\u0161"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":787106,
         "gp:id":537149,
-        "qs:id":83613,
+        "qs_pg:id":83613,
         "wd:id":"Q2735386",
         "wk:page":"Pesti\u0161"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477597,
-    "wof:lastmodified":1563589290,
+    "wof:lastmodified":1566612549,
     "wof:name":"Pesti\u0161",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

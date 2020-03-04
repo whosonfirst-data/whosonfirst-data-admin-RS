@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.43754,42.51472,22.47754,42.55472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0432\u0430\u0434\u0430"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1259997697,
-    "wof:lastmodified":1564104555,
+    "wof:lastmodified":1566612693,
     "wof:name":"Livada",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

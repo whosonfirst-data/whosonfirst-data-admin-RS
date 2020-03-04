@@ -11,11 +11,15 @@
     "geom:longitude":19.64639,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.62639,45.08434,19.66639,45.12434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grgurevci"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3199574,
         "gp:id":534214,
-        "qs:id":959463,
+        "qs_pg:id":959463,
         "wd:id":"Q923646",
         "wk:page":"Grgurevci"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890477491,
-    "wof:lastmodified":1563589259,
+    "wof:lastmodified":1566612538,
     "wof:name":"Grgurevci",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

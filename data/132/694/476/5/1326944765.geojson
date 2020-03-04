@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.77784,44.60353,19.81784,44.64353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bobovik"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1326944765,
-    "wof:lastmodified":1564102904,
+    "wof:lastmodified":1566611732,
     "wof:name":"Bobovik",
     "wof:parent_id":1108810137,
     "wof:placetype":"locality",

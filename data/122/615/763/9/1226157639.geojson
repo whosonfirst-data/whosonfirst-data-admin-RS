@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.84889,44.32472,19.88889,44.36472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kozli\u010di\u0107"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226157639,
-    "wof:lastmodified":1564104749,
+    "wof:lastmodified":1566612804,
     "wof:name":"Kozlicic",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",

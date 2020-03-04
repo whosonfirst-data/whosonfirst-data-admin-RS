@@ -11,10 +11,14 @@
     "geom:longitude":21.64944,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"21.62944,44.49583,21.66944,44.53583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Pod Dulom",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":837428,
         "gp:id":537245,
-        "qs:id":554470
+        "qs_pg:id":554470
     },
     "wof:country":"RS",
     "wof:created":1469054080,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476567,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566612497,
     "wof:name":"Pod Dulom",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

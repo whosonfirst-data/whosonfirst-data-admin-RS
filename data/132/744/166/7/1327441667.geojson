@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.66548,44.01603,19.70548,44.05603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Le\u0161tansko"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:srp_x_variant":[
         "\u0409\u0435\u0448\u0442\u0430\u043d\u0441\u043a\u043e"
-    ],
-    "name:und_x_variant":[
-        "Lje\u0161tansko"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1327441667,
-    "wof:lastmodified":1564103031,
+    "wof:lastmodified":1566611803,
     "wof:name":"Lestansko",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

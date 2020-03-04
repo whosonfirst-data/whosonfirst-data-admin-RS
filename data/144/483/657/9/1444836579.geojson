@@ -10,8 +10,10 @@
     "geom:latitude":44.834373,
     "geom:longitude":20.40628,
     "iso:country":"RS",
+    "lbl:bbox":"20.4012796438,44.829373316,20.4112796438,44.839373316",
     "lbl:latitude":44.834373,
     "lbl:longitude":20.40628,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,13 +35,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843443
+        1393843443,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1444836579,
-    "wof:lastmodified":1566337644,
+    "wof:lastmodified":1566612225,
     "wof:name":"Blok 8a",
     "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",

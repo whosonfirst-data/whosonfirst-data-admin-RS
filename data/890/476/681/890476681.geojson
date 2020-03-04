@@ -11,10 +11,14 @@
     "geom:longitude":19.75138,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":445,
+    "gn:population":445,
     "iso:country":"RS",
+    "lbl:bbox":"19.73138,44.6571,19.77138,44.6971",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Cerovac"
     ],
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3202691,
         "gp:id":537471,
-        "qs:id":95167,
+        "qs_pg:id":95167,
         "wd:id":"Q181255",
         "wk:page":"Cerovac"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890476681,
-    "wof:lastmodified":1563589129,
+    "wof:lastmodified":1566612500,
     "wof:name":"Cerovac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

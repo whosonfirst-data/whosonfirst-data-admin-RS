@@ -11,10 +11,14 @@
     "geom:longitude":22.18938,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"RS",
+    "lbl:bbox":"22.16938,42.53191,22.20938,42.57191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Drcinci",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":6942374,
         "gp:id":534798,
-        "qs:id":653119
+        "qs_pg:id":653119
     },
     "wof:country":"RS",
     "wof:created":1469054088,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476771,
-    "wof:lastmodified":1505343723,
+    "wof:lastmodified":1566612505,
     "wof:name":"Drcinci",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

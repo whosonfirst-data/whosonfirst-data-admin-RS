@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.50694,43.84801,20.54694,43.88801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mr\u010dajevci"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0440\u0447\u0430\u0458\u0435\u0432\u0446\u0438"
-    ],
-    "name:und_x_variant":[
-        "Mr\u010dajevci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1226357169,
-    "wof:lastmodified":1564104705,
+    "wof:lastmodified":1566612778,
     "wof:name":"Mrcajevci",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

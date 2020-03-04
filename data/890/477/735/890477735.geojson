@@ -11,10 +11,14 @@
     "geom:longitude":19.68421,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":388,
+    "gn:population":388,
     "iso:country":"RS",
+    "lbl:bbox":"19.66421,44.55811,19.70421,44.59811",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pejinovi\u0107"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3193524,
         "gp:id":533649,
-        "qs:id":581627,
+        "qs_pg:id":581627,
         "wd:id":"Q2806066",
         "wk:page":"Pejinovi\u0107"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477735,
-    "wof:lastmodified":1563589292,
+    "wof:lastmodified":1566612549,
     "wof:name":"Pejinovi\u0107",
     "wof:parent_id":1108810137,
     "wof:placetype":"locality",

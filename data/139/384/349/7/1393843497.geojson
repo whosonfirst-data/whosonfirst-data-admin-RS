@@ -11,11 +11,14 @@
     "geom:longitude":20.48634,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.48134,44.73561,20.49134,44.74561",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Jajinci"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Jajinci"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jajince"
     ],
     "qs:name":"Jajinci",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":789918,
         "gp:id":534353,
-        "qs:id":1343081,
+        "qs_pg:id":1343081,
         "wd:id":"Q3028616",
         "wk:page":"Jajinci"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1393843497,
-    "wof:lastmodified":1563589006,
+    "wof:lastmodified":1566612448,
     "wof:name":"Jajinci",
     "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.44194,44.57982,21.48194,44.61982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dolja\u0161nica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310619337,
-    "wof:lastmodified":1564104099,
+    "wof:lastmodified":1566612383,
     "wof:name":"Doljasnica",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

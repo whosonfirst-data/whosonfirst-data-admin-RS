@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.01553,42.52002,22.05553,42.56002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Izamno"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243464253,
-    "wof:lastmodified":1537683788,
+    "wof:lastmodified":1566612617,
     "wof:name":"Izamno",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

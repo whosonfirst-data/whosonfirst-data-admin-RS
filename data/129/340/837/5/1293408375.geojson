@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.31911,44.06758,20.35911,44.10758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Donji Braneti\u0107i"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293408375,
-    "wof:lastmodified":1564103335,
+    "wof:lastmodified":1566611960,
     "wof:name":"Donji Branetici",
     "wof:parent_id":1108809897,
     "wof:placetype":"locality",

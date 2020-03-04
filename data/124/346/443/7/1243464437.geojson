@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.8799,43.95138,20.9199,43.99138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Erde\u010d"
     ],
@@ -40,9 +44,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0415\u0440\u0434\u0435\u0447"
-    ],
-    "name:und_x_variant":[
-        "Erde\u010d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1243464437,
-    "wof:lastmodified":1564104415,
+    "wof:lastmodified":1566612621,
     "wof:name":"Erdec",
     "wof:parent_id":1108809931,
     "wof:placetype":"locality",

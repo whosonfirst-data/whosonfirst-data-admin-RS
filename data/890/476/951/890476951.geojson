@@ -11,10 +11,14 @@
     "geom:longitude":20.60772,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3332,
+    "gn:population":3332,
     "iso:country":"RS",
+    "lbl:bbox":"20.58772,45.79961,20.62772,45.83961",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Banatsko Veliko Selo"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0430\u0442\u0441\u044c\u043a\u0435 \u0412\u0435\u043b\u0438\u043a\u0435 \u0421\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Charleville"
     ],
     "qs:name":"Banatsko Veliko Selo",
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":792937,
-        "qs:id":129671,
+        "qs_pg:id":129671,
         "wd:id":"Q853306",
         "wk:page":"Banatsko Veliko Selo"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890476951,
-    "wof:lastmodified":1563589170,
+    "wof:lastmodified":1566612510,
     "wof:name":"Banatsko Veliko Selo",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

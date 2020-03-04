@@ -24,8 +24,12 @@
     "gn:population":211,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.92706,45.09337,19.96706,45.13337",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kru\u0161edol"
     ],
@@ -51,8 +55,7 @@
         "\u041a\u0440\u0443\u0448\u0435\u0434\u043e\u043b \u0421\u0435\u043b\u043e"
     ],
     "name:und_x_variant":[
-        "Manastir Kru\u0161edol",
-        "Kru\u0161edol Selo"
+        "Manastir Kru\u0161edol"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1326940183,
-    "wof:lastmodified":1564102913,
+    "wof:lastmodified":1566611736,
     "wof:name":"Krusedol",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

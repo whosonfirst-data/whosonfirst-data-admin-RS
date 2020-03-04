@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.235,44.85639,21.275,44.89639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kajtasovo"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1242692563,
-    "wof:lastmodified":1564104397,
+    "wof:lastmodified":1566612613,
     "wof:name":"Kajtasovo",
     "wof:parent_id":1108809843,
     "wof:placetype":"locality",

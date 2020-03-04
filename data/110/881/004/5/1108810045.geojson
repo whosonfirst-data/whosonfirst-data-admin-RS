@@ -12,6 +12,8 @@
     "iso:country":"RS",
     "lbl:latitude":43.204496,
     "lbl:longitude":21.506184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_alt":"Topli\u010dki",
     "meso:adm1_alt2":"Toplica",
     "meso:adm1_loc":"\u0422\u043e\u043f\u043b\u0438\u0447\u043a\u0438",
@@ -21,6 +23,7 @@
     "meso:name_loc":"Prokuplje",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043a\u0443\u043f\u043b\u0435"
     ],
@@ -94,9 +97,6 @@
         "\u00dcrg\u00fcp"
     ],
     "name:und_x_variant":[
-        "Prokuplje"
-    ],
-    "name:unk_x_variant":[
         "Prokuple"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +109,7 @@
         "\u666e\u7f85\u5eab\u666e\u5217"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755,
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1108810045,
-    "wof:lastmodified":1564103981,
+    "wof:lastmodified":1566612323,
     "wof:name":"Prokuplje",
     "wof:parent_id":85688261,
     "wof:placetype":"localadmin",

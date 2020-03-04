@@ -11,10 +11,14 @@
     "geom:longitude":21.41056,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":253,
+    "gn:population":253,
     "iso:country":"RS",
+    "lbl:bbox":"21.39056,43.08812,21.43056,43.12812",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tovrljane"
     ],
@@ -45,7 +49,7 @@
     "name:srp_x_variant":[
         "\u0422\u043e\u0432\u0440\u0459\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tovrljan"
     ],
     "qs:name":"Tovrljane",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":784985,
         "gp:id":537149,
-        "qs:id":553620,
+        "qs_pg:id":553620,
         "wd:id":"Q3106667",
         "wk:page":"Tovrljane"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890476721,
-    "wof:lastmodified":1563589194,
+    "wof:lastmodified":1566612517,
     "wof:name":"Tovrljane",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

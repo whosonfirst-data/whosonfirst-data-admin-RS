@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.28965,43.64934,21.32965,43.68934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vratare"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226357219,
-    "wof:lastmodified":1564104704,
+    "wof:lastmodified":1566612778,
     "wof:name":"Vratare",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

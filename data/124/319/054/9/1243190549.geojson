@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.46092,43.53874,19.50092,43.57874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Jabuke"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243190549,
-    "wof:lastmodified":1537683995,
+    "wof:lastmodified":1566612676,
     "wof:name":"Jabuke",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.10637,43.4811,20.14637,43.5211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deretin"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1226656019,
-    "wof:lastmodified":1564104787,
+    "wof:lastmodified":1566612827,
     "wof:name":"Deretin",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",

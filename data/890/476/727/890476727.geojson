@@ -11,10 +11,14 @@
     "geom:longitude":21.07083,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3300,
+    "gn:population":3300,
     "iso:country":"RS",
+    "lbl:bbox":"21.05083,44.50314,21.09083,44.54314",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lugav\u010dina"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":788439,
         "gp:id":535778,
-        "qs:id":553836,
+        "qs_pg:id":553836,
         "wd:id":"Q2736781",
         "wk:page":"Lugav\u010dina"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890476727,
-    "wof:lastmodified":1563589203,
+    "wof:lastmodified":1566612519,
     "wof:name":"Lugav\u010dina",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.4124,42.35256,22.4524,42.39256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rupe"
     ],
@@ -51,8 +55,7 @@
         "Rupe"
     ],
     "name:und_x_variant":[
-        "Rupe Mahala",
-        "Rupe"
+        "Rupe Mahala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1242587579,
-    "wof:lastmodified":1564104390,
+    "wof:lastmodified":1566612610,
     "wof:name":"Rupe",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

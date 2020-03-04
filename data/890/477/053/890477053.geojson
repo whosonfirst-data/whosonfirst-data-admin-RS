@@ -11,10 +11,14 @@
     "geom:longitude":19.54912,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2512,
+    "gn:population":2512,
     "iso:country":"RS",
+    "lbl:bbox":"19.52912,44.87021,19.56912,44.91021",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glu\u0161ci"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_variant":[
         "\u0413\u043b\u0443\u0448\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glu\u0161ii"
     ],
     "qs:name":"Glu\u0161ci",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3200547,
         "gp:id":533897,
-        "qs:id":147268,
+        "qs_pg:id":147268,
         "wd:id":"Q2722754",
         "wk:page":"Glu\u0161ci, Serbia"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477053,
-    "wof:lastmodified":1563589244,
+    "wof:lastmodified":1566612534,
     "wof:name":"Glu\u0161ci",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

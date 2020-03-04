@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.75556,44.34722,20.79556,44.38722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Vuji\u0107a Kraj"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310023977,
-    "wof:lastmodified":1537683862,
+    "wof:lastmodified":1566612386,
     "wof:name":"Vujica Kraj",
     "wof:parent_id":1108809985,
     "wof:placetype":"locality",

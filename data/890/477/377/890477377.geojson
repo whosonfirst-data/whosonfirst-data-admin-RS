@@ -11,10 +11,14 @@
     "geom:longitude":19.13205,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2312,
+    "gn:population":2312,
     "iso:country":"RS",
+    "lbl:bbox":"19.11205,45.51106,19.15205,45.55106",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bogojevo"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gombosh"
     ],
     "qs:name":"Bogojevo",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3203822,
         "gp:id":847654,
-        "qs:id":1044073,
+        "qs_pg:id":1044073,
         "wd:id":"Q1011756",
         "wk:page":"Bogojevo"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477377,
-    "wof:lastmodified":1563589264,
+    "wof:lastmodified":1566612540,
     "wof:name":"Bogojevo",
     "wof:parent_id":1108810009,
     "wof:placetype":"locality",

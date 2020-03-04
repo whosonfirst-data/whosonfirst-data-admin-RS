@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.15125,43.41055,21.19125,43.45055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Nabr\u0111e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327152439,
-    "wof:lastmodified":1537683877,
+    "wof:lastmodified":1566611745,
     "wof:name":"Nabrge",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

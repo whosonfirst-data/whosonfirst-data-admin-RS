@@ -13,10 +13,13 @@
     "iso:country":"RS",
     "lbl:latitude":44.228073,
     "lbl:longitude":20.238494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.228073,
     "mps:longitude":20.238494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ljig"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":500,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":788584,
         "gp:id":535055,
-        "qs:id":553845,
         "qs_pg:id":553845,
         "wd:id":"Q2360583",
         "wk:page":"Ljig"

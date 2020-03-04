@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.49617,43.8222,20.53617,43.8622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gu\u0161evac",
         "Gu\u0161avac"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226057367,
-    "wof:lastmodified":1537683913,
+    "wof:lastmodified":1566612768,
     "wof:name":"Gusavac",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

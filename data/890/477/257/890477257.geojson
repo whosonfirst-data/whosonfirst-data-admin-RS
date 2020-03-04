@@ -11,10 +11,14 @@
     "geom:longitude":21.43818,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":166,
+    "gn:population":166,
     "iso:country":"RS",
+    "lbl:bbox":"21.41818,43.05887,21.45818,43.09887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Arbana\u0161ka"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":793103,
         "gp:id":537149,
-        "qs:id":554118,
+        "qs_pg:id":554118,
         "wd:id":"Q2163543",
         "wk:page":"Arbana\u0161ka"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477257,
-    "wof:lastmodified":1563589239,
+    "wof:lastmodified":1566612532,
     "wof:name":"Arbana\u0161ka",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

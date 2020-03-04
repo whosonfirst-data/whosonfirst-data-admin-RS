@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.03787,44.29133,21.07787,44.33133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u043e\u043a\u0430\u0439\u043d\u0438\u0446\u0430"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326948467,
-    "wof:lastmodified":1564102912,
+    "wof:lastmodified":1566611736,
     "wof:name":"Pokajnica",
     "wof:parent_id":1108810131,
     "wof:placetype":"locality",

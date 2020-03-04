@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.53646,44.10319,21.57646,44.14319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sladaja"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1326948531,
-    "wof:lastmodified":1564102919,
+    "wof:lastmodified":1566611739,
     "wof:name":"Sladaja",
     "wof:parent_id":1108809885,
     "wof:placetype":"locality",

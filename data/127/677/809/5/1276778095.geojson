@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.224,42.79718,22.264,42.83718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pavli\u010dina"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1276778095,
-    "wof:lastmodified":1564103611,
+    "wof:lastmodified":1566612106,
     "wof:name":"Pavlicina",
     "wof:parent_id":1108809877,
     "wof:placetype":"locality",

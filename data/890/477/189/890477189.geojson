@@ -11,11 +11,15 @@
     "geom:longitude":20.48049,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2344,
+    "gn:population":2344,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.46049,45.40254,20.50049,45.44254",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Klek"
     ],
@@ -61,9 +65,6 @@
     "name:tat_x_preferred":[
         "\u041a\u043b\u0435\u043a"
     ],
-    "name:unk_x_variant":[
-        "B\u00e9gaf\u0151"
-    ],
     "qs:name":"Klek",
     "qs:name_adm0":"Serbia",
     "qs:name_adm1":"Srednji Banat",
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":789471,
         "gp:id":534572,
-        "qs:id":1270556,
+        "qs_pg:id":1270556,
         "wd:id":"Q853942",
         "wk:page":"Klek"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890477189,
-    "wof:lastmodified":1563589265,
+    "wof:lastmodified":1566612540,
     "wof:name":"Klek",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

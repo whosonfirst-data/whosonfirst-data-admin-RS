@@ -11,10 +11,14 @@
     "geom:longitude":21.72971,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1200,
+    "gn:population":1200,
     "iso:country":"RS",
+    "lbl:bbox":"21.70971,42.36853,21.74971,42.40853",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "village of Albania"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":8394219,
         "gp:id":532735,
-        "qs:id":768686,
+        "qs_pg:id":768686,
         "wd:id":"Q7930773",
         "wk:page":"Villages of Albania"
     },
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890476517,
-    "wof:lastmodified":1563589145,
+    "wof:lastmodified":1566612504,
     "wof:name":"Lagja e Poshtme",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

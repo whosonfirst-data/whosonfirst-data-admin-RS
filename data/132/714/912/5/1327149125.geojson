@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.9025,45.04247,19.9425,45.08247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0160atrinci"
     ],
@@ -54,7 +58,6 @@
         "\u0428\u0430\u0442\u0440\u0438\u043d\u0446\u0438"
     ],
     "name:und_x_variant":[
-        "Satrinca",
         "Satrince"
     ],
     "src:geom":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1327149125,
-    "wof:lastmodified":1564102926,
+    "wof:lastmodified":1566611742,
     "wof:name":"Satrinci",
     "wof:parent_id":1108809903,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.18491,43.23447,21.22491,43.27447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dre\u0161nica"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1309818257,
-    "wof:lastmodified":1564104271,
+    "wof:lastmodified":1566612484,
     "wof:name":"Dresnica",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

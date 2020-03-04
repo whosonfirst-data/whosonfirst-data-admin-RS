@@ -11,10 +11,14 @@
     "geom:longitude":20.50306,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.48306,43.68667,20.52306,43.72667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Duboki",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":837898,
         "gp:id":532811,
-        "qs:id":554490
+        "qs_pg:id":554490
     },
     "wof:country":"RS",
     "wof:created":1469054081,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476599,
-    "wof:lastmodified":1505343722,
+    "wof:lastmodified":1566612508,
     "wof:name":"Duboki",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

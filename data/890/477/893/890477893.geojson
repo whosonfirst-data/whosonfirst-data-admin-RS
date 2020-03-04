@@ -11,10 +11,14 @@
     "geom:longitude":21.56104,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":77,
+    "gn:population":77,
     "iso:country":"RS",
+    "lbl:bbox":"21.54104,43.16974,21.58104,43.20974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dobroti\u0107"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_variant":[
         "\u0414\u043e\u0431\u0440\u043e\u0442\u0438\u045b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobro\u0161i\u0107"
     ],
     "qs:name":"Dobroti\u0107",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":791418,
         "gp:id":536165,
-        "qs:id":554003,
+        "qs_pg:id":554003,
         "wd:id":"Q2735381",
         "wk:page":"Dobroti\u0107"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477893,
-    "wof:lastmodified":1563589254,
+    "wof:lastmodified":1566612537,
     "wof:name":"Dobroti\u0107",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

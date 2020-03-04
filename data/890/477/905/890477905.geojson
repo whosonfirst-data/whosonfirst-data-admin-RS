@@ -11,10 +11,14 @@
     "geom:longitude":21.47487,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":25,
+    "gn:population":25,
     "iso:country":"RS",
+    "lbl:bbox":"21.45487,43.142,21.49487,43.182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bukuloram"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":792165,
         "gp:id":537149,
-        "qs:id":554056,
+        "qs_pg:id":554056,
         "wd:id":"Q2734727",
         "wk:page":"Bukoloram"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477905,
-    "wof:lastmodified":1563589295,
+    "wof:lastmodified":1566612550,
     "wof:name":"Bukoloram",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"RS",
     "lbl:latitude":45.03109,
     "lbl:longitude":19.567694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_alt":"Sremski",
     "meso:adm1_alt2":"Srem",
     "meso:adm1_loc":"\u0421\u0440\u0435\u043c\u0441\u043a\u0438",
@@ -21,6 +23,7 @@
     "meso:name_loc":"Sremska Mitrovica",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0440\u044d\u043c\u0441\u043a\u0430-\u041c\u0456\u0442\u0440\u0430\u0432\u0456\u0446\u0430"
     ],
@@ -138,9 +141,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Sremska Mitrovica"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u0645\u0633\u06a9\u0627 \u0645\u06cc\u062a\u0631\u0648\u0648\u062a\u0633\u0627"
     ],
@@ -154,7 +154,7 @@
         "\u65af\u96f7\u59c6\u65af\u5361\u7c73\u7279\u7f57\u7ef4\u5bdf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755,
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":1108810087,
-    "wof:lastmodified":1564103968,
+    "wof:lastmodified":1566612318,
     "wof:name":"Sremska Mitrovica",
     "wof:parent_id":85688291,
     "wof:placetype":"localadmin",

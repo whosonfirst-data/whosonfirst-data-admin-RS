@@ -12,6 +12,8 @@
     "iso:country":"RS",
     "lbl:latitude":44.967918,
     "lbl:longitude":20.190063,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_alt":"Sremski",
     "meso:adm1_alt2":"Srem",
     "meso:adm1_loc":"\u0421\u0440\u0435\u043c\u0441\u043a\u0438",
@@ -21,6 +23,7 @@
     "meso:name_loc":"Stara Pazova",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Stara Pazova"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041f\u0430\u0437\u043e\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Stara Pazova"
-    ],
     "name:vie_x_preferred":[
         "Stara Pazova"
     ],
@@ -103,7 +103,7 @@
         "\u820a\u5e15\u4f50\u74e6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755,
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1108810093,
-    "wof:lastmodified":1564103966,
+    "wof:lastmodified":1566612318,
     "wof:name":"Stara Pazova",
     "wof:parent_id":85688291,
     "wof:placetype":"localadmin",

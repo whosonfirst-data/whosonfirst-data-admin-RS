@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.65122,44.21467,21.69122,44.25467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ribare"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226057253,
-    "wof:lastmodified":1564104689,
+    "wof:lastmodified":1566612769,
     "wof:name":"Ribare",
     "wof:parent_id":1108810159,
     "wof:placetype":"locality",

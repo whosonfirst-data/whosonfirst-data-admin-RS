@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.7246,44.21062,20.7646,44.25062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gorovi\u010d"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310115875,
-    "wof:lastmodified":1564104061,
+    "wof:lastmodified":1566612364,
     "wof:name":"Gorovic",
     "wof:parent_id":1108810113,
     "wof:placetype":"locality",

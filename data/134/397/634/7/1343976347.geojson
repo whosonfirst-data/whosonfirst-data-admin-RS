@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.56244,43.75634,20.60244,43.79634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mrsa\u0107"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0440\u0441\u0430\u045b"
-    ],
-    "name:und_x_variant":[
-        "Mrsa\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1343976347,
-    "wof:lastmodified":1564103075,
+    "wof:lastmodified":1566611825,
     "wof:name":"Mrsac",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

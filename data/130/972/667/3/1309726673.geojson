@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.90972,43.39611,20.94972,43.43611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Osredci"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1309726673,
-    "wof:lastmodified":1564104277,
+    "wof:lastmodified":1566612488,
     "wof:name":"Osredci",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

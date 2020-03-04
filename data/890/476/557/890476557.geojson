@@ -11,10 +11,14 @@
     "geom:longitude":20.53194,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1581,
+    "gn:population":1581,
     "iso:country":"RS",
+    "lbl:bbox":"20.51194,45.54361,20.55194,45.58361",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010cestereg"
     ],
@@ -54,7 +58,7 @@
     "name:srp_x_variant":[
         "\u0427\u0435\u0441\u0442\u0435\u0440\u0435\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschestereg"
     ],
     "qs:name":"\u010cestereg",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":791948,
         "gp:id":532524,
-        "qs:id":129635,
+        "qs_pg:id":129635,
         "wd:id":"Q225860",
         "wk:page":"\u010cestereg"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890476557,
-    "wof:lastmodified":1563589124,
+    "wof:lastmodified":1566612499,
     "wof:name":"\u010cestereg",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

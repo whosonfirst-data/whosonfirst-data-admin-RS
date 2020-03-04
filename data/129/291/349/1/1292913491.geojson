@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.65723,43.22838,20.69723,43.26838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Karadak"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1292913491,
-    "wof:lastmodified":1564103389,
+    "wof:lastmodified":1566611987,
     "wof:name":"Karadak",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

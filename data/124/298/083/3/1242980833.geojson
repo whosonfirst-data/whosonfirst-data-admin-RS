@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.61061,43.3282,19.65061,43.3682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mioska"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0438\u0458\u043e\u0441\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Mijoska"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1242980833,
-    "wof:lastmodified":1564104474,
+    "wof:lastmodified":1566612650,
     "wof:name":"Mioska",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

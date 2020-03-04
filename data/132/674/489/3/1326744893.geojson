@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.37688,44.34353,19.41688,44.38353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gruji\u010di\u0107a Mala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326744893,
-    "wof:lastmodified":1537683969,
+    "wof:lastmodified":1566611729,
     "wof:name":"Grujicica Mala",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

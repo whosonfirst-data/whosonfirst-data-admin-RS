@@ -11,11 +11,15 @@
     "geom:longitude":19.75477,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2092,
+    "gn:population":2092,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.73477,44.89843,19.77477,44.93843",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jarak"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3198868,
         "gp:id":534368,
-        "qs:id":196464,
+        "qs_pg:id":196464,
         "wd:id":"Q921005",
         "wk:page":"Jarak"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890477187,
-    "wof:lastmodified":1563589261,
+    "wof:lastmodified":1566612539,
     "wof:name":"Jarak",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

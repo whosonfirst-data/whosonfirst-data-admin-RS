@@ -11,10 +11,14 @@
     "geom:longitude":21.42287,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":56,
+    "gn:population":56,
     "iso:country":"RS",
+    "lbl:bbox":"21.40287,43.13599,21.44287,43.17599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bresnik"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":792319,
         "gp:id":537149,
-        "qs:id":83766,
+        "qs_pg:id":83766,
         "wd:id":"Q2735658"
     },
     "wof:country":"RS",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890476855,
-    "wof:lastmodified":1563589188,
+    "wof:lastmodified":1566612515,
     "wof:name":"Bresnik",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

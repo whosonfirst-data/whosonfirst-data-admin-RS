@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.97222,42.535,22.01222,42.575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0646\u064a\u0633\u0643\u0627 \u0628\u0627\u0646\u064a\u0627"
     ],
@@ -60,9 +64,6 @@
     "name:srp_x_variant":[
         "\u0412\u0440\u0430\u045a\u0441\u043a\u0430 \u0411\u0430\u045a\u0430"
     ],
-    "name:und_x_variant":[
-        "Banja"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688223,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1326563859,
-    "wof:lastmodified":1564102903,
+    "wof:lastmodified":1566611731,
     "wof:name":"Vranjska Banja",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

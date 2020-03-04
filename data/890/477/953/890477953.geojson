@@ -11,10 +11,14 @@
     "geom:longitude":20.91611,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.89611,43.51861,20.93611,43.55861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Iri\u010dani"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":836912,
         "gp:id":537608,
-        "qs:id":554421
+        "qs_pg:id":554421
     },
     "wof:country":"RS",
     "wof:created":1469054138,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890477953,
-    "wof:lastmodified":1505343729,
+    "wof:lastmodified":1566612521,
     "wof:name":"Iri\u010dani",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

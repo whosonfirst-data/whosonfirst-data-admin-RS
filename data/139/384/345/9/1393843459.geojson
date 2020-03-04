@@ -12,10 +12,12 @@
     "iso:country":"RS",
     "lbl:latitude":44.75577,
     "lbl:longitude":20.564292,
+    "lbl:max_zoom":13.0,
     "mps:latitude":44.75577,
     "mps:longitude":20.564292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u062a\u0633\u0643\u0627"
     ],
@@ -75,7 +77,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688279,
         102191581,
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1393843459,
-    "wof:lastmodified":1564104221,
+    "wof:lastmodified":1566612450,
     "wof:name":"Grocka",
     "wof:parent_id":1108809899,
     "wof:placetype":"borough",

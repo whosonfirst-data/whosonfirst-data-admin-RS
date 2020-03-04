@@ -11,10 +11,14 @@
     "geom:longitude":20.44993,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4769,
+    "gn:population":4769,
     "iso:country":"RS",
+    "lbl:bbox":"20.42993,44.66477,20.46993,44.70477",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0443\u0448\u0430\u043d"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":786175,
         "gp:id":536380,
-        "qs:id":83594,
+        "qs_pg:id":83594,
         "wd:id":"Q3177250",
         "wk:page":"Ru\u0161anj"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476833,
-    "wof:lastmodified":1563589142,
+    "wof:lastmodified":1566612503,
     "wof:name":"Ru\u0161anj",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",

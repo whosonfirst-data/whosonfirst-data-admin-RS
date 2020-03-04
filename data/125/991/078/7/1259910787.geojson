@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.94766,46.13389,19.98766,46.17389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0433\u043e\u0448"
     ],
@@ -91,8 +95,7 @@
         "\u0425\u043e\u0440\u0433\u043e\u0448"
     ],
     "name:und_x_variant":[
-        "Horto\u0161",
-        "Horgos"
+        "Horto\u0161"
     ],
     "name:zho_x_preferred":[
         "\u970d\u5c14\u6208\u4ec0"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1259910787,
-    "wof:lastmodified":1564104537,
+    "wof:lastmodified":1566612683,
     "wof:name":"Horgos",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

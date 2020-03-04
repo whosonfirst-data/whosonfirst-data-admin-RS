@@ -10,8 +10,10 @@
     "geom:latitude":44.848188,
     "geom:longitude":20.383034,
     "iso:country":"RS",
+    "lbl:bbox":"20.3780338206,44.8431883963,20.3880338206,44.8531883963",
     "lbl:latitude":44.848188,
     "lbl:longitude":20.383034,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,13 +35,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843435
+        1393843435,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1444836921,
-    "wof:lastmodified":1566337684,
+    "wof:lastmodified":1566612225,
     "wof:name":"Meandri",
     "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.74853,44.68503,19.78853,44.72503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Korman"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1276566645,
-    "wof:lastmodified":1564103525,
+    "wof:lastmodified":1566612054,
     "wof:name":"Korman",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

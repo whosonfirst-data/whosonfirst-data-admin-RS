@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.28914,42.96423,20.32914,43.00423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Velje Polje"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1360199339,
-    "wof:lastmodified":1564104198,
+    "wof:lastmodified":1566612434,
     "wof:name":"Velje Polje",
     "wof:parent_id":1108810119,
     "wof:placetype":"locality",

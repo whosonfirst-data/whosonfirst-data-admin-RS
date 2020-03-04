@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.53639,44.62833,21.57639,44.66833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Bari\u010d"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226664321,
-    "wof:lastmodified":1537683837,
+    "wof:lastmodified":1566612785,
     "wof:name":"Baric",
     "wof:parent_id":1108809895,
     "wof:placetype":"locality",

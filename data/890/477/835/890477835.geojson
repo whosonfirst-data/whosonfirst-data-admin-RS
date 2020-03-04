@@ -11,10 +11,14 @@
     "geom:longitude":21.51087,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":96,
+    "gn:population":96,
     "iso:country":"RS",
+    "lbl:bbox":"21.49087,43.04673,21.53087,43.08673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Srednji Statovac"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":785622,
         "gp:id":537761,
-        "qs:id":553656,
+        "qs_pg:id":553656,
         "wd:id":"Q2735155",
         "wk:page":"Srednji Statovac"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477835,
-    "wof:lastmodified":1563589248,
+    "wof:lastmodified":1566612535,
     "wof:name":"Srednji Statovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

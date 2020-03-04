@@ -11,10 +11,14 @@
     "geom:longitude":21.39231,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":127,
+    "gn:population":127,
     "iso:country":"RS",
+    "lbl:bbox":"21.37231,43.19135,21.41231,43.23135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vi\u010da"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":784458,
         "gp:id":537232,
-        "qs:id":83548,
+        "qs_pg:id":83548,
         "wd:id":"Q2735062",
         "wk:page":"Vi\u010da"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477779,
-    "wof:lastmodified":1563589279,
+    "wof:lastmodified":1566612545,
     "wof:name":"Vi\u010da",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

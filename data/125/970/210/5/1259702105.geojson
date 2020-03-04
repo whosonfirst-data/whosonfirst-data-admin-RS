@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.19374,44.22405,20.23374,44.26405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milavac"
     ],
@@ -48,8 +52,7 @@
         "\u041c\u0438\u043b\u0430\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
-        "Milovac",
-        "Milavac"
+        "Milovac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1259702105,
-    "wof:lastmodified":1564104559,
+    "wof:lastmodified":1566612695,
     "wof:name":"Milavac",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",

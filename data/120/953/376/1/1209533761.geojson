@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.00083,42.64425,22.04083,42.68425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0447\u0432\u0438\u0449\u0435"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209533761,
-    "wof:lastmodified":1564103647,
+    "wof:lastmodified":1566612124,
     "wof:name":"Bacviste",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

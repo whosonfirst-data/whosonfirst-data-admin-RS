@@ -11,10 +11,14 @@
     "geom:longitude":19.50033,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":605,
+    "gn:population":605,
     "iso:country":"RS",
+    "lbl:bbox":"19.48033,43.76853,19.52033,43.80853",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mokra Gora"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3194918,
         "gp:id":535504,
-        "qs:id":581662,
+        "qs_pg:id":581662,
         "wd:id":"Q1016709",
         "wk:page":"Mokra Gora"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890477083,
-    "wof:lastmodified":1563589229,
+    "wof:lastmodified":1566612528,
     "wof:name":"Mokra Gora",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

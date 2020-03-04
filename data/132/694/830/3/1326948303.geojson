@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.87296,43.3348,21.91296,43.3748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gornji Komren"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1326948303,
-    "wof:lastmodified":1564102920,
+    "wof:lastmodified":1566611739,
     "wof:name":"Gornji Komren",
     "wof:parent_id":1108809879,
     "wof:placetype":"locality",

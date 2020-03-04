@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.0126,42.49465,22.0526,42.53465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043d\u0438 \u0434\u0435\u043b"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1276350563,
-    "wof:lastmodified":1564103545,
+    "wof:lastmodified":1566612068,
     "wof:name":"Srednji Del",
     "wof:parent_id":1108810147,
     "wof:placetype":"locality",

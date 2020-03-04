@@ -11,10 +11,14 @@
     "geom:longitude":21.45302,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":59,
+    "gn:population":59,
     "iso:country":"RS",
+    "lbl:bbox":"21.43302,43.17725,21.47302,43.21725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Donja Beja\u0161nica"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_variant":[
         "\u0414\u043e\u045a\u0430 \u0411\u0435\u0458\u0430\u0448\u043d\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donja Beja\u0161ica"
     ],
     "qs:name":"Donja Beja\u0161nica",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":791314,
         "gp:id":535227,
-        "qs:id":553988,
+        "qs_pg:id":553988,
         "wd:id":"Q2734647",
         "wk:page":"Donja Beja\u0161nica"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477891,
-    "wof:lastmodified":1563589326,
+    "wof:lastmodified":1566612559,
     "wof:name":"Donja Beja\u0161nica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

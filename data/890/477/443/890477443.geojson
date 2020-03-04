@@ -11,11 +11,15 @@
     "geom:longitude":19.3948,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2606,
+    "gn:population":2606,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.3748,44.85374,19.4148,44.89374",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Crna Bara"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3202477,
         "gp:id":533205,
-        "qs:id":147295,
+        "qs_pg:id":147295,
         "wd:id":"Q2052491",
         "wk:page":"Crna Bara"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890477443,
-    "wof:lastmodified":1563589305,
+    "wof:lastmodified":1566612553,
     "wof:name":"Crna Bara",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

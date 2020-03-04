@@ -11,10 +11,14 @@
     "geom:longitude":20.96877,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.94877,43.46966,20.98877,43.50966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Vrbnica"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0431\u043d\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velika Vrbnica"
     ],
     "name:war_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":836903,
         "gp:id":532394,
-        "qs:id":554419,
+        "qs_pg:id":554419,
         "wd:id":"Q664003",
         "wk:page":"Vrbnica"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890477949,
-    "wof:lastmodified":1563589275,
+    "wof:lastmodified":1566612544,
     "wof:name":"Vrbnica",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

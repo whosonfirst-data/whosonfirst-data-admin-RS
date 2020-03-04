@@ -11,10 +11,14 @@
     "geom:longitude":21.47348,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":127,
+    "gn:population":127,
     "iso:country":"RS",
+    "lbl:bbox":"21.45348,43.22122,21.49348,43.26122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drenovac"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":834549,
         "gp:id":535227,
-        "qs:id":554390,
+        "qs_pg:id":554390,
         "wd:id":"Q5306933",
         "wk:page":"Drenovac"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477749,
-    "wof:lastmodified":1563589269,
+    "wof:lastmodified":1566612542,
     "wof:name":"Drenovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

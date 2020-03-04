@@ -11,10 +11,14 @@
     "geom:longitude":21.50766,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":42,
+    "gn:population":42,
     "iso:country":"RS",
+    "lbl:bbox":"21.48766,43.1406,21.52766,43.1806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Obrtince"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_variant":[
         "\u041e\u0431\u0440\u0442\u0438\u043d\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obrtinci"
     ],
     "qs:name":"Obrtince",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":787509,
         "gp:id":535227,
-        "qs:id":553792,
+        "qs_pg:id":553792,
         "wd:id":"Q3106652",
         "wk:page":"Obrtince"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890477457,
-    "wof:lastmodified":1563589331,
+    "wof:lastmodified":1566612560,
     "wof:name":"Obrtince",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

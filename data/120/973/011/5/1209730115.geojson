@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.02906,43.51384,22.06906,43.55384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bo\u017einovac"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209730115,
-    "wof:lastmodified":1564103798,
+    "wof:lastmodified":1566612200,
     "wof:name":"Bozinovac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

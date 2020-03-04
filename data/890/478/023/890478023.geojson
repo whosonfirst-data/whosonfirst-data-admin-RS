@@ -11,8 +11,12 @@
     "geom:longitude":20.127639,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.107639,45.0541865,20.147639,45.0941865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "In\u0111ija"
     ],
@@ -143,7 +147,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":534294,
-        "qs:id":265210,
+        "qs_pg:id":265210,
         "wd:id":"Q309341",
         "wk:page":"In\u0111ija"
     },
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":890478023,
-    "wof:lastmodified":1563589112,
+    "wof:lastmodified":1566612494,
     "wof:name":"Indjija",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

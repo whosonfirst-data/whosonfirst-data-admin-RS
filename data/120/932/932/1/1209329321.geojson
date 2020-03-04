@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.59079,44.54887,20.63079,44.58887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Popovi\u0107"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209329321,
-    "wof:lastmodified":1564103758,
+    "wof:lastmodified":1566612178,
     "wof:name":"Popovic",
     "wof:parent_id":85633755,
     "wof:placetype":"locality",

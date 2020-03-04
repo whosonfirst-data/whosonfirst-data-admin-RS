@@ -11,10 +11,14 @@
     "geom:longitude":20.06861,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":9231,
+    "gn:population":9231,
     "iso:country":"RS",
+    "lbl:bbox":"20.04861,45.45221,20.08861,45.49221",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0443\u0440\u0443\u0433"
     ],
@@ -60,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
-        "Csurog"
-    ],
     "qs:name":"\u010curug",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":791672,
         "gp:id":533275,
-        "qs:id":1029119,
+        "qs_pg:id":1029119,
         "wd:id":"Q238981",
         "wk:page":"\u010curug"
     },
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":890477133,
-    "wof:lastmodified":1563589214,
+    "wof:lastmodified":1566612523,
     "wof:name":"\u010curug",
     "wof:parent_id":1108810155,
     "wof:placetype":"locality",

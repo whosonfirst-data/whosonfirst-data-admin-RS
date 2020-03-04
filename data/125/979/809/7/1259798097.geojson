@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.42625,44.34132,21.46625,44.38132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Leskovac"
     ],
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1259798097,
-    "wof:lastmodified":1564104574,
+    "wof:lastmodified":1566612702,
     "wof:name":"Leskovac",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

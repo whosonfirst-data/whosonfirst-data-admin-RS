@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.86711,42.37532,21.90711,42.41532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Petka"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1276137437,
-    "wof:lastmodified":1564103561,
+    "wof:lastmodified":1566612077,
     "wof:name":"Petka",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

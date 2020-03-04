@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.42858,45.07951,19.46858,45.11951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bingula"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1293108593,
-    "wof:lastmodified":1564103432,
+    "wof:lastmodified":1566612009,
     "wof:name":"Bingula",
     "wof:parent_id":1108810069,
     "wof:placetype":"locality",

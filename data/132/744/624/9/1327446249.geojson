@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.97571,43.48539,22.01571,43.52539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Radmirovac"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327446249,
-    "wof:lastmodified":1564103044,
+    "wof:lastmodified":1566611809,
     "wof:name":"Radmirovac",
     "wof:parent_id":1108810105,
     "wof:placetype":"locality",

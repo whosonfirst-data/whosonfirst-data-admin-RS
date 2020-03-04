@@ -11,10 +11,14 @@
     "geom:longitude":21.35917,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":326,
+    "gn:population":326,
     "iso:country":"RS",
+    "lbl:bbox":"21.33917,43.18333,21.37917,43.22333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u062a\u0634\u0646\u064a\u0643"
     ],
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":786984,
         "gp:id":537232,
-        "qs:id":553759,
+        "qs_pg:id":553759,
         "wd:id":"Q1007199",
         "wk:page":"Plo\u010dnik"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890477849,
-    "wof:lastmodified":1563589311,
+    "wof:lastmodified":1566612555,
     "wof:name":"Plo\u010dnik",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

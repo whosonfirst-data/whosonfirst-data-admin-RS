@@ -11,11 +11,15 @@
     "geom:longitude":19.70722,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4018,
+    "gn:population":4018,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.68722,44.70222,19.72722,44.74222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pocerski Pri\u010dinovi\u0107"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3217047,
         "gp:id":28752675,
-        "qs:id":214022,
+        "qs_pg:id":214022,
         "wd:id":"Q2736461",
         "wk:page":"Pocerski Pri\u010dinovi\u0107"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890477697,
-    "wof:lastmodified":1563589324,
+    "wof:lastmodified":1566612558,
     "wof:name":"Pocerski Pricinovic",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":20.69008,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5467,
+    "gn:population":5467,
     "iso:country":"RS",
+    "lbl:bbox":"20.67008,45.70538,20.71008,45.74538",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0628\u0633\u0643\u0627 \u0633\u0631\u0646\u064a\u0627"
     ],
@@ -72,7 +76,7 @@
     "name:srp_x_variant":[
         "\u0421\u0440\u043f\u0441\u043a\u0430 \u0426\u0440\u045a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9metcsernye"
     ],
     "qs:name":"Srpska Crnja",
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":785603,
         "gp:id":537520,
-        "qs:id":129426,
+        "qs_pg:id":129426,
         "wd:id":"Q545680",
         "wk:page":"Srpska Crnja"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890477765,
-    "wof:lastmodified":1563589214,
+    "wof:lastmodified":1566612523,
     "wof:name":"Srpska Crnja",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

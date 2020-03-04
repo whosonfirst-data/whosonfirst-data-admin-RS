@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.37382,43.05771,22.41382,43.09771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1243273945,
-    "wof:lastmodified":1564104505,
+    "wof:lastmodified":1566612668,
     "wof:name":"Izvor",
     "wof:parent_id":1108809823,
     "wof:placetype":"locality",

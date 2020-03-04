@@ -11,10 +11,14 @@
     "geom:longitude":20.68083,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":458,
+    "gn:population":458,
     "iso:country":"RS",
+    "lbl:bbox":"20.66083,45.42665,20.70083,45.46665",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Banatsko Vi\u0161nji\u0107evo"
     ],
@@ -57,7 +61,7 @@
     "name:srp_x_variant":[
         "\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u043e \u0412\u0438\u0448\u045a\u0438\u045b\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vi\u0161nji\u0107evo"
     ],
     "qs:name":"Banatsko Vi\u0161nji\u0107evo",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":792935,
         "gp:id":534764,
-        "qs:id":83783,
+        "qs_pg:id":83783,
         "wd:id":"Q1089505",
         "wk:page":"Banatsko Vi\u0161nji\u0107evo"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890477787,
-    "wof:lastmodified":1563589352,
+    "wof:lastmodified":1566612567,
     "wof:name":"Banatsko Vi\u0161nji\u0107evo",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

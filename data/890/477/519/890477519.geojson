@@ -11,11 +11,15 @@
     "geom:longitude":19.10635,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3186,
+    "gn:population":3186,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.08635,45.97088,19.12635,46.01088",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ri\u0111ica"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0434\u0436\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deutsch-Baja"
     ],
     "qs:name":"Ri\u00f0ica",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3191660,
         "gp:id":536408,
-        "qs:id":1067491,
+        "qs_pg:id":1067491,
         "wd:id":"Q1048343",
         "wk:page":"Ri\u0111ica"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890477519,
-    "wof:lastmodified":1563589265,
+    "wof:lastmodified":1566612540,
     "wof:name":"Ri\u00f0ica",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

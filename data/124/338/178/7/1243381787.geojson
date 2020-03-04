@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.44452,43.38395,20.48452,43.42395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ra\u0161ovi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243381787,
-    "wof:lastmodified":1537683845,
+    "wof:lastmodified":1566612577,
     "wof:name":"Rasovici",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

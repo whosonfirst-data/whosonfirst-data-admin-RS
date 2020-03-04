@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.04278,43.31389,21.08278,43.35389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Raki\u010devi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310124193,
-    "wof:lastmodified":1537683869,
+    "wof:lastmodified":1566612328,
     "wof:name":"Rakicevici",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

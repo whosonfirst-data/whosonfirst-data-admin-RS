@@ -10,8 +10,10 @@
     "geom:latitude":44.823376,
     "geom:longitude":20.384822,
     "iso:country":"RS",
+    "lbl:bbox":"20.3798219609,44.8183756864,20.3898219609,44.8283756864",
     "lbl:latitude":44.823376,
     "lbl:longitude":20.384822,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,13 +35,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843443
+        1393843443,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1444836667,
-    "wof:lastmodified":1566337654,
+    "wof:lastmodified":1566612225,
     "wof:name":"Blok 51",
     "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",

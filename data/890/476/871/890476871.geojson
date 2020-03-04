@@ -11,11 +11,14 @@
     "geom:longitude":20.74004,
     "gn:country":"RS",
     "gn:fcode":"MT",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u0441"
     ],
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":837754,
         "gp:id":532951,
-        "qs:id":83859,
+        "qs_pg:id":83859,
         "wk:page":"Vis"
     },
     "wof:country":"RS",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890476871,
-    "wof:lastmodified":1564104295,
+    "wof:lastmodified":1566612513,
     "wof:name":"Vis",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

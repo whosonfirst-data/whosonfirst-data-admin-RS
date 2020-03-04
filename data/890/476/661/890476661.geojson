@@ -11,10 +11,14 @@
     "geom:longitude":21.55212,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":65,
+    "gn:population":65,
     "iso:country":"RS",
+    "lbl:bbox":"21.53212,43.07824,21.57212,43.11824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Staro Selo"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":785509,
         "gp:id":537761,
-        "qs:id":83570,
+        "qs_pg:id":83570,
         "wd:id":"Q2361603",
         "wk:page":"Staro Selo"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890476661,
-    "wof:lastmodified":1563589143,
+    "wof:lastmodified":1566612503,
     "wof:name":"Staro Selo",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

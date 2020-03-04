@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.93805,43.35648,20.97805,43.39648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gornje Ko\u010dine"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326948465,
-    "wof:lastmodified":1537683888,
+    "wof:lastmodified":1566611736,
     "wof:name":"Gornje Kocine",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

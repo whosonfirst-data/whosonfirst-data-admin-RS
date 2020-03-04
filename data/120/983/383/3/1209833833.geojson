@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.39871,43.56398,22.43871,43.60398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Radi\u010devac"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209833833,
-    "wof:lastmodified":1564103685,
+    "wof:lastmodified":1566612143,
     "wof:name":"Radicevac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.74361,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"21.72361,44.54861,21.76361,44.58861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Vukosava",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":837432,
         "gp:id":533735,
-        "qs:id":554472
+        "qs_pg:id":554472
     },
     "wof:country":"RS",
     "wof:created":1469054080,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476573,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566612507,
     "wof:name":"Vukosava",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

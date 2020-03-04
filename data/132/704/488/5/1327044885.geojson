@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.38044,44.5445,20.42044,44.5845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0434\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1327044885,
-    "wof:lastmodified":1564102977,
+    "wof:lastmodified":1566611770,
     "wof:name":"Bozdarevac",
     "wof:parent_id":1108809835,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.56105,42.35745,21.60105,42.39745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u043d\u0430\u0442\u043e\u0432\u0446\u0435"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259897917,
-    "wof:lastmodified":1564104632,
+    "wof:lastmodified":1566612737,
     "wof:name":"Ranatovce",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

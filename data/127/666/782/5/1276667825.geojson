@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.71173,44.0421,19.75173,44.0821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Gladovi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276667825,
-    "wof:lastmodified":1537683989,
+    "wof:lastmodified":1566612071,
     "wof:name":"Gladovici",
     "wof:parent_id":1108809923,
     "wof:placetype":"locality",

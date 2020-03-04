@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.84687,44.30911,20.88687,44.34911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Cerovac"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1327048247,
-    "wof:lastmodified":1564102977,
+    "wof:lastmodified":1566611770,
     "wof:name":"Cerovac",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.62668,44.59033,22.66668,44.63033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kostol"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360095213,
-    "wof:lastmodified":1564104144,
+    "wof:lastmodified":1566612408,
     "wof:name":"Kostol",
     "wof:parent_id":1108809915,
     "wof:placetype":"locality",

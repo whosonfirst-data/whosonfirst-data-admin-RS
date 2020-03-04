@@ -11,11 +11,15 @@
     "geom:longitude":21.5969,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.5769,44.17624,21.6169,44.21624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milanovac"
     ],
@@ -40,7 +44,7 @@
     "name:srp_x_variant":[
         "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magudica"
     ],
     "qs:name":"Mladenovac",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":787984,
         "gp:id":535486,
-        "qs:id":475647,
+        "qs_pg:id":475647,
         "wd:id":"Q3106021",
         "wk:page":"Mladenovac"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890477453,
-    "wof:lastmodified":1563589257,
+    "wof:lastmodified":1566612537,
     "wof:name":"Mladenovac",
     "wof:parent_id":1108810159,
     "wof:placetype":"locality",

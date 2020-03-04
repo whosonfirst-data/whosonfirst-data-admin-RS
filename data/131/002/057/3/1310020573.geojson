@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.19072,44.37331,21.23072,44.41331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Simi\u0107evo"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1310020573,
-    "wof:lastmodified":1564104114,
+    "wof:lastmodified":1566612390,
     "wof:name":"Simicevo",
     "wof:parent_id":1108810157,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":21.3134,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":73000,
+    "gn:population":73000,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.2934,44.02213,21.3334,44.06213",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:alb_x_variant":[
         "Gllogovc"
     ],
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":790698,
         "gp:id":533887,
-        "qs:id":1011890,
+        "qs_pg:id":1011890,
         "wd:id":"Q2726875",
         "wk:page":"Glogovac"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890477525,
-    "wof:lastmodified":1563589349,
+    "wof:lastmodified":1566612565,
     "wof:name":"Glogovac",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

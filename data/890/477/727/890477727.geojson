@@ -11,10 +11,14 @@
     "geom:longitude":20.54111,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"RS",
+    "lbl:bbox":"20.52111,43.60556,20.56111,43.64556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tr\u0161ljice",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":837441,
         "gp:id":532811,
-        "qs:id":554478
+        "qs_pg:id":554478
     },
     "wof:country":"RS",
     "wof:created":1469054128,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890477727,
-    "wof:lastmodified":1505343728,
+    "wof:lastmodified":1566612569,
     "wof:name":"Tr\u0161ljice",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

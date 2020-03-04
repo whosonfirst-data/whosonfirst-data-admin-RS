@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.05808,43.32508,21.09808,43.36508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Lap\u010devi\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309813629,
-    "wof:lastmodified":1537683870,
+    "wof:lastmodified":1566612479,
     "wof:name":"Lapcevici",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",

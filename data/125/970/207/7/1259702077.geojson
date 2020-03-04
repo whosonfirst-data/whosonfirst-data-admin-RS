@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.83472,43.76161,20.87472,43.80161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goda\u010dica"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u043e\u0434\u0430\u0447\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "Goda\u010dica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1259702077,
-    "wof:lastmodified":1564104564,
+    "wof:lastmodified":1566612697,
     "wof:name":"Godacica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

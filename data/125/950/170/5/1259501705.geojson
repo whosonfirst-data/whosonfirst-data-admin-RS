@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.84911,45.75279,19.88911,45.79279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Obornja\u010da"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1259501705,
-    "wof:lastmodified":1564104596,
+    "wof:lastmodified":1566612714,
     "wof:name":"Obornjaca",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.00658,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1372,
+    "gn:population":1372,
     "iso:country":"RS",
+    "lbl:bbox":"20.98658,45.15141,21.02658,45.19141",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jano\u0161ik"
     ],
@@ -60,7 +64,7 @@
     "name:srp_x_variant":[
         "\u0408\u0430\u043d\u043e\u0448\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slova\u010dki-Aleksandrovac"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":789888,
         "gp:id":535103,
-        "qs:id":129585,
+        "qs_pg:id":129585,
         "wd:id":"Q948541",
         "wk:page":"Jano\u0161ik"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890477219,
-    "wof:lastmodified":1563589232,
+    "wof:lastmodified":1566612529,
     "wof:name":"Jano\u0161ik",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

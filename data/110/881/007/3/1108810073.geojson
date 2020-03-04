@@ -12,6 +12,8 @@
     "iso:country":"RS",
     "lbl:latitude":43.229357,
     "lbl:longitude":20.033277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_alt":"Zlatiborski",
     "meso:adm1_alt2":"Zlatibor",
     "meso:adm1_loc":"\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438",
@@ -21,6 +23,7 @@
     "meso:name_loc":"Sjenica",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sjenica"
     ],
@@ -81,14 +84,11 @@
     "name:tur_x_preferred":[
         "Seni\u00e7e"
     ],
-    "name:und_x_variant":[
-        "Sjenica"
-    ],
     "name:zho_x_preferred":[
         "\u8b1d\u5c3c\u5bdf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755,
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1108810073,
-    "wof:lastmodified":1564103960,
+    "wof:lastmodified":1566612316,
     "wof:name":"Sjenica",
     "wof:parent_id":85688255,
     "wof:placetype":"localadmin",

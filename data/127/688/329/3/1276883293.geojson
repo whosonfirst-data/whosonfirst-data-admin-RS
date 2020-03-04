@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.8032,43.08389,22.8432,43.12389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0443\u043b\u0435\u043d\u043e\u0432\u0446\u0438"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276883293,
-    "wof:lastmodified":1564103483,
+    "wof:lastmodified":1566612034,
     "wof:name":"Gulenovci",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

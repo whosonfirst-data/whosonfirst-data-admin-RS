@@ -11,10 +11,14 @@
     "geom:longitude":19.50101,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":3212,
+    "gn:population":3212,
     "iso:country":"RS",
+    "lbl:bbox":"19.48101,44.67783,19.52101,44.71783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lipolist"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3196511,
         "gp:id":535922,
-        "qs:id":1044033,
+        "qs_pg:id":1044033,
         "wd:id":"Q2736643",
         "wk:page":"Lipolist"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477355,
-    "wof:lastmodified":1563589217,
+    "wof:lastmodified":1566612524,
     "wof:name":"Lipolist",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

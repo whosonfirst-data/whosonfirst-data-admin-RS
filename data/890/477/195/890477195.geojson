@@ -11,11 +11,15 @@
     "geom:longitude":19.37987,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"19.35987,44.47208,19.39987,44.51208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gra\u010danica"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3216776,
         "gp:id":534161,
-        "qs:id":502239,
+        "qs_pg:id":502239,
         "wd:id":"Q1027489",
         "wk:page":"Gra\u010danica"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890477195,
-    "wof:lastmodified":1563589210,
+    "wof:lastmodified":1566612522,
     "wof:name":"Gra\u010danica",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

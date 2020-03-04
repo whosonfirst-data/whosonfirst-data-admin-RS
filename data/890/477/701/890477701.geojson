@@ -11,11 +11,15 @@
     "geom:longitude":21.50376,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"21.48376,44.27537,21.52376,44.31537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017ddrelo"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":783961,
         "gp:id":537729,
-        "qs:id":54172,
+        "qs_pg:id":54172,
         "wd:id":"Q3104319",
         "wk:page":"\u017ddrelo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890477701,
-    "wof:lastmodified":1563589208,
+    "wof:lastmodified":1566612521,
     "wof:name":"\u017ddrelo",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

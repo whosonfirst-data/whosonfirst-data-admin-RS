@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.77219,43.36902,20.81219,43.40902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Me\u010dkari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260094911,
-    "wof:lastmodified":1537683886,
+    "wof:lastmodified":1566612280,
     "wof:name":"Meckari",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

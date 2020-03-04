@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.62829,43.99614,20.66829,44.03614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u044e\u043b\u044f\u0446\u0438"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1225962659,
-    "wof:lastmodified":1564104726,
+    "wof:lastmodified":1566612791,
     "wof:name":"Ljuljaci",
     "wof:parent_id":1108809917,
     "wof:placetype":"locality",

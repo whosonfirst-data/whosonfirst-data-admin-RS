@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.40111,43.09167,21.44111,43.13167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0414\u0440\u043e\u0431\u045a\u0430\u0446\u0438"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327249643,
-    "wof:lastmodified":1564102940,
+    "wof:lastmodified":1566611749,
     "wof:name":"Drobnjaci",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

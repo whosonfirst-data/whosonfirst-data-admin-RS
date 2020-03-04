@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.50467,43.53271,19.54467,43.57271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Trnovica"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1259894549,
-    "wof:lastmodified":1564104637,
+    "wof:lastmodified":1566612739,
     "wof:name":"Trnovica",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":20.45844,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1993,
+    "gn:population":1993,
     "iso:country":"RS",
+    "lbl:bbox":"20.43844,45.27489,20.47844,45.31489",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Staji\u0107evo"
     ],
@@ -57,9 +61,6 @@
     "name:srp_x_variant":[
         "\u0421\u0442\u0430\u0458\u0438\u045b\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u00d3\u00e9cska"
-    ],
     "qs:name":"Staji\u0107evo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":785598,
         "gp:id":533815,
-        "qs:id":129425,
+        "qs_pg:id":129425,
         "wd:id":"Q1089370",
         "wk:page":"Staji\u0107evo"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890477211,
-    "wof:lastmodified":1563589222,
+    "wof:lastmodified":1566612526,
     "wof:name":"Staji\u0107evo",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

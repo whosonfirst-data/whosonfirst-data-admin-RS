@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.39556,42.7425,21.43556,42.7825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gubavce"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1360194823,
-    "wof:lastmodified":1564104192,
+    "wof:lastmodified":1566612430,
     "wof:name":"Gubavce",
     "wof:parent_id":1108809977,
     "wof:placetype":"locality",

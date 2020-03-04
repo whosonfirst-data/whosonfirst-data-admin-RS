@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.62696,44.35957,20.66696,44.39957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Markovac"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1209833661,
-    "wof:lastmodified":1564103687,
+    "wof:lastmodified":1566612144,
     "wof:name":"Markovac",
     "wof:parent_id":1108809985,
     "wof:placetype":"locality",

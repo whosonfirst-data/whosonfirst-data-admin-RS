@@ -10,8 +10,10 @@
     "geom:latitude":44.808057,
     "geom:longitude":20.503478,
     "iso:country":"RS",
+    "lbl:bbox":"20.4984783372,44.8030565225,20.5084783372,44.8130565225",
     "lbl:latitude":44.808056,
     "lbl:longitude":20.503478,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,13 +41,13 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
         890476941,
-        1393843457
+        1393843457,
+        85688279
     ],
     "wof:breaches":[],
     "wof:country":"RS",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1444834445,
-    "wof:lastmodified":1566337415,
+    "wof:lastmodified":1566612236,
     "wof:name":"Zvezdara 2",
     "wof:parent_id":1393843457,
     "wof:placetype":"neighbourhood",

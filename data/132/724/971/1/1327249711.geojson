@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.45957,44.37549,19.49957,44.41549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Bela Crkva"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327249711,
-    "wof:lastmodified":1537683950,
+    "wof:lastmodified":1566611752,
     "wof:name":"Bela Crkva",
     "wof:parent_id":1108809935,
     "wof:placetype":"locality",

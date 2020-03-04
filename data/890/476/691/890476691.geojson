@@ -11,10 +11,14 @@
     "geom:longitude":21.35294,
     "gn:country":"RS",
     "gn:fcode":"PPLL",
-    "gn:pop":262,
+    "gn:population":262,
     "iso:country":"RS",
+    "lbl:bbox":"21.33294,43.09557,21.37294,43.13557",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u043c\u0430\u0447\u0430"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":789239,
         "gp:id":537149,
-        "qs:id":83694,
+        "qs_pg:id":83694,
         "wd:id":"Q2730302",
         "wk:page":"Kosma\u010da"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890476691,
-    "wof:lastmodified":1563589187,
+    "wof:lastmodified":1566612515,
     "wof:name":"Kosma\u010da",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.92785,43.09006,21.96785,43.13006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Razgojnski \u010cifluk"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226664317,
-    "wof:lastmodified":1537683871,
+    "wof:lastmodified":1566612781,
     "wof:name":"Razgojnski Cifluk",
     "wof:parent_id":1108809955,
     "wof:placetype":"locality",

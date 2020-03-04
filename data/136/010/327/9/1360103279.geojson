@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.30077,43.69801,20.34077,43.73801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mileki\u0107i"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360103279,
-    "wof:lastmodified":1537683891,
+    "wof:lastmodified":1566612428,
     "wof:name":"Milekici",
     "wof:parent_id":1108809965,
     "wof:placetype":"locality",

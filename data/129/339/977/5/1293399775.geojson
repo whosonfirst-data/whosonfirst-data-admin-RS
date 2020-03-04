@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.65139,43.97417,19.69139,44.01417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u010coli\u0107i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293399775,
-    "wof:lastmodified":1537684000,
+    "wof:lastmodified":1566611932,
     "wof:name":"Colici",
     "wof:parent_id":1108809833,
     "wof:placetype":"locality",

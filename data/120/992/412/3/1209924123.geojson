@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"22.24128,42.4162,22.28128,42.4562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u0432\u0435\u043d\u0438 \u0433\u0440\u0430\u0434"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209924123,
-    "wof:lastmodified":1564103742,
+    "wof:lastmodified":1566612170,
     "wof:name":"Crveni Grad",
     "wof:parent_id":1108810115,
     "wof:placetype":"locality",

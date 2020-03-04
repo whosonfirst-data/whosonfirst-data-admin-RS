@@ -11,10 +11,14 @@
     "geom:longitude":22.59594,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"22.57594,44.17898,22.61594,44.21898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kobi\u0161nica"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":789405,
         "gp:id":835202,
-        "qs:id":1029062,
+        "qs_pg:id":1029062,
         "wd:id":"Q1017460",
         "wk:page":"Kobi\u0161nica"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890477313,
-    "wof:lastmodified":1563589277,
+    "wof:lastmodified":1566612545,
     "wof:name":"Kobi\u0161nica",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

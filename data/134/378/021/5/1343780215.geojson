@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.58449,44.24273,21.62449,44.28273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krepoljin"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1343780215,
-    "wof:lastmodified":1564103134,
+    "wof:lastmodified":1566611855,
     "wof:name":"Krepoljin",
     "wof:parent_id":1108810159,
     "wof:placetype":"locality",

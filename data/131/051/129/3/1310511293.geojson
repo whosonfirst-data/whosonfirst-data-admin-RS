@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.38108,44.44386,21.42108,44.48386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Starcevo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310511293,
-    "wof:lastmodified":1564104123,
+    "wof:lastmodified":1566612396,
     "wof:name":"Starcevo",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",

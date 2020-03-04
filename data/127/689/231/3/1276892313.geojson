@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"19.03115,45.39394,19.07115,45.43394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "\u017diva"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276892313,
-    "wof:lastmodified":1564103508,
+    "wof:lastmodified":1566612043,
     "wof:name":"Ziva",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

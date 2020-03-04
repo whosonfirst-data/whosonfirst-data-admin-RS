@@ -11,10 +11,14 @@
     "geom:longitude":21.36557,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RS",
+    "lbl:bbox":"21.34557,43.55017,21.38557,43.59017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Parunovac"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":787194,
         "gp:id":534843,
-        "qs:id":83623,
+        "qs_pg:id":83623,
         "wd:id":"Q2729622",
         "wk:page":"Parunovac"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890477755,
-    "wof:lastmodified":1563589206,
+    "wof:lastmodified":1566612520,
     "wof:name":"Parunovac",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

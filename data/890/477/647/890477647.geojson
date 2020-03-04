@@ -11,11 +11,15 @@
     "geom:longitude":20.13308,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":2877,
+    "gn:population":2877,
     "gp:adm0":20069818,
     "iso:country":"RS",
+    "lbl:bbox":"20.11308,45.11872,20.15308,45.15872",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kr\u010dedin"
     ],
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":789076,
         "gp:id":534786,
-        "qs:id":900851,
+        "qs_pg:id":900851,
         "wd:id":"Q1092418",
         "wk:page":"Kr\u010dedin"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890477647,
-    "wof:lastmodified":1563589307,
+    "wof:lastmodified":1566612554,
     "wof:name":"Kr\u010dedin",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

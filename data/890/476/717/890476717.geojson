@@ -11,10 +11,14 @@
     "geom:longitude":21.0455,
     "gn:country":"RS",
     "gn:fcode":"PPL",
-    "gn:pop":1454,
+    "gn:population":1454,
     "iso:country":"RS",
+    "lbl:bbox":"21.0255,45.16635,21.0655,45.20635",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jermenovci"
     ],
@@ -48,7 +52,7 @@
     "name:srp_x_variant":[
         "\u0408\u0435\u0440\u043c\u0435\u043d\u043e\u0432\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Urmenhausen"
     ],
     "qs:name":"Jermenovci",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":789787,
         "gp:id":534422,
-        "qs:id":1029088,
+        "qs_pg:id":1029088,
         "wd:id":"Q948327",
         "wk:page":"Jermenovci"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890476717,
-    "wof:lastmodified":1563589194,
+    "wof:lastmodified":1566612518,
     "wof:name":"Jermenovci",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

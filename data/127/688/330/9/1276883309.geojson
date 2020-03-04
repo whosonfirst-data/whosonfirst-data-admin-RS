@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"21.46746,43.56851,21.50746,43.60851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85688243,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276883309,
-    "wof:lastmodified":1537034909,
+    "wof:lastmodified":1566612029,
     "wof:name":"Panjkonac",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

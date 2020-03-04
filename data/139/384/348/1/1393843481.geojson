@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.43278,44.75167,20.44278,44.76167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:fra_x_preferred":[
         "Filmski Grad"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1393843481,
-    "wof:lastmodified":1564104216,
+    "wof:lastmodified":1566612448,
     "wof:name":"Filmski Grad",
     "wof:parent_id":1393843447,
     "wof:placetype":"neighbourhood",

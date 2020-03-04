@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"RS",
+    "lbl:bbox":"20.35877,43.52968,20.39877,43.56968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Privoje"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293497519,
-    "wof:lastmodified":1537683895,
+    "wof:lastmodified":1566611954,
     "wof:name":"Privoje",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",
