@@ -301,6 +301,9 @@
         "wd:id":"Q861539"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd301c2f47e1e08fa7b55f00ef1fb266",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733934,
+    "wof:lastmodified":1582313329,
     "wof:name":"Brani\u010devski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -223,6 +223,9 @@
         "wd:id":"Q1043446"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68d91e5d6fec3f5637f997da6fb127f3",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1582313329,
     "wof:name":"Rasinski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

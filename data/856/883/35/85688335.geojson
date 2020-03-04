@@ -143,6 +143,9 @@
         "unlc:id":"RS-08"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4b59d377ebce4a70838e7be60e20c89",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733933,
+    "wof:lastmodified":1582313328,
     "wof:name":"Ma\u010dvanski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

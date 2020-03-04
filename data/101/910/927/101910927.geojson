@@ -182,6 +182,9 @@
         "wk:page":"Sremski Karlovci"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"150a99d99ee6df92de5b764b310c91c3",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101910927,
-    "wof:lastmodified":1563589061,
+    "wof:lastmodified":1582313339,
     "wof:name":"Sremski Karlovci",
     "wof:parent_id":1108810091,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wk:page":"Para\u0107in"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"774e5e9a84e19b8eee713390732d4b17",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101910961,
-    "wof:lastmodified":1563589057,
+    "wof:lastmodified":1582313339,
     "wof:name":"Para\u0107in",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

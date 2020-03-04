@@ -61,6 +61,9 @@
     },
     "wof:country":"RS",
     "wof:created":1469054115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7c27cdf915d3ed9bf383d96279f0fcd",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890477425,
-    "wof:lastmodified":1507676881,
+    "wof:lastmodified":1582313340,
     "wof:name":"Bor",
     "wof:parent_id":85688331,
     "wof:placetype":"county",

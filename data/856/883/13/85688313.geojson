@@ -299,6 +299,9 @@
         "wd:id":"Q1048139"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6881d0e9dc1d7f2971e47f5d9e08623",
     "wof:hierarchy":[
         {
@@ -320,7 +323,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733934,
+    "wof:lastmodified":1582313329,
     "wof:name":"Kolubarski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

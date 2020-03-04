@@ -153,6 +153,9 @@
         "wk:page":"Zemun"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"077ec383c18e2b6806b9da84cbd26e6b",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101914147,
-    "wof:lastmodified":1562023465,
+    "wof:lastmodified":1582313338,
     "wof:name":"Zemun",
     "wof:parent_id":1108809997,
     "wof:placetype":"locality",

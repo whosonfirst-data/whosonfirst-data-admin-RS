@@ -143,6 +143,9 @@
         "wk:page":"\u0106uprija"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38f3ee85ffdfab2cd7be211530d5a60c",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101910963,
-    "wof:lastmodified":1563589054,
+    "wof:lastmodified":1582313339,
     "wof:name":"\u010cuprija",
     "wof:parent_id":1108809883,
     "wof:placetype":"locality",

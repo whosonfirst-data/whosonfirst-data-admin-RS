@@ -149,6 +149,9 @@
         "wk:page":"Smederevska Palanka"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b548e946238ec5f72a4842e7e5205c4d",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101911029,
-    "wof:lastmodified":1563589047,
+    "wof:lastmodified":1582313339,
     "wof:name":"Smederevska Palanka",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",

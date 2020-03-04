@@ -223,6 +223,9 @@
         "wd:id":"Q867816"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe6e1e2ddd3f406179e58b488e189677",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733934,
+    "wof:lastmodified":1582313328,
     "wof:name":"Pomoravski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -143,6 +143,9 @@
         "unlc:id":"RS-18"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f5d6dc379e560e09ab715ed1657d799",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733935,
+    "wof:lastmodified":1582313329,
     "wof:name":"Ra\u0161ki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

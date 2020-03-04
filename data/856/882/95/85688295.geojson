@@ -315,6 +315,9 @@
         "wd:id":"Q648718"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efc7b375bac427666a898499522f779f",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1565733934,
+    "wof:lastmodified":1582313329,
     "wof:name":"Ju\u017enoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

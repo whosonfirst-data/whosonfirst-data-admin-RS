@@ -169,6 +169,9 @@
         "wk:page":"Vrbas, Serbia"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfc0f840154afe78adf1f2105916c62c",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101910979,
-    "wof:lastmodified":1563589055,
+    "wof:lastmodified":1582313339,
     "wof:name":"Vrbas",
     "wof:parent_id":1108810149,
     "wof:placetype":"locality",
