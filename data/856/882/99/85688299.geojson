@@ -239,6 +239,9 @@
         "wd:id":"Q425782"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"165e27b89eb004c9c115df55db153336",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582313329,
     "wof:name":"Srednjobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

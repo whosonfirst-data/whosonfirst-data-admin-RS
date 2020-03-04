@@ -144,6 +144,9 @@
         "unlc:id":"RS-15"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb9527d0ecec4bd9baf5d20309016ae7",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582313329,
     "wof:name":"Zaje\u010darski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

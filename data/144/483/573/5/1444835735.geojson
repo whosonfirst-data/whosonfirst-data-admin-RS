@@ -26,11 +26,11 @@
     "name:eng_x_preferred":[
         "Stara Bezanija"
     ],
-    "name:srp.lat_x_preferred":[
-        "Stara Be\u017eanija"
-    ],
     "name:srp_cyr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Stara Be\u017eanija"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0411\u0435\u0436\u0430\u043d\u0438\u0458\u0430"
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1444835735,
-    "wof:lastmodified":1566612230,
+    "wof:lastmodified":1566948398,
     "wof:name":"Stara Bezanija",
     "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",

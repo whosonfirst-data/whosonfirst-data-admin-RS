@@ -227,6 +227,9 @@
         "wd:id":"Q778561"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"787fcf2b4ed7b8efc934b076f7376e1b",
     "wof:hierarchy":[
         {
@@ -248,7 +251,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582313329,
     "wof:name":"Podunavski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

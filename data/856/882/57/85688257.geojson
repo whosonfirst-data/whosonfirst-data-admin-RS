@@ -304,6 +304,9 @@
         "wd:id":"Q728041"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"496104ced47556ad57554392afc6b7ed",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582313329,
     "wof:name":"Severnobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

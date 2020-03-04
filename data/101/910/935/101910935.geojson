@@ -190,6 +190,9 @@
         "qs_pg:id":1060371
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2b373c99d1e737a410dd700c887cd11",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101910935,
-    "wof:lastmodified":1566612461,
+    "wof:lastmodified":1582313339,
     "wof:name":"Be\u010dej",
     "wof:parent_id":1108809841,
     "wof:placetype":"locality",

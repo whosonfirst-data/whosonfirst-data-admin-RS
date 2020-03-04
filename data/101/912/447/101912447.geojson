@@ -159,6 +159,9 @@
         "qs_pg:id":1029074
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"012e9ac46570916d4fba602d2e3d29e5",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101912447,
-    "wof:lastmodified":1566612453,
+    "wof:lastmodified":1582313338,
     "wof:name":"Kanji\u017ea",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

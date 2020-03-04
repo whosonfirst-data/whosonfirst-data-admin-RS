@@ -259,6 +259,9 @@
         "qs_pg:id":1029023
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2239417bd65333507f2a0e58a4b9cd69",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":101911021,
-    "wof:lastmodified":1566612459,
+    "wof:lastmodified":1582313339,
     "wof:name":"Novi Pazar",
     "wof:parent_id":1108810003,
     "wof:placetype":"locality",

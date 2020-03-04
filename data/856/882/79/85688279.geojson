@@ -198,6 +198,9 @@
         "wd:id":"Q2074197"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f88f53dfe5dc78f1726ecb24cbcc3d8",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582313329,
     "wof:name":"Grad Beograd",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

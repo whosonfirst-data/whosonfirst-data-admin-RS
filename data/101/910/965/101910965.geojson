@@ -140,6 +140,9 @@
         "wk:page":"Grocka"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54819f434c491680c6157290e200c647",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101910965,
-    "wof:lastmodified":1566612460,
+    "wof:lastmodified":1582313339,
     "wof:name":"Grocka",
     "wof:parent_id":1108809899,
     "wof:placetype":"locality",

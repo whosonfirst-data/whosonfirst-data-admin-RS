@@ -146,6 +146,9 @@
         "unlc:id":"RS-04"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"deb795bd6acf86474cbb5562f7515764",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1582313328,
     "wof:name":"Ju\u017enobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

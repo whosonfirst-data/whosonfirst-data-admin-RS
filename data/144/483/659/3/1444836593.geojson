@@ -32,7 +32,7 @@
     "name:srp_cyr_x_variant":[
         "\u0431\u043b\u043e\u043a 9\u0431"
     ],
-    "name:srp_lat.b_x_preferred":[
+    "name:srp_lat_x_preferred":[
         "Blok 9b"
     ],
     "name:srp_x_preferred":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1444836593,
-    "wof:lastmodified":1566612225,
+    "wof:lastmodified":1566948384,
     "wof:name":"Retenzija",
     "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",

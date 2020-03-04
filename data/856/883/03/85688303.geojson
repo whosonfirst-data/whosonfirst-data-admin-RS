@@ -221,6 +221,9 @@
         "wd:id":"Q580069"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ac725f4716176ff99e4d334ce04b852",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1582313328,
     "wof:name":"Pirotski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

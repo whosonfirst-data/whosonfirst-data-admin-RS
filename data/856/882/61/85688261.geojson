@@ -228,6 +228,9 @@
         "wd:id":"Q1048184"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37c09b5cb6855df3892115d14ad41b46",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582313329,
     "wof:name":"Topli\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

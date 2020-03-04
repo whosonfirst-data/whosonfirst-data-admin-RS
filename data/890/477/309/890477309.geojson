@@ -65,6 +65,9 @@
     },
     "wof:country":"RS",
     "wof:created":1469054110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c17bf8e2996d8027e74ee47004406bc6",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890477309,
-    "wof:lastmodified":1527727176,
+    "wof:lastmodified":1582313340,
     "wof:name":"Lajkovac",
     "wof:parent_id":85688329,
     "wof:placetype":"county",

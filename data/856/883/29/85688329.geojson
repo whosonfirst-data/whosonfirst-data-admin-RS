@@ -307,6 +307,9 @@
         "wd:id":"Q876541"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"482a7c202f12a29849acb2231c6cf29a",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1582313328,
     "wof:name":"Jablani\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

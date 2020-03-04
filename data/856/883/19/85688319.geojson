@@ -142,6 +142,9 @@
         "unlc:id":"RS-12"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98e57d70d9f77d761f6bba4153b3e6e0",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1582313328,
     "wof:name":"\u0160umadijski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

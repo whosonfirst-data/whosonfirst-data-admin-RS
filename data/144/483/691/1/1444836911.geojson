@@ -26,11 +26,11 @@
     "name:eng_x_preferred":[
         "Backi Ilovik"
     ],
-    "name:srp.lat_x_preferred":[
-        "Ba\u010dki Ilovik"
-    ],
     "name:srp_cyr_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0438 \u0418\u043b\u043e\u0432\u0438\u043a"
+    ],
+    "name:srp_lat_x_preferred":[
+        "Ba\u010dki Ilovik"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0438 \u0418\u043b\u043e\u0432\u0438\u043a"
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1444836911,
-    "wof:lastmodified":1566612242,
+    "wof:lastmodified":1566948403,
     "wof:name":"Backi Ilovik",
     "wof:parent_id":1393843435,
     "wof:placetype":"neighbourhood",

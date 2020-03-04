@@ -301,6 +301,9 @@
         "wd:id":"Q1061076"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"edbdb3f621f658924b9854d681ec0e17",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582313330,
     "wof:name":"Ni\u0161avski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

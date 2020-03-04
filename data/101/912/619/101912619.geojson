@@ -229,6 +229,9 @@
         "qs_pg:id":1060377
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1804db839d05b61f34ddd33da9b7523c",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":101912619,
-    "wof:lastmodified":1566612453,
+    "wof:lastmodified":1582313338,
     "wof:name":"Po\u017earevac",
     "wof:parent_id":1108810033,
     "wof:placetype":"locality",

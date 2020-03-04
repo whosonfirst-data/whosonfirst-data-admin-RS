@@ -233,6 +233,9 @@
         "wd:id":"Q478278"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6cb75943646be6fab74cd9c1e16b1606",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582313329,
     "wof:name":"Zlatiborski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

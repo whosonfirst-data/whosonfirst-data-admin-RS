@@ -142,6 +142,9 @@
         "qs_pg:id":1327087
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e19bf62d90cf93465b1b8f888d1a7c3",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101911609,
-    "wof:lastmodified":1566612459,
+    "wof:lastmodified":1582313339,
     "wof:name":"Majdanpek",
     "wof:parent_id":1108809967,
     "wof:placetype":"locality",

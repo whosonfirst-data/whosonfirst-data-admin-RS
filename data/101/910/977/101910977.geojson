@@ -177,6 +177,9 @@
         "wk:page":"Ba\u010dka Palanka"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1890811a26fd3c779a4959d7d2201ff1",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101910977,
-    "wof:lastmodified":1566612460,
+    "wof:lastmodified":1582313339,
     "wof:name":"Ba\u010dka Palanka",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

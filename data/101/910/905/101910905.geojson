@@ -175,6 +175,9 @@
         "qs_pg:id":1060370
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8638ad3fa0943c31366bbf22a50638c",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101910905,
-    "wof:lastmodified":1566612461,
+    "wof:lastmodified":1582313339,
     "wof:name":"Apatin",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

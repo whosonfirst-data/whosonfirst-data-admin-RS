@@ -142,6 +142,9 @@
         "qs_pg:id":1327069
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6d0d64d556a206c5f3963a2f6d0e40d",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101910971,
-    "wof:lastmodified":1566612461,
+    "wof:lastmodified":1582313339,
     "wof:name":"Alibunar",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

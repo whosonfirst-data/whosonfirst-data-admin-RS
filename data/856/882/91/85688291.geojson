@@ -238,6 +238,9 @@
         "wd:id":"Q217331"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2cc2a770a6e2bc972b4cffd4f787c14c",
     "wof:hierarchy":[
         {
@@ -259,7 +262,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582313329,
     "wof:name":"Sremski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

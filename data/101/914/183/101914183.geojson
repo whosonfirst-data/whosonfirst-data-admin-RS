@@ -316,6 +316,9 @@
         "wk:page":"Ni\u0161"
     },
     "wof:country":"RS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8308a7aeea5b854ad8acdc5643ac65a0",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":101914183,
-    "wof:lastmodified":1566612457,
+    "wof:lastmodified":1582313338,
     "wof:name":"Ni\u00b5",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",
