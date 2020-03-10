@@ -966,9 +966,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Serbia",
-        "digitalenvoy:country_code":[
-            688
-        ],
+        "digitalenvoy:country_code":688,
         "fb:id":"en.serbia",
         "fifa:id":"SRB",
         "fips:code":"RI",
@@ -1017,7 +1015,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1583529224,
+    "wof:lastmodified":1583797432,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
