@@ -1,0 +1,108 @@
+{
+  "id": 85898235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.413485,44.818645,20.413485,44.818645",
+    "geom:latitude":44.818645,
+    "geom:longitude":20.413485,
+    "iso:country":"RS",
+    "lbl:bbox":"20.408485,44.813645,20.418485,44.823645",
+    "lbl:latitude":44.818645,
+    "lbl:longitude":20.413485,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":44.819303,
+    "mps:longitude":20.407907,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:srp_cyr_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Novi Beograd"
+    ],
+    "qs:gn_adm0_cc":"RS",
+    "qs:gn_id":0,
+    "qs:gn_local":792680,
+    "qs:id":0,
+    "qs:local_max":14947,
+    "qs:local_sum":25281,
+    "qs:localhoods":8,
+    "qs:name":"Novi Beograd",
+    "qs:name_adm0":"Serbia",
+    "qs:name_adm1":"Beograd",
+    "qs:name_local":"Beograd",
+    "qs:photo_max":1080,
+    "qs:photo_sum":3679,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":156,
+    "qs:woe_adm0":20069818,
+    "qs:woe_adm1":29389217,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":532697,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes",
+        "mz"
+    ],
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633755,
+        1108809997,
+        101914147,
+        404228357,
+        85688279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":535648
+    },
+    "wof:country":"RS",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"1cc1256f5f7716e57a9f52c052b95bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809997,
+            "locality_id":101914147,
+            "macroregion_id":404228357,
+            "neighbourhood_id":85898235,
+            "region_id":85688279
+        }
+    ],
+    "wof:id":85898235,
+    "wof:lastmodified":1593718867,
+    "wof:name":"Novi Beograd",
+    "wof:parent_id":101914147,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-rs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.413485,
+    44.818645,
+    20.413485,
+    44.818645
+],
+  "geometry": {"coordinates":[20.413485,44.818645],"type":"Point"}
+}
