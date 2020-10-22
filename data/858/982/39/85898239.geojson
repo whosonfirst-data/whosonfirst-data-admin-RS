@@ -96,10 +96,10 @@
     "wd:wordcount":376,
     "wof:belongsto":[
         102191581,
-        85633755,
         1108810141,
-        101913173,
+        85633755,
         404228357,
+        101913173,
         85688279
     ],
     "wof:breaches":[],
@@ -127,10 +127,7 @@
         }
     ],
     "wof:id":85898239,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1593718897,
+    "wof:lastmodified":1603243842,
     "wof:name":"Top\u010didersko Brdo",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",
