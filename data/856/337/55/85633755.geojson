@@ -668,6 +668,9 @@
     "name:roh_x_preferred":[
         "Serbia"
     ],
+    "name:rom_x_preferred":[
+        "Serbia"
+    ],
     "name:ron_x_preferred":[
         "Serbia"
     ],
@@ -1072,7 +1075,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1587427386,
+    "wof:lastmodified":1614895930,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
