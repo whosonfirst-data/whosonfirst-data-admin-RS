@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Morava"
     ],
+    "name:fra_x_preferred":[
+        "Moravica"
+    ],
     "name:rom_x_preferred":[
         "Moravica"
     ],
@@ -107,7 +110,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895932,
+    "wof:lastmodified":1627522528,
     "wof:name":"Moravi\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

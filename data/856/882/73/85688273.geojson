@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Raska"
     ],
+    "name:fra_x_preferred":[
+        "Ra\u0161ka"
+    ],
     "name:rom_x_preferred":[
         "Raska"
     ],
@@ -171,7 +174,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895932,
+    "wof:lastmodified":1627522528,
     "wof:name":"Ra\u0161ki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
