@@ -25,6 +25,9 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:fra_x_preferred":[
+        "Ba\u010dka occidentale"
+    ],
     "name:rom_x_preferred":[
         "Backa de Vest"
     ],
@@ -76,7 +79,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895932,
+    "wof:lastmodified":1628266749,
     "wof:name":"Zapadnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
