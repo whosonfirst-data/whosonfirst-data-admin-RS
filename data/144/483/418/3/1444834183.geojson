@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.4959807096,44.8830880237,20.4959807096,44.8830880237",
+    "geom:bbox":"20.495981,44.883088,20.495981,44.883088",
     "geom:latitude":44.883088,
     "geom:longitude":20.495981,
     "iso:country":"RS",
@@ -23,8 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09be\u09a4\u09bf\u09a8\u09be"
+    ],
     "name:eng_x_preferred":[
         "Slatina"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u0947\u091f\u093f\u0928\u093e"
     ],
     "name:srp_cyr_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
@@ -43,7 +49,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"61d4e892343366925c05d8d9737ae918",
+    "wof:geomhash":"a968e963a82c95626f80e8db0c05351b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1444834183,
-    "wof:lastmodified":1566612237,
+    "wof:lastmodified":1636494738,
     "wof:name":"Slatina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.49598070957122,
-    44.88308802365595,
-    20.49598070957122,
-    44.88308802365595
+    20.495981,
+    44.883088,
+    20.495981,
+    44.883088
 ],
-  "geometry": {"coordinates":[20.49598070957122,44.88308802365595],"type":"Point"}
+  "geometry": {"coordinates":[20.495981,44.883088],"type":"Point"}
 }

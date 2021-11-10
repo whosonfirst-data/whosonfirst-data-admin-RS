@@ -48,6 +48,9 @@
     "name:fra_x_preferred":[
         "Brezovica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d6\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Brezovica"
     ],
@@ -97,7 +100,7 @@
         "gn:id":837093
     },
     "wof:country":"RS",
-    "wof:geomhash":"1d1f30698aad59466763ea6e3796f46f",
+    "wof:geomhash":"28588c48f06c3e661825fb94c23e8297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1343976297,
-    "wof:lastmodified":1566611824,
+    "wof:lastmodified":1636494732,
     "wof:name":"Brezovica",
     "wof:parent_id":1108810027,
     "wof:placetype":"locality",
@@ -119,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.57407000000001,
+    21.57407,
     44.47625,
-    21.57407000000001,
+    21.57407,
     44.47625
 ],
-  "geometry": {"coordinates":[21.57407000000001,44.47625],"type":"Point"}
+  "geometry": {"coordinates":[21.57407,44.47625],"type":"Point"}
 }

@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Brda"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d3\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Brda"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1243469045,
-    "wof:lastmodified":1566612620,
+    "wof:lastmodified":1636494745,
     "wof:name":"Brda",
     "wof:parent_id":1108809921,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.4633773789,44.8080562817,20.4633773789,44.8080562817",
+    "geom:bbox":"20.463377,44.808056,20.463377,44.808056",
     "geom:latitude":44.808056,
     "geom:longitude":20.463377,
     "iso:country":"RS",
@@ -24,14 +24,35 @@
     "mz:min_zoom":15.0,
     "mz:note":"https://en.wikipedia.org/wiki/London,_Belgrade",
     "mz:tier_metro":30,
+    "name:ben_x_preferred":[
+        "\u09b2\u09a8\u09cd\u09a1\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bd\u03c4\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "London"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0902\u0926\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "London"
+    ],
+    "name:kor_x_preferred":[
+        "\ub7f0\ub358"
     ],
     "name:srp_cyr_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d)"
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d)"
+    ],
+    "name:vie_x_preferred":[
+        "London"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
@@ -46,7 +67,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"2b716bed06e5c3f361f712a46bfef7a2",
+    "wof:geomhash":"1799eae3b24e6909912a8082b269bda8",
     "wof:hierarchy":[
         {
             "borough_id":1393843461,
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1444833489,
-    "wof:lastmodified":1566612227,
+    "wof:lastmodified":1636494737,
     "wof:name":"London",
     "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.46337737889858,
-    44.80805628167479,
-    20.46337737889858,
-    44.80805628167479
+    20.463377,
+    44.808056,
+    20.463377,
+    44.808056
 ],
-  "geometry": {"coordinates":[20.46337737889858,44.80805628167479],"type":"Point"}
+  "geometry": {"coordinates":[20.463377,44.808056],"type":"Point"}
 }

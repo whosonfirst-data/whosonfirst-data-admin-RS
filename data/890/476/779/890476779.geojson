@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09b2\u09be\u09b0\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Tulare"
     ],
     "name:ceb_x_preferred":[
         "Tulare"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bb\u03ac\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Tulare"
@@ -31,8 +37,20 @@
     "name:fra_x_preferred":[
         "Tulare"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u0941\u0932\u093e\u0930\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Tulare"
+    ],
+    "name:ind_x_preferred":[
+        "Tulare"
+    ],
     "name:ita_x_preferred":[
         "Tulare"
+    ],
+    "name:kor_x_preferred":[
+        "\ud234\ub808\uc5b4"
     ],
     "name:nld_x_preferred":[
         "Tulare"
@@ -63,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Tulari"
+    ],
+    "name:vie_x_preferred":[
+        "Tulare"
     ],
     "name:vol_x_preferred":[
         "Tulare"
@@ -102,7 +123,7 @@
         }
     ],
     "wof:id":890476779,
-    "wof:lastmodified":1566612507,
+    "wof:lastmodified":1636494743,
     "wof:name":"Tulare",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

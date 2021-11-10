@@ -31,13 +31,43 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
+        "Doline"
+    ],
+    "name:hun_x_variant":[
         "V\u00f6lgyes"
+    ],
+    "name:ind_x_preferred":[
+        "Doline"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00e9l\u0131\u0328n\u0119"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ea\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3cc\ub9b0"
+    ],
+    "name:pol_x_preferred":[
+        "Doline"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0439\u043b\u0438\u043d\u0435"
     ],
     "name:srp_x_preferred":[
         "Doline"
     ],
     "name:srp_x_variant":[
         "\u0414\u043e\u043b\u0438\u043d\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Doline"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0644\u0627\u0626\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Doline"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +95,7 @@
         }
     ],
     "wof:id":1310223203,
-    "wof:lastmodified":1566612337,
+    "wof:lastmodified":1636494738,
     "wof:name":"Doline",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

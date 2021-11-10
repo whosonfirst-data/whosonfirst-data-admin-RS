@@ -74,6 +74,9 @@
         "Novo Selo"
     ],
     "name:hun_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:hun_x_variant":[
         "\u00dajfalu"
     ],
     "name:isl_x_preferred":[
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":890477093,
-    "wof:lastmodified":1566612561,
+    "wof:lastmodified":1636494744,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

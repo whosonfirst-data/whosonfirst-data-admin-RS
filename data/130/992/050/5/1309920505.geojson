@@ -42,6 +42,12 @@
     "name:fra_x_preferred":[
         "Sala\u0161"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Salas"
+    ],
     "name:msa_x_preferred":[
         "Sala\u0161"
     ],
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1309920505,
-    "wof:lastmodified":1566612475,
+    "wof:lastmodified":1636494742,
     "wof:name":"Salas",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

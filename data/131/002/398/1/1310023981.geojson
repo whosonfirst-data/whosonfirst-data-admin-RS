@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Resen"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e1\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Resen"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0435\u0441\u0435\u043d"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1310023981,
-    "wof:lastmodified":1566612386,
+    "wof:lastmodified":1636494740,
     "wof:name":"Resen",
     "wof:parent_id":1108809861,
     "wof:placetype":"locality",

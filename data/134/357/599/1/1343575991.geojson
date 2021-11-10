@@ -42,6 +42,12 @@
     "name:fra_x_preferred":[
         "Kratovo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d0\u05d8\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kratovo"
+    ],
     "name:ita_x_preferred":[
         "Kratovo"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1343575991,
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1636494733,
     "wof:name":"Kratovo",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",

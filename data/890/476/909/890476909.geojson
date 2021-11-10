@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09b0\u09cd\u09a3\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u043d\u0430"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "Varna"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0930\u094d\u0928\u093e"
     ],
     "name:msa_x_preferred":[
         "Varna"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890476909,
-    "wof:lastmodified":1566612496,
+    "wof:lastmodified":1636494742,
     "wof:name":"Varna",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

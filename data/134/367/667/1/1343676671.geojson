@@ -30,11 +30,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09be\u09a4\u09bf\u09a8\u09be"
+    ],
     "name:deu_x_preferred":[
         "Slatina"
     ],
     "name:fra_x_preferred":[
         "Slatina"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u0947\u091f\u093f\u0928\u093e"
     ],
     "name:msa_x_preferred":[
         "Slatina"
@@ -68,7 +74,7 @@
         "wk:page":"Slatina_%28Bor%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f748f0e144383d481466ad13c96e77a1",
+    "wof:geomhash":"d1d5003e30429cc650b7ae067799bc48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1343676671,
-    "wof:lastmodified":1566611869,
+    "wof:lastmodified":1636494733,
     "wof:name":"Slatina",
     "wof:parent_id":1108809859,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     22.1597,
-    44.04154000000001,
+    44.04154,
     22.1597,
-    44.04154000000001
+    44.04154
 ],
-  "geometry": {"coordinates":[22.1597,44.04154000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.1597,44.04154],"type":"Point"}
 }

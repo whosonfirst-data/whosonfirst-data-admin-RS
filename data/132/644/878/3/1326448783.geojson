@@ -36,6 +36,12 @@
     "name:fra_x_preferred":[
         "Gornje Novo Selo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05e1\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Selo"
+    ],
     "name:msa_x_preferred":[
         "Gornje Novo Selo"
     ],
@@ -71,7 +77,7 @@
         "wk:page":"Gornje_Novo_Selo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e5e137546dcc16c798ddd8b2bb8cd45c",
+    "wof:geomhash":"5820a83a66a38ca4ee43b2c7ad6d5029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1326448783,
-    "wof:lastmodified":1566611722,
+    "wof:lastmodified":1636494730,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",
@@ -94,9 +100,9 @@
 },
   "bbox": [
     21.8146,
-    42.59654000000001,
+    42.59654,
     21.8146,
-    42.59654000000001
+    42.59654
 ],
-  "geometry": {"coordinates":[21.8146,42.59654000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.8146,42.59654],"type":"Point"}
 }

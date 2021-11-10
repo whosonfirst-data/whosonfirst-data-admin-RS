@@ -77,6 +77,9 @@
     "name:gsw_x_preferred":[
         "Novo Selo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05e1\u05dc\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Novo Selo"
     ],
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":890477247,
-    "wof:lastmodified":1566612555,
+    "wof:lastmodified":1636494743,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108810051,
     "wof:placetype":"locality",

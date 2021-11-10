@@ -48,6 +48,9 @@
     "name:fra_x_preferred":[
         "Kobilje"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d9\u05dc\u05d9\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Kobilje"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1243373651,
-    "wof:lastmodified":1566612578,
+    "wof:lastmodified":1636494745,
     "wof:name":"Kobilje",
     "wof:parent_id":1108809863,
     "wof:placetype":"locality",
