@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Topli\u010dka oblast",
+    "eurostat:name_local":"\u0422\u043e\u043f\u043b\u0438\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+    "eurostat:nuts_2021_id":"RS229",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS2",
+    "eurostat:nuts_2021_level_2":"RS22",
+    "eurostat:nuts_2021_level_3":"RS229",
+    "eurostat:population":80054,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.246931,
-    "geom:area_square_m":2227110436.835647,
+    "geom:area_square_m":2227110567.301483,
     "geom:bbox":"20.923552,42.866566,21.820747,43.406689",
     "geom:latitude":43.163971,
     "geom:longitude":21.381416,
@@ -203,8 +217,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-22",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"2,231",
     "statoids:area_mi":"861",
     "statoids:as_of_date":"2011-10-22",
@@ -225,6 +239,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS229",
         "hasc:id":"RS.TO",
         "iso:id":"RS-21",
         "unlc:id":"RS-21",
@@ -234,7 +249,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0dc8392c6a0e6289941c813591660a3",
+    "wof:geomhash":"6f77b98d3e0d578c8f0aa215b844c817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,12 +270,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895931,
+    "wof:lastmodified":1684351671,
     "wof:name":"Topli\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":91754,
+    "wof:population":80054,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:shortcode":"TO",

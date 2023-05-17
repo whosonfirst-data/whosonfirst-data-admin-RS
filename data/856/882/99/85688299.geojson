@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Srednjobanatska oblast",
+    "eurostat:name_local":"\u0421\u0440\u0435\u0434\u045a\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+    "eurostat:nuts_2021_id":"RS126",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS1",
+    "eurostat:nuts_2021_level_2":"RS12",
+    "eurostat:nuts_2021_level_3":"RS126",
+    "eurostat:population":168556,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.374463,
-    "geom:area_square_m":3247523304.84484,
+    "geom:area_square_m":3247522321.788335,
     "geom:bbox":"20.029488,45.07441,21.016407,45.797307",
     "geom:latitude":45.463526,
     "geom:longitude":20.498253,
@@ -216,8 +230,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-22",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"3,256",
     "statoids:area_mi":"1,257",
     "statoids:as_of_date":"2011-10-22",
@@ -237,6 +251,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS126",
         "hasc:id":"RS.SD",
         "iso:id":"RS-02",
         "wd:id":"Q425782"
@@ -245,7 +260,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70faf0ad897be69be98540b846a0f7cf",
+    "wof:geomhash":"ac79455c82ad68215205f173c9306fff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,12 +281,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895932,
+    "wof:lastmodified":1684351671,
     "wof:name":"Srednjobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":187667,
+    "wof:population":168556,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:shortcode":"SD",

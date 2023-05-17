@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Podunavska oblast",
+    "eurostat:name_local":"\u041f\u043e\u0434\u0443\u043d\u0430\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+    "eurostat:nuts_2021_id":"RS227",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS2",
+    "eurostat:nuts_2021_level_2":"RS22",
+    "eurostat:nuts_2021_level_3":"RS227",
+    "eurostat:population":179047,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.141269,
-    "geom:area_square_m":1246830614.256744,
+    "geom:area_square_m":1246829991.989522,
     "geom:bbox":"20.744073,44.20831,21.17609,44.720133",
     "geom:latitude":44.457335,
     "geom:longitude":20.971846,
@@ -202,8 +216,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-22",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"1,248",
     "statoids:area_mi":"482",
     "statoids:as_of_date":"2011-10-22",
@@ -224,6 +238,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS227",
         "hasc:id":"RS.PD",
         "iso:id":"RS-10",
         "unlc:id":"RS-10",
@@ -233,7 +248,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f03b2e83b12cf9d2a07f1d93698036fc",
+    "wof:geomhash":"99423ac457daeb401256380aee40eda9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,12 +269,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895931,
+    "wof:lastmodified":1684351671,
     "wof:name":"Podunavski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":199395,
+    "wof:population":179047,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:shortcode":"PD",
