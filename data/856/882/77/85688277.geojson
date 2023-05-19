@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Zaje\u010darska oblast",
+    "eurostat:name_local":"\u0417\u0430\u0458\u0435\u0447\u0430\u0440\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+    "eurostat:nuts_2021_id":"RS223",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS2",
+    "eurostat:nuts_2021_level_2":"RS22",
+    "eurostat:nuts_2021_level_3":"RS223",
+    "eurostat:population":101003,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.404965,
-    "geom:area_square_m":3617414291.386098,
+    "geom:area_square_m":3617413670.083345,
     "geom:bbox":"21.652947,43.325353,22.667718,44.188592",
     "geom:latitude":43.746394,
     "geom:longitude":22.148562,
@@ -120,8 +134,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-22",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"3,623",
     "statoids:area_mi":"1,399",
     "statoids:as_of_date":"2011-10-22",
@@ -142,6 +156,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS223",
         "fips:code":"RB00",
         "gn:id":7581910,
         "gp:id":29389213,
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a09a4ed5fc5e182dcb97df5f557416a4",
+    "wof:geomhash":"60ad91ffa605660dfd3a21441c5cc7b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1627522528,
+    "wof:lastmodified":1684351671,
     "wof:name":"Zaje\u010darski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":119967,
+    "wof:population":101003,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:shortcode":"ZJ",

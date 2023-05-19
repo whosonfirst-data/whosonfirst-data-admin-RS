@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Zlatiborska oblast",
+    "eurostat:name_local":"\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+    "eurostat:nuts_2021_id":"RS211",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS2",
+    "eurostat:nuts_2021_level_2":"RS21",
+    "eurostat:nuts_2021_level_3":"RS211",
+    "eurostat:population":257288,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.685289,
-    "geom:area_square_m":6134938502.796926,
+    "geom:area_square_m":6134938395.436457,
     "geom:bbox":"19.221426,43.006824,20.298571,44.169132",
     "geom:latitude":43.613997,
     "geom:longitude":19.78327,
@@ -208,8 +222,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-22",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"6,140",
     "statoids:area_mi":"2,371",
     "statoids:as_of_date":"2011-10-22",
@@ -230,6 +244,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS211",
         "hasc:id":"RS.ZL",
         "iso:id":"RS-16",
         "unlc:id":"RS-16",
@@ -239,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef06d2ae627840bb576f2716d42e24f3",
+    "wof:geomhash":"e733ab35b00de3219d67c8dec1e41352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,12 +275,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895932,
+    "wof:lastmodified":1684351671,
     "wof:name":"Zlatiborski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":286549,
+    "wof:population":257288,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:shortcode":"ZL",

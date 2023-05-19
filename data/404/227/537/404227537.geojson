@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Serbia - sever",
+    "eurostat:name_local":"\u0421\u0440\u0431\u0438\u0458\u0430 - \u0441\u0435\u0432\u0435\u0440",
+    "eurostat:nuts_2021_id":"RS1",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS1",
+    "eurostat:population":3502101,
+    "eurostat:population_year":2022,
     "geom:area":2.47001,
-    "geom:area_square_m":21444660121.277115,
+    "geom:area_square_m":21444660121.276955,
     "geom:bbox":"18.847686,44.629848,21.56014,46.190048",
     "geom:latitude":45.400383,
     "geom:longitude":20.07897,
@@ -290,16 +299,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Autonomna pokrajina",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633755
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS1",
         "wd:id":"Q44749"
     },
     "wof:country":"RS",
-    "wof:geomhash":"53b43098e330d3d3919b6bbd3f22664c",
+    "wof:geomhash":"b7f02baa26cb46036a9de3fe27834a17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,10 +331,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1636494744,
+    "wof:lastmodified":1684351375,
     "wof:name":"Vojvodina",
     "wof:parent_id":85633755,
     "wof:placetype":"macroregion",
+    "wof:population":3502101,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
     "wof:supersedes":[],

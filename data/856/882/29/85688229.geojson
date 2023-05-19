@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Severnoba\u010dka oblast",
+    "eurostat:name_local":"\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+    "eurostat:nuts_2021_id":"RS125",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS1",
+    "eurostat:nuts_2021_level_2":"RS12",
+    "eurostat:nuts_2021_level_3":"RS125",
+    "eurostat:population":174440,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.206996,
-    "geom:area_square_m":1780416171.062359,
+    "geom:area_square_m":1780416373.853587,
     "geom:bbox":"19.281629,45.612202,19.895657,46.189073",
     "geom:latitude":45.924922,
     "geom:longitude":19.61883,
@@ -282,8 +296,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-22",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"1,784",
     "statoids:area_mi":"689",
     "statoids:as_of_date":"2011-10-22",
@@ -304,6 +318,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS125",
         "fips:code":"HU19",
         "gn:id":7581808,
         "gp:id":29389196,
@@ -316,7 +331,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3e9bf85cf163812e7ae30cea06cce76",
+    "wof:geomhash":"7e63145e1b5fcf710a5b473d2186bb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -337,12 +352,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895932,
+    "wof:lastmodified":1684351671,
     "wof:name":"Severnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":186906,
+    "wof:population":174440,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:shortcode":"SC",

@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"RS",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Serbia - jug",
+    "eurostat:name_local":"\u0421\u0440\u0431\u0438\u0458\u0430 - \u0458\u0443\u0433",
+    "eurostat:nuts_2021_id":"RS2",
+    "eurostat:nuts_2021_level_0":"RS",
+    "eurostat:nuts_2021_level_1":"RS2",
+    "eurostat:population":3295004,
+    "eurostat:population_year":2022,
     "geom:area":6.262631,
-    "geom:area_square_m":55918379273.766502,
+    "geom:area_square_m":55918378669.549385,
     "geom:bbox":"19.102647,42.232174,23.005835,45.096896",
     "geom:latitude":43.76841,
     "geom:longitude":21.075447,
@@ -131,14 +140,18 @@
     "qs:level":"adm1_region",
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"RS2"
+    },
     "wof:country":"RS",
-    "wof:geomhash":"de73c05e44858a766544e5f73b70fcb1",
+    "wof:geomhash":"d32a8a6ff42ce378f5d801848b04bc39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +171,12 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1614895933,
+    "wof:lastmodified":1684351375,
     "wof:name":"Central Serbia",
     "wof:parent_id":85633755,
     "wof:placetype":"macroregion",
+    "wof:population":3295004,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
     "wof:supersedes":[],
