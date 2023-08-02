@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "\u0108estereg"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0633\u062a\u0631\u06af"
+    ],
     "name:fra_x_preferred":[
         "\u010cestereg"
     ],
@@ -41,6 +44,9 @@
         "\u010cestereg"
     ],
     "name:nld_x_preferred":[
+        "\u010cestereg"
+    ],
+    "name:pol_x_preferred":[
         "\u010cestereg"
     ],
     "name:ron_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890476557,
-    "wof:lastmodified":1566612499,
+    "wof:lastmodified":1690858557,
     "wof:name":"\u010cestereg",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

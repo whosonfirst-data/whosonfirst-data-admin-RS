@@ -22,17 +22,41 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u064a\u0634\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u062a\u064a\u0634\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:cat_x_preferred":[
+        "\u017diti\u0161te"
+    ],
     "name:ceb_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:ces_x_preferred":[
         "\u017diti\u0161te"
     ],
     "name:deu_x_preferred":[
         "\u017diti\u0161te"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03c4\u03b9\u03c3\u03c4\u03ad"
     ],
     "name:eng_x_preferred":[
         "\u017diti\u0161te"
     ],
     "name:epo_x_preferred":[
         "\u0134iti\u015dte"
+    ],
+    "name:eus_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u062a\u06cc\u0634\u062a\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "\u017diti\u0161te"
     ],
     "name:fra_x_preferred":[
         "\u017diti\u0161te"
@@ -82,11 +106,20 @@
     "name:slv_x_preferred":[
         "\u017diti\u0161te"
     ],
+    "name:spa_x_preferred":[
+        "\u017diti\u0161te"
+    ],
     "name:srp_x_preferred":[
         "\u017diti\u0161te"
     ],
     "name:srp_x_variant":[
         "\u0416\u0438\u0442\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017diti\u0161te"
+    ],
+    "name:szl_x_preferred":[
+        "\u017diti\u0161te"
     ],
     "name:tat_x_preferred":[
         "\u0416\u0438\u0442\u0438\u0448\u0442\u0435"
@@ -137,7 +170,7 @@
         }
     ],
     "wof:id":890476973,
-    "wof:lastmodified":1566612517,
+    "wof:lastmodified":1690858586,
     "wof:name":"\u017diti\u0161te",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

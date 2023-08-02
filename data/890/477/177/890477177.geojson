@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "\u017dujince"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u06cc\u06cc\u0646\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "\u017dujince"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "Zjujince"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dujince"
     ],
     "name:por_x_preferred":[
         "\u017dujince"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890477177,
-    "wof:lastmodified":1566612564,
+    "wof:lastmodified":1690858656,
     "wof:name":"\u017dujince",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

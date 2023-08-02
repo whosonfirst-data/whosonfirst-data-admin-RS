@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Lazarevac"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0430\u0437\u0430\u0440\u0430\u0432\u0430\u0446"
     ],
@@ -85,10 +88,16 @@
     "name:por_x_preferred":[
         "Lazarevac"
     ],
+    "name:ron_x_preferred":[
+        "Lazarevac"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u0430\u0446"
     ],
     "name:slv_x_preferred":[
+        "Lazarevac"
+    ],
+    "name:spa_x_preferred":[
         "Lazarevac"
     ],
     "name:srp_x_preferred":[
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":890477603,
-    "wof:lastmodified":1566612536,
+    "wof:lastmodified":1690858613,
     "wof:name":"Lazarevac",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

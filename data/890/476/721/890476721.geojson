@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Tovrljane"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0648\u0631\u06cc\u0627\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Tovrljane"
     ],
@@ -32,6 +35,9 @@
         "Tovrljane"
     ],
     "name:nld_x_preferred":[
+        "Tovrljane"
+    ],
+    "name:pol_x_preferred":[
         "Tovrljane"
     ],
     "name:por_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890476721,
-    "wof:lastmodified":1566612517,
+    "wof:lastmodified":1690858586,
     "wof:name":"Tovrljane",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

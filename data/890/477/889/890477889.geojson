@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Donja Konju\u0161a"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0627 \u06a9\u0648\u0646\u06af\u0648\u0634\u0627"
+    ],
     "name:fra_x_preferred":[
         "Donja Konju\u0161a"
     ],
@@ -32,6 +35,9 @@
         "Donja Konju\u0161a"
     ],
     "name:nld_x_preferred":[
+        "Donja Konju\u0161a"
+    ],
+    "name:pol_x_preferred":[
         "Donja Konju\u0161a"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477889,
-    "wof:lastmodified":1566612527,
+    "wof:lastmodified":1690858601,
     "wof:name":"Donja Konju\u0161a",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

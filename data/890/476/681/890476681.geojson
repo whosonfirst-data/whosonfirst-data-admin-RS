@@ -43,7 +43,13 @@
     "name:nld_x_preferred":[
         "Cerovac"
     ],
+    "name:pol_x_preferred":[
+        "Cerovac"
+    ],
     "name:slv_x_preferred":[
+        "Cerovac"
+    ],
+    "name:spa_x_preferred":[
         "Cerovac"
     ],
     "name:srp_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890476681,
-    "wof:lastmodified":1566612500,
+    "wof:lastmodified":1690858559,
     "wof:name":"Cerovac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

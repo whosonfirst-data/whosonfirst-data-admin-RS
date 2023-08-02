@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Jabu\u010devo"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0628\u0648\u0686\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Jabu\u010devo"
     ],
@@ -29,6 +32,9 @@
         "Jabu\u010devo"
     ],
     "name:nld_x_preferred":[
+        "Jabu\u010devo"
+    ],
+    "name:pol_x_preferred":[
         "Jabu\u010devo"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890476667,
-    "wof:lastmodified":1566612502,
+    "wof:lastmodified":1690858564,
     "wof:name":"Jabu\u010devo",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Kukljin"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u06cc\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Kukljin"
     ],
@@ -35,6 +38,9 @@
         "Kukljin"
     ],
     "name:nld_x_preferred":[
+        "Kukljin"
+    ],
+    "name:pol_x_preferred":[
         "Kukljin"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890476797,
-    "wof:lastmodified":1566612496,
+    "wof:lastmodified":1690858553,
     "wof:name":"Kukljin",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

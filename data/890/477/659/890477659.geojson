@@ -29,6 +29,9 @@
     "name:epo_x_preferred":[
         "Mileticjevo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644\u062a\u06cc\u0686\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Mileti\u0107evo"
     ],
@@ -39,6 +42,9 @@
         "Mileti\u0107evo"
     ],
     "name:nld_x_preferred":[
+        "Mileti\u0107evo"
+    ],
+    "name:pol_x_preferred":[
         "Mileti\u0107evo"
     ],
     "name:ron_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890477659,
-    "wof:lastmodified":1566612537,
+    "wof:lastmodified":1690858615,
     "wof:name":"Mileti\u0107evo",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

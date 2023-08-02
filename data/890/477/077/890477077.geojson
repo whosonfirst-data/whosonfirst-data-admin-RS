@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:aze_x_preferred":[
+        "Ruma"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0443\u043c\u0430"
     ],
@@ -28,11 +31,17 @@
     "name:bos_x_preferred":[
         "Ruma"
     ],
+    "name:cat_x_preferred":[
+        "Ruma"
+    ],
     "name:ceb_x_preferred":[
         "Ruma"
     ],
     "name:ces_x_preferred":[
         "Ruma"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u043c\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0695\u0648\u0645\u0627"
@@ -100,6 +109,9 @@
     "name:por_x_preferred":[
         "Ruma"
     ],
+    "name:ron_x_preferred":[
+        "Ruma"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u043c\u0430"
     ],
@@ -118,11 +130,20 @@
     "name:swe_x_preferred":[
         "Ruma"
     ],
+    "name:szl_x_preferred":[
+        "Ruma"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u043c\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e39\u0e21\u0e32"
     ],
     "name:tur_x_preferred":[
         "Ruma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043c\u0430"
     ],
     "name:vie_x_preferred":[
         "Ruma"
@@ -165,7 +186,7 @@
         }
     ],
     "wof:id":890477077,
-    "wof:lastmodified":1566612528,
+    "wof:lastmodified":1690858601,
     "wof:name":"Ruma",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0641\u064a\u062a\u0634\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0641\u064a\u062a\u0634\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Zve\u010dka"
     ],
@@ -31,6 +34,9 @@
     "name:eng_x_preferred":[
         "Zve\u010dka"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0686\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Zve\u010dka"
     ],
@@ -38,6 +44,9 @@
         "Zve\u010dka"
     ],
     "name:nld_x_preferred":[
+        "Zve\u010dka"
+    ],
+    "name:pol_x_preferred":[
         "Zve\u010dka"
     ],
     "name:por_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890476971,
-    "wof:lastmodified":1566612506,
+    "wof:lastmodified":1690858568,
     "wof:name":"Zve\u010dka",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

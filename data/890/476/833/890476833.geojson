@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Ru\u0161anj"
     ],
+    "name:pol_x_preferred":[
+        "Ru\u0161anj"
+    ],
     "name:por_x_preferred":[
         "Ru\u0161anj"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890476833,
-    "wof:lastmodified":1566612503,
+    "wof:lastmodified":1690858565,
     "wof:name":"Ru\u0161anj",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",

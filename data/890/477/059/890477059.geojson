@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Despotovo"
     ],
+    "name:ces_x_preferred":[
+        "Despotovo"
+    ],
     "name:eng_x_preferred":[
         "Despotovo"
     ],
     "name:epo_x_preferred":[
         "Despotovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0633\u067e\u0648\u062a\u0648\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "Despotovo"
@@ -41,6 +47,9 @@
         "Despotovo"
     ],
     "name:nld_x_preferred":[
+        "Despotovo"
+    ],
+    "name:pol_x_preferred":[
         "Despotovo"
     ],
     "name:slv_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890477059,
-    "wof:lastmodified":1566612559,
+    "wof:lastmodified":1690858646,
     "wof:name":"Despotovo",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

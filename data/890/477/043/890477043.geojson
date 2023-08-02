@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Krivaja"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0648\u0627\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Krivaja"
     ],
@@ -32,6 +35,9 @@
         "Krivaja"
     ],
     "name:nld_x_preferred":[
+        "Krivaja"
+    ],
+    "name:pol_x_preferred":[
         "Krivaja"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890477043,
-    "wof:lastmodified":1566612556,
+    "wof:lastmodified":1690858641,
     "wof:name":"Krivaja",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

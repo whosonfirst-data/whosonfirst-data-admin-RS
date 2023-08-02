@@ -49,10 +49,16 @@
     "name:nld_x_preferred":[
         "Aleksandrovo"
     ],
+    "name:pol_x_preferred":[
+        "Aleksandrovo"
+    ],
     "name:ron_x_preferred":[
         "Aleksandrovo"
     ],
     "name:slv_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:spa_x_preferred":[
         "Aleksandrovo"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890477761,
-    "wof:lastmodified":1566612551,
+    "wof:lastmodified":1690858633,
     "wof:name":"Aleksandrovo",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "\u0160titar"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u06cc\u062a\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "\u0160titar"
     ],
@@ -35,6 +38,9 @@
         "\u0160titar"
     ],
     "name:nld_x_preferred":[
+        "\u0160titar"
+    ],
+    "name:pol_x_preferred":[
         "\u0160titar"
     ],
     "name:por_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Stitor"
+    ],
+    "name:vec_x_preferred":[
+        "\u0160titar"
     ],
     "qs:name":"\u0160titar",
     "qs:photos_9r":0,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890477135,
-    "wof:lastmodified":1566612519,
+    "wof:lastmodified":1690858590,
     "wof:name":"\u0160titar",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

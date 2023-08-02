@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "\u0160iroke Njive"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0648\u06a9\u0647 \u0646\u06af\u06cc\u0648\u0647"
+    ],
     "name:fra_x_preferred":[
         "\u0160iroke Njive"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:nld_x_preferred":[
         "\u0160iroke Njive"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160iroke njive"
     ],
     "name:por_x_preferred":[
         "\u0160iroke Njive"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890476787,
-    "wof:lastmodified":1566612518,
+    "wof:lastmodified":1690858588,
     "wof:name":"\u0160iroke Njive",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

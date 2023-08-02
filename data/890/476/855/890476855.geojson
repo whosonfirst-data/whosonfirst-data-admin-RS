@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Bresnik"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0633\u0646\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Bresnik"
     ],
@@ -29,6 +32,9 @@
         "Bresnik"
     ],
     "name:nld_x_preferred":[
+        "Bresnik"
+    ],
+    "name:pol_x_preferred":[
         "Bresnik"
     ],
     "name:por_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890476855,
-    "wof:lastmodified":1566612515,
+    "wof:lastmodified":1690858584,
     "wof:name":"Bresnik",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

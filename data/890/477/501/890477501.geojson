@@ -23,7 +23,13 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u0648\u0628\u064a\u0646\u062a\u0633\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0644\u0648\u0628\u064a\u0646\u062a\u0633\u0649"
+    ],
     "name:ceb_x_preferred":[
+        "Golubinci"
+    ],
+    "name:ces_x_preferred":[
         "Golubinci"
     ],
     "name:eng_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "Golubinci"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0648\u0628\u06cc\u0646\u062a\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
         "Golubinci"
@@ -45,6 +54,9 @@
         "Golubinci"
     ],
     "name:nld_x_preferred":[
+        "Golubinci"
+    ],
+    "name:pol_x_preferred":[
         "Golubinci"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":890477501,
-    "wof:lastmodified":1566612547,
+    "wof:lastmodified":1690858627,
     "wof:name":"Golubinci",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Bosut"
+    ],
     "name:ceb_x_preferred":[
         "Bosut"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:epo_x_preferred":[
         "Bosut"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u0648\u062a"
     ],
     "name:fra_x_preferred":[
         "Bosut"
@@ -41,6 +47,9 @@
         "Bosut"
     ],
     "name:nld_x_preferred":[
+        "Bosut"
+    ],
+    "name:pol_x_preferred":[
         "Bosut"
     ],
     "name:rus_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890477069,
-    "wof:lastmodified":1566612560,
+    "wof:lastmodified":1690858650,
     "wof:name":"Bosut",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

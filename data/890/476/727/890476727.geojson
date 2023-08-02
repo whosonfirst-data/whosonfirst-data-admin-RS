@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Lugav\u010dina"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06af\u0627\u0648\u0686\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Lugav\u010dina"
     ],
@@ -34,6 +37,9 @@
     "name:nld_x_preferred":[
         "Lugav\u010dina"
     ],
+    "name:pol_x_preferred":[
+        "Lugav\u010dina"
+    ],
     "name:por_x_preferred":[
         "Lugav\u010dina"
     ],
@@ -41,6 +47,9 @@
         "\u041b\u0443\u0433\u0430\u0432\u0447\u0438\u043d\u0430"
     ],
     "name:slv_x_preferred":[
+        "Lugav\u010dina"
+    ],
+    "name:spa_x_preferred":[
         "Lugav\u010dina"
     ],
     "name:srp_x_preferred":[
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":890476727,
-    "wof:lastmodified":1566612519,
+    "wof:lastmodified":1690858590,
     "wof:name":"Lugav\u010dina",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",

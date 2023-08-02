@@ -29,6 +29,9 @@
     "name:epo_x_preferred":[
         "Boka"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Boka"
     ],
@@ -42,6 +45,9 @@
         "Boka"
     ],
     "name:nld_x_preferred":[
+        "Boka"
+    ],
+    "name:pol_x_preferred":[
         "Boka"
     ],
     "name:ron_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890477805,
-    "wof:lastmodified":1566612538,
+    "wof:lastmodified":1690858617,
     "wof:name":"Boka",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

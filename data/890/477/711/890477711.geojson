@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ivanje"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0627\u0646\u06af\u0647"
+    ],
     "name:fra_x_preferred":[
         "Ivanje"
     ],
@@ -32,8 +35,14 @@
     "name:nld_x_preferred":[
         "Ivanje"
     ],
+    "name:pol_x_preferred":[
+        "Ivanje"
+    ],
     "name:por_x_preferred":[
         "Ivanje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u0435"
     ],
     "name:slv_x_preferred":[
         "Ivanje"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890477711,
-    "wof:lastmodified":1566612568,
+    "wof:lastmodified":1690858661,
     "wof:name":"Vranje",
     "wof:parent_id":1108809853,
     "wof:placetype":"locality",

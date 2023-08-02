@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Glu\u0161ci"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0648\u0634\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Glu\u0161ci"
     ],
@@ -32,6 +35,9 @@
         "Glu\u0161ci"
     ],
     "name:nld_x_preferred":[
+        "Glu\u0161ci"
+    ],
+    "name:pol_x_preferred":[
         "Glu\u0161ci"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477053,
-    "wof:lastmodified":1566612534,
+    "wof:lastmodified":1690858609,
     "wof:name":"Glu\u0161ci",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:hun_x_preferred":[
         "Kisz\u00e1cs"
     ],
+    "name:ita_x_preferred":[
+        "Kisa\u010d"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30b5\u30c1\u30e5"
     ],
@@ -50,6 +53,9 @@
         "Kisa\u010d"
     ],
     "name:nld_x_preferred":[
+        "Kisa\u010d"
+    ],
+    "name:pol_x_preferred":[
         "Kisa\u010d"
     ],
     "name:slk_x_preferred":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890477359,
-    "wof:lastmodified":1566612546,
+    "wof:lastmodified":1690858627,
     "wof:name":"Kisa\u010d",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

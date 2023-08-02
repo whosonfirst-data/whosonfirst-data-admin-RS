@@ -79,6 +79,9 @@
     "name:slv_x_preferred":[
         "Opovo"
     ],
+    "name:spa_x_preferred":[
+        "Opovo"
+    ],
     "name:srp_x_preferred":[
         "Opovo"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890476535,
-    "wof:lastmodified":1566612499,
+    "wof:lastmodified":1690858558,
     "wof:name":"Opovo",
     "wof:parent_id":1108810011,
     "wof:placetype":"locality",

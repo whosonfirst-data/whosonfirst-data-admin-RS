@@ -25,6 +25,9 @@
     "name:ces_x_preferred":[
         "Vrbnica"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0440\u0431\u043d\u0438\u0446\u0430"
+    ],
     "name:deu_x_preferred":[
         "Vrbnica"
     ],
@@ -38,6 +41,9 @@
         "Vrbnica"
     ],
     "name:fra_x_preferred":[
+        "Vrbnica"
+    ],
+    "name:gle_x_preferred":[
         "Vrbnica"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Vrbnica"
     ],
+    "name:por_x_preferred":[
+        "Vrbnica"
+    ],
     "name:ron_x_preferred":[
         "Vrbnica"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0440\u0431\u045a\u0438\u0446\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0440\u0431\u043d\u0438\u0446\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0431\u043d\u0456\u0446\u0430"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":890477949,
-    "wof:lastmodified":1566612544,
+    "wof:lastmodified":1690858623,
     "wof:name":"Vrbnica",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

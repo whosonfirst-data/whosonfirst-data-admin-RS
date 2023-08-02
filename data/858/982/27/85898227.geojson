@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Banjica"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Banjica"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e0\u05d9\u05d9\u05e6\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30b8\u30ab"
     ],
     "name:nld_x_preferred":[
         "Banjica"
@@ -96,10 +102,10 @@
     "wd:wordcount":650,
     "wof:belongsto":[
         102191581,
-        85633755,
         1108810141,
-        101913173,
+        85633755,
         404228357,
+        101913173,
         85688279
     ],
     "wof:breaches":[],
@@ -132,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1593718901,
+    "wof:lastmodified":1690858532,
     "wof:name":"Banjica",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

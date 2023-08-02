@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Hetin"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u062a\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Hetin"
     ],
@@ -45,6 +48,9 @@
         "Hetin"
     ],
     "name:nld_x_preferred":[
+        "Hetin"
+    ],
+    "name:pol_x_preferred":[
         "Hetin"
     ],
     "name:ron_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890477431,
-    "wof:lastmodified":1566612536,
+    "wof:lastmodified":1690858613,
     "wof:name":"Hetin",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

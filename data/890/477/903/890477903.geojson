@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Busenje"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06af\u0647"
+    ],
     "name:fra_x_preferred":[
         "Busenje"
     ],
@@ -41,6 +44,9 @@
         "Busenje"
     ],
     "name:nld_x_preferred":[
+        "Busenje"
+    ],
+    "name:pol_x_preferred":[
         "Busenje"
     ],
     "name:ron_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890477903,
-    "wof:lastmodified":1566612548,
+    "wof:lastmodified":1690858629,
     "wof:name":"Busenje",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

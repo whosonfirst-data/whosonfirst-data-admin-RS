@@ -47,6 +47,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u0627\u0633\u064a\u0646\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Rasina dair\u0259si"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u0441\u0456\u043d\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Rasina"
+    ],
+    "name:ces_x_preferred":[
+        "Rasinsk\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Rasina District"
@@ -98,6 +104,9 @@
     "name:hrv_x_preferred":[
         "Rasinski upravni okrug"
     ],
+    "name:hun_x_preferred":[
+        "Rasina k\u00f6rzet"
+    ],
     "name:ind_x_preferred":[
         "Distrik Rasina"
     ],
@@ -128,6 +137,9 @@
     "name:mar_x_preferred":[
         "\u0930\u0938\u093f\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0441\u0438\u043d\u0441\u043a\u0438 \u041e\u043a\u0440\u0443\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u0420\u0430\u0441\u0438\u043d \u0430\u0439\u043c\u0430\u0433"
     ],
@@ -142,6 +154,9 @@
     ],
     "name:nob_x_preferred":[
         "Rasina distrikt"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0430\u0441\u0438\u043d\u00e6\u0439\u044b \u0437\u044b\u043b\u0434"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0631\u0627\u0633\u06cc\u0646\u0627"
@@ -194,6 +209,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Rasina"
     ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u8f9b\u90a3\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u8f9b\u90a3\u5dde"
     ],
@@ -245,7 +263,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ce07b3f0275350926914f52a7ee3779",
+    "wof:geomhash":"2ab215cce08aa60b07d709df5959ce35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,7 +284,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1690858530,
     "wof:name":"Rasinski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

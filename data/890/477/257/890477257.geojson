@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Arbana\u0161ka"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0628\u0627\u0646\u0627\u0634\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Arbana\u0161ka"
     ],
@@ -32,6 +35,9 @@
         "Arbana\u0161ka"
     ],
     "name:nld_x_preferred":[
+        "Arbana\u0161ka"
+    ],
+    "name:pol_x_preferred":[
         "Arbana\u0161ka"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477257,
-    "wof:lastmodified":1566612532,
+    "wof:lastmodified":1690858607,
     "wof:name":"Arbana\u0161ka",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

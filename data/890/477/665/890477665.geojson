@@ -35,6 +35,9 @@
     "name:epo_x_preferred":[
         "Klenak"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0646\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Klenak"
     ],
@@ -48,6 +51,9 @@
         "Klenak"
     ],
     "name:nld_x_preferred":[
+        "Klenak"
+    ],
+    "name:pol_x_preferred":[
         "Klenak"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890477665,
-    "wof:lastmodified":1566612559,
+    "wof:lastmodified":1690858649,
     "wof:name":"Klenak",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

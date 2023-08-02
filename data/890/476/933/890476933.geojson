@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Nakovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06a9\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Nakovo"
     ],
@@ -47,6 +50,9 @@
         "Nakovo"
     ],
     "name:oci_x_preferred":[
+        "Nakovo"
+    ],
+    "name:pol_x_preferred":[
         "Nakovo"
     ],
     "name:ron_x_preferred":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890476933,
-    "wof:lastmodified":1566612511,
+    "wof:lastmodified":1690858576,
     "wof:name":"Nakovo",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

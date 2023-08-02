@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Dedina"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u062f\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Dedina"
     ],
@@ -38,6 +41,9 @@
         "Dedina"
     ],
     "name:nld_x_preferred":[
+        "Dedina"
+    ],
+    "name:pol_x_preferred":[
         "Dedina"
     ],
     "name:por_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890476815,
-    "wof:lastmodified":1566612512,
+    "wof:lastmodified":1690858579,
     "wof:name":"Dedina",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

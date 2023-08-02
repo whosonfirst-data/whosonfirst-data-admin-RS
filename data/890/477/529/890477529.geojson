@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ribnica"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0628\u0646\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Ribnica"
     ],
@@ -41,8 +44,14 @@
     "name:nld_x_preferred":[
         "Ribnica"
     ],
+    "name:pol_x_preferred":[
+        "Ribnica"
+    ],
     "name:por_x_preferred":[
         "Ribnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u0430"
     ],
     "name:slv_x_preferred":[
         "Ribnica"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890477529,
-    "wof:lastmodified":1636494743,
+    "wof:lastmodified":1690858622,
     "wof:name":"Ribnica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

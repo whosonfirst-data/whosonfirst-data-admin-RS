@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Ribari"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0628\u0627\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Ribari"
     ],
@@ -32,6 +35,9 @@
         "Ribari"
     ],
     "name:nld_x_preferred":[
+        "Ribari"
+    ],
+    "name:pol_x_preferred":[
         "Ribari"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890477335,
-    "wof:lastmodified":1566612548,
+    "wof:lastmodified":1690858630,
     "wof:name":"Ribari",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

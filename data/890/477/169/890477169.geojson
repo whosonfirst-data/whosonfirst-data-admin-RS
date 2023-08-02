@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Torda"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u062f\u0627"
+    ],
     "name:fra_x_preferred":[
         "Torda"
     ],
@@ -47,6 +50,9 @@
         "Torda"
     ],
     "name:nob_x_preferred":[
+        "Torda"
+    ],
+    "name:pol_x_preferred":[
         "Torda"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890477169,
-    "wof:lastmodified":1566612525,
+    "wof:lastmodified":1690858597,
     "wof:name":"Torda",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

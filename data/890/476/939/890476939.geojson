@@ -22,11 +22,20 @@
     "name:ceb_x_preferred":[
         "Ljukovo"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044e\u043a\u043e\u0432\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Ljukovo"
+    ],
     "name:eng_x_preferred":[
         "Ljukovo"
     ],
     "name:epo_x_preferred":[
         "Ljukovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u06a9\u0648\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "Ljukovo"
@@ -43,6 +52,9 @@
     "name:nld_x_preferred":[
         "Ljukovo"
     ],
+    "name:pol_x_preferred":[
+        "Ljukovo"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u044e\u043a\u043e\u0432\u043e"
     ],
@@ -54,6 +66,9 @@
     ],
     "name:srp_x_variant":[
         "\u0409\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u044e\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Pustara Ljukovo"
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":890476939,
-    "wof:lastmodified":1566612498,
+    "wof:lastmodified":1690858556,
     "wof:name":"Ljukovo",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

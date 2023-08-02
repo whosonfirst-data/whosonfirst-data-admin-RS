@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Letovica"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Letovica"
     ],
@@ -38,6 +41,9 @@
         "Letovica"
     ],
     "name:nld_x_preferred":[
+        "Letovica"
+    ],
+    "name:pol_x_preferred":[
         "Letovica"
     ],
     "name:por_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890476793,
-    "wof:lastmodified":1566612508,
+    "wof:lastmodified":1690858573,
     "wof:name":"Letovica",
     "wof:parent_id":1108809865,
     "wof:placetype":"locality",

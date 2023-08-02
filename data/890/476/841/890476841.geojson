@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Progorelica"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u06af\u0648\u0631\u0644\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Progorelica"
     ],
@@ -32,6 +35,9 @@
         "Progorelica"
     ],
     "name:nld_x_preferred":[
+        "Progorelica"
+    ],
+    "name:pol_x_preferred":[
         "Progorelica"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476841,
-    "wof:lastmodified":1566612511,
+    "wof:lastmodified":1690858576,
     "wof:name":"Progorelica",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Pivnice"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0648\u0646\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Pivnice"
     ],
@@ -50,6 +53,9 @@
         "Pivnice"
     ],
     "name:nld_x_preferred":[
+        "Pivnice"
+    ],
+    "name:pol_x_preferred":[
         "Pivnice"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890477817,
-    "wof:lastmodified":1566612529,
+    "wof:lastmodified":1690858603,
     "wof:name":"Pivnice",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

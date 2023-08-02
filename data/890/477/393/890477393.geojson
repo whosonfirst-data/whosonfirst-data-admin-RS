@@ -23,10 +23,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0634\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0634\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0447\u0430"
     ],
     "name:ceb_x_preferred":[
+        "Bor\u010da"
+    ],
+    "name:ces_x_preferred":[
         "Bor\u010da"
     ],
     "name:ckb_x_preferred":[
@@ -76,6 +82,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0447\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Bor\u010da"
     ],
     "name:slv_x_preferred":[
         "Bor\u010da"
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":890477393,
-    "wof:lastmodified":1566612550,
+    "wof:lastmodified":1690858632,
     "wof:name":"Bor\u010da",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

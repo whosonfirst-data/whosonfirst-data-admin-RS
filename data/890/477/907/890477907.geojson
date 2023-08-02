@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Bu\u010dince"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0686\u06cc\u0646\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Bu\u010dince"
     ],
@@ -29,6 +32,9 @@
         "Bu\u010dince"
     ],
     "name:nld_x_preferred":[
+        "Bu\u010dince"
+    ],
+    "name:pol_x_preferred":[
         "Bu\u010dince"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477907,
-    "wof:lastmodified":1566612520,
+    "wof:lastmodified":1690858591,
     "wof:name":"Bu\u010dince",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

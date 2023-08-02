@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u062a\u0634\u0646\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u0648\u062a\u0634\u0646\u064a\u0643"
+    ],
     "name:deu_x_preferred":[
         "Plo\u010dnik"
     ],
@@ -31,6 +34,9 @@
     "name:epo_x_preferred":[
         "Plo\u010dnik"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0648\u0686\u0646\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Plo\u010dnik"
     ],
@@ -38,6 +44,9 @@
         "\u30d7\u30ed\u30b7\u30e5\u30cb\u30af"
     ],
     "name:nld_x_preferred":[
+        "Plo\u010dnik"
+    ],
+    "name:pol_x_preferred":[
         "Plo\u010dnik"
     ],
     "name:por_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:srp_x_variant":[
         "\u041f\u043b\u043e\u0447\u043d\u0438\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u6d1b\u5947\u5c3c\u514b"
     ],
     "qs:name":"Plo\u010dnik",
     "qs:photos_9r":0,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":890477849,
-    "wof:lastmodified":1566612555,
+    "wof:lastmodified":1690858640,
     "wof:name":"Plo\u010dnik",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

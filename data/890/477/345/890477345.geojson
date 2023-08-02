@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Putinci"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u06cc\u0646\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Putinci"
     ],
@@ -46,6 +49,9 @@
     "name:nld_x_preferred":[
         "Putinci"
     ],
+    "name:pol_x_preferred":[
+        "Putinci"
+    ],
     "name:slv_x_preferred":[
         "Putinci"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Putinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0456\u043d\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Putincze"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":890477345,
-    "wof:lastmodified":1566612565,
+    "wof:lastmodified":1690858656,
     "wof:name":"Putinci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Rusko Selo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u06a9\u0648 \u0633\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Rusko Selo"
     ],
@@ -38,6 +41,9 @@
         "Rusko Selo"
     ],
     "name:nld_x_preferred":[
+        "Rusko Selo"
+    ],
+    "name:pol_x_preferred":[
         "Rusko Selo"
     ],
     "name:ron_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890477027,
-    "wof:lastmodified":1566612553,
+    "wof:lastmodified":1690858637,
     "wof:name":"Rusko Selo",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

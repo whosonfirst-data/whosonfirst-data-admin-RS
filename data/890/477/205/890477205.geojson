@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Veliki \u0160iljegovac"
     ],
+    "name:pol_x_preferred":[
+        "Veliki \u0160iljegovac"
+    ],
     "name:por_x_preferred":[
         "Veliki \u0160iljegovac"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890477205,
-    "wof:lastmodified":1566612537,
+    "wof:lastmodified":1690858615,
     "wof:name":"Veliki \u00c5 iljegovac",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

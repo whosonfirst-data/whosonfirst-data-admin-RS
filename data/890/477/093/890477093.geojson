@@ -55,6 +55,9 @@
     "name:eus_x_preferred":[
         "Novo Selo"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0648 \u0633\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Novo Selo"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890477093,
-    "wof:lastmodified":1636494744,
+    "wof:lastmodified":1690858652,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

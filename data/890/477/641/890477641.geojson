@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Sonta"
     ],
+    "name:ces_x_preferred":[
+        "Sonta"
+    ],
     "name:deu_x_preferred":[
         "Sonta"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Sonta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Sonta"
@@ -51,6 +57,9 @@
         "Sonta"
     ],
     "name:nld_x_preferred":[
+        "Sonta"
+    ],
+    "name:pol_x_preferred":[
         "Sonta"
     ],
     "name:slv_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":890477641,
-    "wof:lastmodified":1566612556,
+    "wof:lastmodified":1690858642,
     "wof:name":"Sonta",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

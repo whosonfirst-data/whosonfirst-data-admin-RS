@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Ose\u010dina"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u0686\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Ose\u010dina"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0633\u06cc\u0686\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ose\u010dina"
     ],
     "name:por_x_preferred":[
         "Ose\u010dina"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":890477351,
-    "wof:lastmodified":1566612549,
+    "wof:lastmodified":1690858631,
     "wof:name":"Ose\u010dina",
     "wof:parent_id":1108810013,
     "wof:placetype":"locality",

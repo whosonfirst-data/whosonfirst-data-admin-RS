@@ -32,6 +32,12 @@
     "name:ces_x_preferred":[
         "Beo\u010din"
     ],
+    "name:dan_x_preferred":[
+        "Beo\u010din"
+    ],
+    "name:deu_x_preferred":[
+        "Beo\u010din"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ad\u03bf\u03c4\u03c3\u03b9\u03bd"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:epo_x_preferred":[
         "Beo\u0109in"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0686\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Beo\u010din"
@@ -79,6 +88,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043e\u0447\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Beo\u010din"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0435\u043e\u0447\u0438\u043d"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":890477547,
-    "wof:lastmodified":1566612563,
+    "wof:lastmodified":1690858655,
     "wof:name":"Beo\u010din",
     "wof:parent_id":1108809847,
     "wof:placetype":"locality",

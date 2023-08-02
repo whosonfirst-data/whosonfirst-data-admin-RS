@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Kr\u0109edin"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0686\u062f\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Kr\u010dedin"
     ],
@@ -48,6 +51,9 @@
         "Kr\u010dedin"
     ],
     "name:nld_x_preferred":[
+        "Kr\u010dedin"
+    ],
+    "name:pol_x_preferred":[
         "Kr\u010dedin"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":890477647,
-    "wof:lastmodified":1566612554,
+    "wof:lastmodified":1690858638,
     "wof:name":"Kr\u010dedin",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

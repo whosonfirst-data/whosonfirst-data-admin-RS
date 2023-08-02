@@ -32,11 +32,17 @@
     "name:deu_x_preferred":[
         "Kovilj"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03b2\u03b9\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Kovilj"
     ],
     "name:epo_x_preferred":[
         "Kovilj"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0648\u06cc\u06cc"
     ],
     "name:fra_x_preferred":[
         "Kovilj"
@@ -56,10 +62,16 @@
     "name:nld_x_preferred":[
         "Kovilj"
     ],
+    "name:pol_x_preferred":[
+        "Kovilj"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0438\u043b\u044c"
     ],
     "name:slv_x_preferred":[
+        "Kovilj"
+    ],
+    "name:spa_x_preferred":[
         "Kovilj"
     ],
     "name:srp_x_preferred":[
@@ -67,6 +79,9 @@
     ],
     "name:srp_x_variant":[
         "\u041a\u043e\u0432\u0438\u0459"
+    ],
+    "name:swe_x_preferred":[
+        "Kovilj"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0438\u043b\u044c"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":890477573,
-    "wof:lastmodified":1566612546,
+    "wof:lastmodified":1690858626,
     "wof:name":"Kovilj",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

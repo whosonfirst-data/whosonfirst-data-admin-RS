@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Sremczica"
     ],
+    "name:pol_x_variant":[
+        "Srem\u010dica"
+    ],
     "name:por_x_preferred":[
         "Srem\u010dica"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890477767,
-    "wof:lastmodified":1566612547,
+    "wof:lastmodified":1690858628,
     "wof:name":"Srem\u010dica",
     "wof:parent_id":1108809881,
     "wof:placetype":"locality",

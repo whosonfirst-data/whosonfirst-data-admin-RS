@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Gornja Toponica"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u06af\u0627 \u062a\u0648\u067e\u0648\u0646\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Gornja Toponica"
     ],
@@ -29,6 +32,9 @@
         "Gornja Toponica"
     ],
     "name:nld_x_preferred":[
+        "Gornja Toponica"
+    ],
+    "name:pol_x_preferred":[
         "Gornja Toponica"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890477871,
-    "wof:lastmodified":1566612555,
+    "wof:lastmodified":1690858640,
     "wof:name":"Gornja Toponica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Donje To\u010dane"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0647 \u062a\u0648\u0686\u0627\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Donje To\u010dane"
     ],
@@ -35,6 +38,9 @@
         "Donje To\u010dane"
     ],
     "name:nld_x_preferred":[
+        "Donje To\u010dane"
+    ],
+    "name:pol_x_preferred":[
         "Donje To\u010dane"
     ],
     "name:por_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890477885,
-    "wof:lastmodified":1566612555,
+    "wof:lastmodified":1690858640,
     "wof:name":"Donje To\u010dane",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

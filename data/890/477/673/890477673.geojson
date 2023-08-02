@@ -35,6 +35,9 @@
     "name:epo_x_preferred":[
         "Me\u011da"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062c\u0627"
+    ],
     "name:fra_x_preferred":[
         "Me\u0111a"
     ],
@@ -56,6 +59,9 @@
     "name:nob_x_preferred":[
         "Me\u0111a"
     ],
+    "name:pol_x_preferred":[
+        "Me\u0111a"
+    ],
     "name:ron_x_preferred":[
         "Meda"
     ],
@@ -69,7 +75,11 @@
         "Me\u0111a"
     ],
     "name:srp_x_variant":[
-        "\u041c\u0435\u0452\u0430"
+        "\u041c\u0435\u0452\u0430",
+        "\u041c\u0435\u0452\u0430a"
+    ],
+    "name:swe_x_preferred":[
+        "Me\u0111a"
     ],
     "qs:name":"Me\u00f0a",
     "qs:name_adm0":"Serbia",
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":890477673,
-    "wof:lastmodified":1566612530,
+    "wof:lastmodified":1690858604,
     "wof:name":"Me\u00f0a",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

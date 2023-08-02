@@ -28,11 +28,17 @@
     "name:eng_x_preferred":[
         "Mokra Gora"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0631\u0627 \u06af\u0648\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Mokra Gora"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30af\u30e9\u30fb\u30b4\u30e9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0430 \u0413\u043e\u0440\u0430"
     ],
     "name:msa_x_preferred":[
         "Mokra Gora"
@@ -42,6 +48,9 @@
     ],
     "name:pol_x_preferred":[
         "Mokra gora"
+    ],
+    "name:pol_x_variant":[
+        "Mokra Gora"
     ],
     "name:por_x_preferred":[
         "Mokra Gora"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890477083,
-    "wof:lastmodified":1566612528,
+    "wof:lastmodified":1690858601,
     "wof:name":"Mokra Gora",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",

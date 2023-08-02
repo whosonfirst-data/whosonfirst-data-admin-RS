@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Du\u0135ine"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0698\u06cc\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Du\u017eine"
     ],
@@ -38,6 +41,9 @@
         "Du\u017eine"
     ],
     "name:nld_x_preferred":[
+        "Du\u017eine"
+    ],
+    "name:pol_x_preferred":[
         "Du\u017eine"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890477123,
-    "wof:lastmodified":1566612563,
+    "wof:lastmodified":1690858654,
     "wof:name":"Du\u017eine",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

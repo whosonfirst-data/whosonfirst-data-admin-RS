@@ -81,6 +81,9 @@
     "name:und_x_colloquial":[
         "Dorcol"
     ],
+    "name:uzb_x_preferred":[
+        "Dor\u0107ol"
+    ],
     "qs:gn_adm0_cc":"RS",
     "qs:gn_id":0,
     "qs:gn_local":792680,
@@ -113,10 +116,10 @@
     "wd:wordcount":1301,
     "wof:belongsto":[
         102191581,
-        85633755,
         1108810095,
-        101914143,
+        85633755,
         404228357,
+        101914143,
         85688279
     ],
     "wof:breaches":[],
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":85898231,
-    "wof:lastmodified":1593718883,
+    "wof:lastmodified":1690858533,
     "wof:name":"Dor\u0107ol",
     "wof:parent_id":101914143,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Markovac"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06a9\u0648\u0648\u0627\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Markovac"
     ],
@@ -42,6 +45,9 @@
         "Markovac"
     ],
     "name:nld_x_preferred":[
+        "Markovac"
+    ],
+    "name:pol_x_preferred":[
         "Markovac"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890477527,
-    "wof:lastmodified":1566612543,
+    "wof:lastmodified":1690858621,
     "wof:name":"Markovac",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

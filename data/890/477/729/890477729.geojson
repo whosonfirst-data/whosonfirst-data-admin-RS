@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "\u015cimanovci"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0645\u0627\u0646\u0648\u0648\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "\u0160imanovci"
     ],
@@ -45,6 +48,9 @@
         "\u0160imanovci"
     ],
     "name:nld_x_preferred":[
+        "\u0160imanovci"
+    ],
+    "name:pol_x_preferred":[
         "\u0160imanovci"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890477729,
-    "wof:lastmodified":1566612569,
+    "wof:lastmodified":1690858661,
     "wof:name":"\u00c5 imanovci",
     "wof:parent_id":1108810025,
     "wof:placetype":"locality",

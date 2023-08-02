@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Barice"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Barice"
     ],
@@ -38,6 +41,9 @@
         "Barice"
     ],
     "name:nld_x_preferred":[
+        "Barice"
+    ],
+    "name:pol_x_preferred":[
         "Barice"
     ],
     "name:ron_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890477017,
-    "wof:lastmodified":1566612556,
+    "wof:lastmodified":1690858641,
     "wof:name":"Barice",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

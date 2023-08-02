@@ -29,6 +29,9 @@
     "name:epo_x_preferred":[
         "Grgurevci"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u06af\u0648\u0631\u0648\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Grgurevci"
     ],
@@ -42,6 +45,9 @@
         "Grgurevci"
     ],
     "name:nld_x_preferred":[
+        "Grgurevci"
+    ],
+    "name:pol_x_preferred":[
         "Grgurevci"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":890477491,
-    "wof:lastmodified":1566612538,
+    "wof:lastmodified":1690858616,
     "wof:name":"Grgurevci",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

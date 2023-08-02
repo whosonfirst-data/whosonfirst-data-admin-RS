@@ -82,6 +82,9 @@
     "name:fra_x_preferred":[
         "Staro selo"
     ],
+    "name:fra_x_variant":[
+        "Staro Selo"
+    ],
     "name:frp_x_preferred":[
         "Staro Selo"
     ],
@@ -138,6 +141,9 @@
     ],
     "name:min_x_preferred":[
         "Staro Selo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
     ],
     "name:mlg_x_preferred":[
         "Staro Selo"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":890477105,
-    "wof:lastmodified":1566612522,
+    "wof:lastmodified":1690858594,
     "wof:name":"Staro Selo",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

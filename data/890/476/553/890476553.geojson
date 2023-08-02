@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Nova Pazova"
+    ],
     "name:ceb_x_preferred":[
         "Nova Pazova"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:epo_x_preferred":[
         "Nova Pazova"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u067e\u0627\u0632\u0648\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Nova Pazova"
@@ -53,6 +59,9 @@
         "Nova Pazova"
     ],
     "name:pol_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:ron_x_preferred":[
         "Nova Pazova"
     ],
     "name:slv_x_preferred":[
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":890476553,
-    "wof:lastmodified":1566612511,
+    "wof:lastmodified":1690858575,
     "wof:name":"bar",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

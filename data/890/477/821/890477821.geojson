@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Veliko Pupavce"
     ],
+    "name:pol_x_preferred":[
+        "Veliko Pupavce"
+    ],
     "name:por_x_preferred":[
         "Veliko Pupavce"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890477821,
-    "wof:lastmodified":1566612529,
+    "wof:lastmodified":1690858603,
     "wof:name":"Veliko Pupavce",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Dobroti\u0107"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u062a\u06cc\u0686"
+    ],
     "name:fra_x_preferred":[
         "Dobroti\u0107"
     ],
@@ -29,6 +32,9 @@
         "Dobroti\u0107"
     ],
     "name:nld_x_preferred":[
+        "Dobroti\u0107"
+    ],
+    "name:pol_x_preferred":[
         "Dobroti\u0107"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477893,
-    "wof:lastmodified":1566612537,
+    "wof:lastmodified":1690858614,
     "wof:name":"Dobroti\u0107",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

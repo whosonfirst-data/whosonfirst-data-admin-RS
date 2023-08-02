@@ -25,7 +25,13 @@
     "name:ara_x_variant":[
         "\u0628\u0627\u0631\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u064a\u0643"
+    ],
     "name:ceb_x_preferred":[
+        "Bari\u010d"
+    ],
+    "name:ces_x_preferred":[
         "Bari\u010d"
     ],
     "name:ell_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Bari\u010d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u06cc\u0686"
     ],
     "name:fra_x_preferred":[
         "Bari\u010d"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890476531,
-    "wof:lastmodified":1566612510,
+    "wof:lastmodified":1690858574,
     "wof:name":"Bari\u010d",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

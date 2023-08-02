@@ -29,6 +29,9 @@
     "name:epo_x_preferred":[
         "Kumane"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Kumane"
     ],
@@ -38,16 +41,25 @@
     "name:hun_x_preferred":[
         "Kum\u00e1n"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u0435"
+    ],
     "name:msa_x_preferred":[
         "Kumane"
     ],
     "name:nld_x_preferred":[
         "Kumane"
     ],
+    "name:pol_x_preferred":[
+        "Kumane"
+    ],
     "name:ron_x_preferred":[
         "Kumane"
     ],
     "name:slv_x_preferred":[
+        "Kumane"
+    ],
+    "name:spa_x_preferred":[
         "Kumane"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":890477507,
-    "wof:lastmodified":1566612549,
+    "wof:lastmodified":1690858631,
     "wof:name":"Kumane",
     "wof:parent_id":1108809995,
     "wof:placetype":"locality",

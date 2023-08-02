@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0632\u0627\u0631\u064a\u06a4\u0648"
+    ],
     "name:ceb_x_preferred":[
         "Lazarevo"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u043e"
     ],
     "name:dan_x_preferred":[
         "Lazarevo"
@@ -56,6 +62,9 @@
     "name:nob_x_preferred":[
         "Lazarevo"
     ],
+    "name:pol_x_preferred":[
+        "Lazarevo"
+    ],
     "name:ron_x_preferred":[
         "Lazarevo"
     ],
@@ -75,6 +84,12 @@
         "\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u043e"
     ],
     "name:swe_x_preferred":[
+        "Lazarevo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
         "Lazarevo"
     ],
     "qs:name":"Lazarevo",
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":890477389,
-    "wof:lastmodified":1566612564,
+    "wof:lastmodified":1690858655,
     "wof:name":"Lazarevo",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Radenka"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062f\u0646\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Radenka"
     ],
@@ -32,6 +35,9 @@
         "Radenka"
     ],
     "name:nld_x_preferred":[
+        "Radenka"
+    ],
+    "name:pol_x_preferred":[
         "Radenka"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476883,
-    "wof:lastmodified":1566612512,
+    "wof:lastmodified":1690858578,
     "wof:name":"Radenka",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

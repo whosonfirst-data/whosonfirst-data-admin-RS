@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Vojvodinci"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06cc\u0648\u0648\u062f\u06cc\u0646\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Vojvodinci"
     ],
@@ -41,6 +44,9 @@
         "Vojvodinci"
     ],
     "name:nld_x_preferred":[
+        "Vojvodinci"
+    ],
+    "name:pol_x_preferred":[
         "Vojvodinci"
     ],
     "name:ron_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890477819,
-    "wof:lastmodified":1566612530,
+    "wof:lastmodified":1690858603,
     "wof:name":"Vojvodinci",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

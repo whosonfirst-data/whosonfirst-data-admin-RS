@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Dublje"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Dublje"
     ],
@@ -29,6 +32,9 @@
         "Dublje"
     ],
     "name:nld_x_preferred":[
+        "Dublje"
+    ],
+    "name:pol_x_preferred":[
         "Dublje"
     ],
     "name:por_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890477971,
-    "wof:lastmodified":1566612543,
+    "wof:lastmodified":1690858622,
     "wof:name":"Dublje",
     "wof:parent_id":1108810117,
     "wof:placetype":"locality",
