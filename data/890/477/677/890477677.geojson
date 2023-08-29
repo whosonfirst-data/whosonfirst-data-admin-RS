@@ -47,6 +47,9 @@
     "name:nld_x_preferred":[
         "Velika Greda"
     ],
+    "name:pol_x_preferred":[
+        "Velika Greda"
+    ],
     "name:ron_x_preferred":[
         "Velika Greda"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890477677,
-    "wof:lastmodified":1566612557,
+    "wof:lastmodified":1690858643,
     "wof:name":"Velika Greda",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

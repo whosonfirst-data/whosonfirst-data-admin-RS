@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Piskalje"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u06a9\u0627\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Piskalje"
     ],
@@ -29,6 +32,9 @@
         "Piskalje"
     ],
     "name:nld_x_preferred":[
+        "Piskalje"
+    ],
+    "name:pol_x_preferred":[
         "Piskalje"
     ],
     "name:por_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890478015,
-    "wof:lastmodified":1566612494,
+    "wof:lastmodified":1690858552,
     "wof:name":"Piskalj",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Kond\u017eelj"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u062c\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Kond\u017eelj"
     ],
@@ -32,6 +35,9 @@
         "Kond\u017eelj"
     ],
     "name:nld_x_preferred":[
+        "Kond\u017eelj"
+    ],
+    "name:pol_x_preferred":[
         "Kond\u017eelj"
     ],
     "name:por_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890477759,
-    "wof:lastmodified":1566612551,
+    "wof:lastmodified":1690858634,
     "wof:name":"Kond\u017eelj",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

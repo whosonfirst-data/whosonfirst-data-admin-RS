@@ -23,11 +23,20 @@
     "name:ceb_x_preferred":[
         "Rumenka"
     ],
+    "name:ces_x_preferred":[
+        "Rumenka"
+    ],
+    "name:deu_x_preferred":[
+        "Rumenka"
+    ],
     "name:eng_x_preferred":[
         "Rumenka"
     ],
     "name:epo_x_preferred":[
         "Rumenka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0646\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Rumenka"
@@ -42,6 +51,9 @@
         "Rumenka"
     ],
     "name:nld_x_preferred":[
+        "Rumenka"
+    ],
+    "name:pol_x_preferred":[
         "Rumenka"
     ],
     "name:slk_x_preferred":[
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":890477809,
-    "wof:lastmodified":1566612558,
+    "wof:lastmodified":1690858646,
     "wof:name":"Rumenka",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",

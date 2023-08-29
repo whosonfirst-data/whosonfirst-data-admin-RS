@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Jajinci"
     ],
+    "name:rus_x_preferred":[
+        "\u042f\u0438\u043d\u0446\u044b"
+    ],
     "name:slv_x_preferred":[
         "Jajinci"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1393843497,
-    "wof:lastmodified":1566612448,
+    "wof:lastmodified":1690858536,
     "wof:name":"Jajinci",
     "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",

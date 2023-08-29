@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Globoder"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0648\u0628\u0648\u062f\u0631"
+    ],
     "name:fra_x_preferred":[
         "Globoder"
     ],
@@ -32,6 +35,9 @@
         "Globoder"
     ],
     "name:nld_x_preferred":[
+        "Globoder"
+    ],
+    "name:pol_x_preferred":[
         "Globoder"
     ],
     "name:por_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890477877,
-    "wof:lastmodified":1566612553,
+    "wof:lastmodified":1690858636,
     "wof:name":"Globoder",
     "wof:parent_id":1108809937,
     "wof:placetype":"locality",

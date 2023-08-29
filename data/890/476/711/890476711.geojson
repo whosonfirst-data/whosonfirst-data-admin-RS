@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0634\u0641\u0627\u0646\u0633\u0643\u0627 \u0645\u064a\u062a\u0631\u0648\u0641\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u062a\u0634\u0641\u0627\u0646\u0633\u0643\u0627 \u0645\u064a\u062a\u0631\u0648\u0641\u064a\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ma\u010dvanska Mitrovica"
+    ],
     "name:ceb_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
     "name:ces_x_preferred":[
         "Ma\u010dvanska Mitrovica"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:deu_x_preferred":[
         "Ma\u010dvanska Mitrovica"
@@ -37,6 +46,9 @@
     "name:epo_x_preferred":[
         "Ma\u0109vanska Mitrovica"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0686\u0648\u0627\u0646\u0633\u06a9\u0627 \u0645\u06cc\u062a\u0631\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
@@ -46,10 +58,16 @@
     "name:hun_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
+    "name:hun_x_variant":[
+        "Szenternye"
+    ],
     "name:msa_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
     "name:nld_x_preferred":[
+        "Ma\u010dvanska Mitrovica"
+    ],
+    "name:pol_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
     "name:slv_x_preferred":[
@@ -58,11 +76,20 @@
     "name:spa_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
+    "name:sqi_x_preferred":[
+        "Mitrovica e Ma\u00e7v\u00ebs"
+    ],
     "name:srp_x_preferred":[
         "Ma\u010dvanska Mitrovica"
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u044c\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
         "Srpski Mitrovica"
@@ -108,7 +135,7 @@
         }
     ],
     "wof:id":890476711,
-    "wof:lastmodified":1566612518,
+    "wof:lastmodified":1690858589,
     "wof:name":"Ma\u010dvanska Mitrovica",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

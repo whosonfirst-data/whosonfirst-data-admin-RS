@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Suvi Do"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0648\u06cc \u062f\u0648"
+    ],
     "name:fra_x_preferred":[
         "Suvi Do"
     ],
@@ -32,6 +35,9 @@
         "Suvi Do"
     ],
     "name:nld_x_preferred":[
+        "Suvi Do"
+    ],
+    "name:pol_x_preferred":[
         "Suvi Do"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477831,
-    "wof:lastmodified":1566612558,
+    "wof:lastmodified":1690858645,
     "wof:name":"Suvi Do",
     "wof:parent_id":1108809849,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:alb_x_variant":[
         "Gllogovc"
     ],
+    "name:ceb_x_preferred":[
+        "Glogovac"
+    ],
     "name:eng_x_preferred":[
         "Glogovac"
     ],
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890477525,
-    "wof:lastmodified":1636494744,
+    "wof:lastmodified":1690858657,
     "wof:name":"Glogovac",
     "wof:parent_id":1108809907,
     "wof:placetype":"locality",

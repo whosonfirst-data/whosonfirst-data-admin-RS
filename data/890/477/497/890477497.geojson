@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u062f\u0632\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Iland\u017ea"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Ilan\u011da"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u0627\u0646\u062c\u0627"
     ],
     "name:fra_x_preferred":[
         "Iland\u017ea"
@@ -45,6 +51,9 @@
         "Iland\u017ea"
     ],
     "name:nld_x_preferred":[
+        "Iland\u017ea"
+    ],
+    "name:pol_x_preferred":[
         "Iland\u017ea"
     ],
     "name:ron_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":890477497,
-    "wof:lastmodified":1566612534,
+    "wof:lastmodified":1690858610,
     "wof:name":"Iland\u017ea",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

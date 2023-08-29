@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Gornje Nedeljice"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u06af\u0647 \u0646\u062f\u06cc\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Gornje Nedeljice"
     ],
@@ -32,6 +35,9 @@
         "Gornje Nedeljice"
     ],
     "name:nld_x_preferred":[
+        "Gornje Nedeljice"
+    ],
+    "name:pol_x_preferred":[
         "Gornje Nedeljice"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476697,
-    "wof:lastmodified":1566612514,
+    "wof:lastmodified":1690858582,
     "wof:name":"Gornje Nedeljice",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

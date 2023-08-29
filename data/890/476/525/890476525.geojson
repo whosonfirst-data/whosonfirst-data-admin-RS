@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Vilovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Vilovo"
     ],
@@ -41,6 +44,9 @@
         "Vilovo"
     ],
     "name:nld_x_preferred":[
+        "Vilovo"
+    ],
+    "name:pol_x_preferred":[
         "Vilovo"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890476525,
-    "wof:lastmodified":1566612518,
+    "wof:lastmodified":1690858587,
     "wof:name":"Vilovo",
     "wof:parent_id":1108810111,
     "wof:placetype":"locality",

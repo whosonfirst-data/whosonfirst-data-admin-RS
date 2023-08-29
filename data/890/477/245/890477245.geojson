@@ -28,6 +28,9 @@
     "name:bos_x_preferred":[
         "Senta"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Senta"
     ],
@@ -54,6 +57,12 @@
     ],
     "name:est_x_preferred":[
         "Senta"
+    ],
+    "name:eus_x_preferred":[
+        "Senta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Senta"
@@ -85,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc13c\ud0c0"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u043d\u0442\u0430"
     ],
     "name:msa_x_preferred":[
         "Senta"
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":890477245,
-    "wof:lastmodified":1566612528,
+    "wof:lastmodified":1690858601,
     "wof:name":"Senta",
     "wof:parent_id":1108810067,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "name:ceb_x_preferred":[
         "Obshtina Novo Selo"
     ],
+    "name:ceb_x_variant":[
+        "Novo Selo"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u044d\u0432\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Nowo Selo"
+    ],
     "name:eng_x_preferred":[
         "Novo Selo"
     ],
@@ -61,8 +70,17 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
     "name:swe_x_preferred":[
         "Obsjtina Novo Selo"
+    ],
+    "name:swe_x_variant":[
+        "Novo Selo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0430\u0432\u044b\u043b"
     ],
     "name:tur_x_preferred":[
         "Novo Selo"
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":890476619,
-    "wof:lastmodified":1636494742,
+    "wof:lastmodified":1690858560,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

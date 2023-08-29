@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "Gajdobra"
     ],
+    "name:ces_x_preferred":[
+        "Gajdobra"
+    ],
     "name:eng_x_preferred":[
         "Gajdobra"
     ],
     "name:epo_x_preferred":[
         "Gajdobra"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u06cc\u062f\u0648\u0628\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Gajdobra"
@@ -45,6 +51,9 @@
         "Gajdobra"
     ],
     "name:nld_x_preferred":[
+        "Gajdobra"
+    ],
+    "name:pol_x_preferred":[
         "Gajdobra"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890476639,
-    "wof:lastmodified":1566612515,
+    "wof:lastmodified":1690858583,
     "wof:name":"Gajdobra",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

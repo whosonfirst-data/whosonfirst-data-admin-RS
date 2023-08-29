@@ -28,8 +28,14 @@
     "name:epo_x_preferred":[
         "Neuzina"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0632\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Neuzina"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrvatska Neuzina"
     ],
     "name:hun_x_preferred":[
         "Nezs\u00e9ny"
@@ -38,6 +44,9 @@
         "Neuzina"
     ],
     "name:nld_x_preferred":[
+        "Neuzina"
+    ],
+    "name:pol_x_preferred":[
         "Neuzina"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890476931,
-    "wof:lastmodified":1566612496,
+    "wof:lastmodified":1690858554,
     "wof:name":"Neuzina",
     "wof:parent_id":1108810065,
     "wof:placetype":"locality",

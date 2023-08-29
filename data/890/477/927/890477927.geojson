@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Rudine"
     ],
+    "name:pol_x_preferred":[
+        "Rudine"
+    ],
     "name:slv_x_preferred":[
         "Rudine"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890477927,
-    "wof:lastmodified":1566612564,
+    "wof:lastmodified":1690858655,
     "wof:name":"Rudine",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

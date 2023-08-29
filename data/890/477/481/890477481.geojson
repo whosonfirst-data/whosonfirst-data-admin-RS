@@ -23,14 +23,23 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u0627\u062a\u064a\u0628\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0632\u0644\u0627\u062a\u064a\u0628\u0648\u0631"
+    ],
     "name:bos_x_preferred":[
         "Kraljeve Vode"
     ],
     "name:ceb_x_preferred":[
         "Zlatibor"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440"
+    ],
     "name:deu_x_preferred":[
         "Zlatibor"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bb\u03ac\u03c4\u03b9\u03bc\u03c0\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Zlatibor"
@@ -47,10 +56,22 @@
     "name:hrv_x_preferred":[
         "Zlatibor"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30e9\u30c6\u30a3\u30dc\u30eb"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440"
+    ],
     "name:nld_x_preferred":[
         "Zlatibor"
     ],
+    "name:pol_x_preferred":[
+        "Zlatibor"
+    ],
     "name:por_x_preferred":[
+        "Zlatibor"
+    ],
+    "name:ron_x_preferred":[
         "Zlatibor"
     ],
     "name:rus_x_preferred":[
@@ -63,6 +84,9 @@
         "Zlatibor"
     ],
     "name:srp_x_variant":[
+        "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440"
+    ],
+    "name:tat_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440"
     ],
     "name:und_x_variant":[
@@ -113,7 +137,7 @@
         }
     ],
     "wof:id":890477481,
-    "wof:lastmodified":1566612553,
+    "wof:lastmodified":1690858637,
     "wof:name":"Zlatibor",
     "wof:parent_id":1108809869,
     "wof:placetype":"locality",

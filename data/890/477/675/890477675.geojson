@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Stubline"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0648\u0628\u0644\u06cc\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Stubline"
     ],
@@ -41,8 +44,14 @@
     "name:nld_x_preferred":[
         "Stubline"
     ],
+    "name:pol_x_preferred":[
+        "Stubline"
+    ],
     "name:por_x_preferred":[
         "Stubline"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0431\u043b\u0438\u043d\u0435"
     ],
     "name:slv_x_preferred":[
         "Stubline"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890477675,
-    "wof:lastmodified":1566612525,
+    "wof:lastmodified":1690858598,
     "wof:name":"Stubline",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Toba"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Toba"
     ],
@@ -41,6 +44,9 @@
         "Toba"
     ],
     "name:nld_x_preferred":[
+        "Toba"
+    ],
+    "name:pol_x_preferred":[
         "Toba"
     ],
     "name:ron_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890476975,
-    "wof:lastmodified":1566612519,
+    "wof:lastmodified":1690858590,
     "wof:name":"Toba",
     "wof:parent_id":1108809991,
     "wof:placetype":"locality",

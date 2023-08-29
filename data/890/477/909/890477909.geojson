@@ -58,6 +58,9 @@
     "name:pol_x_preferred":[
         "Brezovica"
     ],
+    "name:por_x_preferred":[
+        "Brezovica"
+    ],
     "name:ron_x_preferred":[
         "Brezovica"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Brezovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:vie_x_preferred":[
         "Brezovica"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":890477909,
-    "wof:lastmodified":1636494743,
+    "wof:lastmodified":1690858590,
     "wof:name":"Brezovica",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",

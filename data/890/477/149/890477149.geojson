@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Bace"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Bace"
     ],
@@ -32,6 +35,9 @@
         "Bace"
     ],
     "name:nld_x_preferred":[
+        "Bace"
+    ],
+    "name:pol_x_preferred":[
         "Bace"
     ],
     "name:por_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890477149,
-    "wof:lastmodified":1566612569,
+    "wof:lastmodified":1690858661,
     "wof:name":"Bace",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

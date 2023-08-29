@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Bzenice"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u0646\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Bzenice"
     ],
@@ -35,6 +38,9 @@
         "Bzenice"
     ],
     "name:nld_x_preferred":[
+        "Bzenice"
+    ],
+    "name:pol_x_preferred":[
         "Bzenice"
     ],
     "name:por_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890476741,
-    "wof:lastmodified":1566612508,
+    "wof:lastmodified":1690858570,
     "wof:name":"Bzenice",
     "wof:parent_id":1108809809,
     "wof:placetype":"locality",

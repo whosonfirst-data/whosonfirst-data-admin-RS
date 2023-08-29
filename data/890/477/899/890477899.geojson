@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Bu\u0161tranje"
     ],
+    "name:pol_x_preferred":[
+        "Bu\u0161tranje"
+    ],
     "name:slv_x_preferred":[
         "Bu\u0161tranje"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890477899,
-    "wof:lastmodified":1566612561,
+    "wof:lastmodified":1690858651,
     "wof:name":"Bu\u0161tranje",
     "wof:parent_id":1108810039,
     "wof:placetype":"locality",

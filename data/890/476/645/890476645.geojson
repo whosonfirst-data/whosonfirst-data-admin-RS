@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Poto\u010di\u0107"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0648\u0686\u06cc\u0686"
+    ],
     "name:fra_x_preferred":[
         "Poto\u010di\u0107"
     ],
@@ -32,6 +35,9 @@
         "Poto\u010di\u0107"
     ],
     "name:nld_x_preferred":[
+        "Poto\u010di\u0107"
+    ],
+    "name:pol_x_preferred":[
         "Poto\u010di\u0107"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476645,
-    "wof:lastmodified":1566612501,
+    "wof:lastmodified":1690858561,
     "wof:name":"Poto\u010di\u0107",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:ara_x_variant":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0643\u0648\u0644\u0648\u0628\u0627\u0631\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Kolubar dair\u0259si"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0443\u0431\u0430\u0440\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
@@ -137,6 +140,9 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u094d\u0932\u0941\u092c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043b\u0443\u0431\u0430\u0440\u0441\u043a\u0438 \u041e\u043a\u0440\u0443\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u043b\u0443\u0431\u0430\u0440 \u0430\u0439\u043c\u0430\u0433"
     ],
@@ -208,6 +214,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kolubara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u5362\u5df4\u62c9\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u76e7\u5df4\u62c9\u5dde"
@@ -321,7 +330,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a58d9a41a2735c753442729564d3a88e",
+    "wof:geomhash":"ff0849a9eab89511ad4319a28d8827f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -342,7 +351,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1690858528,
     "wof:name":"Kolubarski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

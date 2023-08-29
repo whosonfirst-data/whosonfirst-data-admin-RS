@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Zmajevo"
     ],
+    "name:ces_x_preferred":[
+        "Zmajevo"
+    ],
     "name:eng_x_preferred":[
         "Zmajevo"
     ],
     "name:epo_x_preferred":[
         "Zmajevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u0627\u06cc\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "Zmajevo"
@@ -41,6 +47,9 @@
         "Zmajevo"
     ],
     "name:nld_x_preferred":[
+        "Zmajevo"
+    ],
+    "name:pol_x_preferred":[
         "Zmajevo"
     ],
     "name:slv_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":890476907,
-    "wof:lastmodified":1566612496,
+    "wof:lastmodified":1690858554,
     "wof:name":"Zmajevo",
     "wof:parent_id":1108810149,
     "wof:placetype":"locality",

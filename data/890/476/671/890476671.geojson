@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Gubetin"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0628\u062a\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Gubetin"
     ],
@@ -32,6 +35,9 @@
         "Gubetin"
     ],
     "name:nld_x_preferred":[
+        "Gubetin"
+    ],
+    "name:pol_x_preferred":[
         "Gubetin"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890476671,
-    "wof:lastmodified":1566612512,
+    "wof:lastmodified":1690858578,
     "wof:name":"Gubetin",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

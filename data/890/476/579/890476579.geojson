@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Luke"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0647"
+    ],
     "name:fra_x_preferred":[
         "Luke"
     ],
@@ -29,6 +32,9 @@
         "Luke"
     ],
     "name:nld_x_preferred":[
+        "Luke"
+    ],
+    "name:pol_x_preferred":[
         "Luke"
     ],
     "name:por_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890476579,
-    "wof:lastmodified":1566612518,
+    "wof:lastmodified":1690858588,
     "wof:name":"Luke",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

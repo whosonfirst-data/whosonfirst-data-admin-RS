@@ -40,6 +40,9 @@
     "name:epo_x_preferred":[
         "Batajnica"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0627\u062c\u0646\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Batajnica"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ger_x_preferred":[
         "Batajnica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d8\u05d0\u05d9\u05e0\u05d9\u05e6\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Batajnica"
@@ -61,8 +67,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30bf\u30a4\u30cb\u30c4\u30a1"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
     "name:nld_x_preferred":[
         "Batajnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0430\u0439\u043d\u0438\u0446\u0430"
     ],
     "name:slv_x_preferred":[
         "Batajnica"
@@ -75,6 +87,9 @@
     ],
     "name:srp_x_variant":[
         "\u0411\u0430\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Batajnica"
     ],
     "qs:name":"Batajnica",
     "qs:name_adm0":"Serbia",
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":1393843511,
-    "wof:lastmodified":1566612450,
+    "wof:lastmodified":1690858537,
     "wof:name":"Batajnica",
     "wof:parent_id":1393843425,
     "wof:placetype":"neighbourhood",

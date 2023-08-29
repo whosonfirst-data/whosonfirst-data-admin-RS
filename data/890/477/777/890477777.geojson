@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "\u017ditni Potok"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u062a\u0646\u06cc \u067e\u0648\u062a\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "\u017ditni Potok"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:nld_x_preferred":[
         "Zjitni Potok"
+    ],
+    "name:pol_x_preferred":[
+        "\u017ditni Potok"
     ],
     "name:por_x_preferred":[
         "\u017ditni Potok"
@@ -49,6 +55,9 @@
     ],
     "name:srp_x_variant":[
         "\u0416\u0438\u0442\u043d\u0438 \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u017ditni Potok"
     ],
     "qs:name":"\u017ditni Potok",
     "qs:name_adm0":"Serbia",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890477777,
-    "wof:lastmodified":1566612545,
+    "wof:lastmodified":1690858624,
     "wof:name":"\u017ditni Potok",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

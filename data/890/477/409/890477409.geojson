@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "Deronje"
     ],
+    "name:ces_x_preferred":[
+        "Deronje"
+    ],
     "name:eng_x_preferred":[
         "Deronje"
     ],
     "name:epo_x_preferred":[
         "Deronje"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0648\u0646\u06af\u0647"
     ],
     "name:fra_x_preferred":[
         "Deronje"
@@ -42,6 +48,9 @@
         "Deronje"
     ],
     "name:nld_x_preferred":[
+        "Deronje"
+    ],
+    "name:pol_x_preferred":[
         "Deronje"
     ],
     "name:ron_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890477409,
-    "wof:lastmodified":1566612536,
+    "wof:lastmodified":1690858612,
     "wof:name":"Deronje",
     "wof:parent_id":1108810009,
     "wof:placetype":"locality",

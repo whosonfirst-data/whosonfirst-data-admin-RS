@@ -47,6 +47,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0631\u064a\u0645"
     ],
+    "name:aze_x_preferred":[
+        "Srem dair\u0259si"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0440\u044d\u043c\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
@@ -140,6 +143,12 @@
     "name:mar_x_preferred":[
         "\u0938\u0930\u0947\u092e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u041e\u043a\u0440\u0443\u0433"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0440\u0435\u043c \u0430\u0439\u043c\u0430\u0433"
+    ],
     "name:msa_x_preferred":[
         "Srem District"
     ],
@@ -206,6 +215,9 @@
     "name:vie_x_preferred":[
         "Syrmia"
     ],
+    "name:wuu_x_preferred":[
+        "\u65af\u96f7\u59c6\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u65af\u96f7\u59c6\u5dde"
     ],
@@ -259,7 +271,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8439ffacdc2d69c9a00b2d3635fb0434",
+    "wof:geomhash":"bdbb43bb8a81bae45f9ff70b190224f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -280,7 +292,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1690858531,
     "wof:name":"Sremski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

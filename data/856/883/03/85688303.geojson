@@ -47,6 +47,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0631\u0648\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0440\u0430\u0446\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b0\u099f \u099c\u09c7\u09b2\u09be"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Pirot"
+    ],
+    "name:ces_x_preferred":[
+        "Pirotsk\u00fd okruh"
     ],
     "name:dan_x_preferred":[
         "Pirot District"
@@ -125,6 +131,9 @@
     "name:mar_x_preferred":[
         "\u092a\u093f\u0930\u094b\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442\u0441\u043a\u0438 \u041e\u043a\u0440\u0443\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u041f\u0438\u0440\u043e\u0442 \u0430\u0439\u043c\u0430\u0433"
     ],
@@ -191,6 +200,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Pirot"
     ],
+    "name:wuu_x_preferred":[
+        "\u76ae\u7f57\u7279\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u76ae\u7f85\u7279\u5dde"
     ],
@@ -242,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12d3f42284c4e46ea99f4ba13ceb860c",
+    "wof:geomhash":"52c34702392e4341311d732fd62e6ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,7 +275,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1690858527,
     "wof:name":"Pirotski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

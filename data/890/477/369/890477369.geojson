@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Donji Dobri\u0107"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u06cc \u062f\u0648\u0628\u0631\u06cc\u0686"
+    ],
     "name:fra_x_preferred":[
         "Donji Dobri\u0107"
     ],
@@ -35,6 +38,9 @@
         "Donji Dobri\u0107"
     ],
     "name:nld_x_preferred":[
+        "Donji Dobri\u0107"
+    ],
+    "name:pol_x_preferred":[
         "Donji Dobri\u0107"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477369,
-    "wof:lastmodified":1566612549,
+    "wof:lastmodified":1690858631,
     "wof:name":"Donji Dobri\u0107",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

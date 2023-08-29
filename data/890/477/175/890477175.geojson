@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0634\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Be\u0161ka"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:epo_x_preferred":[
         "Be\u015dka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Be\u0161ka"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890477175,
-    "wof:lastmodified":1566612544,
+    "wof:lastmodified":1690858623,
     "wof:name":"Be\u0161ka",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

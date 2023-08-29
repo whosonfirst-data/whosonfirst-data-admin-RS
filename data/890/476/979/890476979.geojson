@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Tara\u0161"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:epo_x_preferred":[
         "Tara\u015d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0634"
     ],
     "name:fra_x_preferred":[
         "Tara\u0161"
@@ -44,6 +50,9 @@
         "Tara\u0161"
     ],
     "name:nld_x_preferred":[
+        "Tara\u0161"
+    ],
+    "name:pol_x_preferred":[
         "Tara\u0161"
     ],
     "name:ron_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890476979,
-    "wof:lastmodified":1566612504,
+    "wof:lastmodified":1690858566,
     "wof:name":"Tara\u0161",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

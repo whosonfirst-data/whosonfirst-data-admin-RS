@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Dublje"
     ],
+    "name:pol_x_preferred":[
+        "Dublje"
+    ],
     "name:por_x_preferred":[
         "Dublje"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890477731,
-    "wof:lastmodified":1566612524,
+    "wof:lastmodified":1690858596,
     "wof:name":"Dublje",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

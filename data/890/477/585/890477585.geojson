@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Krnja\u010da"
     ],
+    "name:ces_x_preferred":[
+        "Krnja\u010da"
+    ],
     "name:eng_x_preferred":[
         "Krnja\u010da"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890477585,
-    "wof:lastmodified":1566612563,
+    "wof:lastmodified":1690858654,
     "wof:name":"Krnja\u010da",
     "wof:parent_id":1108810015,
     "wof:placetype":"locality",

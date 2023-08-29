@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "In\u0111ija"
+    ],
     "name:bos_x_preferred":[
         "In\u0111ija"
     ],
@@ -100,6 +103,9 @@
     "name:pol_x_preferred":[
         "In\u0111ija"
     ],
+    "name:ron_x_preferred":[
+        "In\u0111ija"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0434\u0436\u0438\u044f"
     ],
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890476949,
-    "wof:lastmodified":1566612506,
+    "wof:lastmodified":1690858569,
     "wof:name":"In\u0111ija",
     "wof:parent_id":1108809901,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Sefkerin"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u06a9\u0631\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sefkerin"
     ],
@@ -47,10 +50,16 @@
     "name:nld_x_preferred":[
         "Sefkerin"
     ],
+    "name:pol_x_preferred":[
+        "Sefkerin"
+    ],
     "name:ron_x_preferred":[
         "Sefkerin"
     ],
     "name:slv_x_preferred":[
+        "Sefkerin"
+    ],
+    "name:spa_x_preferred":[
         "Sefkerin"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890477511,
-    "wof:lastmodified":1566612544,
+    "wof:lastmodified":1690858623,
     "wof:name":"Sefkerin",
     "wof:parent_id":1108810011,
     "wof:placetype":"locality",

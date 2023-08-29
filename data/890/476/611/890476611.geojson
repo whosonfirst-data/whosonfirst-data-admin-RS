@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Brezova"
     ],
+    "name:pol_x_preferred":[
+        "Brezova"
+    ],
     "name:por_x_preferred":[
         "Brezova"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890476611,
-    "wof:lastmodified":1566612502,
+    "wof:lastmodified":1690858563,
     "wof:name":"Brezova",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

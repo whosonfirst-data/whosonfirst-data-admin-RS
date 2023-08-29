@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Miljkovica"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Miljkovica"
     ],
@@ -32,6 +35,9 @@
         "Miljkovica"
     ],
     "name:nld_x_preferred":[
+        "Miljkovica"
+    ],
+    "name:pol_x_preferred":[
         "Miljkovica"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476647,
-    "wof:lastmodified":1566612512,
+    "wof:lastmodified":1690858579,
     "wof:name":"Miljkovica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

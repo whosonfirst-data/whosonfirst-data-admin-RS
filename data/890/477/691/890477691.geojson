@@ -29,6 +29,9 @@
     "name:epo_x_preferred":[
         "Kolut"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u062a"
+    ],
     "name:fra_x_preferred":[
         "Kolut"
     ],
@@ -42,6 +45,9 @@
         "Kolut"
     ],
     "name:nld_x_preferred":[
+        "Kolut"
+    ],
+    "name:pol_x_preferred":[
         "Kolut"
     ],
     "name:slv_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890477691,
-    "wof:lastmodified":1566612559,
+    "wof:lastmodified":1690858648,
     "wof:name":"Kolut",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

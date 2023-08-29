@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Brdarica"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062f\u0627\u0631\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Brdarica"
     ],
@@ -32,6 +35,9 @@
         "Brdarica"
     ],
     "name:nld_x_preferred":[
+        "Brdarica"
+    ],
+    "name:pol_x_preferred":[
         "Brdarica"
     ],
     "name:por_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:srp_x_variant":[
         "\u0411\u0440\u0434\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:szl_x_preferred":[
+        "Brdarica"
     ],
     "name:und_x_variant":[
         "Brdarice"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890477067,
-    "wof:lastmodified":1566612561,
+    "wof:lastmodified":1690858652,
     "wof:name":"Brdarica",
     "wof:parent_id":1108809921,
     "wof:placetype":"locality",

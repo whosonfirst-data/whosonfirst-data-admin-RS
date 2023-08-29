@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Trbosilje"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0628\u0648\u0633\u06cc\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Trbosilje"
     ],
@@ -32,6 +35,9 @@
         "Trbosilje"
     ],
     "name:nld_x_preferred":[
+        "Trbosilje"
+    ],
+    "name:pol_x_preferred":[
         "Trbosilje"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476679,
-    "wof:lastmodified":1566612513,
+    "wof:lastmodified":1690858580,
     "wof:name":"Trbosilje",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

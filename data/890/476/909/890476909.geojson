@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Varna"
     ],
+    "name:pol_x_preferred":[
+        "Varna"
+    ],
     "name:por_x_preferred":[
         "Varna"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890476909,
-    "wof:lastmodified":1636494742,
+    "wof:lastmodified":1690858553,
     "wof:name":"Varna",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0634\u0643\u0627 \u062a\u0648\u0628\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062a\u0634\u0643\u0627 \u062a\u0648\u0628\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ba\u010dka Topola"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430 \u0422\u043e\u043f\u0430\u043b\u0430"
+    ],
     "name:bos_x_preferred":[
         "Ba\u010dka Topola"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:est_x_preferred":[
         "Ba\u010dka Topola"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9\u0627 \u062a\u0648\u067e\u0648\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Ba\u010dka Topola"
@@ -149,7 +161,7 @@
         }
     ],
     "wof:id":890477385,
-    "wof:lastmodified":1566612542,
+    "wof:lastmodified":1690858621,
     "wof:name":"Ba\u010dka Topola",
     "wof:parent_id":1108809829,
     "wof:placetype":"locality",

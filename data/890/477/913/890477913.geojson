@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Gojinovac"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u06cc\u06cc\u0646\u0648\u0648\u0627\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Gojinovac"
     ],
@@ -29,6 +32,9 @@
         "Gojinovac"
     ],
     "name:nld_x_preferred":[
+        "Gojinovac"
+    ],
+    "name:pol_x_preferred":[
         "Gojinovac"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890477913,
-    "wof:lastmodified":1566612545,
+    "wof:lastmodified":1690858626,
     "wof:name":"Gojinovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

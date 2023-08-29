@@ -38,6 +38,9 @@
     "name:est_x_preferred":[
         "Topola"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u067e\u0648\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Topola"
     ],
@@ -95,6 +98,9 @@
     "name:tur_x_preferred":[
         "Topola"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0430"
+    ],
     "name:vie_x_preferred":[
         "Topola"
     ],
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":890476637,
-    "wof:lastmodified":1566612514,
+    "wof:lastmodified":1690858582,
     "wof:name":"Topola",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",

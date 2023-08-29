@@ -40,13 +40,22 @@
     "name:hun_x_preferred":[
         "Grabovac"
     ],
+    "name:nds_x_preferred":[
+        "Grabovac"
+    ],
     "name:nld_x_preferred":[
+        "Grabovac"
+    ],
+    "name:pol_x_preferred":[
         "Grabovac"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u0431\u043e\u0432\u0430\u0446"
     ],
     "name:slv_x_preferred":[
+        "Grabovac"
+    ],
+    "name:spa_x_preferred":[
         "Grabovac"
     ],
     "name:sqi_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":890477785,
-    "wof:lastmodified":1566612541,
+    "wof:lastmodified":1690858620,
     "wof:name":"Grabovac",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

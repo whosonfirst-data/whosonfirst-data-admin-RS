@@ -44,6 +44,9 @@
     "name:nld_x_preferred":[
         "Veliki Gaj"
     ],
+    "name:pol_x_preferred":[
+        "Veliki Gaj"
+    ],
     "name:ron_x_preferred":[
         "Gaiu Mare"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890477625,
-    "wof:lastmodified":1566612552,
+    "wof:lastmodified":1690858635,
     "wof:name":"Veliki Gaj",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

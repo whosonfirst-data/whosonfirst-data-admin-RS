@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:aze_x_preferred":[
+        "Neqotin"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0435\u0433\u0430\u0446\u0456\u043d"
     ],
@@ -28,8 +31,14 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Negotin"
+    ],
     "name:ces_x_preferred":[
         "Negotin"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
     ],
     "name:dan_x_preferred":[
         "Negotin"
@@ -45,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Negotin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u0648\u062a\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Negotin"
@@ -72,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub124\uace0\ud2f4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
     ],
     "name:msa_x_preferred":[
         "Negotin"
@@ -118,6 +133,9 @@
     "name:tur_x_preferred":[
         "Negotin"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0442\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Negotin Krajinski"
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":890477299,
-    "wof:lastmodified":1566612562,
+    "wof:lastmodified":1690858653,
     "wof:name":"Negotin",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

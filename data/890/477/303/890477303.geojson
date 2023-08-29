@@ -76,6 +76,9 @@
     "name:slv_x_preferred":[
         "Mol"
     ],
+    "name:spa_x_preferred":[
+        "Mol"
+    ],
     "name:srp_x_preferred":[
         "Mol"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890477303,
-    "wof:lastmodified":1566612548,
+    "wof:lastmodified":1690858629,
     "wof:name":"Mol",
     "wof:parent_id":1108809807,
     "wof:placetype":"locality",

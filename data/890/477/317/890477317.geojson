@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Hajdu\u0109ica"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u06cc\u062f\u0648\u0686\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Hajdu\u010dica"
     ],
@@ -40,10 +43,16 @@
     "name:nld_x_preferred":[
         "Hajdu\u010dica"
     ],
+    "name:pol_x_preferred":[
+        "Hajdu\u010dica"
+    ],
     "name:ron_x_preferred":[
         "Hajdu\u010dica"
     ],
     "name:slv_x_preferred":[
+        "Hajdu\u010dica"
+    ],
+    "name:spa_x_preferred":[
         "Hajdu\u010dica"
     ],
     "name:srp_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890477317,
-    "wof:lastmodified":1566612566,
+    "wof:lastmodified":1690858658,
     "wof:name":"Hajdu\u010dica",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

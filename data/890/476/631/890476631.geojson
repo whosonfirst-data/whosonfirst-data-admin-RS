@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Ora\u0161ac"
     ],
+    "name:pol_x_preferred":[
+        "Ora\u0161ac"
+    ],
     "name:slv_x_preferred":[
         "Ora\u0161ac"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890476631,
-    "wof:lastmodified":1566612516,
+    "wof:lastmodified":1690858584,
     "wof:name":"Ora\u0161ac",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

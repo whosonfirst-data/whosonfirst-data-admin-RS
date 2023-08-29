@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Doroslovo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0648\u0633\u0644\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Doroslovo"
     ],
@@ -41,6 +44,9 @@
         "Doroslovo"
     ],
     "name:nld_x_preferred":[
+        "Doroslovo"
+    ],
+    "name:pol_x_preferred":[
         "Doroslovo"
     ],
     "name:slv_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890477367,
-    "wof:lastmodified":1566612549,
+    "wof:lastmodified":1690858631,
     "wof:name":"Doroslovo",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

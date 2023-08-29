@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Bukuloram"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u0644\u0648\u0631\u0627\u0645"
+    ],
     "name:fra_x_preferred":[
         "Bukuloram"
     ],
@@ -29,6 +32,9 @@
         "Bukuloram"
     ],
     "name:nld_x_preferred":[
+        "Bukuloram"
+    ],
+    "name:pol_x_preferred":[
         "Bukuloram"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890477905,
-    "wof:lastmodified":1566612550,
+    "wof:lastmodified":1690858633,
     "wof:name":"Bukoloram",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

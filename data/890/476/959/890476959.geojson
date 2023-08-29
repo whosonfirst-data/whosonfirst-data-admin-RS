@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u062a\u0633\u0643\u0649 \u062f\u064a\u0633\u067e\u0648\u062a\u0648\u06a4\u0627\u0643"
+    ],
     "name:ceb_x_preferred":[
         "Banatski Despotovac"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:epo_x_preferred":[
         "Banatski Despotovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u062a\u0633\u06a9\u06cc \u062f\u0633\u067e\u0648\u062a\u0648\u0648\u0627\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Banatski Despotovac"
@@ -44,6 +50,9 @@
         "Banatski Despotovac"
     ],
     "name:nld_x_preferred":[
+        "Banatski Despotovac"
+    ],
+    "name:pol_x_preferred":[
         "Banatski Despotovac"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890476959,
-    "wof:lastmodified":1566612508,
+    "wof:lastmodified":1690858572,
     "wof:name":"Banatski Despotovac",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Pavli\u015d"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0648\u0644\u06cc\u0634"
+    ],
     "name:fra_x_preferred":[
         "Pavli\u0161"
     ],
@@ -41,6 +44,9 @@
         "Pavli\u0161"
     ],
     "name:nld_x_preferred":[
+        "Pavli\u0161"
+    ],
+    "name:pol_x_preferred":[
         "Pavli\u0161"
     ],
     "name:ron_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890476903,
-    "wof:lastmodified":1566612509,
+    "wof:lastmodified":1690858573,
     "wof:name":"Pavli\u0161",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

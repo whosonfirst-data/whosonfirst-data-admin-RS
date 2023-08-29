@@ -108,6 +108,9 @@
     "name:hrv_x_preferred":[
         "Brani\u010devski upravni okrug"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u057c\u0561\u0576\u056b\u0579\u0587\u057d\u056f\u0575\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Distrik Brani\u010devo"
     ],
@@ -138,6 +141,9 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0901\u0928\u093f\u090f\u0935\u094d\u0939\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u0441\u043a\u0438 \u041e\u043a\u0440\u0443\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432 \u0430\u0439\u043c\u0430\u0433"
     ],
@@ -167,6 +173,9 @@
     ],
     "name:ron_x_preferred":[
         "Districtul Brani\u010devo"
+    ],
+    "name:ron_x_variant":[
+        "Brani\u010devo"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -210,6 +219,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Branicevo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u5170\u5c3c\u5207\u592b\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u862d\u5c3c\u5207\u592b\u5dde"
@@ -323,7 +335,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16fb461e92d92be411c81df292239ed2",
+    "wof:geomhash":"1cd35e73200f7dde061799e58a7af96a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,7 +356,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1690858530,
     "wof:name":"Brani\u010devski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

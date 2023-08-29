@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Desi\u0107"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0633\u06cc\u0686"
+    ],
     "name:fra_x_preferred":[
         "Desi\u0107"
     ],
@@ -32,6 +35,9 @@
         "Desi\u0107"
     ],
     "name:nld_x_preferred":[
+        "Desi\u0107"
+    ],
+    "name:pol_x_preferred":[
         "Desi\u0107"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476769,
-    "wof:lastmodified":1566612509,
+    "wof:lastmodified":1690858573,
     "wof:name":"Desi\u0107",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

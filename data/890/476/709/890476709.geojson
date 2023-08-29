@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Du\u0161anovac"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0443\u0448\u0430\u043d\u043e\u0432\u0430\u0446"
+    ],
     "name:deu_x_preferred":[
         "Du\u0161anovac"
     ],
     "name:eng_x_preferred":[
         "Du\u0161anovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0634\u0627\u0646\u0648\u0648\u0627\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Du\u0161anovac"
@@ -37,16 +43,25 @@
     "name:nld_x_preferred":[
         "Du\u0161anovac"
     ],
+    "name:pol_x_preferred":[
+        "Du\u0161anovac"
+    ],
     "name:por_x_preferred":[
         "Du\u0161anovac"
     ],
     "name:slv_x_preferred":[
         "Du\u0161anovac"
     ],
+    "name:spa_x_preferred":[
+        "Du\u0161anovac"
+    ],
     "name:srp_x_preferred":[
         "Du\u0161anovac"
     ],
     "name:srp_x_variant":[
+        "\u0414\u0443\u0448\u0430\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:tat_x_preferred":[
         "\u0414\u0443\u0448\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
     "qs:name":"Du\u0161anovac",
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":890476709,
-    "wof:lastmodified":1566612499,
+    "wof:lastmodified":1690858557,
     "wof:name":"Du\u0161anovac",
     "wof:parent_id":1108809987,
     "wof:placetype":"locality",

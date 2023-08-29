@@ -41,6 +41,9 @@
     "name:hrv_x_preferred":[
         "Despotovac"
     ],
+    "name:hsb_x_preferred":[
+        "Despotovac"
+    ],
     "name:ind_x_preferred":[
         "Despotovac"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890477281,
-    "wof:lastmodified":1566612532,
+    "wof:lastmodified":1690858607,
     "wof:name":"Despotovac",
     "wof:parent_id":1108809885,
     "wof:placetype":"locality",

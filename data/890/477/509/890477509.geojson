@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Klenje"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0646\u06af\u0647"
+    ],
     "name:fra_x_preferred":[
         "Klenje"
     ],
@@ -30,6 +33,9 @@
         "Klenje"
     ],
     "name:nld_x_preferred":[
+        "Klenje"
+    ],
+    "name:pol_x_preferred":[
         "Klenje"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477509,
-    "wof:lastmodified":1566612550,
+    "wof:lastmodified":1690858632,
     "wof:name":"Klenje",
     "wof:parent_id":1108809851,
     "wof:placetype":"locality",

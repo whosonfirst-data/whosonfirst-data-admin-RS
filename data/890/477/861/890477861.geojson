@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Mari\u010di\u0107e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0686\u06cc\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "Mari\u010di\u0107e"
     ],
@@ -35,6 +38,9 @@
         "Mari\u010di\u0107e"
     ],
     "name:nld_x_preferred":[
+        "Mari\u010di\u0107e"
+    ],
+    "name:pol_x_preferred":[
         "Mari\u010di\u0107e"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477861,
-    "wof:lastmodified":1566612533,
+    "wof:lastmodified":1690858608,
     "wof:name":"Mari\u010di\u0107e",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

@@ -23,8 +23,14 @@
     "name:ceb_x_preferred":[
         "Zatonje"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0442\u043e\u043d\u044c\u0435"
+    ],
     "name:eng_x_preferred":[
         "Zatonje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u062a\u0648\u0646\u06af\u0647"
     ],
     "name:fra_x_preferred":[
         "Zatonje"
@@ -35,10 +41,16 @@
     "name:nld_x_preferred":[
         "Zatonje"
     ],
+    "name:pol_x_preferred":[
+        "Zatonje"
+    ],
     "name:por_x_preferred":[
         "Zatonje"
     ],
     "name:slv_x_preferred":[
+        "Zatonje"
+    ],
+    "name:spa_x_preferred":[
         "Zatonje"
     ],
     "name:srp_x_preferred":[
@@ -46,6 +58,9 @@
     ],
     "name:srp_x_variant":[
         "\u0417\u0430\u0442\u043e\u045a\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0442\u043e\u043d\u044c\u0435"
     ],
     "qs:name":"\u00c5 Etonje",
     "qs:name_adm0":"Serbia",
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":890477587,
-    "wof:lastmodified":1566612545,
+    "wof:lastmodified":1690858626,
     "wof:name":"\u00c5 Etonje",
     "wof:parent_id":1108810133,
     "wof:placetype":"locality",

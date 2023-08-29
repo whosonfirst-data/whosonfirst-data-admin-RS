@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Ri\u0111ica"
     ],
+    "name:ces_x_preferred":[
+        "Ri\u0111ica"
+    ],
     "name:deu_x_preferred":[
         "Ri\u0111ica"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Ridjica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062c\u06cc\u062a\u0633\u0627"
     ],
     "name:fra_x_preferred":[
         "Ri\u0111ica"
@@ -47,7 +53,13 @@
     "name:nld_x_preferred":[
         "Ri\u0111ica"
     ],
+    "name:pol_x_preferred":[
+        "Ri\u0111ica"
+    ],
     "name:slv_x_preferred":[
+        "Ri\u0111ica"
+    ],
+    "name:spa_x_preferred":[
         "Ri\u0111ica"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":890477519,
-    "wof:lastmodified":1566612540,
+    "wof:lastmodified":1690858618,
     "wof:name":"Ri\u00f0ica",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",

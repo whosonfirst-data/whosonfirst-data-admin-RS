@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Beloljin"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u06cc\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Beloljin"
     ],
@@ -32,6 +35,9 @@
         "Beloljin"
     ],
     "name:nld_x_preferred":[
+        "Beloljin"
+    ],
+    "name:pol_x_preferred":[
         "Beloljin"
     ],
     "name:por_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890476655,
-    "wof:lastmodified":1566612514,
+    "wof:lastmodified":1690858581,
     "wof:name":"Beloljin",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Srpski Itebej"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u067e\u0633\u06a9\u06cc \u0627\u06cc\u062a\u0628\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Srpski Itebej"
     ],
@@ -48,6 +51,9 @@
         "Srpski Itebej"
     ],
     "name:nld_x_preferred":[
+        "Srpski Itebej"
+    ],
+    "name:pol_x_preferred":[
         "Srpski Itebej"
     ],
     "name:ron_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890477815,
-    "wof:lastmodified":1566612554,
+    "wof:lastmodified":1690858639,
     "wof:name":"Srpski Itebej",
     "wof:parent_id":1108810167,
     "wof:placetype":"locality",

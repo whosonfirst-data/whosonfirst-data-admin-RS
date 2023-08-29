@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Tmava"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0627\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
         "Tmava"
     ],
@@ -35,6 +38,9 @@
         "Tmava"
     ],
     "name:nld_x_preferred":[
+        "Tmava"
+    ],
+    "name:pol_x_preferred":[
         "Tmava"
     ],
     "name:por_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890477827,
-    "wof:lastmodified":1566612525,
+    "wof:lastmodified":1690858598,
     "wof:name":"Tmava",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

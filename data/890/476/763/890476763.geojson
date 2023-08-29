@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Mili\u0107e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "Mili\u0107e"
     ],
@@ -32,6 +35,9 @@
         "Mili\u0107e"
     ],
     "name:nld_x_preferred":[
+        "Mili\u0107e"
+    ],
+    "name:pol_x_preferred":[
         "Mili\u0107e"
     ],
     "name:por_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890476763,
-    "wof:lastmodified":1566612496,
+    "wof:lastmodified":1690858553,
     "wof:name":"Mili\u0107e",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",

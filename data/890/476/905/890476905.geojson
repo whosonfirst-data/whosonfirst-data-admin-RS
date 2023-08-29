@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Zminjak"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u06cc\u0646\u06af\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Zminjak"
     ],
@@ -32,6 +35,9 @@
         "Zminjak"
     ],
     "name:nld_x_preferred":[
+        "Zminjak"
+    ],
+    "name:pol_x_preferred":[
         "Zminjak"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476905,
-    "wof:lastmodified":1566612510,
+    "wof:lastmodified":1690858575,
     "wof:name":"Zminjak",
     "wof:parent_id":1108810061,
     "wof:placetype":"locality",

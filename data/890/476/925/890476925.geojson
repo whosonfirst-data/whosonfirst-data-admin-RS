@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "\u0160evica"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "\u0160evica"
     ],
@@ -32,6 +35,9 @@
         "\u0160evica"
     ],
     "name:nld_x_preferred":[
+        "\u0160evica"
+    ],
+    "name:pol_x_preferred":[
         "\u0160evica"
     ],
     "name:por_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890476925,
-    "wof:lastmodified":1566612507,
+    "wof:lastmodified":1690858570,
     "wof:name":"\u0160evica",
     "wof:parent_id":1108809939,
     "wof:placetype":"locality",

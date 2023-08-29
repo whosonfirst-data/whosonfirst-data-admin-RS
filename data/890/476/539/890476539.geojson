@@ -31,8 +31,14 @@
     "name:epo_x_preferred":[
         "Novo Milo\u015devo"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0648 \u0645\u06cc\u0644\u0648\u0634\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Novo Milo\u0161evo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05de\u05d9\u05dc\u05d5\u05e9\u05d1\u05d5"
     ],
     "name:hrv_x_preferred":[
         "Novo Milo\u0161evo"
@@ -52,7 +58,13 @@
     "name:ron_x_preferred":[
         "Novo Milo\u0161evo"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u041c\u0438\u043b\u043e\u0448\u0435\u0432\u043e"
+    ],
     "name:slv_x_preferred":[
+        "Novo Milo\u0161evo"
+    ],
+    "name:spa_x_preferred":[
         "Novo Milo\u0161evo"
     ],
     "name:srp_x_preferred":[
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":890476539,
-    "wof:lastmodified":1566612508,
+    "wof:lastmodified":1690858571,
     "wof:name":"Novo Milo\u0161evo",
     "wof:parent_id":1108809995,
     "wof:placetype":"locality",

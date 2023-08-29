@@ -37,7 +37,16 @@
     "name:hrv_x_preferred":[
         "Kru\u0161evica"
     ],
+    "name:hun_x_preferred":[
+        "Kru\u0161evica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0438\u0446\u0430"
+    ],
     "name:nld_x_preferred":[
+        "Kru\u0161evica"
+    ],
+    "name:pol_x_preferred":[
         "Kru\u0161evica"
     ],
     "name:slv_x_preferred":[
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890476801,
-    "wof:lastmodified":1566612515,
+    "wof:lastmodified":1690858584,
     "wof:name":"Kru\u0161evica",
     "wof:parent_id":1108810045,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Jablanka"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0628\u0644\u0627\u0646\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Jablanka"
     ],
@@ -38,6 +41,9 @@
         "Jablanka"
     ],
     "name:nld_x_preferred":[
+        "Jablanka"
+    ],
+    "name:pol_x_preferred":[
         "Jablanka"
     ],
     "name:ron_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890476669,
-    "wof:lastmodified":1566612502,
+    "wof:lastmodified":1690858564,
     "wof:name":"Jablanka",
     "wof:parent_id":1108810153,
     "wof:placetype":"locality",

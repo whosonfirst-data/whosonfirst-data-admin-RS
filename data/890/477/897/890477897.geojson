@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "De\u0161i\u0161ka"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u06cc\u0634\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "De\u0161i\u0161ka"
     ],
@@ -32,6 +35,9 @@
         "De\u0161i\u0161ka"
     ],
     "name:nld_x_preferred":[
+        "De\u0161i\u0161ka"
+    ],
+    "name:pol_x_preferred":[
         "De\u0161i\u0161ka"
     ],
     "name:por_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890477897,
-    "wof:lastmodified":1566612562,
+    "wof:lastmodified":1690858653,
     "wof:name":"De\u0161i\u0161ka",
     "wof:parent_id":1108809943,
     "wof:placetype":"locality",

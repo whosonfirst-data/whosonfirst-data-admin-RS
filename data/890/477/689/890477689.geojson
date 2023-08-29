@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u064a\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Dobrica"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Dobrica"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u06cc\u062a\u0633\u0627"
     ],
     "name:fra_x_preferred":[
         "Dobrica"
@@ -45,6 +51,9 @@
         "Dobrica"
     ],
     "name:nld_x_preferred":[
+        "Dobrica"
+    ],
+    "name:pol_x_preferred":[
         "Dobrica"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890477689,
-    "wof:lastmodified":1566612529,
+    "wof:lastmodified":1690858603,
     "wof:name":"Dobrica",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

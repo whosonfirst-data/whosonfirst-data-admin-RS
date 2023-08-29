@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Velika Krsna"
     ],
+    "name:pol_x_preferred":[
+        "Velika Krsna"
+    ],
     "name:por_x_preferred":[
         "Velika Krsna"
     ],
@@ -45,6 +48,9 @@
         "\u0412\u0435\u043b\u0438\u043a\u0430-\u041a\u0440\u0441\u043d\u0430"
     ],
     "name:slv_x_preferred":[
+        "Velika Krsna"
+    ],
+    "name:spa_x_preferred":[
         "Velika Krsna"
     ],
     "name:srp_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890477471,
-    "wof:lastmodified":1566612526,
+    "wof:lastmodified":1690858599,
     "wof:name":"Velika Krsna",
     "wof:parent_id":1108809985,
     "wof:placetype":"locality",

@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "Nikinci"
     ],
+    "name:ces_x_preferred":[
+        "Nikinci"
+    ],
     "name:eng_x_preferred":[
         "Nikinci"
     ],
     "name:epo_x_preferred":[
         "Nikinci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc\u0646\u062a\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
         "Nikinci"
@@ -45,6 +51,9 @@
         "Nikinci"
     ],
     "name:nld_x_preferred":[
+        "Nikinci"
+    ],
+    "name:pol_x_preferred":[
         "Nikinci"
     ],
     "name:slv_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890477643,
-    "wof:lastmodified":1566612526,
+    "wof:lastmodified":1690858600,
     "wof:name":"Nikinci",
     "wof:parent_id":1108810059,
     "wof:placetype":"locality",

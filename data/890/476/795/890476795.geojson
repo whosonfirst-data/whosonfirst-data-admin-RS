@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Kupinik"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u06cc\u0646\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Kupinik"
     ],
@@ -38,6 +41,9 @@
         "Kupinik"
     ],
     "name:nld_x_preferred":[
+        "Kupinik"
+    ],
+    "name:pol_x_preferred":[
         "Kupinik"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890476795,
-    "wof:lastmodified":1566612511,
+    "wof:lastmodified":1690858575,
     "wof:name":"Kupinik",
     "wof:parent_id":1108810031,
     "wof:placetype":"locality",

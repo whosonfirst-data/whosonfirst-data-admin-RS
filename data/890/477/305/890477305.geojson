@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Mokrin"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0631\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Mokrin"
     ],
@@ -40,6 +43,9 @@
     "name:nld_x_preferred":[
         "Mokrin"
     ],
+    "name:pol_x_preferred":[
+        "Mokrin"
+    ],
     "name:ron_x_preferred":[
         "Mokrin"
     ],
@@ -47,6 +53,9 @@
         "\u041c\u043e\u043a\u0440\u0438\u043d"
     ],
     "name:slv_x_preferred":[
+        "Mokrin"
+    ],
+    "name:spa_x_preferred":[
         "Mokrin"
     ],
     "name:srp_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u0440\u0456\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u514b\u6797"
     ],
     "qs:name":"Mokrin",
     "qs:photos_9r":0,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":890477305,
-    "wof:lastmodified":1566612551,
+    "wof:lastmodified":1690858633,
     "wof:name":"Mokrin",
     "wof:parent_id":1108809913,
     "wof:placetype":"locality",

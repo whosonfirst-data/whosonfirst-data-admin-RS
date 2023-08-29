@@ -25,8 +25,14 @@
     "name:eng_x_preferred":[
         "Zasavica I"
     ],
+    "name:eng_x_variant":[
+        "Zasavica"
+    ],
     "name:epo_x_preferred":[
         "Gornja Zasavica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0633\u0627\u0648\u06cc\u062a\u0633\u0627 \u0627\u06cc"
     ],
     "name:fra_x_preferred":[
         "Zasavica"
@@ -34,23 +40,47 @@
     "name:hrv_x_preferred":[
         "Zasavica I"
     ],
+    "name:hrv_x_variant":[
+        "Zasavica"
+    ],
     "name:hun_x_preferred":[
         "Zasavica I"
+    ],
+    "name:hun_x_variant":[
+        "Zasavica"
     ],
     "name:msa_x_preferred":[
         "Zasavica I"
     ],
+    "name:msa_x_variant":[
+        "Zasavica"
+    ],
     "name:nld_x_preferred":[
         "Zasavica I"
+    ],
+    "name:nld_x_variant":[
+        "Zasavica"
+    ],
+    "name:pol_x_preferred":[
+        "Zasavica"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430 I"
     ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430"
+    ],
     "name:slv_x_preferred":[
         "Zasavica I"
     ],
+    "name:slv_x_variant":[
+        "Zasavica"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430 I"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0441\u0430\u0432\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
         "Gornja Zasavica I"
@@ -88,7 +118,7 @@
         }
     ],
     "wof:id":890477477,
-    "wof:lastmodified":1566612529,
+    "wof:lastmodified":1690858602,
     "wof:name":"Zasavica Prva",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Putnikovo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0646\u06cc\u06a9\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Putnikovo"
     ],
@@ -38,6 +41,9 @@
         "Putnikovo"
     ],
     "name:nld_x_preferred":[
+        "Putnikovo"
+    ],
+    "name:pol_x_preferred":[
         "Putnikovo"
     ],
     "name:ron_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890477783,
-    "wof:lastmodified":1566612544,
+    "wof:lastmodified":1690858624,
     "wof:name":"Putnikovo",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

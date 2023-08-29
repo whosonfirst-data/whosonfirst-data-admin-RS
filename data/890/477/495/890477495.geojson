@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u0627 \u0643\u0648\u0641\u064a\u0644\u064a\u0627\u062a\u0634\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u064a\u0627 \u0643\u0648\u0641\u064a\u0644\u064a\u0627\u062a\u0634\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u044f \u041a\u043e\u0432\u0438\u043b\u044f\u0447\u0430"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Banja Kovilja\u010da"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e0\u05d9\u05d4 \u05e7\u05d5\u05d5\u05d9\u05dc\u05d9\u05d0\u05e6'\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Banja Kovilja\u010da"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":890477495,
-    "wof:lastmodified":1566612560,
+    "wof:lastmodified":1690858649,
     "wof:name":"Banja Kovilja\u010da",
     "wof:parent_id":1108809961,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Stepojevac"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u067e\u0648\u06cc\u0648\u0627\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Stepojevac"
     ],
@@ -35,10 +38,16 @@
     "name:nld_x_preferred":[
         "Stepojevac"
     ],
+    "name:pol_x_preferred":[
+        "Stepojevac"
+    ],
     "name:por_x_preferred":[
         "Stepojevac"
     ],
     "name:slv_x_preferred":[
+        "Stepojevac"
+    ],
+    "name:spa_x_preferred":[
         "Stepojevac"
     ],
     "name:srp_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890477455,
-    "wof:lastmodified":1566612535,
+    "wof:lastmodified":1690858612,
     "wof:name":"Stepojevac",
     "wof:parent_id":1108809951,
     "wof:placetype":"locality",
