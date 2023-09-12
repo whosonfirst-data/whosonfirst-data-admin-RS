@@ -24,6 +24,9 @@
     "itu:country_code":[
         "381"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "RS"
     ],
@@ -1212,7 +1215,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"7959e1b12549d33fd6cb6091d2f49771",
+    "wof:geomhash":"7752252c6f87684d7561de7e90fbf417",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1231,7 +1234,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858527,
+    "wof:lastmodified":1694492241,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
