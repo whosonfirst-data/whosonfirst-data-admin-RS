@@ -33,6 +33,9 @@
     "label:eng_x_preferred_shortcode":[
         "ZC"
     ],
+    "label:eng_x_variant_longname":[
+        "Zapadnoba\u010dki Upravni Okrug"
+    ],
     "lbl:latitude":45.710877,
     "lbl:longitude":19.205894,
     "lbl:min_zoom":8.0,
@@ -44,6 +47,9 @@
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Zapadnoba\u010dki upravni"
+    ],
+    "name:eng_x_variant":[
+        "Zapadnoba\u010dki upravni okrug"
     ],
     "name:fra_x_preferred":[
         "Ba\u010dka occidentale"
@@ -102,7 +108,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1694639831,
     "wof:name":"Zapadnoba\u010dki upravni",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
