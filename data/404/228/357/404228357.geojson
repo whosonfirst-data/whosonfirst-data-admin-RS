@@ -19,10 +19,16 @@
     "geom:latitude":43.76841,
     "geom:longitude":21.075447,
     "iso:country":"RS",
+    "label:eng_x_preferred_longname":[
+        "Central Serbia Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":3.0,
     "name:ara_x_preferred":[
         "\u0635\u0631\u0628\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
@@ -171,7 +177,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351375,
+    "wof:lastmodified":1694493048,
     "wof:name":"Central Serbia",
     "wof:parent_id":85633755,
     "wof:placetype":"macroregion",

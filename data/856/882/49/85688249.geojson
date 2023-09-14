@@ -25,10 +25,16 @@
     "geom:longitude":19.211806,
     "iso:country":"RS",
     "label:eng_x_preferred_longname":[
-        "Zapadnoba\u010dki Upravni Okrug"
+        "Zapadnoba\u010dki upravni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "ZC"
+    ],
+    "label:eng_x_variant_longname":[
+        "Zapadnoba\u010dki Upravni Okrug"
     ],
     "lbl:latitude":45.710877,
     "lbl:longitude":19.205894,
@@ -36,9 +42,15 @@
     "mps:latitude":45.710877,
     "mps:longitude":19.205894,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Zapadnoba\u010dki upravni"
+    ],
+    "name:eng_x_variant":[
+        "Zapadnoba\u010dki upravni okrug"
+    ],
     "name:fra_x_preferred":[
         "Ba\u010dka occidentale"
     ],
@@ -96,8 +108,8 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
-    "wof:name":"Zapadnoba\u010dki upravni okrug",
+    "wof:lastmodified":1694639831,
+    "wof:name":"Zapadnoba\u010dki upravni",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
     "wof:population":165106,
