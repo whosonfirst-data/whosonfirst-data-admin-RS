@@ -332,8 +332,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS1",
+        "iso:code":"RS-VO",
         "wd:id":"Q44749"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"RS",
     "wof:geomhash":"b7f02baa26cb46036a9de3fe27834a17",
     "wof:hierarchy":[
@@ -355,7 +357,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1694493066,
+    "wof:lastmodified":1695884171,
     "wof:name":"Vojvodina",
     "wof:parent_id":85633755,
     "wof:placetype":"macroregion",
