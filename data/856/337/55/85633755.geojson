@@ -1192,6 +1192,7 @@
         "hasc:id":"RS",
         "icao:code":"YU",
         "ioc:id":"SRB",
+        "iso:code":"RS",
         "itu:id":"SRB",
         "loc:id":"n85195919",
         "m49:code":"688",
@@ -1206,6 +1207,7 @@
         "wk:page":"Serbia",
         "wmo:id":"YG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"RS",
     "wof:country_alpha3":"SRB",
     "wof:created":1652212540,
@@ -1234,7 +1236,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1694492241,
+    "wof:lastmodified":1695881354,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
