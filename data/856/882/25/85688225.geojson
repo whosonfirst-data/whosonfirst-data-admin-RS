@@ -97,9 +97,15 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS214",
         "hasc:id":"RS.MR",
+        "iso:code":"RS-17",
         "iso:id":"RS-17",
+        "qs:local_id":"011",
         "unlc:id":"RS-17"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -125,7 +131,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1695885315,
     "wof:name":"Moravi\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

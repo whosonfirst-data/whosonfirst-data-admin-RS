@@ -329,15 +329,21 @@
         "gn:id":7581582,
         "gp:id":29389206,
         "hasc:id":"RS.BO",
+        "iso:code":"RS-14",
         "iso:id":"RS-14",
+        "qs:local_id":"008",
         "unlc:id":"RS-14",
         "wd:id":"Q477586"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94f1ee9fe4ff406bb1993dab5927c7d5",
+    "wof:geomhash":"76f8bae47deb35afadb43437c2ab1429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -358,7 +364,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858528,
+    "wof:lastmodified":1695885316,
     "wof:name":"Borski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

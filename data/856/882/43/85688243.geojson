@@ -255,15 +255,21 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS216",
         "hasc:id":"RS.RN",
+        "iso:code":"RS-19",
         "iso:id":"RS-19",
+        "qs:local_id":"013",
         "unlc:id":"RS-19",
         "wd:id":"Q1043446"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ab215cce08aa60b07d709df5959ce35",
+    "wof:geomhash":"3ce07b3f0275350926914f52a7ee3779",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +290,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858530,
+    "wof:lastmodified":1695885315,
     "wof:name":"Rasinski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -264,15 +264,21 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS211",
         "hasc:id":"RS.ZL",
+        "iso:code":"RS-16",
         "iso:id":"RS-16",
+        "qs:local_id":"010",
         "unlc:id":"RS-16",
         "wd:id":"Q478278"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef06d2ae627840bb576f2716d42e24f3",
+    "wof:geomhash":"e733ab35b00de3219d67c8dec1e41352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -293,7 +299,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858531,
+    "wof:lastmodified":1695885315,
     "wof:name":"Zlatiborski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -329,15 +329,21 @@
         "gn:id":7581795,
         "gp:id":29389208,
         "hasc:id":"RS.JA",
+        "iso:code":"RS-23",
         "iso:id":"RS-23",
+        "qs:local_id":"017",
         "unlc:id":"RS-23",
         "wd:id":"Q876541"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7619746948b24cfc3b78e7f560a3daf2",
+    "wof:geomhash":"b1cccc45dd0e16a8cdc1100fc1eb4454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -358,7 +364,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858527,
+    "wof:lastmodified":1695885316,
     "wof:name":"Jablani\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -345,14 +345,20 @@
         "gn:id":7581796,
         "gp:id":29389212,
         "hasc:id":"RS.JC",
+        "iso:code":"RS-06",
         "iso:id":"RS-06",
+        "qs:local_id":"106",
         "wd:id":"Q648718"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a78863f81c9dc76d8dde96e682ab4fc0",
+    "wof:geomhash":"cc5c716a0406592751d6b5ae314c9cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -373,7 +379,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858529,
+    "wof:lastmodified":1695885315,
     "wof:name":"Ju\u017enoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

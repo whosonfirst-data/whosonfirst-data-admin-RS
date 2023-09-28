@@ -323,15 +323,21 @@
         "gn:id":7581801,
         "gp:id":29389223,
         "hasc:id":"RS.NS",
+        "iso:code":"RS-20",
         "iso:id":"RS-20",
+        "qs:local_id":"014",
         "unlc:id":"RS-20",
         "wd:id":"Q1061076"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25f15655bffe002df0854c3ebfc74b2a",
+    "wof:geomhash":"ee8fa4dcffc16157c26a179fc7f3e6a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,7 +358,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858532,
+    "wof:lastmodified":1695885315,
     "wof:name":"Ni\u0161avski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

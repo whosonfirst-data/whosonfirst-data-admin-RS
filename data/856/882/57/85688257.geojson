@@ -329,15 +329,21 @@
         "gn:id":7581905,
         "gp:id":29389203,
         "hasc:id":"RS.SN",
+        "iso:code":"RS-03",
         "iso:id":"RS-03",
+        "qs:local_id":"103",
         "unlc:id":"RS-03",
         "wd:id":"Q728041"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffc1499319a87addda2e2cbebead36c0",
+    "wof:geomhash":"2951be4051007a2db1301ae64f9d3c40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -358,7 +364,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858529,
+    "wof:lastmodified":1695885315,
     "wof:name":"Severnobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

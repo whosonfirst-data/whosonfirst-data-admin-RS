@@ -327,15 +327,21 @@
         "gn:id":7581794,
         "gp:id":29389198,
         "hasc:id":"RS.BR",
+        "iso:code":"RS-11",
         "iso:id":"RS-11",
+        "qs:local_id":"005",
         "unlc:id":"RS-11",
         "wd:id":"Q861539"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1cd35e73200f7dde061799e58a7af96a",
+    "wof:geomhash":"16fb461e92d92be411c81df292239ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,7 +362,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858530,
+    "wof:lastmodified":1695885315,
     "wof:name":"Brani\u010devski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",
