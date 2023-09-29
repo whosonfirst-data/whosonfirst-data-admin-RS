@@ -163,9 +163,15 @@
         "gn:id":7581797,
         "gp:id":29389222,
         "hasc:id":"RS.JN",
+        "iso:code":"RS-04",
         "iso:id":"RS-04",
+        "qs:local_id":"104",
         "unlc:id":"RS-04"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -191,7 +197,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1695885316,
     "wof:name":"Ju\u017enobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

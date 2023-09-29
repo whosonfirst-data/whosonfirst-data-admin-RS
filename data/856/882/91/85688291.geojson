@@ -263,15 +263,21 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS127",
         "hasc:id":"RS.SM",
+        "iso:code":"RS-07",
         "iso:id":"RS-07",
+        "qs:local_id":"107",
         "unlc:id":"RS-07",
         "wd:id":"Q217331"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bdbb43bb8a81bae45f9ff70b190224f5",
+    "wof:geomhash":"8439ffacdc2d69c9a00b2d3635fb0434",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +298,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858531,
+    "wof:lastmodified":1695885315,
     "wof:name":"Sremski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

@@ -161,9 +161,15 @@
         "gn:id":7581799,
         "gp:id":29389202,
         "hasc:id":"RS.MA",
+        "iso:code":"RS-08",
         "iso:id":"RS-08",
+        "qs:local_id":"002",
         "unlc:id":"RS-08"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +195,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1695885316,
     "wof:name":"Ma\u010dvanski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

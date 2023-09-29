@@ -255,15 +255,21 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS215",
         "hasc:id":"RS.PM",
+        "iso:code":"RS-13",
         "iso:id":"RS-13",
+        "qs:local_id":"007",
         "unlc:id":"RS-13",
         "wd:id":"Q867816"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67f7a16488eb019b02294fa8593ea783",
+    "wof:geomhash":"e19619f43b8a38b8a57069b547a44c47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +290,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858528,
+    "wof:lastmodified":1695885316,
     "wof:name":"Pomoravski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

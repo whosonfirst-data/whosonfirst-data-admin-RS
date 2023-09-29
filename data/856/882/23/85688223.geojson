@@ -161,9 +161,15 @@
         "gn:id":7581802,
         "gp:id":29389215,
         "hasc:id":"RS.PC",
+        "iso:code":"RS-24",
         "iso:id":"RS-24",
+        "qs:local_id":"018",
         "unlc:id":"RS-24"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +195,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1695885315,
     "wof:name":"P\u010dinjski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

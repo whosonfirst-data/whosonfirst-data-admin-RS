@@ -322,15 +322,21 @@
         "gn:id":7581798,
         "gp:id":29389220,
         "hasc:id":"RS.KB",
+        "iso:code":"RS-09",
         "iso:id":"RS-09",
+        "qs:local_id":"003",
         "unlc:id":"RS-09",
         "wd:id":"Q1048139"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff0849a9eab89511ad4319a28d8827f6",
+    "wof:geomhash":"a58d9a41a2735c753442729564d3a88e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +357,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858528,
+    "wof:lastmodified":1695885316,
     "wof:name":"Kolubarski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -161,9 +161,15 @@
         "gn:id":7581910,
         "gp:id":29389213,
         "hasc:id":"RS.ZJ",
+        "iso:code":"RS-15",
         "iso:id":"RS-15",
+        "qs:local_id":"009",
         "unlc:id":"RS-15"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +195,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1695885315,
     "wof:name":"Zaje\u010darski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

@@ -161,9 +161,15 @@
         "gn:id":7581807,
         "gp:id":29389224,
         "hasc:id":"RS.RS",
+        "iso:code":"RS-18",
         "iso:id":"RS-18",
+        "qs:local_id":"012",
         "unlc:id":"RS-18"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -189,7 +195,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1695885315,
     "wof:name":"Ra\u0161ki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

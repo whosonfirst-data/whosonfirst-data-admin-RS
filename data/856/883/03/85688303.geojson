@@ -246,15 +246,21 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS226",
         "hasc:id":"RS.PI",
+        "iso:code":"RS-22",
         "iso:id":"RS-22",
+        "qs:local_id":"016",
         "unlc:id":"RS-22",
         "wd:id":"Q580069"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52c34702392e4341311d732fd62e6ee2",
+    "wof:geomhash":"12d3f42284c4e46ea99f4ba13ceb860c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,7 +281,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858527,
+    "wof:lastmodified":1695885316,
     "wof:name":"Pirotski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

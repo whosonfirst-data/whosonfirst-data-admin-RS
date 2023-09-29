@@ -338,15 +338,21 @@
         "gn:id":7581808,
         "gp:id":29389196,
         "hasc:id":"RS.SC",
+        "iso:code":"RS-01",
         "iso:id":"RS-01",
+        "qs:local_id":"101",
         "unlc:id":"RS-01",
         "wd:id":"Q648758"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3e9bf85cf163812e7ae30cea06cce76",
+    "wof:geomhash":"7e63145e1b5fcf710a5b473d2186bb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -367,7 +373,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858530,
+    "wof:lastmodified":1695885315,
     "wof:name":"Severnoba\u010dki upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",

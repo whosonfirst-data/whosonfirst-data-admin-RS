@@ -253,15 +253,21 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS229",
         "hasc:id":"RS.TO",
+        "iso:code":"RS-21",
         "iso:id":"RS-21",
+        "qs:local_id":"015",
         "unlc:id":"RS-21",
         "wd:id":"Q1048184"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0dc8392c6a0e6289941c813591660a3",
+    "wof:geomhash":"6f77b98d3e0d578c8f0aa215b844c817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +288,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858529,
+    "wof:lastmodified":1695885315,
     "wof:name":"Topli\u010dki upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

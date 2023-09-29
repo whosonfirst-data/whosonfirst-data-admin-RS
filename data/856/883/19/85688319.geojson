@@ -159,9 +159,15 @@
         "gn:id":7581908,
         "gp:id":29389225,
         "hasc:id":"RS.SU",
+        "iso:code":"RS-12",
         "iso:id":"RS-12",
+        "qs:local_id":"006",
         "unlc:id":"RS-12"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -187,7 +193,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1695885316,
     "wof:name":"\u0160umadijski upravni okrug",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

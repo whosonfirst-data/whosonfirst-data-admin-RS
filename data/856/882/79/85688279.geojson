@@ -230,15 +230,21 @@
         "gn:id":8199669,
         "gp:id":29389217,
         "hasc:id":"RS.BG",
+        "iso:code":"RS-00",
         "iso:id":"RS-00",
+        "qs:local_id":"001",
         "unlc:id":"RS-00",
         "wd:id":"Q2074197"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eafd166bfddf4c8543e93dd3cd8a0f3f",
+    "wof:geomhash":"51dc44f47520819893e39393693c9a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -259,7 +265,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858531,
+    "wof:lastmodified":1695885315,
     "wof:name":"Grad Beograd",
     "wof:parent_id":404228357,
     "wof:placetype":"region",

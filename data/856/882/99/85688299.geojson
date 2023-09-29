@@ -268,14 +268,20 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"RS126",
         "hasc:id":"RS.SD",
+        "iso:code":"RS-02",
         "iso:id":"RS-02",
+        "qs:local_id":"102",
         "wd:id":"Q425782"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"RS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70faf0ad897be69be98540b846a0f7cf",
+    "wof:geomhash":"ac79455c82ad68215205f173c9306fff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -296,7 +302,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1690858531,
+    "wof:lastmodified":1695885315,
     "wof:name":"Srednjobanatski upravni okrug",
     "wof:parent_id":404227537,
     "wof:placetype":"region",
