@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":791906
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            851965
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"f3fe3be23de46b2a47a65b7a02987f36",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259798307,
-    "wof:lastmodified":1566612703,
+    "wof:lastmodified":1706240629,
     "wof:name":"Citluk",
     "wof:parent_id":1108810079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293210329
+    ],
     "wof:tags":[]
 },
   "bbox": [

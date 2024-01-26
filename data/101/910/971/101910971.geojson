@@ -11,6 +11,7 @@
     "geom:longitude":20.965703,
     "gn:population":3803,
     "iso:country":"RS",
+    "lbl:bbox":"20.947407,45.061036,20.987407,45.101036",
     "lbl:latitude":45.081356,
     "lbl:longitude":20.965966,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648\u0646\u0627\u0631"
     ],
@@ -128,6 +130,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Alibunar",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhni Banat",
+    "qs_pg:photos":37,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":37,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327069,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":532398,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -135,6 +152,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":527,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhni Banat",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688321,
         102191581,
@@ -151,7 +172,15 @@
         "wk:page":"Alibunar"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1327069
+        "gp:id":[
+            532398
+        ],
+        "qs_pg:id":[
+            1327069
+        ],
+        "wd:id":[
+            "Q648863"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -169,7 +198,7 @@
         }
     ],
     "wof:id":101910971,
-    "wof:lastmodified":1690858549,
+    "wof:lastmodified":1706240625,
     "wof:name":"Alibunar",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",
@@ -177,7 +206,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125772701
+    ],
     "wof:tags":[]
 },
   "bbox": [

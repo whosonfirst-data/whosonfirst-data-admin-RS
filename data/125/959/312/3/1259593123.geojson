@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":786402
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            835223
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"d40d4b0bffbd9db7c42bccdf43f8dbf2",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1259593123,
-    "wof:lastmodified":1566612717,
+    "wof:lastmodified":1706240629,
     "wof:name":"Ravni Del",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276991021
+    ],
     "wof:tags":[]
 },
   "bbox": [

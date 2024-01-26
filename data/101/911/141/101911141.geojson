@@ -10,6 +10,7 @@
     "geom:latitude":43.01598,
     "geom:longitude":22.778771,
     "iso:country":"RS",
+    "lbl:bbox":"22.752663,42.993994,22.792663,43.033994",
     "lbl:latitude":43.015506,
     "lbl:longitude":22.779737,
     "lbl:max_zoom":18.0,
@@ -19,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0645\u064a\u062a\u0631\u0648\u0641\u063a\u0631\u0627\u062f"
     ],
@@ -145,10 +147,29 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Dimitrovgrad",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Pirot",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327073,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":533360,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":730,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Pirot",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688303,
         102191581,
@@ -164,6 +185,17 @@
         "wd:id":"Q747470",
         "wk:page":"Dimitrovgrad, Serbia"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            533360
+        ],
+        "qs_pg:id":[
+            1327073
+        ],
+        "wd:id":[
+            "Q747470"
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"1ee920f97f950f3695a43ba8cc4f6b21",
     "wof:hierarchy":[
@@ -177,13 +209,15 @@
         }
     ],
     "wof:id":101911141,
-    "wof:lastmodified":1690858547,
+    "wof:lastmodified":1706240626,
     "wof:name":"Dimitrovgrad",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125865361
+    ],
     "wof:tags":[]
 },
   "bbox": [

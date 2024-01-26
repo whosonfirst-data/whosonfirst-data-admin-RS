@@ -51,6 +51,9 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u0431\u043e\u0432\u0438\u043a"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0431\u043e\u0432\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688335,
@@ -63,6 +66,11 @@
     "wof:concordances":{
         "gn:id":3319183,
         "wk:page":"Bobovik"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3203873
+        ]
     },
     "wof:country":"RS",
     "wof:geomhash":"f54f02fb80e6f6022b44cf5c56ad6c8d",
@@ -77,13 +85,15 @@
         }
     ],
     "wof:id":1259501955,
-    "wof:lastmodified":1566612712,
+    "wof:lastmodified":1706240629,
     "wof:name":"Bobovik",
     "wof:parent_id":1108810137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326944765
+    ],
     "wof:tags":[]
 },
   "bbox": [

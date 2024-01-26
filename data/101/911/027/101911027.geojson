@@ -12,6 +12,7 @@
     "gn:elevation":217,
     "gn:population":25000,
     "iso:country":"RS",
+    "lbl:bbox":"22.23695,43.548451,22.27695,43.588451",
     "lbl:latitude":43.566538,
     "lbl:longitude":22.252505,
     "lbl:max_zoom":14.0,
@@ -21,6 +22,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u043d\u044f\u0436\u0435\u0432\u0430\u0446"
     ],
@@ -78,6 +80,9 @@
     "name:pol_x_preferred":[
         "Knja\u017eevac"
     ],
+    "name:pol_x_variant":[
+        "Knja\u017eevac"
+    ],
     "name:por_x_preferred":[
         "Knja\u017eevac"
     ],
@@ -120,11 +125,30 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Knja\u017eevac",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Zajechar",
+    "qs_pg:photos":237,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":237,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":534609,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":584,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Zajechar",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688277,
         102191581,
@@ -140,6 +164,17 @@
         "wd:id":"Q1011275",
         "wk:page":"Knja\u017eevac"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            534609
+        ],
+        "qs_pg:id":[
+            1078935
+        ],
+        "wd:id":[
+            "Q1011275"
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"b22aacc5cc4df114d6e8aac542049ff4",
     "wof:hierarchy":[
@@ -153,7 +188,7 @@
         }
     ],
     "wof:id":101911027,
-    "wof:lastmodified":1690858545,
+    "wof:lastmodified":1706240625,
     "wof:name":"Knja\u017eevac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",
@@ -161,7 +196,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125779937
+    ],
     "wof:tags":[]
 },
   "bbox": [

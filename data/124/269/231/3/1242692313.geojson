@@ -10,6 +10,7 @@
     "geom:latitude":43.57891,
     "geom:longitude":19.38638,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"16",
     "gn:asciiname":"Zivinice",
     "gn:country_code":"RS",
     "gn:dem":684,
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3186424
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3297870
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"857109ce2644f14f52c61bcd75d40a64",
     "wof:hierarchy":[
@@ -60,13 +66,15 @@
         }
     ],
     "wof:id":1242692313,
-    "wof:lastmodified":1566612615,
+    "wof:lastmodified":1706240629,
     "wof:name":"Zivinice",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276453401
+    ],
     "wof:tags":[]
 },
   "bbox": [

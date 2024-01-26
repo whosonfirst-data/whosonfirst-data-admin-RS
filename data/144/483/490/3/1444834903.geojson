@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.5081626807,44.7415639026,20.5081626807,44.7415639026",
+    "geom:bbox":"20.508163,44.741564,20.508163,44.741564",
     "geom:latitude":44.741564,
     "geom:longitude":20.508163,
     "iso:country":"RS",
@@ -15,7 +17,7 @@
     "lbl:longitude":20.508163,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -48,7 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"4033dcd01385d6ced7d32bba508286fd",
+    "wof:geomhash":"7ea76a6797959a00b4ab9ce92a7e04a3",
     "wof:hierarchy":[
         {
             "borough_id":1393843427,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1444834903,
-    "wof:lastmodified":1566612222,
+    "wof:lastmodified":1706240630,
     "wof:name":"Kumodraz",
     "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    20.50816268071839,
-    44.74156390257392,
-    20.50816268071839,
-    44.74156390257392
+    20.508163,
+    44.741564,
+    20.508163,
+    44.741564
 ],
-  "geometry": {"coordinates":[20.50816268071839,44.74156390257392],"type":"Point"}
+  "geometry": {"coordinates":[20.508163,44.741564],"type":"Point"}
 }

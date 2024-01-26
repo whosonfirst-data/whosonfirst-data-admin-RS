@@ -11,6 +11,7 @@
     "geom:longitude":19.938536,
     "gn:population":8839,
     "iso:country":"RS",
+    "lbl:bbox":"19.914778,45.181755,19.954778,45.221755",
     "lbl:latitude":45.201476,
     "lbl:longitude":19.93881,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bak_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u043a\u0438-\u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0438"
     ],
@@ -161,6 +163,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0456 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0456 \u041a\u0430\u0440\u043b\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Karom"
     ],
@@ -179,6 +184,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Sremski Karlovci",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhna Bachka",
+    "qs_pg:photos":314,
+    "qs_pg:photos_1k":64,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":314,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078946,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536822,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -186,6 +206,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1424,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhna Bachka",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688295,
         102191581,
@@ -200,6 +224,17 @@
         "qs_pg:id":94993,
         "wd:id":"Q271922",
         "wk:page":"Sremski Karlovci"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            536822
+        ],
+        "qs_pg:id":[
+            1078946
+        ],
+        "wd:id":[
+            "Q271922"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -217,7 +252,7 @@
         }
     ],
     "wof:id":101910927,
-    "wof:lastmodified":1690858551,
+    "wof:lastmodified":1706240624,
     "wof:name":"Sremski Karlovci",
     "wof:parent_id":1108810091,
     "wof:placetype":"locality",
@@ -225,7 +260,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125780061
+    ],
     "wof:tags":[]
 },
   "bbox": [

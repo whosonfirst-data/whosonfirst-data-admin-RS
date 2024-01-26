@@ -11,6 +11,7 @@
     "geom:longitude":22.272234,
     "gn:population":49800,
     "iso:country":"RS",
+    "lbl:bbox":"22.253149,43.882801,22.293149,43.922801",
     "lbl:latitude":43.90505,
     "lbl:longitude":22.270296,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0632\u0627\u064a\u064a\u062a\u0634\u0627\u0631"
     ],
@@ -194,6 +196,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Zaje\u010dar",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Zajechar",
+    "qs_pg:photos":166,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":166,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":537685,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -201,6 +218,10 @@
     "wd:latitude":43.904167,
     "wd:longitude":22.284722,
     "wd:wordcount":1533,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Zajechar",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688277,
         102191581,
@@ -216,6 +237,14 @@
         "wd:id":"Q144495",
         "wk:page":"Zaje\u010dar"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            537685
+        ],
+        "qs_pg:id":[
+            233933
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"8502f113676cc9e8a046d67f9b4e5162",
     "wof:hierarchy":[
@@ -229,7 +258,7 @@
         }
     ],
     "wof:id":101912527,
-    "wof:lastmodified":1690858539,
+    "wof:lastmodified":1706240627,
     "wof:name":"Zaje\u010dar",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",
@@ -237,7 +266,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125971517
+    ],
     "wof:tags":[]
 },
   "bbox": [

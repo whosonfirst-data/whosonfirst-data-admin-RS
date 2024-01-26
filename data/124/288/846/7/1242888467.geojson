@@ -51,6 +51,9 @@
     "name:srp_x_preferred":[
         "\u0412\u0440\u0430\u043d\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -61,7 +64,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3319100
+        "gn:id":3319100,
+        "wk:page":"Vrane"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3303416
+        ]
     },
     "wof:country":"RS",
     "wof:geomhash":"e90ac87ff4eb9e8af90fc53fd63af75a",
@@ -76,13 +85,15 @@
         }
     ],
     "wof:id":1242888467,
-    "wof:lastmodified":1566612596,
+    "wof:lastmodified":1706240629,
     "wof:name":"Vrane",
     "wof:parent_id":1108810123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343473503
+    ],
     "wof:tags":[]
 },
   "bbox": [

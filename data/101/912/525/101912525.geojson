@@ -11,6 +11,7 @@
     "geom:longitude":20.353957,
     "gn:population":117072,
     "iso:country":"RS",
+    "lbl:bbox":"20.324553,43.867825,20.364553,43.907825",
     "lbl:latitude":43.887141,
     "lbl:longitude":20.349967,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "\u010ca\u010dak"
     ],
@@ -218,6 +220,9 @@
     "name:nob_x_preferred":[
         "\u010ca\u010dak"
     ],
+    "name:nor_x_preferred":[
+        "\u010ca\u010dak"
+    ],
     "name:oss_x_preferred":[
         "\u0427\u0430\u0447\u0430\u043a"
     ],
@@ -329,11 +334,30 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"\u010ca\u010dak",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Moravica",
+    "qs_pg:photos":595,
+    "qs_pg:photos_1k":121,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":595,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078931,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":533088,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2665,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Moravica",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688225,
         102191581,
@@ -349,6 +373,14 @@
         "wd:id":"Q208038",
         "wk:page":"\u010ca\u010dak"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            533088
+        ],
+        "qs_pg:id":[
+            1078931
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"6676428364d17b05f55ff4ff04b761b1",
     "wof:hierarchy":[
@@ -362,7 +394,7 @@
         }
     ],
     "wof:id":101912525,
-    "wof:lastmodified":1690858541,
+    "wof:lastmodified":1706240626,
     "wof:name":"\u010ca\u010dak",
     "wof:parent_id":1108809867,
     "wof:placetype":"locality",
@@ -370,7 +402,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125779901
+    ],
     "wof:tags":[]
 },
   "bbox": [

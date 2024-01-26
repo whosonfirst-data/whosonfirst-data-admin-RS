@@ -11,6 +11,7 @@
     "geom:longitude":20.659901,
     "gn:population":76654,
     "iso:country":"RS",
+    "lbl:bbox":"20.626797,44.853457,20.666797,44.893457",
     "lbl:latitude":44.868287,
     "lbl:longitude":20.656639,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062a\u0634\u064a\u0641\u0648"
     ],
@@ -168,6 +170,9 @@
     "name:nob_x_preferred":[
         "Pan\u010devo"
     ],
+    "name:nor_x_preferred":[
+        "Pan\u010devo"
+    ],
     "name:oss_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
@@ -261,11 +266,30 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Pan\u010devo",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhni Banat",
+    "qs_pg:photos":1600,
+    "qs_pg:photos_1k":324,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1600,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078941,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535844,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1199,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhni Banat",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688321,
         102191581,
@@ -281,6 +305,14 @@
         "wd:id":"Q205432",
         "wk:page":"Pan\u010devo"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            535844
+        ],
+        "qs_pg:id":[
+            1078941
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"709e533d1d6b25d59e43b28d7ac062d0",
     "wof:hierarchy":[
@@ -294,7 +326,7 @@
         }
     ],
     "wof:id":101912533,
-    "wof:lastmodified":1690858537,
+    "wof:lastmodified":1706240627,
     "wof:name":"Pan\u010devo",
     "wof:parent_id":1108810019,
     "wof:placetype":"locality",
@@ -302,7 +334,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125779991
+    ],
     "wof:tags":[]
 },
   "bbox": [

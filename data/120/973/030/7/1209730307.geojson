@@ -78,6 +78,11 @@
     "wof:concordances":{
         "gn:id":791059
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            846885
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"ecf594c39fa2aa348ab98b9f9dd9792c",
     "wof:hierarchy":[
@@ -91,13 +96,15 @@
         }
     ],
     "wof:id":1209730307,
-    "wof:lastmodified":1566612198,
+    "wof:lastmodified":1706240628,
     "wof:name":"Dren",
     "wof:parent_id":1108810007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243278645
+    ],
     "wof:tags":[]
 },
   "bbox": [

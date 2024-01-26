@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3305382
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3342458
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"2b1112a9d84a4bbbeb43ad7ce8088bd2",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1276773123,
-    "wof:lastmodified":1566612103,
+    "wof:lastmodified":1706240630,
     "wof:name":"Bivolice",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293400073
+    ],
     "wof:tags":[]
 },
   "bbox": [

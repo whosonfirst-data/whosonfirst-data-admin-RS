@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.73472,43.35694,19.73472,43.35694",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -43,7 +45,7 @@
         "gn:id":3342458
     },
     "wof:country":"RS",
-    "wof:geomhash":"218891d78cbed23df690df67f25ce912",
+    "wof:geomhash":"a865b2dc668182ac0d47edbdef7ddc32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1293400073,
-    "wof:lastmodified":1566611957,
+    "wof:lastmodified":1706240630,
     "wof:name":"Bivolice",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276773123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    19.73472000000001,
+    19.73472,
     43.35694,
-    19.73472000000001,
+    19.73472,
     43.35694
 ],
-  "geometry": {"coordinates":[19.73472000000001,43.35694],"type":"Point"}
+  "geometry": {"coordinates":[19.73472,43.35694],"type":"Point"}
 }

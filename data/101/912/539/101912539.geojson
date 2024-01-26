@@ -11,6 +11,7 @@
     "geom:longitude":19.6646,
     "gn:population":100000,
     "iso:country":"RS",
+    "lbl:bbox":"19.652908,46.078412,19.692908,46.118412",
     "lbl:latitude":46.097766,
     "lbl:longitude":19.670283,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u062a\u064a\u062a\u0633\u0627"
     ],
@@ -104,6 +106,9 @@
     "name:hrv_x_preferred":[
         "Subotica"
     ],
+    "name:hsb_x_preferred":[
+        "Subotica"
+    ],
     "name:hun_x_preferred":[
         "Szabadka"
     ],
@@ -136,6 +141,9 @@
     ],
     "name:lat_x_preferred":[
         "Maria-Theresiopolis"
+    ],
+    "name:lav_x_preferred":[
+        "Subotica"
     ],
     "name:lit_x_preferred":[
         "Subotica"
@@ -179,6 +187,9 @@
     "name:ron_x_preferred":[
         "Subotica"
     ],
+    "name:rue_x_preferred":[
+        "\u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430"
     ],
@@ -192,6 +203,9 @@
         "Subotica"
     ],
     "name:spa_x_preferred":[
+        "Subotica"
+    ],
+    "name:sqi_x_preferred":[
         "Subotica"
     ],
     "name:srp_x_preferred":[
@@ -338,11 +352,30 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Subotica",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Severna Bachka",
+    "qs_pg:photos":2027,
+    "qs_pg:photos_1k":411,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2027,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078947,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536981,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5050,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Severna Bachka",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688229,
         102191581,
@@ -359,6 +392,14 @@
         "wd:id":"Q1041949",
         "wk:page":"Subotica"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            536981
+        ],
+        "qs_pg:id":[
+            1078947
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"8e587b1c9d2b082df6a8f200de466562",
     "wof:hierarchy":[
@@ -372,7 +413,7 @@
         }
     ],
     "wof:id":101912539,
-    "wof:lastmodified":1690858539,
+    "wof:lastmodified":1706240627,
     "wof:name":"Subotica",
     "wof:parent_id":1108810097,
     "wof:placetype":"locality",
@@ -380,7 +421,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125780071
+    ],
     "wof:tags":[]
 },
   "bbox": [
