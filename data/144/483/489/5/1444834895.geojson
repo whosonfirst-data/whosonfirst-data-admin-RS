@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.4839679511,44.7410897339,20.4839679511,44.7410897339",
+    "geom:bbox":"20.483968,44.74109,20.483968,44.74109",
     "geom:latitude":44.74109,
     "geom:longitude":20.483968,
     "iso:country":"RS",
@@ -15,7 +17,7 @@
     "lbl:longitude":20.483968,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -45,7 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"b86341f6bd301b732500a1f6518b2653",
+    "wof:geomhash":"1a7bb6f6147a0072c32a909f59947306",
     "wof:hierarchy":[
         {
             "borough_id":1393843427,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1444834895,
-    "wof:lastmodified":1566612238,
+    "wof:lastmodified":1706240631,
     "wof:name":"Jajinci",
     "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1393843497
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    20.48396795113755,
-    44.74108973393896,
-    20.48396795113755,
-    44.74108973393896
+    20.483968,
+    44.74109,
+    20.483968,
+    44.74109
 ],
-  "geometry": {"coordinates":[20.48396795113755,44.74108973393896],"type":"Point"}
+  "geometry": {"coordinates":[20.483968,44.74109],"type":"Point"}
 }

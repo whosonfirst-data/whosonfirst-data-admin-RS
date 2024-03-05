@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Borovi\u0107e"
     ],
+    "name:und_x_variant":[
+        "Borovi\u0107i"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688255,
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":828793
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            793719
+        ]
     },
     "wof:country":"RS",
     "wof:geomhash":"761c23e90e84d62ffcbcf2a1da9899e9",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1326840583,
-    "wof:lastmodified":1566611783,
+    "wof:lastmodified":1706240630,
     "wof:name":"Borovice",
     "wof:parent_id":1108810073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360103145
+    ],
     "wof:tags":[]
 },
   "bbox": [

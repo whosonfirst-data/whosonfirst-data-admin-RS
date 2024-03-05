@@ -12,6 +12,7 @@
     "gn:elevation":119,
     "gn:population":27000,
     "iso:country":"RS",
+    "lbl:bbox":"20.94127,44.349652,20.98127,44.389652",
     "lbl:latitude":44.370321,
     "lbl:longitude":20.959061,
     "lbl:max_zoom":14.0,
@@ -21,6 +22,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Smederevska Palanka"
     ],
@@ -135,6 +137,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Smederevska Palanka",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Podunavlje",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327093,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536750,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -144,6 +161,10 @@
     "wd:latitude":44.3655,
     "wd:longitude":20.958667,
     "wd:wordcount":1082,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Podunavlje",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688267,
         102191581,
@@ -160,7 +181,15 @@
         "wk:page":"Smederevska Palanka"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1327093
+        "gp:id":[
+            536750
+        ],
+        "qs_pg:id":[
+            1327093
+        ],
+        "wd:id":[
+            "Q715716"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -178,7 +207,7 @@
         }
     ],
     "wof:id":101911029,
-    "wof:lastmodified":1690858546,
+    "wof:lastmodified":1706240626,
     "wof:name":"Smederevska Palanka",
     "wof:parent_id":1108810077,
     "wof:placetype":"locality",
@@ -186,7 +215,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125867383
+    ],
     "wof:tags":[]
 },
   "bbox": [

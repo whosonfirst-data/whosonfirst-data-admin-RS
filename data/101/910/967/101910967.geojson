@@ -11,6 +11,7 @@
     "geom:longitude":20.624216,
     "gn:population":7357,
     "iso:country":"RS",
+    "lbl:bbox":"20.599277,45.091694,20.639277,45.131694",
     "lbl:latitude":45.11147,
     "lbl:longitude":20.624216,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Kova\u010dica"
     ],
@@ -119,6 +121,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Kova\u010dica",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhni Banat",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327081,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":534733,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -126,6 +143,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":425,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhni Banat",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688321,
         102191581,
@@ -142,7 +163,15 @@
         "wk:page":"Kova\u010dica"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1327081
+        "gp:id":[
+            534733
+        ],
+        "qs_pg:id":[
+            1327081
+        ],
+        "wd:id":[
+            "Q771826"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -160,7 +189,7 @@
         }
     ],
     "wof:id":101910967,
-    "wof:lastmodified":1690858550,
+    "wof:lastmodified":1706240625,
     "wof:name":"Kova\u010dica",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",
@@ -168,7 +197,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125867341
+    ],
     "wof:tags":[]
 },
   "bbox": [

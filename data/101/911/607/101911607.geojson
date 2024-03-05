@@ -11,6 +11,7 @@
     "geom:longitude":20.236608,
     "gn:population":2979,
     "iso:country":"RS",
+    "lbl:bbox":"20.20789,44.200722,20.24789,44.240722",
     "lbl:latitude":44.228073,
     "lbl:longitude":20.238494,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0430\u0431\u0448\u0447\u044b\u043d\u0430 \u041b\u0456\u0433"
     ],
@@ -107,6 +109,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet near local_admin match geoplanet",
+    "qs_pg:name":"Ljig",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Kolubara",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327086,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535055,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -114,6 +131,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":500,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Kolubara",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688313,
         102191581,
@@ -128,6 +149,17 @@
         "qs_pg:id":553845,
         "wd:id":"Q2360583",
         "wk:page":"Ljig"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            535055
+        ],
+        "qs_pg:id":[
+            1327086
+        ],
+        "wd:id":[
+            "Q2360583"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -145,7 +177,7 @@
         }
     ],
     "wof:id":101911607,
-    "wof:lastmodified":1690858546,
+    "wof:lastmodified":1706240626,
     "wof:name":"Ljig",
     "wof:parent_id":1108809957,
     "wof:placetype":"locality",
@@ -153,7 +185,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125846853
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"22.20306,42.96111,22.20306,42.96111",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Ravni Del"
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1276991021,
-    "wof:lastmodified":1566612112,
+    "wof:lastmodified":1706240629,
     "wof:name":"Ravni Del",
     "wof:parent_id":1108810139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259593123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

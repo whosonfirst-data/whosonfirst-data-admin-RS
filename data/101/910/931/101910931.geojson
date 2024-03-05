@@ -10,6 +10,7 @@
     "geom:latitude":45.549492,
     "geom:longitude":19.79367,
     "iso:country":"RS",
+    "lbl:bbox":"19.772385,45.531231,19.812385,45.571231",
     "lbl:latitude":45.549427,
     "lbl:longitude":19.796583,
     "lbl:max_zoom":18.0,
@@ -19,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Srbobran"
     ],
@@ -127,12 +129,31 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Srbobran",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhna Bachka",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1076205,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536806,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.552222,
     "wd:longitude":19.801667,
     "wd:wordcount":1517,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhna Bachka",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688295,
         102191581,
@@ -148,6 +169,17 @@
         "wd:id":"Q259612",
         "wk:page":"Srbobran"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            536806
+        ],
+        "qs_pg:id":[
+            1076205
+        ],
+        "wd:id":[
+            "Q259612"
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"69a25f5f0b094c82dedb832b0a79e340",
     "wof:hierarchy":[
@@ -161,13 +193,15 @@
         }
     ],
     "wof:id":101910931,
-    "wof:lastmodified":1690858547,
+    "wof:lastmodified":1706240624,
     "wof:name":"Srbobran",
     "wof:parent_id":1108810085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125769557
+    ],
     "wof:tags":[]
 },
   "bbox": [

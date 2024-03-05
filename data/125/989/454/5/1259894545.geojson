@@ -70,6 +70,11 @@
         "gn:id":3216075,
         "wk:page":"Gornja_Polo%C5%A1nica"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3279731
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"ec3bcc8e6effbdb11fb1bd617158d247",
     "wof:hierarchy":[
@@ -83,13 +88,15 @@
         }
     ],
     "wof:id":1259894545,
-    "wof:lastmodified":1566612740,
+    "wof:lastmodified":1706240629,
     "wof:name":"Gornja Polosnica",
     "wof:parent_id":1108809923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293802375
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":860998
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            861785
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"d0797e20f6607a990ecb68e7067770e7",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1293310925,
-    "wof:lastmodified":1566611913,
+    "wof:lastmodified":1706240630,
     "wof:name":"Deda Krstinci",
     "wof:parent_id":1108810101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344074987
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":20.048796,
     "gn:population":10200,
     "iso:country":"RS",
+    "lbl:bbox":"20.034119,46.040009,20.074119,46.080009",
     "lbl:latitude":46.05956,
     "lbl:longitude":20.046651,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Kanji\u017ea"
     ],
@@ -144,6 +146,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Kanji\u017ea",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Severni Banat",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":65,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":977095,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":534515,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -153,6 +170,10 @@
     "wd:latitude":46.066667,
     "wd:longitude":20.05,
     "wd:wordcount":616,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Severni Banat",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688257,
         102191581,
@@ -169,7 +190,15 @@
         "wk:page":"Kanji\u017ea"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1029074
+        "gp:id":[
+            534515
+        ],
+        "qs_pg:id":[
+            977095
+        ],
+        "wd:id":[
+            "Q856309"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -187,7 +216,7 @@
         }
     ],
     "wof:id":101912447,
-    "wof:lastmodified":1690858538,
+    "wof:lastmodified":1706240626,
     "wof:name":"Kanji\u017ea",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",
@@ -195,7 +224,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126051467
+    ],
     "wof:tags":[]
 },
   "bbox": [

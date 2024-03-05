@@ -70,6 +70,11 @@
         "gn:id":3193712,
         "wk:page":"Paklje"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3279261
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"b5d729e77dbdf3b1d1c52196b57f4ef4",
     "wof:hierarchy":[
@@ -83,13 +88,15 @@
         }
     ],
     "wof:id":1293603609,
-    "wof:lastmodified":1566611982,
+    "wof:lastmodified":1706240630,
     "wof:name":"Paklje",
     "wof:parent_id":1108810127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326544709
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -67,6 +67,11 @@
         "gn:id":862696,
         "wk:page":"Tavnik"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            862697
+        ]
+    },
     "wof:country":"RS",
     "wof:geomhash":"475ba41172ebb97abba21e4a57def472",
     "wof:hierarchy":[
@@ -80,13 +85,15 @@
         }
     ],
     "wof:id":1210026283,
-    "wof:lastmodified":1566612254,
+    "wof:lastmodified":1706240628,
     "wof:name":"Tavnik",
     "wof:parent_id":1108809933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309915705
+    ],
     "wof:tags":[]
 },
   "bbox": [

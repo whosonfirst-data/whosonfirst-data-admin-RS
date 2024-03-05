@@ -11,6 +11,7 @@
     "geom:longitude":19.814644,
     "gn:population":13917,
     "iso:country":"RS",
+    "lbl:bbox":"19.853065,45.229754,19.893065,45.269754",
     "lbl:latitude":45.258046,
     "lbl:longitude":19.825562,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arz_x_preferred":[
         "\u0628\u062a\u0631\u0648\u0641\u0627\u0631\u0627\u062f\u064a\u0646"
     ],
@@ -158,6 +160,21 @@
     "qs:pop":0,
     "qs:source":"SCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Petrovaradin",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhna Bachka",
+    "qs_pg:photos":4060,
+    "qs_pg:photos_1k":823,
+    "qs_pg:photos_9k":18,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":4060,
+    "qs_pg:photos_sr":22,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060376,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535938,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -167,6 +184,10 @@
     "wd:latitude":45.25,
     "wd:longitude":19.866667,
     "wd:wordcount":1754,
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhna Bachka",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688295,
         102191581,
@@ -183,7 +204,15 @@
         "wk:page":"Petrovaradin"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1060376
+        "gp:id":[
+            535938
+        ],
+        "qs_pg:id":[
+            1060376
+        ],
+        "wd:id":[
+            "Q19429"
+        ]
     },
     "wof:country":"RS",
     "wof:geom_alt":[
@@ -201,7 +230,7 @@
         }
     ],
     "wof:id":101912623,
-    "wof:lastmodified":1690858540,
+    "wof:lastmodified":1706240627,
     "wof:name":"Petrovaradin",
     "wof:parent_id":1108810005,
     "wof:placetype":"locality",
@@ -209,7 +238,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126051457
+    ],
     "wof:tags":[]
 },
   "bbox": [

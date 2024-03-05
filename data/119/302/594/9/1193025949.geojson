@@ -54,6 +54,11 @@
     "name:srp_x_variant":[
         "\u0420\u0430\u0434\u0430\u0459\u0435\u0432\u043e"
     ],
+    "name:und_x_variant":[
+        "Donji Radaljevo",
+        "Radljevo",
+        "Radalj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688225,
@@ -66,6 +71,11 @@
     "wof:concordances":{
         "gn:id":836390,
         "wk:page":"Radaljevo"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            786620
+        ]
     },
     "wof:country":"RS",
     "wof:geomhash":"f812ac4bfc1b2dc9304ff238420016bf",
@@ -80,13 +90,15 @@
         }
     ],
     "wof:id":1193025949,
-    "wof:lastmodified":1566612274,
+    "wof:lastmodified":1706240628,
     "wof:name":"Radaljevo",
     "wof:parent_id":1108809905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260094793
+    ],
     "wof:tags":[]
 },
   "bbox": [
